@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The AlgabetBot </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        @keyframes fadeOut {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+            }
+        }
+        
+        #start-button:hover {
+            background-color: #45a049; /* Change the color on hover */
+        }
+        
+        #landing-page.hide {
+            animation: fadeOut 1s ease-in-out; /* Adjust the duration and easing as needed */
+            animation-fill-mode: forwards; /* Keep the final state of the animation */
+        }
+        
+        body {
+            background-image: url('/static/background.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin: 0; /* Remove default margin to fill the entire viewport */
+        }
+        
+        #landing-page,
+        #chat-container,
+        #designer-info {
+            display: none;
+        }
+        
+        #landing-page, #chat-container {
+            display: none;
+        }
+        
+        #landing-page {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* Set the height to fill the entire viewport */
+            text-align: center;
+        }
+        
+        #landing-logo {
+            position: relative;
+            overflow: hidden;
+        }
+        
+        #landing-logo img {
+            max-width: 50%; /* Ensure the image doesn't exceed its container */
+            height: auto; /* Maintain the image's aspect ratio */
+            margin-bottom: 10px; /* Add margin below the logo */
+        }
+        
+        #landing-title {
+            color: #000; /* Change the text color to black */
+            font-size: 24px;
+            margin-bottom: 10px; /* Adjust the margin as needed */
+        }
+        
+        #start-button {
+            padding: 10px;
+            background-color: #4caf50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        #chat-container {
+            max-width: 700px;
+            margin: 20px auto;
+            overflow: hidden;
+            background: none; /* Remove the background color */
+            box-shadow: none; /* Remove the box shadow */
+        }
+        
+        #chat-container #logo img {
+            width: 80px; /* Adjust the size as needed */
+            height: 80px; /* Adjust the size as needed */
+            margin-bottom: 10px; /* Add margin below the logo */
+        }
+        
+        #chat-messages {
+            padding: 15px;
+            overflow-y: auto;
+            height: 300px;
+            background: none; /* Remove the background color */
+        }
+        
+        #designer-info {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            padding: 10px;
+            background-color: #ccc;
+            font-size: 12px;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Landing Page -->
+    <div id="landing-page">
+        <div id="landing-logo">
+            <img src="/static/logo.gif" alt="Chatbot Logo">
+        </div>
+        <div id="landing-title">
+            <h1>The AlgabhetBot</h1>
+        </div>
+        <button id="start-button" onclick="redirectToChat()">Start</button>
+    </div>
+
+
+    <div id="chat-container" class="text-center">
+        <div id="header">
+            <h1>The AlgabhetBot</h1>
+        </div>
+    
+        <div id="logo" class="d-flex flex-column align-items-center">
+            <img src="/static/logo.png" alt="Chatbot Logo" class="mb-2">
+            <span class="mb-3">Hi, How can I help you today?</span>
+        </div>
+    
+        <div id="hints">
+            <strong>Hints:</strong>
+            <button class="btn btn-outline-secondary hint-button" onclick="sendMessage('Tell me about your services')">Search for specific keywords</button>
+            <button class="btn btn-outline-secondary hint-button" onclick="sendMessage('How do I contact support')">Type in 'Berlin'</button>
+            <!-- Add more hint buttons as needed -->
+        </div>
+    
+        <div id="chat-messages" class="text-left mt-3"></div>
+    
+        <div id="user-input" style="display: flex; align-items: center;">
+            <input type="text" id="user-message" class="form-control" placeholder="Type your message...">
+            <button id="send-button" class="btn btn-primary" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        
+
+        function redirectToChat() {
+            $('#landing-page').addClass('hide'); // Add the hide class for the fade-out animation
+            $('#chat-container').show();
+        
+            // Scroll down to the chat-container section
+            $('html, body').animate({
+                scrollTop: $('#chat-container').offset().top
+            }, 1000); // You can adjust the duration (1000ms = 1 second)
+        }
+        
+        
+        function sendMessage() {
+            var userMessage = $('#user-message').val();
+            if (userMessage.trim() !== "") {
+                addMessage('You', userMessage);
+        
+                // Send the user message to the server using AJAX
+                $.post('/send_message', { user_message: userMessage }, function(data) {
+                    console.log('Response from server:', data);
+                    
+                    // Check if the response has the expected properties
+                    if (data && data.sender && data.message) {
+                        addMessage(data.sender, data.message, data.hints);
+                        $('#user-message').val(''); // Clear the input field
+                    } else {
+                        console.error('Invalid response format from server');
+                    }
+                }).fail(function(error) {
+                    console.error('Error in AJAX request:', error);
+                });
+            }
+        }
+        
+    
+        function addMessage(sender, message, hints) {
+            var chatMessages = $('#chat-messages');
+            var senderName = (sender === 'bot') ? 'AlgabhetBot' : sender;
+        
+            var messageElement = $('<div>').addClass(sender).html('<strong>' + senderName + ':</strong> ' + message);
+        
+            // Add clickable hints
+            if (hints && hints.length > 0) {
+                var hintContainer = $('<div>').addClass('hints');
+                hints.forEach(function(hint) {
+                    var hintButton = $('<button>').addClass('hint-button').text(hint);
+                    hintButton.click(function() {
+                        // Handle the click on the hint (you can modify this based on your needs)
+                        var selectedHint = $(this).text();
+                        // Perform an action with the selected hint (e.g., send it as a new message)
+                        sendMessage(selectedHint);
+                    });
+                    hintContainer.append(hintButton);
+                });
+                messageElement.append(hintContainer);
+            }
+        
+            chatMessages.append(messageElement);
+            chatMessages.scrollTop(chatMessages.prop('scrollHeight'));
+        }        
+        
+    
+        $('#user-message').on('keydown', function(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>    
+</body>
+<div id="designer-info">
+    Designed by <strong> Aleksandra, Gabriel and Het</strong>
+</div>
+</html>
