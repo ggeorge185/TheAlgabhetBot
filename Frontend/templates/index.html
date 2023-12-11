@@ -16,12 +16,12 @@
         }
         
         #start-button:hover {
-            background-color: #45a049; /* Change the color on hover */
+            background-color: #45a049; 
         }
         
         #landing-page.hide {
-            animation: fadeOut 1s ease-in-out; /* Adjust the duration and easing as needed */
-            animation-fill-mode: forwards; /* Keep the final state of the animation */
+            animation: fadeOut 1s ease-in-out; 
+            animation-fill-mode: forwards; 
         }
         
         body {
@@ -29,7 +29,7 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            margin: 0; /* Remove default margin to fill the entire viewport */
+            margin: 0; 
         }
         
         #landing-page,
@@ -47,7 +47,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh; /* Set the height to fill the entire viewport */
+            height: 100vh; 
             text-align: center;
         }
         
@@ -57,15 +57,15 @@
         }
         
         #landing-logo img {
-            max-width: 50%; /* Ensure the image doesn't exceed its container */
+            max-width: 50%; 
             height: auto; /* Maintain the image's aspect ratio */
-            margin-bottom: 10px; /* Add margin below the logo */
+            margin-bottom: 10px; 
         }
         
         #landing-title {
-            color: #000; /* Change the text color to black */
+            color: #000; 
             font-size: 24px;
-            margin-bottom: 10px; /* Adjust the margin as needed */
+            margin-bottom: 10px; 
         }
         
         #start-button {
@@ -81,21 +81,21 @@
             max-width: 700px;
             margin: 20px auto;
             overflow: hidden;
-            background: none; /* Remove the background color */
-            box-shadow: none; /* Remove the box shadow */
+            background: none;
+            box-shadow: none; 
         }
         
         #chat-container #logo img {
-            width: 80px; /* Adjust the size as needed */
-            height: 80px; /* Adjust the size as needed */
-            margin-bottom: 10px; /* Add margin below the logo */
+            width: 80px; 
+            height: 80px; 
+            margin-bottom: 10px; 
         }
         
         #chat-messages {
             padding: 15px;
             overflow-y: auto;
             height: 300px;
-            background: none; /* Remove the background color */
+            background: none; 
         }
         
         #designer-info {
@@ -155,13 +155,13 @@
         
 
         function redirectToChat() {
-            $('#landing-page').addClass('hide'); // Add the hide class for the fade-out animation
+            $('#landing-page').addClass('hide'); 
             $('#chat-container').show();
         
             // Scroll down to the chat-container section
             $('html, body').animate({
                 scrollTop: $('#chat-container').offset().top
-            }, 1000); // You can adjust the duration (1000ms = 1 second)
+            }, 1000);
         }
         
         
