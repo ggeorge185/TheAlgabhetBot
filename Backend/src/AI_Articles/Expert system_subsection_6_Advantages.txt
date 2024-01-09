@@ -1,0 +1,51 @@
+The goal of knowledge-based systems is to make the critical information required for the system to work explicit rather than implicit.  In a traditional computer program the logic is embedded in code that can typically only be reviewed by an IT specialist. With an expert system the goal was to specify the rules in a format that was intuitive and easily understood, reviewed, and even edited by domain experts rather than IT experts. The benefits of this explicit knowledge representation were rapid development and ease of maintenance.
+
+Ease of maintenance is the most obvious benefit. This was achieved in two ways. First, by removing the need to write conventional code, many of the normal problems that can be caused by even small changes to a system could be avoided with expert systems.  Essentially, the logical flow of the program (at least at the highest level) was simply a given for the system, simply invoke the inference engine. This also was a reason for the second benefit: rapid prototyping. With an expert system shell it was possible to enter a few rules and have a prototype developed in days rather than the months or year typically associated with complex IT projects.
+
+A claim for expert system shells that was often made was that they removed the need for trained programmers and that experts could develop systems themselves. In reality, this was seldom if ever true. While the rules for an expert system were more comprehensible than typical computer code, they still had a formal syntax where a misplaced comma or other character could cause havoc as with any other computer language. Also, as expert systems moved from prototypes in the lab to deployment in the business world, issues of integration and maintenance became far more critical. Inevitably demands to integrate with, and take advantage of, large legacy databases and systems arose. To accomplish this, integration required the same skills as any other type of system.
+
+Summing up the benefits of using expert systems, the following can be highlighted: 
+
+Performance could be especially problematic because early expert systems were built using tools (such as earlier Lisp versions) that interpreted code expressions without first compiling them. This provided a powerful development environment, but with the drawback that it was virtually impossible to match the efficiency of the fastest compiled languages (such as C (programming language)|C). System and database integration were difficult for early expert systems because the tools were mostly in languages and platforms that were neither familiar to nor welcome in most corporate IT environments – programming languages such as Lisp and Prolog, and hardware platforms such as Lisp machines and personal computers. As a result, much effort in the later stages of expert system tool development was focused on integrating with legacy environments such as COBOL and large database systems, and on porting to more standard platforms. These issues were resolved mainly by the client–server paradigm shift, as PCs were gradually accepted in the IT environment as a legitimate platform for serious business system development and as affordable minicomputer servers provided the processing power needed for AI applications. An inference engine would have to be able to process huge numbers of rules to reach a decision.
+
+How to verify that decision rules are consistent with each other is also a challenge when there are too many rules.  Usually such problem leads to a satisfiability (SAT) formulation. This is a well-known NP-complete problem Boolean satisfiability problem.  If we assume only binary data|binary variables, say n of them, and then the corresponding search space is of size 2<math>^</math>.  Thus, the search space can grow exponentially.
+
+There are also questions on how to prioritize the use of the rules in order to operate more efficiently, or how to resolve ambiguities (for instance, if there are too many else-if sub-structures within a single rule) and so on.
+
+Other problems are related to the overfitting and overgeneralization effects when using known facts and trying to generalize to other cases not described explicitly in the knowledge base.  Such problems exist with methods that employ machine learning approaches too.
+
+Another problem related to the knowledge base is how to make updates of its knowledge quickly and effectively. Also how to add a new piece of knowledge (i.e., where to add it among many rules) is challenging.  Modern approaches that rely on machine learning methods are easier in this regard.
+
+Because of the above challenges, it became clear that new approaches to AI were required instead of rule-based technologies.  These new approaches are based on the use of machine learning techniques, along with the use of feedback mechanisms.
+
+Finally, the following disadvantages of using expert systems can be summarized: 
+|-
+| Diagnosis || Inferring system malfunctions from observables || CADUCEUS_(expert_system)|CADUCEUS, MYCIN, PUFF, Mistral, Eydenet,   
+|-
+| Design || Configuring objects under constraints || Dendral, Expert systems for mortgages|Mortgage Loan Advisor, Xcon|R1 (DEC VAX Configuration), SID (DEC VAX 9000 central processing unit|CPU)
+|-
+| Automated planning and scheduling|Planning || Designing actions || Mission Planning for Autonomous Underwater Vehicle
+|-
+| Monitoring || Comparing observations to plan vulnerabilities || REACTOR
+|-
+| Debugging || Providing incremental solutions for complex problems || SAINT, MATHLAB, MACSYMA
+|-
+| Repair || Executing a plan to administer a prescribed remedy || Toxic Spill Crisis Management
+|-
+| Instruction || Diagnosing, assessing, and correcting student behaviour || SMH.PAL, STEAMER
+|-
+| Control || Interpreting, predicting, repairing, and monitoring system behaviors || Real Time Process Control,  Space Shuttle Mission Control,  Smart Autoclave Cure of Composites
+|}
+
+Hearsay was an early attempt at solving Speech recognition|voice recognition through an expert systems approach. For the most part this category of expert systems was not all that successful. Hearsay and all interpretation systems are essentially pattern recognition systems—looking for patterns in noisy data. In the case of Hearsay recognizing phonemes in an audio stream. Other early examples were analyzing sonar data to detect Russian submarines. These kinds of systems proved much more amenable to a artificial neural network|neural network AI solution than a rule-based approach.
+
+CADUCEUS and MYCIN were medical diagnosis systems. The user describes their symptoms to the computer as they would to a doctor and the computer returns a medical diagnosis.
+
+Dendral was a tool to study hypothesis formation in the identification of organic molecules. The general problem it solved—designing a solution given a set of constraints—was one of the most successful areas for early expert systems applied to business domains such as salespeople configuring Digital Equipment Corporation (DEC) VAX computers and mortgage loan application development.
+
+SMH.PAL is an expert system for the assessment of students with multiple disabilities.
+
+GARVAN-ES1 was a medical expert system, developed at the Garvan Institute of Medical Research, that provided automated clinical diagnostic comments on endocrine reports from a pathology laboratory. It was one of the first medical expert systems to go into routine clinical use internationally The system was written in "C" and ran on a PDP-11 in 64K of memory. It had 661 rules that were compiled; not interpreted.
+
+Mistral and on monuments under the name of Kaleidos. Mistral is a registered trade mark of Centro Elettrotecnico Sperimentale Italiano|CESI.
+

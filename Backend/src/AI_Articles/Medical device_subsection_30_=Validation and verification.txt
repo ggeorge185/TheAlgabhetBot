@@ -1,0 +1,5 @@
+Main|Validation and verification (medical devices)}}
+Validation and verification of medical devices ensure that they fulfil their intended purpose. Validation and verification|Validation or verification is generally needed when a health facility acquires a new device to perform medical tests.
+
+The main difference between the two is that validation is focused on ensuring that the device meets the needs and requirements of its intended users and the intended use environment, whereas verification is focused on ensuring that the device meets its specified design requirements.
+

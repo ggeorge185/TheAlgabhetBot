@@ -1,0 +1,3 @@
+Cheese (software)|Cheese – GNOME webcam application
+*Guvcview – Linux webcam application
+

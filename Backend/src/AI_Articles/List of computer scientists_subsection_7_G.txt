@@ -1,0 +1,48 @@
+Richard P. Gabriel – Maclisp, Common Lisp, Worse is Better, League for Programming Freedom, Lucid Inc., XEmacs
+* Zvi Galil
+* Bernard Galler – MAD (programming language)
+* Hector Garcia-Molina
+* Michael Garey – NP-completeness
+* Hugo de Garis
+* Bill Gates – cofounder of Microsoft
+* David Gelernter
+* Lisa Gelobter – was the Chief Digital Service Officer for the U.S. Department of Education, founder of teQuitable
+* Charles Geschke
+* Zoubin Ghahramani
+* Sanjay Ghemawat
+* Jeremy Gibbons – generic programming, functional programming, formal methods, computational biology, bioinformatics
+* Juan E. Gilbert – human-centered computing
+* Lee Giles – CiteSeer
+* Seymour Ginsburg – formal languages, automata theory, abstract family of languages|AFL theory, database theory
+* Robert L. Glass
+* Kurt Gödel – computability; not a computer scientist per se, but his work was invaluable in the field
+* Ashok Goel
+* Joseph Goguen
+* E. Mark Gold – ''Language identification in the limit''
+* Adele Goldberg (computer scientist)|Adele Goldberg – Smalltalk
+* Andrew V. Goldberg – algorithms, algorithm engineering
+* Ian Goldberg – cryptographer, off-the-record messaging
+* Judy Goldsmith (computer scientist)|Judy Goldsmith - computational complexity theory, decision theory, and computer ethics
+* Oded Goldreich – cryptography, computational complexity theory
+* Shafi Goldwasser – cryptography, computational complexity theory
+* Gene Golub – Matrix (mathematics)|Matrix computation
+* Martin Charles Golumbic – algorithmic graph theory
+* Gastón Gonnet – cofounder of Waterloo Maple Inc.
+* Ian Goodfellow – machine learning
+* James Gosling – Network extensible Window System (NeWS), Java (programming language)|Java
+* Paul Graham (computer programmer)|Paul Graham – Viaweb, On Lisp, Arc (programming language)|Arc
+* Robert M. Graham (computer scientist)|Robert M. Graham – programming language compilers (GAT, Michigan Algorithm Decoder (MAD)), virtual memory architecture, Multics
+* Susan L. Graham – compilers, programming environments
+* Jim Gray (computer scientist)|Jim Gray – database
+* Sheila Greibach – Greibach normal form, Abstract family of languages (AFL) theory
+* David Gries – ''The Science of Programming'', Interference freedom, Member Emeritus, IFIP WG 2.3 on Programming Methodology
+* Ralph Griswold – SNOBOL
+* Bill Gropp – Message Passing Interface, Portable, Extensible Toolkit for Scientific Computation (PETSc)
+* Tom Gruber – ontology engineering
+* Shelia Guberman – handwriting recognition
+* Ramanathan V. Guha – Resource Description Framework (RDF), Netscape, RSS (file format)|RSS, Epinions
+* Neil J. Gunther – computer performance analysis, capacity planning
+* Jürg Gutknecht – with Niklaus Wirth: Lilith (computer)|Lilith computer; Modula-2, Oberon (programming language)|Oberon, Zonnon programming languages; Oberon (operating system)|Oberon operating system
+* Michael Guy – Phoenix (computer)|Phoenix, work on number theory, computer algebra, higher dimension polyhedra theory; with John Horton Conway
+* Robert Griesemer – Go (programming language)|Go language
+

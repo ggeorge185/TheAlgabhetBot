@@ -1,0 +1,6 @@
+Main|Multi-agent system}}
+
+To actively perform their function (engineering)|functions, Intelligent Agents today are normally gathered in a hierarchical structure containing many “sub-agents”. Intelligent sub-agents process and perform lower-level functions. Taken together, the intelligent agent and sub-agents create a complete system that can accomplish difficult tasks or goals with behaviors and responses that display a form of intelligence.
+
+Generally, an agent can be constructed by separating the body into the sensors and actuators, and so that it operates with a complex perception system that takes the description of the world as input for a controller and outputs commands to the actuator. However, a hierarchy of controller layers is often necessary to balance the immediate reaction desired for low-level tasks and the slow reasoning about complex, high-level goals.
+

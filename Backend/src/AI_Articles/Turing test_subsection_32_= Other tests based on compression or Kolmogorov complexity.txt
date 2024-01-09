@@ -1,0 +1,7 @@
+A related approach to Hutter's prize which appeared much earlier in the late 1990s is the inclusion of compression problems in an extended Turing test. or by tests which are completely derived from Kolmogorov complexity.
+Other related tests in this line are presented by Hernandez-Orallo and Dowe.
+
+Algorithmic IQ, or AIQ for short, is an attempt to convert the theoretical Universal Intelligence Measure from Legg and Hutter (based on Solomonoff's theory of inductive inference|Solomonoff's inductive inference) into a working practical test of machine intelligence.
+
+Two major advantages of some of these tests are their applicability to nonhuman intelligences and their absence of a requirement for human testers.
+

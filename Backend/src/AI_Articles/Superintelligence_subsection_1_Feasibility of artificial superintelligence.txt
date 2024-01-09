@@ -1,0 +1,18 @@
+File:Classification of images progress human.png|thumb|Progress in machine classification of images
+----
+The error rate of AI by year. The red line represents the error rate of a trained human.
+]]
+Philosopher David Chalmers argues that artificial general intelligence is a very likely path to superhuman intelligence. Chalmers breaks this claim down into an argument that AI can achieve ''equivalence'' to human intelligence, that it can be ''extended'' to surpass human intelligence, and that it can be further ''amplified'' to completely dominate humans across arbitrary tasks.
+
+Concerning human-level equivalence, Chalmers argues that the human brain is a mechanical system, and therefore ought to be emulatable by synthetic materials. He also notes that human intelligence was able to biologically evolve, making it more likely that human engineers will be able to recapitulate this invention. Evolutionary algorithms in particular should be able to produce human-level AI. Concerning intelligence extension and amplification, Chalmers argues that new AI technologies can generally be improved on, and that this is particularly likely when the invention can assist in designing new technologies.
+
+An AI system capable of self-improvement could enhance its own intelligence, thereby becoming more efficient at improving itself. This cycle of "recursive self-improvement" might cause an intelligence explosion, resulting in the creation of a superintelligence.
+
+Computer components already greatly surpass human performance in speed. Bostrom writes, "Biological neurons operate at a peak speed of about 200&nbsp;Hz, a full seven orders of magnitude slower than a modern microprocessor (~2&nbsp;GHz)." Moreover, neurons transmit spike signals across axons at no greater than 120&nbsp;m/s, "whereas existing electronic processing cores can communicate optically at the speed of light". Thus, the simplest example of a superintelligence may be an emulated human mind run on much faster hardware than the brain. A human-like reasoner that could think millions of times faster than current humans would have a dominant advantage in most reasoning tasks, particularly ones that require haste or long strings of actions.
+
+Another advantage of computers is modularity, that is, their size or computational capacity can be increased. A non-human (or modified human) brain could become much larger than a present-day human brain, like many supercomputers. Bostrom also raises the possibility of ''collective superintelligence'': a large enough number of separate reasoning systems, if they communicated and coordinated well enough, could act in aggregate with far greater capabilities than any sub-agent.
+
+There may also be ways to ''qualitatively'' improve on human reasoning and decision-making. Humans outperform non-human animals in large part because of new or enhanced reasoning capacities, such as long-term planning and great ape language|language use. (See evolution of human intelligence and primate cognition.) If there are other possible improvements to reasoning that would have a similarly large impact, this makes it likelier that an agent can be built that outperforms humans in the same fashion humans outperform chimpanzees.
+
+All of the above advantages hold for artificial superintelligence, but it is not clear how many hold for biological superintelligence. Physiological constraints limit the speed and size of biological brains in many ways that are inapplicable to machine intelligence. As such, writers on superintelligence have devoted much more attention to superintelligent AI scenarios.
+

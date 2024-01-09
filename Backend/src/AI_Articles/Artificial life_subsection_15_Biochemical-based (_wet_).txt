@@ -1,0 +1,5 @@
+Further|Artificial cell|Synthetic biology}}
+Biochemical-based life is studied in the field of synthetic biology. It involves research such as the creation of synthetic DNA. The term "wet" is an extension of the term "wetware (brain)|wetware". Efforts toward "wet" artificial life focus on engineering live minimal cells from living bacteria ''Mycoplasma laboratorium'' and in building non-living biochemical cell-like systems from scratch.
+
+In May 2019, researchers reported a new milestone in the creation of a new Synthetic biology#Synthetic life|synthetic (possibly Artificial life#Biochemical-based ("wet")|artificial) form of wikt:viability|viable life, a variant of the bacteria ''Escherichia coli'', by reducing the natural number of 64 codons in the bacterial genome to 59 codons instead, in order to encode 20 amino acids.
+

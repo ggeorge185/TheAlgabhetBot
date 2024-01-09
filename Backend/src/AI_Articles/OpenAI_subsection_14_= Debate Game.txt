@@ -1,0 +1,2 @@
+In 2018, OpenAI launched the Debate Game, which teaches machines to debate toy problems in front of a human judge. The purpose is to research whether such an approach may assist in auditing AI decisions and in developing Explainable artificial intelligence|explainable AI.
+

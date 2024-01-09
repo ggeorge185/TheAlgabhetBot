@@ -1,0 +1,23 @@
+File:John McCarthy (2314859532).jpg|thumb|McCarthy in 2008
+John McCarthy is one of the "founding fathers" of artificial intelligence, together with Alan Turing, Marvin Minsky, Allen Newell, and Herbert A. Simon. McCarthy, Minsky, Nathaniel Rochester (computer scientist)|Nathaniel Rochester and Claude E. Shannon coined the term "artificial intelligence" in a proposal that they wrote for the famous Dartmouth workshop|Dartmouth conference in Summer 1956. This conference started AI as a field. (Minsky later joined McCarthy at MIT in 1959.)
+
+In 1958, he proposed the advice taker, which inspired later work on question-answering and logic programming.
+
+In the late 1950s, McCarthy discovered that primitive recursive functions could be extended to compute with symbolic expressions, producing the Lisp (programming language)|Lisp programming language. That functional programming seminal paper, also introduced the lambda notation borrowed from the syntax of lambda calculus in which later dialects like Scheme (programming language)|Scheme based its semantics. Lisp soon became the programming language of choice for AI applications after its publication in 1960.
+
+In 1958, McCarthy served on an Association for Computing Machinery ad hoc committee on Languages that became part of the committee that designed ALGOL 60. In August 1959 he proposed the use of recursion and conditional expressions, which became part of ALGOL. He then became involved with developing international standards in programming and informatics, as a member of the International Federation for Information Processing (IFIP) IFIP Working Group 2.1 on Algorithmic Languages and Calculi, which Specification (technical standard)|specified, maintains, and supports ALGOL 60 and ALGOL 68.
+
+Around 1959, he invented so-called "Garbage collection (computer science)|garbage collection" methods, a kind of automatic memory management, to solve problems in Lisp.
+
+He helped to motivate the creation of Project MAC at Massachusetts Institute of Technology|MIT when he worked there, and at Stanford University, he helped establish the Stanford AI Laboratory, for many years a friendly rival to Project MAC.
+
+McCarthy was instrumental in the creation of three of the very earliest Time-sharing|time-sharing systems (Compatible Time-Sharing System, BBN Time-Sharing System, and Dartmouth Time Sharing System). His colleague Lester Earnest told the Los Angeles Times:
+
+{{Quote|text=The Internet would not have happened nearly as soon as it did except for the fact that John initiated the development of time-sharing systems. We keep inventing new names for time-sharing. It came to be called servers ... Now we call it cloud computing. That is still just time-sharing. John started it.  This idea of a computer or information utility was very popular during the late 1960s, but had faded by the mid-1990s. However, since 2000, the idea has resurfaced in new forms (see application service provider, grid computing, and cloud computing).
+
+In 1966, McCarthy and his team at Stanford wrote a computer program used to play a series of chess games with counterparts in the Soviet Union; McCarthy's team lost two games and draw (chess)|drew two games (see Kotok-McCarthy).
+
+From 1978 to 1986, McCarthy developed the Circumscription (logic)|circumscription method of non-monotonic reasoning.
+
+In 1982, he seems to have originated the idea of the ''space fountain'', a type of tower extending into space and kept vertical by the outward force of a stream of pellets propelled from Earth along a sort of conveyor belt which returns the pellets to Earth. Payloads would ride the conveyor belt upward.
+

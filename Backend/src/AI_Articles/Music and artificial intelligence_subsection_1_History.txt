@@ -1,0 +1,6 @@
+In 1960, Russian researcher Rudolf Zaripov published worldwide first paper on algorithmic music composing using the "Ural (computer)|Ural-1" computer.
+
+In 1965, inventor Ray Kurzweil premiered a piano piece created by a computer that was capable of pattern recognition in various compositions. The computer was then able to analyze and use these patterns to create novel melodies. The computer debuted on the quiz show I've Got a Secret, and stumped the hosts until film star Henry Morgan (humorist)|Henry Morgan guessed Ray's secret.
+
+In 1997, an artificial intelligence program named Experiments in Musical Intelligence (EMI) appeared to outperform a human composer at the task of composing a piece of music to imitate the style of Bach.
+

@@ -1,0 +1,8 @@
+Most surveyed AI researchers expect machines to eventually be able to rival humans in intelligence, though there is little consensus on when this will likely happen. At the 2006 AI@50 conference, 18% of attendees reported expecting machines to be able "to simulate learning and every other aspect of human intelligence" by 2056; 41% of attendees expected this to happen sometime after 2056; and 41% expected machines to never reach that milestone.
+
+In a survey of the 100 most cited authors in AI (as of May 2013, according to Microsoft academic search), the median year by which respondents expected machines "that can carry out most human professions at least as well as a typical human" (assuming no global catastrophic risks|global catastrophe occurs) with 10% confidence is 2024 (mean 2034, st. dev. 33 years), with 50% confidence is 2050 (mean 2072, st. dev. 110 years), and with 90% confidence is 2070 (mean 2168, st. dev. 342 years). These estimates exclude the 1.2% of respondents who said no year would ever reach 10% confidence, the 4.1% who said 'never' for 50% confidence, and the 16.5% who said 'never' for 90% confidence. Respondents assigned a median 50% probability to the possibility that machine superintelligence will be invented within 30 years of the invention of approximately human-level machine intelligence.
+
+In a 2022 survey, the median year by which respondents expected "High-level machine intelligence" with 50% confidence is 2061. The survey defined the achievement of high-level machine intelligence as when unaided machines can accomplish every task better and more cheaply than human workers.
+
+In 2023, OpenAI leaders published recommendations for the governance of superintelligence, which they believe may happen in less than 10 years.
+

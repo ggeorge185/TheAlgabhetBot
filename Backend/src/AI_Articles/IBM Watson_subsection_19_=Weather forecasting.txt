@@ -1,0 +1,2 @@
+In August 2016, IBM announced it would be using Watson for weather forecasting. Specifically, the company announced they would use Watson to analyze data from over 200,000 Weather Underground (weather service)|Weather Underground Weather station#Personal weather station|personal weather stations, as well as data from other sources, as a part of Project IBM Deep Thunder|Deep Thunder.
+

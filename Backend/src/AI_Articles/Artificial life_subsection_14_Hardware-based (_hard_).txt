@@ -1,0 +1,3 @@
+Further|Robot}}
+Hardware-based artificial life mainly consist of ''robots'', that is, automation|automatically guided machines able to do tasks on their own.
+

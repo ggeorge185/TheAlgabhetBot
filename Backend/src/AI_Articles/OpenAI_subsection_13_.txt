@@ -1,0 +1,2 @@
+Released in 2018, Gym Retro is a platform for reinforcement learning (RL) research on video games. Gym Retro is used to research RL algorithms and study generalization. Prior RL research focused mainly on optimizing agents to solve single tasks. Gym Retro gives the ability to generalize between games with similar concepts but different appearances.
+

@@ -1,0 +1,4 @@
+Over its sixty-year history, Lisp has spawned many variations on the core theme of an S-expression language. Moreover, each given dialect may have several implementations—for instance, there are more than a dozen implementations of Common Lisp.
+
+Differences between dialects may be quite visible—for instance, Common Lisp uses the keyword <code>defun</code> to name a function, but Scheme uses <code>define</code>. Within a dialect that is standardized, however, conforming implementations support the same core language, but with different extensions and libraries.
+

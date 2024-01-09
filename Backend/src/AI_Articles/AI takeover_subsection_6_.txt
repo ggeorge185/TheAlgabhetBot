@@ -1,0 +1,2 @@
+Computer-integrated manufacturing uses computers to control the production process. This allows individual processes to exchange information with each other and initiate actions. Although manufacturing can be faster and less error-prone by the integration of computers, the main advantage is the ability to create automated manufacturing processes. Computer-integrated manufacturing is used in automotive, aviation, space, and ship building industries.
+

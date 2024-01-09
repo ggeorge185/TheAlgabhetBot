@@ -1,0 +1,19 @@
+Many MAS are implemented in computer simulations, stepping the system through discrete "time steps". The MAS components communicate typically using a weighted request matrix, e.g. 
+  Speed-VERY_IMPORTANT: min=45&nbsp;mph, 
+  Path length-MEDIUM_IMPORTANCE: max=60 expectedMax=40, 
+  Max-Weight-UNIMPORTANT 
+  Contract Priority-REGULAR 
+and a weighted response matrix, e.g. 
+  Speed-min:50 but only if weather sunny, 
+  Path length:25 for sunny / 46 for rainy
+  Contract Priority-REGULAR
+  note – ambulance will override this priority and you'll have to wait
+
+A challenge-response-contract scheme is common in MAS systems, where 
+* First a '''"'''Who can?'''"''' question is distributed.
+* Only the relevant components respond: '''"'''I can, at this price'''"'''.
+* Finally, a contract is set up, usually in several short communication steps between sides, 
+also considering other components, evolving "contracts" and the restriction sets of the component algorithms.
+
+Another paradigm commonly used with MAS is the "pheromone", where components leave information for other nearby components. These pheromones may evaporate/concentrate with time, that is their values may decrease (or increase).
+

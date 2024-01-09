@@ -1,0 +1,6 @@
+The "Other Minds Reply" points out that Searle's argument is a version of the problem of other minds, applied to machines. There is no way we can determine if other people's subjective experience is the same as our own. We can only study their behavior (i.e., by giving them our own Turing test). Critics of Searle argue that he is holding the Chinese room to a higher standard than we would hold an ordinary person.}}
+
+:Nils Nilsson (researcher)|Nils Nilsson writes "If a program behaves ''as if''  it were multiplying, most of us would say that it is, in fact, multiplying.  For all I know, Searle may only be behaving ''as if''  he were thinking deeply about these matters.  But, even though I disagree with him, his simulation is pretty good, so I'm willing to credit him with real thought."
+
+:Alan Turing anticipated Searle's line of argument (which he called "The Argument from Consciousness") in 1950 and makes the other minds reply. He noted that people never consider the problem of other minds when dealing with each other. He writes that "instead of arguing continually over this point it is usual to have the polite convention that everyone thinks." The Turing test simply extends this "polite convention" to machines. He does not intend to solve the problem of other minds (for machines or people) and he does not think we need to.}}
+

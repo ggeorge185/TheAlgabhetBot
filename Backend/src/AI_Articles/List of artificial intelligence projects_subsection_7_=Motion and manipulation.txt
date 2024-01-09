@@ -1,0 +1,3 @@
+AIBO, the robot pet for the home, grew out of Sony's Computer Science Laboratory (CSL).
+* Cog (project)|Cog, a robot developed by Massachusetts Institute of Technology|MIT to study theories of cognitive science and artificial intelligence, now discontinued.
+

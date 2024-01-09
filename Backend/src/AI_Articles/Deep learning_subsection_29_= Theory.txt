@@ -1,0 +1,10 @@
+see also|Explainable artificial intelligence}}
+A main criticism concerns the lack of theory surrounding some methods. Learning in the most common deep architectures is implemented using well-understood gradient descent. However, the theory surrounding other algorithms, such as contrastive divergence is less clear. (e.g., Does it converge? If so, how fast? What is it approximating?) Deep learning methods are often looked at as a black box, with most confirmations done empirically, rather than theoretically.
+
+Others point out that deep learning should be looked at as a step towards realizing Strong artificial intelligence|strong AI, not as an all-encompassing solution. Despite the power of deep learning methods, they still lack much of the functionality needed to realize this goal entirely. Research psychologist Gary Marcus noted:
+<blockquote>
+Realistically, deep learning is only part of the larger challenge of building intelligent machines. Such techniques lack ways of representing causality|causal relationships (...) have no obvious ways of performing inference|logical inferences, and they are also still a long way from integrating abstract knowledge, such as information about what objects are, what they are for, and how they are typically used. The most powerful A.I. systems, like Watson (computer)|Watson (...) use techniques like deep learning as just one element in a very complicated ensemble of techniques, ranging from the statistical technique of Bayesian inference to deductive reasoning.
+</blockquote>
+
+In further reference to the idea that artistic sensitivity might be inherent in relatively low levels of the cognitive hierarchy, a published series of graphic representations of the internal states of deep (20-30 layers) neural networks attempting to discern within essentially random data the images on which they were trained demonstrate a visual appeal: the original research notice received well over 1,000 comments, and was the subject of what was for a time the most frequently accessed article on ''The Guardian's'' website.
+

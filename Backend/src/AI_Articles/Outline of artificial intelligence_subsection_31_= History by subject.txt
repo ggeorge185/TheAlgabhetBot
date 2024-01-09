@@ -1,0 +1,6 @@
+History of Logic (formal reasoning is an important precursor of AI)
+* History of machine learning (Timeline of machine learning|timeline)
+* History of machine translation (Timeline of machine translation|timeline)
+* History of natural language processing
+* Optical character recognition#History|History of optical character recognition (Timeline of optical character recognition|timeline)
+

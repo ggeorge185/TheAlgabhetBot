@@ -1,0 +1,3 @@
+main|Mean field game theory}}
+Mean field game theory is the study of strategic decision making in very large populations of small interacting agents. This class of problems was considered in the economics literature by Boyan Jovanovic and Robert W. Rosenthal, in the engineering literature by Peter E. Caines, and by mathematicians Pierre-Louis Lions and Jean-Michel Lasry.
+

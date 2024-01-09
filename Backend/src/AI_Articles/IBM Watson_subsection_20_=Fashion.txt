@@ -1,0 +1,2 @@
+IBM Watson together with Marchesa designed a dress that changed the colour of the fabric depending on the mood of the audience. The dress lit up in different colours based on the sentiment of Tweets about the dress. Tweets were passed through a Watson tone analyzer and then sent back to a small computer inside the waist of the dress.
+

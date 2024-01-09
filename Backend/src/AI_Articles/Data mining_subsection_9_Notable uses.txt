@@ -1,0 +1,5 @@
+Main|Examples of data mining}}
+
+
+Data mining is used wherever there is digital data available. Notable examples of data mining can be found throughout business, medicine, science, finance, construction, and surveillance.
+

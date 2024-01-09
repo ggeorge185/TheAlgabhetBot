@@ -1,0 +1,10 @@
+The premier professional body in the field is the Association for Computing Machinery's (ACM) Special Interest Group (SIG) on Knowledge Discovery and Data Mining (SIGKDD). Since 1989, this ACM SIG has hosted an annual international conference and published its proceedings, and since 1999 it has published a biannual academic journal titled "SIGKDD Explorations".
+
+Computer science conferences on data mining include:
+
+* CIKM Conference – ACM Conference on Information and Knowledge Management
+* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+* KDD Conference – ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+Data mining topics are also present in many List of computer science conferences#Data Management|data management/database conferences such as the ICDE Conference, SIGMOD|SIGMOD Conference and International Conference on Very Large Data Bases.
+

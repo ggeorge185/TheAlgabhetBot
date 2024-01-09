@@ -1,0 +1,2 @@
+In cognitive science and artificial intelligence, it is common to refer to David Marr's David Marr (neuroscientist)#Levels_of_analysis|levels of analysis.  At any given time, a researcher may be focusing on (1) what some aspect of intelligence needs to compute, (2) what algorithm it employs, or (3) how that algorithm is implemented in hardware.  This separation of concerns is similar to the interface (computing)|interface/implementation distinction in software and hardware engineering.
+

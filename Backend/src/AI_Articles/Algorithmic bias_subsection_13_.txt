@@ -1,0 +1,2 @@
+Unpredictable correlations can emerge when large data sets are compared to each other. For example, data collected about web-browsing patterns may align with signals marking sensitive data (such as race or sexual orientation). By selecting according to certain behavior or browsing patterns, the end effect would be almost identical to discrimination through the use of direct race or sexual orientation data.
+

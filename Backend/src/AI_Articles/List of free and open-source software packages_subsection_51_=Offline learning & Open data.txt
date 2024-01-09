@@ -1,0 +1,4 @@
+Main|Offline learning|Open data}}
+* Kiwix: A free and open-source offline web browser that allows users download Wikipedia entire content and use for offline learning, later was expanded with repositories for Wikimedia Foundation, public domain texts from Project Gutenberg, many of the Stack Exchange sites, and other resources.
+* OpenStreetMap: OpenStreetMap was developed in 2004, it uses Open data and users data input through Crowdsourcing and Web mapping to create a complete and downloadable alternative to other online maps, this allow users to enter data when there is no data available due to lack of governance and economic interest or due lower population of the places mapped
+

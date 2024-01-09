@@ -1,0 +1,32 @@
+Luigi Dadda – designer of the Dadda multiplier
+* Ole-Johan Dahl – Simula, object-oriented programming
+* Ryan Dahl – founder of node.js project
+* Andries van Dam – computer graphics, hypertext
+* Samir Das – Wireless Networks, Mobile Computing, Vehicular ad hoc network, Sensor Networks, Mesh networking, Wireless ad hoc network
+* Neil Daswani – computer security, co-founder and co-director of Stanford Advanced Computer Security Program, co-founder of Dasient (acquired by Twitter), former chief information security of LifeLock and Symantec's Consumer Business Unit
+* Christopher J. Date – proponent of database relational model
+* Terry A. Davis – creator of TempleOS
+* Jeff Dean – Bigtable, MapReduce, Spanner (database)|Spanner of Google
+* Erik Demaine – computational origami
+* Tom DeMarco
+* Richard DeMillo – computer security, software engineering, educational technology
+* Dorothy E. Denning – computer security
+* Peter J. Denning – identified the use of an operating system's working set and balance set, President of Association for Computing Machinery|ACM
+* Michael Dertouzos – Director of Massachusetts Institute of Technology (MIT) Laboratory for Computer Science (LCS) from 1974 to 2001
+* Alexander Dewdney
+* Robert Dewar – IFIP Working Group 2.1|IFIP WG 2.1 member, ALGOL 68, chairperson; GNAT|AdaCore cofounder, president, CEO
+* Vinod Dham – P5 (microarchitecture)|P5 Pentium processor
+* Jan Dietz (born 1945) (decay constant) – information systems theory and ''Design & Engineering Methodology for Organizations''
+* Whitfield Diffie (born 1944) (linear response function) – public key cryptography, Diffie–Hellman key exchange
+* Edsger W. Dijkstra – algorithms, Dijkstra's algorithm, Go To Statement Considered Harmful, semaphore (programming), IFIP Working Group 2.1|IFIP WG 2.1 member
+* Matthew Dillon – DragonFly BSD with LWKT, vkernel OS-level virtualisation, file systems: HAMMER (file system)|HAMMER1, HAMMER2
+* Alan Dix – wrote important university level textbook on human–computer interaction
+* Jack Dongarra – linear algebra high performance computing (HCI)
+* Marco Dorigo – ant colony optimization
+* Paul Dourish – human computer interaction
+* Charles Stark Draper (1901–1987) – designer of Apollo Guidance Computer, "father of inertial navigation", MIT professor
+* Susan Dumais – information retrieval
+* Adam Dunkels – Contiki, lwIP, UIP (micro IP)|uIP, protothreads
+* Jon Michael Dunn – founding dean of Indiana University School of Informatics, information based logics especially relevance logic
+* Schahram Dustdar – Distributed Systems, TU Wien, Austria
+

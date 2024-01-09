@@ -1,0 +1,6 @@
+When access to digital computers became possible in the middle fifties, a few scientists instinctively recognized that a machine that could manipulate numbers could also manipulate symbols and that the manipulation of symbols could well be the essence of human thought. This was a new approach to creating thinking machines.
+
+In 1955, Allen Newell and (future Nobel Laureate) Herbert A. Simon created the "Logic Theorist" (with help from Cliff Shaw|J. C. Shaw). The program would eventually prove 38 of the first 52 theorems in Bertrand Russell|Russell and Alfred North Whitehead|Whitehead's ''Principia Mathematica'', and find new and more elegant proofs for some.
+Simon said that they had "solved the venerable mind/body problem, explaining how a system composed of matter can have the properties of mind."
+(This was an early statement of the philosophical position John Searle would later call "Strong AI thesis|Strong AI": that machines can contain minds just as human bodies do.)
+

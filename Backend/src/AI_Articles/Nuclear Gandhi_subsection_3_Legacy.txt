@@ -1,0 +1,2 @@
+Despite its non-existence, "Nuclear Gandhi" is one of the most recognizable Software bug|bugs in the history of video games.<ref name="dtf probably myth" /> It has spawned a large number of Internet memes,<ref name="cambridge" /> and has been used as an example of integer overflow in computer science courses at Harvard University, among others.<ref name="dtf myth history" />
+

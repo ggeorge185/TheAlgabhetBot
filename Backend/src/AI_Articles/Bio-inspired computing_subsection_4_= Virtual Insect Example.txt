@@ -1,0 +1,12 @@
+Bio-inspired computing can be used to train a virtual insect. The insect is trained to navigate in an unknown terrain for finding food equipped with six simple rules:
+
+* turn right for target-and-obstacle left; 
+* turn left for target-and-obstacle right; 
+* turn left for target-left-obstacle-right; 
+* turn right for target-right-obstacle-left;
+* turn left for target-left without obstacle;
+* turn right for target-right without obstacle.
+The virtual insect controlled by the trained spiking neural network can find food after training in any unknown terrain. After several generations of rule application it is usually the case that some forms of complex behaviour Emergence|emerge. Complexity gets built upon complexity until the result is something markedly complex, and quite often completely counterintuitive from what the original rules would be expected to produce (see complex systems). For this reason, in neural network models, it is necessary to accurately model an ''in vivo'' network, by live collection of "noise" coefficients that can be used to refine statistical inference and extrapolation as system complexity increases.
+
+Natural evolution is a good analogy to this method–the rules of evolution (Selection (biology)|selection, Genetic recombination|recombination/reproduction, mutation and more recently transposition (genetics)|transposition) are in principle simple rules, yet over millions of years have produced remarkably complex organisms. A similar technique is used in genetic algorithms.
+

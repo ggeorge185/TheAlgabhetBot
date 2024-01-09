@@ -1,0 +1,3 @@
+main list|List of open source geographic information system software}}
+* QGIS – cross-platform desktop geographic information system (GIS) application to view, edit, and analyse geospatial data
+

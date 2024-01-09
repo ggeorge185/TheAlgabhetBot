@@ -1,0 +1,2 @@
+Organisms are generally constructed with pre-defined and fixed behaviors that are controlled by various parameters that mutate.  That is, each organism contains a collection of numbers or other ''finite'' parameters. Each parameter controls one or several aspects of an organism in a well-defined way.
+

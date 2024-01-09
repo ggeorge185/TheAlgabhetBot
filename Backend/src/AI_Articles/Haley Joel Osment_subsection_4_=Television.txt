@@ -1,0 +1,222 @@
+class="wikitable"
+|-
+! Year
+! Title
+! Role
+! class = "unsortable" | Notes
+|-
+| rowspan="2" | 1994
+| ''The Larry Sanders Show''
+| Little Boy
+| Episode: "The Fourteenth Floor"
+|-
+| ''Lies of the Heart: The Story of Laurie Kellogg''
+| Kyle
+| Television film
+|-
+| 1994–1995
+| ''Thunder Alley (TV series)|Thunder Alley''
+| Harry Turner
+| Starring role
+|-
+| 1995–1997
+| ''The Jeff Foxworthy Show''
+| Matt Foxworthy
+| Starring role
+|-
+| rowspan="2" | 1997
+| ''Walker, Texas Ranger''
+| Lucas Simms
+| 2 episodes
+|-
+| ''Last Stand at Saber River''
+| Davis Cable
+| Television film
+|-
+| 1997–1998
+| ''Murphy Brown''
+| Avery Brown #2
+| 6 episodes
+|-
+| rowspan="6" | 1998
+| ''Chicago Hope''
+| Nathan Cacaci
+| Episode: "Memento Mori"
+|-
+| ''Touched by an Angel''
+| John Henry
+| Episode: "Flights of Angels"
+|-
+| ''The Pretender (TV series)|The Pretender''
+| Davey Simpkins
+| 2 episodes
+|-
+| ''The Lake (1998 film)|The Lake''
+| Dylan Hydecker
+| Television film
+|-
+| ''The Ransom of Red Chief''
+| Andy Dorset
+| Television film
+|-
+| ''Cab to Canada''
+| Bobby
+| Television film
+|-
+| rowspan="2" | 1999
+| ''Ally McBeal''
+| Eric Stall
+| Episode: "Angels and Blimps" S2.13
+|-
+| ''Hey Arnold!''
+| Curly Gammelthorpe
+| Voice, episode: "Deconstructing Arnold"
+|-
+| 2000
+| ''Buzz Lightyear of Star Command''
+| Myka
+| Voice, episode: "Lone Wolf"
+|-
+| 2000–2022
+| ''Family Guy''
+| Various characters
+| Voice, 4 episodes
+|-
+| 2005–2006
+| ''Immortal Grand Prix''
+| Takeshi Jin
+| Voice, English dub
+|-
+| 2013–2014
+| ''Alpha House''
+| Shelby Mellman
+| 12 episodes
+|-
+| 2013, 2022
+| ''American Dad!''
+| Stan's Informant, Clubber
+| Voice, 2 episodes
+|-
+| 2014
+| ''The Spoils of Babylon''
+| Winston Morehouse
+| 3 episodes
+|-
+| rowspan="2" | 2015
+| ''The Spoils Before Dying''
+| Alistair St. Barnaby-Bixby-Jones
+| 5 episodes
+|-
+| ''Drunk History''
+| Kid Blink
+| Episode: "Journalism"
+|-
+| 2015–2016
+| ''Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!''
+| Slow Joey
+| 10 episodes
+|-
+| 2016
+| ''The Eric Andre Show''
+| Guest
+| Episode: "Dennis Rodman; Haley Joel Osment"
+|-
+| rowspan="3" | 2017
+| ''Oasis (2017 film)|Oasis''
+| Sy
+| Amazon Video pilot episode
+|-
+| ''Silicon Valley (TV series)|Silicon Valley''
+| Keenan Feldspar
+| 3 episodes
+|-
+| ''Top Gear America''
+| Himself
+| Episode: "Drive Your Life"
+|-
+| rowspan="2" | 2017–2019
+| ''Teachers (2016 TV series)|Teachers''
+| Damien
+| 4 episodes
+|-
+| ''Future Man (TV series)|Future Man''
+| Dr. Stu Camillo
+| 14 episodes
+|-
+| rowspan="3" | 2018
+| ''Swedish Dicks''
+| Dave
+| Episode: "Floyd Cal Who"
+|-
+| ''The X-Files (season 11)|The X-Files''
+| Davey James / Young John James
+| Episode: "Kitten (The X-Files)|Kitten"
+|-
+| ''Rob Riggle's Ski Master Academy''
+| Gaston Lebone
+| Episode: "R.I.G.G.L.E. Day"
+|-
+| 2019
+| ''The Boys (TV series)|The Boys''
+| Mesmer
+| 2 episodes
+|-
+| 2019–2021
+| ''The Kominsky Method''
+| Robby
+| 7 episodes
+|-
+| rowspan="4" | 2020
+| ''What We Do in the Shadows (TV series)|What We Do In the Shadows''
+| Topher Delmonico
+| Episode: "Resurrection"
+|-
+| ''Robot Chicken''
+| Kevin Jonas, Tim Murphy
+| Voice, episode: "Petless M in: Cars Are Couches On The Road"
+|-
+| ''Star Trek: Lower Decks''
+| O'Connor
+| Voice, episode: "Moist Vessel"
+|-
+| ''The George Lucas Talk Show''
+| Himself
+| Episode: "Yoda Hosers"
+|-
+| rowspan="2" | 2021
+| ''Goliath (TV series)|Goliath''
+| Dylan Zax
+| Recurring role
+|-
+| ''Awkwafina is Nora from Queens''
+| Amos
+| Episode: "Home"
+|-
+| 2021–2022
+| ''Jurassic World Camp Cretaceous''
+| Kash D. Langford
+| Voice, season 4
+|-
+| 2021–present
+| ''Dogs in Space (TV series)|Dogs in Space''
+| Garbage
+| Voice, main role
+|-
+| rowspan="4" | 2022
+| ''DreamWorks Dragons: The Nine Realms''
+| Buzzsaw
+| Voice, season 2
+|-
+| ''We Baby Bears''
+| Teddi, Bear 3
+| Voice, episode: "Teddi Bear"
+|-
+|''Dead End: Paranormal Park''
+| Danny
+| Voice, episode: "Going Up"
+|-
+| ''The Mysterious Benedict Society (TV series)|The Mysterious Benedict Society''
+| One Two
+| Episode: "A Two-Way Street"
+|}
+

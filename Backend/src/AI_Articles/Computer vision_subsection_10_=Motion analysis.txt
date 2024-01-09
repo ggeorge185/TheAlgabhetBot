@@ -1,0 +1,7 @@
+Several tasks relate to motion estimation where an image sequence is processed to produce an estimate of the velocity either at each points in the image or in the 3D scene or even of the camera that produces the images. Examples of such tasks are:
+
+* '''Egomotion'''determining the 3D rigid motion (rotation and translation) of the camera from an image sequence produced by the camera.
+* '''video tracking|Tracking'''following the movements of a (usually) smaller set of interest points or objects (''e.g.'', vehicles, objects, humans or other organisms parts (also referred to as spatial-taxon scene hierarchy), while the Salience (neuroscience)|visual salience is often implemented as Visual spatial attention|spatial and Visual temporal attention|temporal attention. 
+** Segmentation or Object co-segmentation|co-segmentation of one or multiple videos into a series of per-frame foreground masks, while maintaining its temporal semantic continuity.  
+* '''High-level processing''' – At this step the input is typically a small set of data, for example a set of points or an image region which is assumed to contain a specific object.
+

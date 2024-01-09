@@ -1,0 +1,11 @@
+Main|Philosophy of artificial intelligence|Ethics of artificial intelligence}}
+
+There are a variety of philosophical, theoretical, and applicative questions related to artificial empathy. For example:
+
+# Which conditions would have to be met for a robot to respond competently to a human emotion?
+# What models of empathy can or should be applied to Social and Assistive Robotics?
+# Must the interaction of humans with robots imitate affective interaction between humans?
+# Can a robot help science learn about affective development of humans? 
+# Would robots create unforeseen categories of inauthentic relations?
+# What relations with robots can be considered authentic?
+

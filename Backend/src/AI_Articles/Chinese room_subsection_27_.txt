@@ -1,0 +1,8 @@
+Some have argued that the meanings of the symbols would come from a vast "background" of commonsense knowledge encoded in the program and the filing cabinets. This would provide a "contextualism|context" that would give the symbols their meaning. Proponents of this position include Roger Schank, Doug Lenat, Marvin Minsky and (with reservations) Daniel Dennett, who writes "The fact is that any program [that passed a Turing test] would have to be an extraordinarily supple, sophisticated, and multilayered system, brimming with 'world knowledge' and meta-knowledge and meta-meta-knowledge." }}
+
+:Searle agrees that this background exists, but he does not agree that it can be built into programs. Hubert Dreyfus has also criticized the idea that the "background" can be represented symbolically.
+
+To each of these suggestions, Searle's response is the same: no matter how much knowledge is written into the program and no matter how the program is connected to the world, he is still in the room manipulating symbols according to rules. His actions are syntax|syntactic and this can never explain to him what the symbols stand for. Searle writes "syntax is insufficient for semantics."}}
+
+However, for those who accept that Searle's actions simulate a mind, separate from his own, the important question is not what the symbols mean ''to Searle'', what is important is what they mean ''to the virtual mind.'' While Searle is trapped in the room, the virtual mind is not: it is connected to the outside world through the Chinese speakers it speaks to, through the programmers who gave it world knowledge, and through the cameras and other sensors that roboticists can supply.
+

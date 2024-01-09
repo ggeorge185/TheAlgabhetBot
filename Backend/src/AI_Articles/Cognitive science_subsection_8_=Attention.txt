@@ -1,0 +1,4 @@
+Main|Attention}}
+
+Attention is the selection of important information.  The human mind is bombarded with millions of stimuli and it must have a way of deciding which of this information to process.  Attention is sometimes seen as a spotlight, meaning one can only shine the light on a particular set of information.  Experiments that support this metaphor include the dichotic listening task (Cherry, 1957) and studies of inattentional blindness (Mack and Rock, 1998).  In the dichotic listening task, subjects are bombarded with two different messages, one in each ear, and told to focus on only one of the messages.  At the end of the experiment, when asked about the content of the unattended message, subjects cannot report it.
+

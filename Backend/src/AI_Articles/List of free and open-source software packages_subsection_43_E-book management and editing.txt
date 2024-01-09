@@ -1,0 +1,4 @@
+Calibre (software)|Calibre – Cross-platform suite of ebook software
+*Collabora Online Writer - Enterprise-ready edition of LibreOffice accessible from a web browser. Allows exporting in the EPUB format.
+*Sigil (application)|Sigil – Editing software for e-books in the EPUB format
+

@@ -1,0 +1,6 @@
+OpenAI acknowledges that ChatGPT "sometimes writes plausible-sounding but incorrect or nonsensical answers". The Reward modeling|reward model of ChatGPT, designed around human oversight, can be over-optimized and thus hinder performance, in an example of an optimization pathology known as Goodhart's law.
+
+As of 2023, ChatGPT-3.5 (free) has knowledge of events that occurred up to January 2022 and ChatGPT-4 (paid) up to April 2023.
+
+In training ChatGPT, human reviewers preferred longer answers, regardless of actual comprehension or factual content. This negative misrepresentation of groups of individuals is an example of possible representational harm.
+

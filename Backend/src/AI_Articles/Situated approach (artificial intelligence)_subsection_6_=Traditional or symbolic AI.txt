@@ -1,0 +1,6 @@
+There are two main approaches in decisional AI. The vast majority of the technologies available on the market, such as Automated planning and scheduling|planning algorithms, finite state machines (FSA), or expert systems, are based on the '''traditional or symbolic artificial intelligence|symbolic''' AI approach. Its main characteristics are:
+* It is '''top-down''': it subdivides, in a recursive manner, a given problem into a series of sub-problems that are supposedly easier to solve.
+* It is '''knowledge-based''': it relies on a symbolic description of the world, such as a set of rules.
+
+However, the limits of traditional AI, which goal is to build systems that mimic human intelligence, are well-known: inevitably, a combinatorial explosion of the number of rules occurs due to the complexity of the environment. In fact, it is impossible to predict all the situations that will be encountered by an autonomous entity.
+

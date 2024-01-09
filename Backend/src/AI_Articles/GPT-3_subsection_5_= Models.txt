@@ -1,0 +1,7 @@
+There are four models:
+* Chat
+** gpt-3.5-turbo
+* Text completion
+** text-davinci-003
+** text-davinci-002
+

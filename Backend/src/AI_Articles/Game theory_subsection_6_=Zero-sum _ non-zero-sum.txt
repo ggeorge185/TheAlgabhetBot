@@ -1,0 +1,8 @@
+Payoff matrix |Name=A zero-sum game |2L=A |2R=B |1U=A |UL=–1, 1 |UR=3, –3 |1D=B |DL=0, 0 |DR=–2, 2}}
+
+Zero-sum games (more generally, constant-sum games) are games in which choices by players can neither increase nor decrease the available resources. In zero-sum games, the total benefit goes to all players in a game, for every combination of strategies, and always adds to zero (more informally, a player benefits only at the equal expense of others). Poker exemplifies a zero-sum game (ignoring the possibility of the house's cut), because one wins exactly the amount one's opponents lose. Other zero-sum games include matching pennies and most classical board games including Go (board game)|Go and chess.
+
+Many games studied by game theorists (including the famed prisoner's dilemma) are non-zero-sum games, because the Outcome (game theory)|outcome has net results greater or less than zero. Informally, in non-zero-sum games, a gain by one player does not necessarily correspond with a loss by another.
+
+Constant-sum games correspond to activities like theft and gambling, but not to the fundamental economic situation in which there are potential gains from trade. It is possible to transform any constant-sum game into a (possibly asymmetric) zero-sum game by adding a dummy player (often called "the board") whose losses compensate the players' net winnings.
+

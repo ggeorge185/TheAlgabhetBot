@@ -1,0 +1,4 @@
+Artificial general intelligence (AGI) is typically defined as a system that performs at least as well as humans in most or all intellectual tasks. A 2022 survey of AI researchers found that 90% of respondents expected AGI would be achieved in the next 100 years, and half expected the same by 2061. Meanwhile, some researchers dismiss existential risks from AGI as "science fiction" based on their high confidence that AGI will not be created anytime soon.
+
+Breakthroughs in large language models have led some researchers to reassess their expectations. Notably, Geoffrey Hinton said in 2023 that he recently changed his estimate from "20 to 50 years before we have general purpose A.I." to "20 years or less".
+

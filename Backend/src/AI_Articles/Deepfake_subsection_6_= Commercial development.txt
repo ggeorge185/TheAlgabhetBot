@@ -1,0 +1,6 @@
+In January 2018, a proprietary desktop application called FakeApp was launched. This app allows users to easily create and share videos with their faces swapped with each other. As of 2019, FakeApp has been superseded by open-source alternatives such as Faceswap, command line-based DeepFaceLab, and web-based apps such as DeepfakesWeb.com 
+
+Larger companies started to use deepfakes. The mobile app giant Momo (software)|Momo created the application Zao which allows users to superimpose their face on television and movie clips with a single picture. They intend to use these for fashion and apparel.
+
+As of 2020 audio deepfakes, and AI software capable of detecting deepfakes and digital cloning|cloning human voices after 5 seconds of listening time also exist. A mobile deepfake app, Impressions, was launched in March 2020. It was the first app for the creation of celebrity deepfake videos from mobile phones.
+

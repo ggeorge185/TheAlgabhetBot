@@ -1,0 +1,2 @@
+The Laws of Robotics presume that the terms "human being" and "robot" are understood and well defined. In some stories this presumption is overturned.
+

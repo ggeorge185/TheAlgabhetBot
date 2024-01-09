@@ -1,0 +1,24 @@
+class="wikitable"
+! scope="col"| Year
+! scope="col"| Title
+! scope="col"| Album
+|-
+|rowspan="3"| 2021
+| "Mixed Messages (song)|Mixed Messages"
+| ''Artificial Intelligence (EP)|Artificial Intelligence''
+|-
+| "Fruit Salad"
+| Non-album single
+| ''Big Dumb Idiot''
+|-
+| rowspan="3" |2023
+|"H.S"
+|Non-album single
+|-
+|"Beautiful Mind"
+|Non-album single
+|-
+|"Perception Check"
+|Non-album single
+|}
+

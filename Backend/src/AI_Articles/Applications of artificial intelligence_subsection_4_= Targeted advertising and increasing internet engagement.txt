@@ -1,0 +1,7 @@
+Main|Marketing and artificial intelligence}}
+AI is used to target web advertisements to those most likely to click or engage in them. It is also used to increase time spent on a website by selecting attractive content for the viewer. It can predict or generalize the behavior of customers from their digital footprints. Both AdSense and Facebook use AI for advertising.
+
+Online gambling companies use AI to improve customer targeting.
+
+Personality computing AI models add psychological targeting to more traditional social demographics or behavioral targeting. AI has been used to customize shopping options and personalize offers.
+

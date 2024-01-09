@@ -1,0 +1,6 @@
+see also|Artificial intelligence art}}
+File:Astronaut Riding a Horse (SDXL).jpg|thumb|upright=1.2|Stable Diffusion, prompt <code>a photograph of an astronaut riding a horse</code>
+Producing high-quality visual art is a prominent application of generative AI. Many such artistic works have received public Artificial intelligence art#Awards and recognition|awards and recognition.
+
+Generative AI systems trained on sets of images with Caption (text)|text captions include Google Brain|Imagen, DALL-E, Midjourney, Adobe Firefly, Stable Diffusion and others (see Artificial intelligence art, Generative art, and Synthetic media). They are commonly used for Text-to-image model|text-to-image generation and neural style transfer. Datasets include LAION|LAION-5B and others (See List of datasets in computer vision and image processing).
+

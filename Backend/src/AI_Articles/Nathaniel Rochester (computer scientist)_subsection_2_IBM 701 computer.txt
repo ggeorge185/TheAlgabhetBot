@@ -1,0 +1,2 @@
+In 1948, Rochester moved to IBM, where he co-designed, along with Jerrier A. Haddad|Jerrier Haddad, the first mass-produced scientific computer, the IBM 701. He wrote the first symbolic assembly language|assembler, which allowed programs to be written in short, readable commands rather than pure numbers or punch codes. He became the chief architect of IBM's IBM 700/7000 series|700 series of computers.
+

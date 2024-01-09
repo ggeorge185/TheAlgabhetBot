@@ -1,0 +1,15 @@
+File:Fallback in Behavior tree.png|thumb|right|Figure I. Graphical representation of a fallback composition of N tasks.
+
+Fallback nodes are used to find and execute the first child that does not fail. A fallback node will return with a status code of success or running immediately when one of its children returns success or running (see Figure I and the pseudocode below). The children are ticked in order of importance, from left to right.
+
+In pseudocode, the algorithm for a fallback composition is:
+
+ 1 '''for''' i from 1 to n '''do'''
+ 2     childstatus ← Tick(child(i))
+ 3     '''if''' childstatus = running
+ 4         '''return''' running
+ 5     '''else if''' childstatus = success
+ 6         '''return''' success
+ 7 '''end'''
+ 8 '''return''' failure
+

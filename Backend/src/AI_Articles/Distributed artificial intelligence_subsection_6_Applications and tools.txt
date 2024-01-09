@@ -1,0 +1,10 @@
+Areas where DAI have been applied are:
+* E-commerce|Electronic commerce, e.g. for Trading strategy|trading strategies the DAI system learns financial trading rules from subsamples of very large samples of financial data
+* Telecommunications network|Networks, e.g. in telecommunications the DAI system controls the cooperative resources in a Wireless LAN|WLAN network 
+* Scheduling (production processes)|Routing, e.g. model vehicle flow in transport networks
+* Scheduling (production processes)|Scheduling, e.g. flow shop scheduling where the resource management entity ensures local optimization and cooperation for global and local consistency
+* Multi-Agent systems, e.g. artificial life, the study of Artificial life|simulated life
+* Electric power systems, e.g. Condition Monitoring Multi-Agent System (COMMAS) applied to transformer condition monitoring, and IntelliTEAM II Automatic Restoration System
+DAI integration in tools has included: 
+* ECStar is a distributed rule-based learning system.
+

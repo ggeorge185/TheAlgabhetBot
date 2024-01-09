@@ -1,0 +1,9 @@
+Main|Gaussian processes}}
+Image:Regressions sine demo.svg|thumbnail|right|An example of Gaussian Process Regression (prediction) compared with other regression models
+
+A Gaussian process is a stochastic process in which every finite collection of the random variables in the process has a multivariate normal distribution, and it relies on a pre-defined covariance function, or kernel, that models how pairs of points relate to each other depending on their locations.
+
+Given a set of observed points, or input–output examples, the distribution of the (unobserved) output of a new point as function of its input data can be directly computed by looking like the observed points and the covariances between those points and the new, unobserved point.
+
+Gaussian processes are popular surrogate models in Bayesian optimization used to do hyperparameter optimization.
+

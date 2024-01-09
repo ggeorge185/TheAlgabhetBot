@@ -1,0 +1,10 @@
+Deepfakes rely on a type of Artificial neural network|neural network called an autoencoder. These consist of an encoder, which reduces an image to a lower dimensional latent space, and a decoder, which reconstructs the image from the latent representation. Deepfakes utilize this architecture by having a universal encoder which encodes a person in to the latent space. The latent representation contains key features about their facial features and body posture. This can then be decoded with a model trained specifically for the target. Both algorithms improve constantly in a Zero-sum game|zero sum game. The use of AI technology was a major issue in the 2023 SAG-AFTRA strike, as new techniques enabled the capability of generating and storing a digital likeness to use in place of actors.
+
+Disney has improved their visual effects using high-resolution deepfake face swapping technology. Disney improved their technology through progressive training programmed to identify facial expressions, implementing a face-swapping feature, and iterating in order to stabilize and refine the output. Disney's deepfake generation model can produce AI-generated media at a 1024 x 1024 resolution, as opposed to common models that produce media at a 256 x 256 resolution. Similar technology was initially used by fans to unofficially insert faces into existing media, such as  overlaying Harrison Ford's young face onto Han Solo's face in ''Solo: A Star Wars Story''. Disney used deepfakes for the characters of Princess Leia and Grand Moff Tarkin in ''Rogue One.''
+
+The 2020 documentary ''Welcome to Chechnya'' used deepfake technology to obscure the identity of the people interviewed, so as to protect them from retaliation.
+
+Creative Artists Agency has developed a facility to capture the likeness of an actor "in a single day", to develop a digital clone of the actor, which would be controlled by the actor or their estate alongside other personality rights.  
+
+Companies which have used digital clones of professional actors in advertisements include Puma (brand)|Puma, Nike, Inc.|Nike and Procter & Gamble. 
+

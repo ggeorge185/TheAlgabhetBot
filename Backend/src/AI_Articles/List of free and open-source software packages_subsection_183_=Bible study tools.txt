@@ -1,0 +1,5 @@
+Go Bible – A free Bible viewer application for Java mobile phones
+* Marcion (software)|Marcion – Coptic language|Coptic–English language|English/Czech language|Czech dictionary
+* OpenLP – A worship presentation program licensed under the GNU General Public License
+* The SWORD Project – The CrossWire Bible Society's free software project
+

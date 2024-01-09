@@ -1,0 +1,6 @@
+Artificial intelligence communication requires a machine to natural language understanding|understand natural language and to natural language generation|generate language that is natural. Meta AI seeks to improve these technologies to improve safe communication regardless of what language the user might speak. Thus, a central task involves the generalization of natural language processing (NLP) technology to other languages. As such, Meta AI actively works on unsupervised machine translation. Meta AI seeks to improve natural language user interface|natural-language interfaces by developing aspects of chitchat dialogue such as repetition, specificity, response-relatedness and question-asking, incorporating personality into image captioning, and generating creativity-based language.
+
+In 2018, Meta AI launched the open-source PyText, a modeling framework focused on NLP systems.
+
+In 2023, Meta AI announced and open sourced LLaMA (Large Language Model Meta AI), a 65B parameter large language model.
+

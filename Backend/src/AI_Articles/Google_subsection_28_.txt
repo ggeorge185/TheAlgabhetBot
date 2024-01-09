@@ -1,0 +1,17 @@
+class="wikitable sortable"
+|-
+! SN !! City !! Country
+|-
+| 1. || Belo Horizonte || 
+|-
+| 2. || Bogotá  ||
+|-
+| 3. || Buenos Aires ||
+|-
+| 4. || Mexico City ||
+|-
+| 5. || Santiago de Chile ||
+|-
+| 6. || São Paulo || 
+|}
+

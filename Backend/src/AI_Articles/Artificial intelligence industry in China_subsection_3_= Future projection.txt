@@ -1,0 +1,11 @@
+By 2025, the State Council aims for China to make fundamental contributions to basic AI theory and to solidify its place as a global leader in AI research. Further, the State Council aims for AI to become "the main driving force for China's industrial upgrading and economic transformation" by this time. The State Council projects the value of the core AI industry in China to be worth 400 billion RMB, with a value of over 5 trillion RMB when accounting for related industries. China is by far the United States' most ambitious competitor in the international AI market, and China's 2017 "Next Generation AI Development Plan" describes AI as a "strategic technology" that has become a "focus of international competition". The report highlighted China's score might be higher in reality since the AI index did not measure actual AI implementation itself.
+
+# 2020 as the first benchmark: China's AI industry could match most AI-advanced nations with a value of 150 billion RMB;
+# 2025 as the second benchmark: become a world leader in certain AI fields with a value of 400 billion RMB;
+# 2030 as the third benchmark: become the world's primary AI innovation hub with a value of over 10 trillion RMB
+According to China's 14th Five-Year Plans, the document covering China's plans for the period between 2021 and 2025 released in 2021 by the National People's Congress,  the following goals were highlighted:
+
+# Breakthrough core AI technology barriers '突破核心技术'
+# Enhance the digital economy and integrate industrial AI implementation to reach a smart economy ecosystem and a full digital transformation '打造数字经济优势，融合产业应用与数字化转型，逐渐形成智能经济形态'
+# Have a comprehensive regulatory framework addressing potential concerns and risks brought by AI '构建与数字经济发展相适应的政策法规体系'
+

@@ -1,0 +1,4 @@
+Midjourney is currently only accessible through a Discord bot on their official Discord server, by direct messaging the bot, or by inviting the bot to a third party server. To generate images, users use the  command and type in a prompt; the bot then returns a set of four images. Users may then choose which images they want to Image scaling|upscale. Midjourney is also working on a web interface.
+
+Beyond the  command, Midjourney offers many other commands to send to the Discord bot. Including but not limited to the  command which allows the user to blend two images, the  command allowing the user to get suggestions on how to make a long prompt shorter, and others which improve upon the Midjourney experience.
+

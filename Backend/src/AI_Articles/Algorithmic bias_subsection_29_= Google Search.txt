@@ -1,0 +1,2 @@
+While users generate results that are "completed" automatically, Google has failed to remove sexist and racist autocompletion text. For example, ''Algorithms of Oppression|Algorithms of Oppression: How Search Engines Reinforce Racism'' Safiya Noble notes an example of the search for "black girls", which was reported to result in pornographic images. Google claimed it was unable to erase those pages unless they were considered unlawful.
+

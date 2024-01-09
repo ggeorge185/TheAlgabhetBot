@@ -1,0 +1,2 @@
+Most behavior-based robots are programmed with a basic set of features to start them off. They are given a behavioral repertoire to work with dictating what behaviors to use and when, obstacle avoidance and battery charging can provide a foundation to help the robots learn and succeed. Rather than build world models, behavior-based robots simply react to their environment and problems within that environment. They draw upon internal knowledge learned from their past experiences combined with their basic behaviors to resolve problems.
+

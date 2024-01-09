@@ -1,0 +1,7 @@
+Main|Computer science education}}
+'''Computer Science''', known by its near synonyms, '''Computing''', '''Computer Studies''', has been taught in UK schools since the days of batch processing, punched cards|mark sensitive cards and paper tape but usually to a select few students. In 1981, the BBC produced a BBC Model B|micro-computer and Econet|classroom network and Computer Studies became common for GCE O level students (11–16-year-old), and Computer Science to A level students. Its importance was recognised, and it became a compulsory part of the National Curriculum, for Key Stage 3 & 4. In September 2014 it became an entitlement for all pupils over the age of 4.
+
+In the United States|US, with 14,000 school districts deciding the curriculum, provision was fractured. According to a 2010 report by the Association for Computing Machinery (ACM) and Computer Science Teachers Association (CSTA), only 14 out of 50 states have adopted significant education standards for high school computer science. According to a 2021 report, only 51% of high schools in the US offer computer science.
+
+Israel, New Zealand, and South Korea have included computer science in their national secondary education curricula, and several others are following.
+

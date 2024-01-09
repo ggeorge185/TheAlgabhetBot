@@ -1,0 +1,10 @@
+APC: Advanced process control, including feedforward, decoupling, inferentials, and custom algorithms; usually implies DCS-based.
+*ARC: Advanced regulatory control, including adaptive gain, override, logic, fuzzy logic, sequence control, device control, and custom algorithms; usually implies DCS-based. 
+*Base-Layer: Includes DCS, SIS, field devices, and other DCS subsystems, such as analyzers, equipment health systems, and PLCs. 
+*BPCS: Basic process control system (see "base-layer")
+*DCS: Distributed control system, often synonymous with BPCS
+*MPO: Manufacturing planning optimization
+*MPC: Multivariable Model predictive control
+*SIS: Safety instrumented system
+*SME: Subject matter expert
+

@@ -1,0 +1,14 @@
+VCA is a relatively new technology, with numerous companies releasing VCA-enhanced products in the mid-2000s. While there are many applications, the track record of different VCA solutions differ widely. Functionalities such as motion detection, people counting and gun detection are available as commercial off-the-shelf products and believed to have a decent track-record (for example, even freeware such as dsprobotics Flowstone can handle movement and color analysis). In response to the COVID-19 pandemic, many software manufacturers have introduced new public health analytics like Face masks during the COVID-19 pandemic|face mask detection or social distancing tracking.
+
+In many domains VCA is implemented on Closed-circuit television|CCTV systems, either distributed on the cameras (at-the-edge) or centralized on dedicated processing systems. Video Analytics and Smart CCTV are commercial terms for VCA in the security domain. In the UK the BSIA has developed an introduction guide for VCA in the security domain. In addition to video analytics and to complement it, audio analytics can also be used.
+
+Video management software manufacturers are constantly expanding the range of the video analytics modules available. With the new suspect tracking technology, it is then possible to track all of this subject's movements easily:  where they came from, and when, where, and how they moved. Within a particular surveillance system, the indexing technology is able to locate people with similar features who were within the cameras’ viewpoints during or within a specific period of time. Usually, the system finds a lot of different people with similar features and presents them in the form of snapshots. The operator only needs to click on those images and subjects which need to be tracked. Within a minute or so, it's possible to track all the movements of a particular person, and even to create a step-by-step video of the movements.
+
+Kinect is an add-on peripheral for the Xbox 360 gaming console that uses VCA for part of the user input.
+
+In retail industry, VCA is used to track shoppers inside the store. By this way, a heatmap of the store can be obtained, which is beneficial for store design and marketing optimisations. Other applications include dwell time when looking at a products and item removed/left detection.
+
+The quality of VCA in the commercial setting is difficult to determine. It depends on many variables such as use case, implementation, computer configuration|system configuration and computing platform. Typical methods to get an objective idea of the quality in commercial settings include independent benchmarking and designated test locations.
+
+VCA has been used for Crowd control|crowd management purposes, notably at The O2 Arena in London and The London Eye.
+

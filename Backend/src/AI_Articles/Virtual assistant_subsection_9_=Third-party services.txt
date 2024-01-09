@@ -1,0 +1,2 @@
+Amazon enables Alexa "Skills" and Google "Actions", essentially applications that run on the assistant platforms.
+

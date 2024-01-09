@@ -1,0 +1,12 @@
+Narrative Science sells computer generated journalism|computer-generated news and reports. It summarizes sporting events based on statistical data from the game. It also creates financial reports and real estate analyses. Automated Insights generates personalized recaps and previews for Yahoo Sports Fantasy football (American)|Fantasy Football.
+
+Yseop, uses AI to turn structured data into natural language comments and recommendations. Yseop writes financial reports, executive summaries, personalized sales or marketing documents and more in multiple languages, including English, Spanish, French, and German.
+
+TALESPIN made up stories similar to the Aesop's Fables|fables of Aesop. The program started with a set of characters who wanted to achieve certain goals. The story narrated their attempts to satisfy these goals. Mark Riedl and Vadim Bulitko asserted that the essence of storytelling was experience management, or "how to balance the need for a coherent story progression with user agency, which is often at odds".
+
+While AI storytelling focuses on story generation (character and plot), story communication also received attention. In 2002, researchers developed an architectural framework for narrative prose generation. They faithfully reproduced text variety and complexity on stories such as Little Red Riding Hood. In 2016, a Japanese AI co-wrote a short story and almost won a literary prize.
+
+South Korean company Hanteo Global uses a journalism bot to write articles.
+
+Literary authors are also exploring uses of AI. An example is David Jhave Johnston's work ''ReRites'' (2017-2019), where the poet created a daily rite of editing the poetic output of a neural network to create a series of performances and publications.
+

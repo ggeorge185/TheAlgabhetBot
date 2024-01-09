@@ -1,0 +1,4 @@
+Many tandem mass spectrometry '''('''MS/MS''')''' based metabolomics studies, such as library matching and molecular networking, use spectral similarity as a proxy for structural similarity. Spec2vec algorithm provides a new way of spectral similarity score, based on Word2vec|Word2Vec. Spec2Vec learns fragmental relationships within a large set of spectral data, in order to assess spectral similarities between molecules and to classify unknown molecules through these comparisons.
+
+For systemic annotation, some metabolomics studies rely on fitting measured fragmentation mass spectra to library spectra or contrasting spectra via network analysis. Scoring functions are used to determine the similarity between pairs of fragment spectra as part of these processes. So far, no research has suggested scores that are significantly different from the commonly utilized Cosine similarity|cosine-based similarity.
+

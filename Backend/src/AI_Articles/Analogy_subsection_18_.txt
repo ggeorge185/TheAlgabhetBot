@@ -1,0 +1,4 @@
+Often a physical prototype is built to model and represent some other physical object. For example, wind tunnels are used to test scale models of wings and aircraft which are analogous to (correspond to) full-size wings and aircraft.
+
+For example, the MONIAC Computer|MONIAC (an analog computer|analogue computer) used the flow of water in its pipes as an analogue to the flow of money in an economy.
+

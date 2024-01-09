@@ -1,0 +1,2 @@
+Separation of concerns can be implemented and enforced via partial classes.
+

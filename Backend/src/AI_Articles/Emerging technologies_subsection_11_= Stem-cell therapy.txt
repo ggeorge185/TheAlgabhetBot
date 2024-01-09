@@ -1,0 +1,6 @@
+Main|Stem-cell therapy}}
+
+''Stem cell therapy'' is an intervention strategy that introduces new adult stem cells into damaged tissue in order to treat disease or injury. Many medical researchers believe that stem cell treatments have the potential to change the face of human disease and alleviate suffering. The ability of stem cells to self-renew and give rise to subsequent generations with variable degrees of differentiation capacities offers significant potential for generation of tissues that can potentially replace diseased and damaged areas in the body, with minimal risk of rejection and side effects.
+
+Chimeric antigen receptor (CAR)-modified T cells have raised among other immunotherapies for cancer treatment, being implemented against B-cell malignancies. Despite the promising outcomes of this innovative technology, CAR-T cells are not exempt from limitations that must yet to be overcome in order to provide reliable and more efficient treatments against other types of cancer.
+

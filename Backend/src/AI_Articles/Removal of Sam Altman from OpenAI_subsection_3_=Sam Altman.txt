@@ -1,0 +1,5 @@
+Main|Sam Altman}}
+Sam Altman is a co-founder of OpenAI and its former chief executive; Altman took over the company following co-chair Elon Musk's resignation in 2018. Under Altman, OpenAI has shifted to becoming a for-profit entity. Altman testified before the United States Congress speaking critically of artificial intelligence and appeared at the 2023 AI Safety Summit.
+
+In the days leading up to his removal, Altman made several public appearances, announcing the GPT-4 Turbo platform at OpenAI's DevDay conference, attending APEC United States 2023,
+

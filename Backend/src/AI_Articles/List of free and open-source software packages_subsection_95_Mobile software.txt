@@ -1,0 +1,13 @@
+Celestia (Android, iOS)
+* Calligra (Android)
+* Collabora Online Libre office for online colcaboration and mobile devices. (Android)
+* Kiwix: Offline web browser that allows users to download the entire content of Wikipedia for offline learning purposes. (Android)
+* Krita (Android, iOS)
+* Maps.me (Android)
+* Organic Maps (Android, iOS)
+* OsmAnd (Android)
+* Stellarium (software)|Stellarium (Android, iOS)
+* Tor Browser – onion-routed browser by The Tor Project, based on Firefox ESR
+* VLC media player|VLC (Android, iOS)
+* Wikipedia (Android, iOS) - See also: List of Wikipedia mobile applications
+

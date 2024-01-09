@@ -1,0 +1,2 @@
+Image restoration techniques are commonly used in digital photography to correct imperfections caused by factors like motion blur, lens aberrations, and sensor noise. They can also be used to restore old and damaged photographs.
+

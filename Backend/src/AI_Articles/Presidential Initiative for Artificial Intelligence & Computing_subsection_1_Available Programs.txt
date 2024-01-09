@@ -1,0 +1,7 @@
+PIAIC is currently offering following of the technologies:
+
+* Artificial intelligence|Artificial Intelligence
+* Cloud computing|Cloud Native and Mobile Web Computing
+* Blockchain
+* Internet of things|Internet of Things(IoT)
+

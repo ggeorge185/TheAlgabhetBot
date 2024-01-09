@@ -1,0 +1,3 @@
+Image:Robocup.legged.leauge.2004.nk.jpg|thumb|right|200px|A legged league game from RoboCup 2004 in Lisbon, Portugal
+The RoboCup and Federation of International Robot-soccer Association|FIRA are annual international robot soccer competitions. The International RoboCup Federation challenge is by 2050 "a team of fully autonomous humanoid robot soccer players shall win the soccer game, comply with the official rule of the FIFA, against the winner of the most recent World Cup."
+

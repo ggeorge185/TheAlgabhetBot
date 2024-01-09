@@ -1,0 +1,15 @@
+Possible applications of industrial AI and machine learning in the production domain can be divided into seven application areas:
+
+* Market & Trend Analysis
+* Machinery & Equipment
+* Intralogistics
+* Production Process
+* Supply Chain
+* Building
+* Product
+
+File:Taxonomy of Application Areas.png|thumb|653x653px|Taxonomy of application areas and application scenarios for machine learning and artificial intelligence in production.
+Each application area can be further divided into specific application scenarios that describe concrete AI/ML scenarios in production. While some application areas have a direct connection to production processes, others cover production adjacent fields like logistics or the factory building.  Predictive maintenance|Predictive and preventive maintenance through data-driven machine learning are examplary application scenarios from the ''Machinery & Equipment'' application area. This poses major challenges for the application of ML in production engineering systems. These challenges are attributable to the encounter of process, data and model characteristics: The production domain's high reliability requirements, high risk and loss potential, the multitude of heterogeneous data sources and the non-transparency of ML model functionality impede a faster adoption of ML in real-world production processes.
+File:Challenges for Machine Learning in Production.png|left|thumb|641x641px|The challenges for ML applications in production engineering result from the encounter of process, data and ML model characteristics.
+In particular, production data comprises a variety of different modalities, semantics and quality. Furthermore, production systems are dynamic, uncertain and complex, Besides that, due the variety of use cases and data characteristics, problem-specific data sets are required, which are difficult to acquire, hindering both practitioners and academic researchers in this domain.
+

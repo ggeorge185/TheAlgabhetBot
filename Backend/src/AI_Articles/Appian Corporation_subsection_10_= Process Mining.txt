@@ -1,0 +1,4 @@
+Process mining is the act of analyzing, improving, and monitoring business processes. In April 2022, process mining was fully integrated into the Appian platform. Appian uses process mining to identify any business inefficiencies, then uses low-code to draw a visual representation of a more efficient workflow, and follows up with a second round of process mining after implementation to make sure that the new process has solved the problem
+
+Appian includes the Mine Process history plug-in that lets users automatically import process data into the process mining product for further analysis. It also includes a no-code module.
+

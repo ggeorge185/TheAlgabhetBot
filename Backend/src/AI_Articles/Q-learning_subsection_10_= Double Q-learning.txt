@@ -1,0 +1,10 @@
+Because the future maximum approximated action value in Q-learning is evaluated using the same Q function as in current action selection policy, in noisy environments Q-learning can sometimes overestimate the action values, slowing the learning. A variant called Double Q-learning was proposed to correct this. Double Q-learning is an off-policy reinforcement learning algorithm, where a different policy is used for value evaluation than what is used to select the next action.
+
+In practice, two separate value functions  <math>Q^A</math> and <math>Q^B</math> are trained in a mutually symmetric fashion using separate experiences. The double Q-learning update step is then as follows:
+:<math>Q^A_(s_, a_) = Q^A_(s_, a_) + \alpha_(s_, a_) \left(r_ + \gamma Q^B_\left(s_, \mathop\operatorname_ Q^A_t(s_, a)\right) - Q^A_(s_, a_)\right)</math>, and
+:<math>Q^B_(s_, a_) = Q^B_(s_, a_) + \alpha_(s_, a_) \left(r_ + \gamma Q^A_\left(s_, \mathop\operatorname_ Q^B_t(s_, a)\right) - Q^B_(s_, a_)\right).</math>
+
+Now the estimated value of the discounted future is evaluated using a different policy, which solves the overestimation issue.
+
+This algorithm was later modified in 2015 and combined with deep learning, as in the DQN algorithm, resulting in Double DQN, which outperforms the original DQN algorithm.
+

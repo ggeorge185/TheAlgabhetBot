@@ -1,0 +1,14 @@
+Main list|List of open-source software for mathematics}}
+* ALTRAN
+* FriCAS
+* GAP (computer algebra system)
+* GiNaC
+* gnuplot
+* Maxima (software)|Maxima
+* Mathomatic
+* Normaliz
+* SageMath
+* Singular (software)
+* SymPy
+* Yacas
+

@@ -1,0 +1,4 @@
+Progress in artificial intelligence has historically gone through periods of rapid progress separated by periods when progress appeared to stop. Ending each hiatus were fundamental advances in hardware, software or both to create space for further progress. For example, the computer hardware available in the twentieth century was not sufficient to implement deep learning, which requires large numbers of Graphics processing unit|GPU-enabled Central processing unit|CPUs.
+
+A further challenge is the lack of clarity in defining what intelligence entails. Does it require consciousness? Must it display the ability to set goals as well as pursue them? Is it purely a matter of scale such that if model sizes increase sufficiently, intelligence will emerge? Are facilities such as planning, reasoning, and causal understanding required? Does intelligence require explicitly replicating the brain and its specific faculties? Does it require emotions?
+

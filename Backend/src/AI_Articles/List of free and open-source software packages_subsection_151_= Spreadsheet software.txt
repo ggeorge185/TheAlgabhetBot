@@ -1,0 +1,14 @@
+class="wikitable sortable"
+|+ Caption text
+|-
+! Software !! Operating system !! Format
+|-
+| Gnumeric || Unix-like (Linux included) || .gnm, .gnumeric
+|-
+| GNU Oleo || Linux || .oleo
+|-
+| Pyspread || Unix-like, Windows || .CSV, .XLS, .SVG, .PDF
+|-
+| Sheetster || Cross-platform software|Cross-platform || JSON, XML, .XLS, .CSV, xlsx/.ooxml, .exml, .zip
+|}
+

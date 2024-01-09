@@ -1,0 +1,13 @@
+The question of whether it is possible for machines to think has a long history, which is firmly entrenched in the distinction between dualism (philosophy of mind)|dualist and materialism|materialist views of the mind. René Descartes prefigures aspects of the Turing test in his 1637 ''Discourse on the Method'' when he writes: }}
+Here Descartes notes that automata are capable of responding to human interactions but argues that such automata cannot respond appropriately to things said in their presence in the way that any human can. Descartes therefore prefigures the Turing test by defining the insufficiency of appropriate linguistic response as that which separates the human from the automaton. Descartes fails to consider the possibility that future automata might be able to overcome such insufficiency, and so does not propose the Turing test as such, even if he prefigures its conceptual framework and criterion.
+
+Denis Diderot formulates in his 1746 book ''Philosophical Thoughts|Pensées philosophiques'' a Turing-test criterion, though with the important implicit limiting assumption maintained, of the participants being natural living beings, rather than considering created artifacts:
+
+
+
+This does not mean he agrees with this, but that it was already a common argument of materialists at that time.
+
+According to dualism, the mind is non-physical entity|non-physical (or, at the very least, has property dualism|non-physical properties) and, therefore, cannot be explained in purely physical terms. According to materialism, the mind can be explained physically, which leaves open the possibility of minds that are produced artificially.
+
+In 1936, philosopher Alfred Ayer considered the standard philosophical question of other minds problem|other minds: how do we know that other people have the same conscious experiences that we do? In his book, ''Language, Truth and Logic'', Ayer suggested a protocol to distinguish between a conscious man and an unconscious machine: "The only ground I can have for asserting that an object which appears to be conscious is not really a conscious being, but only a dummy or a machine, is that it fails to satisfy one of the empirical tests by which the presence or absence of consciousness is determined." (This suggestion is very similar to the Turing test, but it is not certain that Ayer's popular philosophical classic was familiar to Turing.) In other words, a thing is not conscious if it fails the consciousness test.
+

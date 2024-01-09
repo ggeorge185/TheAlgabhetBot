@@ -1,0 +1,4 @@
+OpenArena – First-person shooter.
+*Xonotic – First-person shooter that runs on a heavily modified version of the Quake engine known as the DarkPlaces engine
+*Warsow (video game)|''Warsow'' – First-person shooter fast-paced Shooter game#Arena shooter|arena FPS game that runs on the Qfusion engine
+

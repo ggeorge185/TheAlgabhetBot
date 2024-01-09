@@ -1,0 +1,2 @@
+An AI box is a proposed method of capability control in which an AI is run on an isolated computer system with heavily restricted input and output channels—for example, text-only channels and no connection to the internet. The purpose of an AI box is to reduce the risk of the AI taking control of the environment away from its operators, while still allowing the AI to output solutions to narrow technical problems.
+

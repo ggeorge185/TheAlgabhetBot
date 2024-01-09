@@ -1,0 +1,5 @@
+The potential uses of AI in government are wide and varied, with Deloitte considering that "Cognitive technologies could eventually revolutionize every facet of government operations". Mehr suggests that six types of government problems are appropriate for AI applications:
+*Social insurance service provision)
+* Detecting and preventing the spread of diseases
+* Monitoring social media to identify emergency situations
+

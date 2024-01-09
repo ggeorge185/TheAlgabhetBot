@@ -1,0 +1,4 @@
+Main|Knowledge representation and reasoning}}
+
+Multiple different approaches to represent knowledge and then reason with those representations have been investigated. Below is a quick overview of approaches to knowledge representation and automated reasoning.
+

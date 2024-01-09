@@ -1,0 +1,8 @@
+CMU Sphinx – Speech recognition software from Carnegie Mellon University
+*Emacspeak – Audio desktop
+*ESpeak – Compact software Speech synthesis|speech synthesizer for English and other languages
+*Festival Speech Synthesis System – General multilingual speech synthesis
+*Modular Audio Recognition Framework – Voice, audio, speech Natural language processing|NLP processing
+*NonVisual Desktop Access – (NVDA) Screen reader, for Windows
+*Text2Speech – Lightweight, easy-to-use Text-To-Speech (TTS) Software
+

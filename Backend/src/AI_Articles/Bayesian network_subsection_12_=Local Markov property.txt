@@ -1,0 +1,17 @@
+X'' is a Bayesian network with respect to ''G'' if it satisfies the ''local Markov property'': each variable is Conditional independence|conditionally independent of its non-descendants given its parent variables:
+
+:<math> X_v \perp\!\!\!\perp X_(v)} \mid X_(v)} \quad\textv \in V</math>
+
+where de(''v'') is the set of descendants and ''V''&nbsp;\&nbsp;de(''v'') is the set of non-descendants of ''v''.
+
+This can be expressed in terms similar to the first definition, as
+
+:<math>
+\begin
+& \operatorname P(X_v=x_v \mid  X_i=x_i \text X_i \text X_v\, ) \\[6pt]
+=  & P(X_v=x_v \mid X_j=x_j \text X_j \text X_v\, )
+\end
+</math>
+
+The set of parents is a subset of the set of non-descendants because the graph is Cycle (graph theory)|acyclic.
+

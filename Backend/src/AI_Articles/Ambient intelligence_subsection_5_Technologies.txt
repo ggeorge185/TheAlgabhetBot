@@ -1,0 +1,10 @@
+A variety of technologies can be used to enable ambient intelligence environments, such as:
+* Bluetooth Low Energy
+*Radio-frequency identification|RFID
+*Microchip implant (human)|Microchip implant
+* Sensors: Ambient light sensor (photodetector), thermometers, proximity sensors, and motion detectors
+*Software agents
+* Affective computing
+* Nanotechnology
+* Biometrics
+

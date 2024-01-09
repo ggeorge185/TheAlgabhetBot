@@ -1,0 +1,6 @@
+Main|Ethics of artificial intelligence|Machine ethics|Roboethics}}
+
+If it were suspected that a particular machine was conscious, its rights would be an ethics|ethical issue that would need to be assessed (e.g. what rights it would have under law). For example, a conscious computer that was owned and used as a tool or central computer of a building of larger machine is a particular ambiguity. Should laws be made for such a case? Consciousness would also require a legal definition in this particular case. Because artificial consciousness is still largely a theoretical subject, such ethics have not been discussed or developed to a great extent, though it has often been a theme in fiction (see below).
+
+In 2021, German philosopher Thomas Metzinger argued for a global moratorium on synthetic phenomenology until 2050. Metzinger asserts that humans have a duty of care towards any sentient AIs they create, and that proceeding too fast risks creating an "explosion of artificial suffering".
+

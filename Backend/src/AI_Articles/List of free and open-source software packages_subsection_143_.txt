@@ -1,0 +1,4 @@
+Lynx (web browser)|Lynx - a text-based web browser developed since 1992
+*Links (web browser)|Links - a Text-based user interface|text-based browser with a Linux framebuffer|framebuffer-based graphical mode
+*ELinks - fork of Links with JavaScript support
+

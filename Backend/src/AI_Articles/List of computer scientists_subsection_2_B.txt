@@ -1,0 +1,56 @@
+Please keep entries in alphabetical order -->
+* Charles Babbage (1791–1871) – invented first mechanical computer called the supreme mathematician
+* Charles Bachman – American computer scientist, known for Integrated Data Store
+* Roland Carl Backhouse – mathematics of computer program construction, algorithmic problem solving, ALGOL
+* John Backus – FORTRAN, Backus–Naur form, first complete compiler
+* David F. Bacon – programming languages, garbage collection
+* David Bader (computer scientist)|David Bader
+* Victor Bahl
+* Anthony James Barr – SAS System
+* Jean Bartik (1924–2011) – one of the first Computer programming#History|computer programmers, on ENIAC (1946), one of the first Vacuum tube Vacuum tube#Use in electronic computers|computers, back when "programming" involved using cables, dials, and switches to physically rewire the machine; worked with John Mauchly toward BINAC (1949), EDVAC (1949), UNIVAC (1951) to develop early "stored program" computers
+* Andrew Barto
+* Friedrich L. Bauer – Stack (data structure), ''Sequential Formula Translation'', ALGOL, software engineering, Bauer–Fike theorem
+* Rudolf Bayer – B-tree
+* Gordon Bell (born 1934) – computer designer Digital Equipment Corporation|DEC VAX, author: ''Computer Structures''
+* Steven M. Bellovin – network security
+* Cecilia Berdichevsky (1925–2010) pioneering Argentinian computer scientist
+* Tim Berners-Lee – World Wide Web
+* Daniel J. Bernstein – qmail, software as protected speech
+* Peter Bernus
+* Jeff Bezos – Founder of Amazon (company)|Amazon
+* Abhay Bhushan
+* Dines Bjørner – Vienna Development Method (VDM), Rigorous Approach to Industrial Software Engineering|RAISE
+* Gerrit Blaauw – one of the principal designers of the IBM System 360 line of computers
+* Sue Black (computer scientist)|Sue Black
+* David Blei
+* Dorothy Blum – National Security Agency
+* Lenore Blum – complexity
+* Manuel Blum – cryptography
+* Barry Boehm – software engineering economics, spiral development
+* Corrado Böhm – author of the structured program theorem
+* Kurt Bollacker
+* Jeff Bonwick – invented slab allocation and ZFS
+* Grady Booch – Unified Modeling Language, Object Management Group
+* George Boole – Boolean logic
+* Andrew Donald Booth|Andrew Booth – developed the first drum memory|rotating drum storage device
+* Kathleen Booth – developed the first assembly language
+* Anita Borg (1949–2003) – American computer scientist, founder of Anita Borg Institute for Women and Technology
+* Bert Bos – Cascading Style Sheets
+* Mikhail Botvinnik – World Chess Champion, computer scientist and electrical engineer, pioneered early expert system AI and computer chess
+* Jonathan Bowen – Z notation, formal methods
+* Stephen R. Bourne – Bourne shell, portable ALGOL 68C compiler
+* Harry Bouwman (born 1953) – Dutch Information systems researcher, and Professor at the Åbo Akademi University
+* Robert S. Boyer – string searching, ACL2 theorem prover
+* Karlheinz Brandenburg – Main mp3 contributor
+* Gilles Brassard - BB84 protocol and quantum cryptography pioneer
+* Lawrence M. Breed – implementation of Iverson Notation (APL), co-developed APL (programming language)|APL\360, Scientific Time Sharing Corporation cofounder
+* Jack E. Bresenham – early computer-graphics contributions, including Bresenham's algorithm
+* Sergey Brin – co-founder of Google
+* David J. Brown (computer scientist)|David J. Brown – Unified Memory Architecture|unified memory architecture, binary compatibility
+* Per Brinch Hansen (surname "Brinch Hansen") – RC 4000 multiprogramming system, Kernel (operating system)|operating system kernels, microkernels, Monitor (synchronization)|monitors, concurrent programming, Concurrent Pascal, distributed computing & processes, parallel computing
+* Sjaak Brinkkemper – methodology of product software development
+* Fred Brooks – System 360, OS/360, ''The Mythical Man-Month'', ''No Silver Bullet''
+* Rod Brooks
+* Margaret Burnett – visual programming languages, End-user development|end-user software engineering, and Gender HCI|gender-inclusive software
+* Michael Butler (computer scientist)|Michael Butler – Event-B
+

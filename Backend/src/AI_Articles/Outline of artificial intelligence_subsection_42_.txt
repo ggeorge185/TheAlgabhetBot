@@ -1,0 +1,9 @@
+Nick Bostrom –
+* David Ferrucci – principal investigator who led the team that developed the Watson computer at IBM.
+* Andrew Ng – Director of the Stanford Artificial Intelligence Lab. He founded the Google Brain project at Google, which developed very large scale artificial neural networks using Google's distributed compute infrastructure. He is also co-founder of Coursera, a massive open online course (MOOC) education platform, with Daphne Koller.
+* Peter Norvig – co-author, with Stuart Russell, of ''Artificial Intelligence: A Modern Approach'', now the leading college text in the field.  He is also Director of Research at Google, Inc.
+* Marc Raibert &ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.
+* Stuart J. Russell – co-author, with Peter Norvig, of ''Artificial Intelligence: A Modern Approach'', now the leading college text in the field.
+* Murray Shanahan &ndash; author of ''The Technological Singularity'', a primer on superhuman intelligence.
+* Eliezer Yudkowsky &ndash; founder of the Machine Intelligence Research Institute
+

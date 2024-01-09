@@ -1,0 +1,2 @@
+This allows designers to use low-code to build and manage secure external websites that capture and share data from Appian applications.
+

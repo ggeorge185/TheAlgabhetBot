@@ -1,0 +1,2 @@
+This domain, particularly phylogenetic tree reconstruction, uses the features of machine learning techniques. Phylogenetic trees are schematic representations of the evolution of organisms. Initially, they were constructed using features such as morphological and metabolic features. Later, due to the availability of genome sequences, the construction of the phylogenetic tree algorithm used the concept based on genome comparison. With the help of optimization techniques, a comparison was done by means of multiple sequence alignment.
+

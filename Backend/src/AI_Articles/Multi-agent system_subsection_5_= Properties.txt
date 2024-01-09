@@ -1,0 +1,4 @@
+MAS tend to find the best solution for their problems without intervention. There is high similarity here to physical phenomena, such as energy minimizing, where physical objects tend to reach the lowest energy possible within the physically constrained world. For example: many of the cars entering a metropolis in the morning will be available for leaving that same metropolis in the evening.
+
+The systems also tend to prevent propagation of faults, self-recover and be fault tolerant, mainly due to the redundancy of components.
+

@@ -1,0 +1,17 @@
+Business operations can generate a very large amount of data in the form of e-mails, memos, notes from call-centers, news, user groups, chats, reports, web-pages, presentations, image-files, video-files, and marketing material. According to Merrill Lynch, more than 85% of all business information exists in these forms; a company might only use such a document a single time. Because of the way it is produced and stored, this information is either Unstructured data|unstructured or semi-structured data|semi-structured.
+
+The management of semi-structured data is an unsolved problem in the information technology industry. According to projections from Gartner (2003), white-collar workers spend 30–40% of their time searching, finding, and assessing unstructured data. BI uses both structured and unstructured data. The former is easy to search, and the latter contains a large quantity of the information needed for analysis and decision-making. Because of the difficulty of properly searching, finding, and assessing unstructured or semi-structured data, organizations may not draw upon these vast reservoirs of information, which could influence a particular decision, task, or project. This can ultimately lead to poorly informed decision-making. some of those are:
+
+* Physically accessing unstructured textual data&nbsp;– unstructured data is stored in a huge variety of formats.
+* Terminology&nbsp;– Among researchers and analysts, there is a need to develop standardized terminology.
+* Volume of data&nbsp;– As stated earlier, up to 85% of all data exists as semi-structured data. Couple that with the need for word-to-word and semantic analysis.
+* Searchability of unstructured textual data&nbsp;– A simple search on some data, e.g. apple, results in links where there is a reference to that precise search term. (Inmon & Nesavich, 2008) 
+* Reporting, Dashboard (business)|dashboards and data visualization, executive information system, and/or OLAP
+* BI can facilitate collaboration both inside and outside the business by enabling data sharing and electronic data interchange
+
+* Business analyst
+* Data analyst
+* Data engineer
+* Data scientist
+* Database administrator
+

@@ -1,0 +1,4 @@
+main|Fraud detection}}
+
+Fraud detection deals with the identification of bank fraud, such as money laundering, credit card fraud and telecommunication fraud, which have vast domains of research and applications of machine learning. Because ensemble learning improves the robustness of the normal behavior modelling, it has been proposed as an efficient technique to detect such fraudulent cases and activities in banking and credit card systems.
+

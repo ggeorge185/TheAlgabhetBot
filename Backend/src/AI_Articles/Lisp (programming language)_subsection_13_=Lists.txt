@@ -1,0 +1,14 @@
+A Lisp list is written with its elements separated by Whitespace character|whitespace, and surrounded by parentheses. For example,  is a list whose elements are the three ''atoms'' , , and foo|. These values are implicitly typed: they are respectively two integers and a Lisp-specific data type called a "symbol", and do not have to be declared as such.
+
+The empty list  is also represented as the special atom . This is the only entity in Lisp which is both an atom and a list.
+
+Expressions are written as lists, using Polish notation|prefix notation. The first element in the list is the name of a function, the name of a macro, a lambda expression or the name of a "special operator" (see below). The remainder of the list are the arguments. For example, the function  returns its arguments as a list, so the expression
+<syntaxhighlight lang="Lisp">
+ (list 1 2 (quote foo))
+</syntaxhighlight>
+evaluates to the list . The "quote" before the  in the preceding example is a "special operator" which returns its argument without evaluating it. Any unquoted expressions are recursively evaluated before the enclosing expression is evaluated. For example,
+<syntaxhighlight lang="Lisp">
+ (list 1 2 (list 3 4))
+</syntaxhighlight>
+evaluates to the list . Note that the third argument is a list; lists can be nested.
+

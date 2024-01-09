@@ -1,0 +1,14 @@
+AI researchers have created many tools to solve the most difficult problems in computer science. Many of their inventions have been adopted by mainstream computer science and are no longer considered AI. All of the following were originally developed in AI laboratories:
+* Time sharing
+* Interpreted language|Interactive interpreters
+* Graphical user interfaces and the computer mouse
+* Rapid application development environments
+* The linked list data structure
+* Automatic storage management
+* Third-generation programming language|Symbolic programming
+* Functional programming
+* Dynamic programming
+* Object-oriented programming
+* Optical character recognition
+* Constraint satisfaction
+

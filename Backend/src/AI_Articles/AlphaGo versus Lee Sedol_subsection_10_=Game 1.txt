@@ -1,0 +1,13 @@
+AlphaGo (white) won the first game. Lee appeared to be in control throughout much of the match, but AlphaGo gained the advantage in the final 20 minutes and Lee resigned. David Ormerod, commenting on the game at Go Game Guru, described Lee's seventh stone as "a strange move to test AlphaGo's strength in the opening", characterising the move as a mistake and AlphaGo's response as "accurate and efficient". He described AlphaGo's position as favourable in the first part of the game, considering that Lee started to come back with move 81, before making "questionable" moves at 119 and 123, followed by a "losing" move at 129. Professional Go player Cho Hanseung commented that AlphaGo's game had greatly improved from when it beat Fan Hui in October 2015.
+
+According to 9-dan Go grandmaster Kim Seong-ryong, Lee seemed stunned by AlphaGo's strong play on the 102nd stone. After watching AlphaGo make the game's 102nd move, Lee mulled over his options for more than 10 minutes. "from very beginning of the game I did not feel like there was a point that I was leading". One of the creators of AlphaGo, Demis Hassabis, said that the system was confident of victory from the midway point of the game, even though the professional commentators could not tell which player was ahead.
+
+AlphaGo showed anomalies and moves from a broader perspective which professional Go players described as looking like mistakes at the first sight but an intentional strategy in hindsight. As one of the creators of the system explained, AlphaGo does not attempt to maximize its points or its margin of victory, but tries to maximize its probability of winning.
+
+After the second game, there had still been strong doubts among players whether AlphaGo was truly a strong player in the sense that a human might be. The third game was described as removing that doubt; with analysts commenting that:  provoking it to make a series of very bad moves from black 87 to 101. David Ormerod characterised moves 87 to 101 as typical of Monte Carlo-based program mistakes. For this reason, he requested that he play black in the fifth game, which is considered more risky.
+
+David Ormerod of Go Game Guru stated that although an analysis of AlphaGo's play around 79–87 was not yet available, he believed it was a result of a known weakness in play algorithms which use Monte Carlo tree search. In essence, the search attempts to prune sequences which are less relevant. In some cases, a play can lead to a very specific line of play which is significant, but which is overlooked when the tree is pruned, and this outcome is therefore "off the search radar".
+
+
+
+

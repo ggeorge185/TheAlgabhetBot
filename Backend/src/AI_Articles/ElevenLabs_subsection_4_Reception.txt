@@ -1,0 +1,6 @@
+Following its launch in January 2023, ElevenLabs gained rapid momentum and was commended for its voice output quality, fast generation times, and a "generous free tier". It has also been praised for its ability to accurately pronounce names with unique or uncommon pronunciations, addressing a common shortcoming in similar tools that often cater primarily to Western names. The company reached over one million registered users between its launch and June 2023.
+
+ElevenLabs was criticized after users were able to abuse its software to generate controversial statements in the vocal style of celebrities, public officials, and other famous individuals, In response, the company said it would work on mitigating potential abuse through safeguards and Identity document|identity verification. citing the requirement to provide payment information as means for improving accountability, and has implemented bans on users who repeatedly violate the terms of service.
+
+Additional concerns have been raised over the ethics of the source of ElevenLabs' training data, with multiple Voice acting|voice actors claiming ElevenLabs used samples of their voices without their consent. ElevenLabs, along with other companies in its category, has thus been seen as a potential challenge to the voice acting sector.<ref name="Wiggers"/>
+

@@ -1,0 +1,17 @@
+File:Monsanto’s Future — Farming in 2030 (8427734799).jpg|frameless|right
+Software and algorithms developed by AI researchers are now integrated into many applications throughout the world, without really being called AI. This underappreciation is known from such diverse fields as computer chess, marketing, and hospitality industry|hospitality.
+
+Michael Swaine (technical author)|Michael Swaine reports "AI advances are not trumpeted as artificial intelligence so much these days, but are often seen as advances in some other field". "AI has become more important as it has become less conspicuous", Patrick Winston says. "These days, it is hard to find a big system that does not work, in part, because of ideas developed or matured in the AI world."
+
+According to Stottler Henke, "The great practical benefits of AI applications and even the existence of AI in many software products go largely unnoticed by many despite the already widespread use of AI techniques in software. This is the AI effect. Many marketing people don't use the term 'artificial intelligence' even when their company's products rely on some AI techniques. Why not?"
+
+Marvin Minsky writes "This paradox resulted from the fact that whenever an AI research project made a useful new discovery, that product usually quickly spun off to form a new scientific or commercial specialty with its own distinctive name. These changes in name led outsiders to ask, Why do we see so little progress in the central field of artificial intelligence?"
+
+Nick Bostrom observes that "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labelled AI anymore."
+
+The AI effect on decision-making in supply chain risk management is a severely understudied area.
+
+To avoid the AI effect problem, the editors of a special issue of ''IEEE Software'' on AI and software engineering recommend not overselling  not hype (marketing)|hyping  the real achievable results to start with.
+
+The Bulletin of the Atomic Scientists organization views the AI effect as a worldwide strategic military threat.
+

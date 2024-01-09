@@ -1,0 +1,4 @@
+AI agents can exhibit curiosity through Intrinsic motivation (artificial intelligence)|intrinsic motivation. This can be improve the success of an AI agent at various tasks. In artificial intelligence, curiosity is typically defined quantitatively, as the uncertainty the agent has in predicting its own actions given its current state.
+
+In 2019, a study trained AI agents to play video games, but they were rewarded only for . The agents reliably learned advantageous game behaviors based solely on the curiosity reward.
+

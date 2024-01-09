@@ -1,0 +1,14 @@
+Artificial intelligence systems integration
+* Cognitive architecture
+** LIDA (cognitive architecture)
+** AERA (AI architecture)
+* Agent architecture 
+* Control system
+** Hierarchical control system
+** Networked control system
+* Distributed artificial intelligence –
+* Multi-agent system –
+* Hybrid intelligent system
+* Monitoring and Surveillance Agents
+* Blackboard system
+

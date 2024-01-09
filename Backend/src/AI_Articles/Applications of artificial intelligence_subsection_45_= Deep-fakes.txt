@@ -1,0 +1,12 @@
+Deepfakes|Deep-fakes can be used for comedic purposes but are better known for fake news and hoaxes.
+
+In January 2016, the Horizon 2020 program financed the InVID Project to help journalists and researchers detect fake documents, made available as browser plugins.
+
+In June 2016, the visual computing group of the Technical University of Munich and from Stanford University developed Face2Face, a program that animates photographs of faces, mimicking the facial expressions of another person. The technology has been demonstrated animating the faces of people including Barack Obama and Vladimir Putin. Other methods have been demonstrated based on deep neural networks, from which the name ''deep fake'' was taken.
+
+In September 2018, U.S. Senator Mark Warner proposed to penalize social media companies that allow sharing of deep-fake documents on their platforms.
+
+In 2018, Darius Afchar and Vincent Nozick found a way to detect faked content by analyzing the mesoscopic properties of video frames. DARPA gave 68 million dollars to work on deep-fake detection. and AI software capable of detecting deep-fakes and cloning human voices have been developed.
+
+Respeecher is a program that enables one person to speak with the voice of another.
+

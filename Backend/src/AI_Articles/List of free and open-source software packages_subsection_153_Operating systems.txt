@@ -1,0 +1,7 @@
+Be advised that available distributions of these systems can contain, or offer to build and install, added software that is neither free software nor open-source.
+
+
+* Linux: Debian, Slackware, among others.
+* LineageOS: An Android (operating system)|android based operative system for tablets and mobile phones.
+* GNU Hurd
+

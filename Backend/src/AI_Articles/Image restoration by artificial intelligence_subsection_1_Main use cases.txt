@@ -1,0 +1,3 @@
+Unreferenced section|date=May 2023}} 
+The objective of image restoration techniques is to reduce noise and recover resolution loss. Image processing techniques are performed either in the image domain or the frequency domain. The most straightforward and a conventional technique for image restoration is deconvolution, which is performed in the frequency domain and after computing the Fourier transform of both the image and the PSF and undo the resolution loss caused by the blurring factors. Nowadays, photo restoration is done using digital tools and software to fix any type of damage images may have and improve the general quality and definition of the details.
+

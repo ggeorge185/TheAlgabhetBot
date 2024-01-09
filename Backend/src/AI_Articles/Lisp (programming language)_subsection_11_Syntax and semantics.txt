@@ -1,0 +1,2 @@
+Note''': This article's examples are written in Common Lisp (though most are also valid in Scheme (programming language)|Scheme).''
+

@@ -1,0 +1,2 @@
+Integrating simple models which perform better on individual tasks to form a Hybrid model is an approach that can be looked into. These models can offer better performance and understanding of the data. However the trade-off of identifying and having a deep understanding of the interactions between these simple models arises when one needs to come up with one combined, well performing model. Also, coming up with tools and applications to help analyse and visualize the data based on these hybrid models is another added challenge.
+

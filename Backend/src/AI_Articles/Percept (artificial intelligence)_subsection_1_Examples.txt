@@ -1,0 +1,2 @@
+Examples of percepts include inputs from touch sensors, cameras, infrared sensors, sonar, microphones, mice, and keyboards. A percept can also be a higher-level feature of the data, such as lines, depth, objects, faces, or gestures.
+

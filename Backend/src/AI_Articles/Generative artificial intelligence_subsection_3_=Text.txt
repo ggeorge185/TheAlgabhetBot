@@ -1,0 +1,4 @@
+File:Wittgenstein dialogue at character.ai.png|thumb|upright=2|A user conversing with a [[Character.ai simulation of Ludwig Wittgenstein]]
+
+Generative AI systems trained on words or Lexical analysis#Tokenization|word tokens include GPT-3, LaMDA, LLaMA, BLOOM (language model)|BLOOM, GPT-4, and others (see Large language model#List|List of large language models). They are capable of natural language processing, machine translation, and natural language generation and can be used as foundation models for other tasks. Data sets include BookCorpus, Wikipedia, and others (see List of text corpora).
+

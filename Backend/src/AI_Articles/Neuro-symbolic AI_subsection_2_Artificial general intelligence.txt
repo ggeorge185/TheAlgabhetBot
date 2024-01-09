@@ -1,0 +1,9 @@
+Gary Marcus|Marcus argue that "...hybrid architectures that combine learning and symbol manipulation are necessary for robust intelligence, but not sufficient", and that there are:
+
+"...four cognitive prerequisites for building robust artificial intelligence: 
+* "hybrid architectures that combine large-scale learning with the representational and computational powers of symbol manipulation,
+* "large-scale knowledge bases—likely leveraging innate frameworks—that incorporate symbolic knowledge along with other forms of knowledge,
+* "reasoning mechanisms capable of leveraging those knowledge bases in tractable ways, and
+* "rich cognitive models that work together with those mechanisms and knowledge bases."
+This echoes earlier calls for hybrid models as early as the 1990s.
+

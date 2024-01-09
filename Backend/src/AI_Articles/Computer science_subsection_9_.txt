@@ -1,0 +1,4 @@
+main|Data structure|Algorithm}}Data structures and algorithms are the studies of commonly used computational methods and their computational efficiency.
+
+
+

@@ -1,0 +1,2 @@
+Watson helped a team of chefs create five new poutines for the 2015 La Poutine Week food festival in Toronto and Montreal. It analyzed the demographics and popular cuisines of the cities and drew from a database of tens of thousands of recipes to create fusion cuisine|fusion pairings for each city. IBM and ''Bon Appétit'' magazine co-created an AI cooking app known as Chef Watson.
+

@@ -1,0 +1,4 @@
+See List of open-source machine learning software
+* See #Data mining|Data Mining below
+* See R (programming language)|R programming language – packages of statistical learning and analysis tools
+

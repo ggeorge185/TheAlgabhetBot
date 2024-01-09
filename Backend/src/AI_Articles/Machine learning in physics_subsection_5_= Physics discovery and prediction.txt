@@ -1,0 +1,4 @@
+and general sensemaking-->
+
+File:An AI learns basic physical principles.webp|thumb|Illustration of how an AI learns the basic fundamental physical concept of 'unchangeableness' Other researchers have developed a machine learning algorithm that could discover sets of basic variables of various physical systems and predict the systems' future dynamics from video recordings of their behavior. In the future, it may be possible that such can be used to automate the discovery of physical laws of complex systems.<ref name="advancedsciencenews.com/an-artific"/> Beyond discovery and prediction, "blank slate"-type of learning of fundamental aspects of the physical world may have further applications such as improving adaptive and broad [[artificial general intelligence. In specific, prior machine learning models were "highly specialised and lack a general understanding of the world".<ref name="2327766-deepmind-ai-l"/>
+

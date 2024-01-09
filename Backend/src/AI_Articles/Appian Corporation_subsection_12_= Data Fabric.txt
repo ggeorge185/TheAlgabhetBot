@@ -1,0 +1,2 @@
+In 2021, Appian announced plans for a low-code data product. It was completed in April 2022 and was named Appian Data Fabric. It unifies data from enterprise systems, reducing the time to deliver new applications.<ref name="ReferenceA"/>
+

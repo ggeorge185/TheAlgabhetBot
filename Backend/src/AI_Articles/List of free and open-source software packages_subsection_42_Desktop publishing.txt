@@ -1,0 +1,4 @@
+Collabora Online Draw and Writer - Enterprise-ready edition of LibreOffice accessible from a web browser. The Draw application is for flyers, newsletters, brochures and more, Writer has most of the functionality too.
+*Scribus – Designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms.
+*LyX – A "What You See Is What You Mean" document creation system, LyX makes use of the LaTeX markup macro system for TeX, allowing the elegant creation of documents which match up with the layouts in it for various document classes.
+

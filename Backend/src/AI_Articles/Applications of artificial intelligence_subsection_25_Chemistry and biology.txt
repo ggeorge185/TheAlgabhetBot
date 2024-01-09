@@ -1,0 +1,6 @@
+Machine learning has been used for Drug design#Computer-aided drug design|drug design. It has also been used for predicting molecular properties and exploring large chemical/reaction spaces. Computer-planned syntheses via computational reaction networks, described as a platform that combines "computational synthesis with AI algorithms to predict molecular properties", have been used to explore the abiogenesis|origins of life on Earth, drug-syntheses and developing routes for circular economy|recycling 200 industrial Chemical waste#Methods of disposal of laboratory chemical wastes|waste chemicals into important drugs and agrochemicals (chemical synthesis design). There is research about which types of computer-aided chemistry would benefit from machine learning. It can also be used for "drug discovery and development, drug repurposing, improving pharmaceutical productivity, and clinical trials". It has been used for the protein design|design of proteins with prespecified functional sites.
+
+There are various types of applications for machine learning in decoding human biology, such as helping to map gene expression patterns to functional activation patterns or identifying functional DNA motifs. It is widely used in genetic research.
+
+There also is some use of machine learning in synthetic biology, disease biology, and materials science.
+

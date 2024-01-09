@@ -1,0 +1,4 @@
+Audio deepfakes have been used as part of Social engineering (security)|social engineering scams, fooling people into thinking they are receiving instructions from a trusted individual. In 2019, a U.K.-based energy firm's CEO was scammed over the phone when he was ordered to transfer €220,000 into a Hungarian bank account by an individual who used audio deepfake technology to impersonate the voice of the firm's parent company's chief executive.
+
+As of 2023, the combination advances in deepfake technology, which could clone an individual's voice from a recording of a few seconds to a minute, and new Generative artificial intelligence|text generation tools, enabled automated impersonation scams, targeting victims using a convincing digital clone of a friend or relative.
+

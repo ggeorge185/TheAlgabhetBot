@@ -1,0 +1,15 @@
+Agent-based modeling is used in artificial life and other fields to explore emergence in systems.
+# Artificial intelligence has traditionally used a Top-down and bottom-up design|top down approach, while alife generally works from the bottom up.
+# Artificial chemistry started as a method within the alife community to abstract the processes of chemical reactions.
+# Evolutionary algorithms are a practical application of the weak alife principle applied to optimization problems.  Many optimization algorithms have been crafted which borrow from or closely mirror alife techniques. The primary difference lies in explicitly defining the fitness of an agent by its ability to solve a problem, instead of its ability to find food, reproduce, or avoid death. The following is a list of evolutionary algorithms closely related to and used in alife:
+#* Ant colony optimization
+#* Bacterial colony optimization
+#* Genetic algorithm
+#* Genetic programming
+#* Swarm intelligence
+# Multi-agent system – A multi-agent system is a computerized system composed of multiple interacting intelligent agents within an environment.
+# Evolutionary art uses techniques and methods from artificial life to create new forms of art.
+# Evolutionary music uses similar techniques, but applied to music instead of visual art.
+# Abiogenesis and the origin of life sometimes employ alife methodology|methodologies as well.
+# Quantum artificial life applies quantum algorithms to artificial life systems.
+

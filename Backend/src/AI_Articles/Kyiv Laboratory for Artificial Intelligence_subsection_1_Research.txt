@@ -1,0 +1,14 @@
+Speech recognition,
+* Speech synthesis,
+* Prototype of the system to understand text in a natural language,
+* Recognition of the hand-written information,
+* Optical character recognition,
+* System of the automatic construction of
+*  Spellcheckers for arbitrary linear languages,
+*  Translation systems with elements of the semantic analysis,
+*  Translation memory,
+*  Vocabularies,
+* Systems of training to languages,
+* Web robots,
+* and others.
+

@@ -1,0 +1,8 @@
+In 2014, Horvitz defined and funded with his wife the [https://ai100.stanford.edu One Hundred Year Study of Artificial Intelligence] (AI100) at Stanford University. In 2016, the [https://aiindex.stanford.edu/ AI Index] was launched as a project of the One Hundred Year Study.
+
+According to Horvitz, the AI100 gift, which may increase in the future, is sufficient to fund the study for a century. Topics include abuses of AI that could pose threats to democracy and freedom and addressing possibilities of superintelligences and loss of control of AI.
+
+The One Hundred Year Study is overseen by a Standing Committee. The Standing Committee formulates questions and themes and organizes a Study Panel every five years. The Study Panel issues a report that assesses the status and rate of progress of AI technologies, challenges, and opportunities with regard to AI's influences on people and society.
+
+The 2015 study panel of the One Hundred Year Study, chaired by Peter Stone (professor)|Peter Stone, released a report in September 2016, titled ''"''[https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai_100_report_0831fnl.pdf Artificial Intelligence and Life in 2030]." The panel advocated for increased public and private spending on the industry, recommended increased AI expertise at all levels of government, and recommended against blanket government regulation. Panel chair Peter Stone (professor)|Peter Stone argues that AI won't automatically replace human workers, but rather, will supplement the workforce and create new jobs in tech maintenance. Stone stated that "it was a conscious decision not to give credence to this in the report."
+

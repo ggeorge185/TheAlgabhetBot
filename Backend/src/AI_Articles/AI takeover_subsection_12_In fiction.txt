@@ -1,0 +1,9 @@
+Main|AI takeovers in popular culture}}
+
+
+AI takeover is a common theme in science fiction. Fictional scenarios typically differ vastly from those hypothesized by researchers in that they involve an active conflict between humans and an AI or robots with anthropomorphic motives who see them as a threat or otherwise have active desire to fight humans, as opposed to the researchers' concern of an AI that rapidly exterminates humans as a byproduct of pursuing its goals. The idea is seen in Karel Čapek's ''R.U.R.'', which introduced the word ''robot'' in 1921, and can be glimpsed in Mary Shelley's ''Frankenstein'' (published in 1818), as Victor ponders whether, if he grants Frankenstein's monster|his monster's request and makes him a wife, they would reproduce and their kind would destroy humanity.
+
+According to Toby Ord, the idea that an AI takeover requires robots is a misconception driven by the media and Hollywood. He argues that the most damaging humans in history were not physically the strongest, but that they used words instead to convince people and gain control of large parts of the world. He writes that a ''sufficiently'' intelligent AI with an access to the internet could scatter backup copies of itself, gather financial and human resources (via cyberattacks or blackmails), persuade people on a large scale, and exploit societal vulnerabilities that are too subtle for humans to anticipate.
+
+The word "robot" from ''R.U.R.'' comes from the Czech word, ''robota'', meaning laborer or serf. The 1920 play was a protest against the rapid growth of technology, featuring manufactured "robots" with increasing capabilities who eventually revolt. HAL 9000 (1968) and the original Terminator (character)|Terminator (1984) are two iconic examples of hostile AI in pop culture.
+

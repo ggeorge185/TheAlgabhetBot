@@ -1,0 +1,4 @@
+Several operating systems, including language-based systems, are based on Lisp (use Lisp features, conventions, methods, data structures, etc.), or are written in Lisp, including:
+
+Genera (operating system)|Genera, renamed Open Genera, by Symbolics; Medley, written in Interlisp, originally a family of graphical operating systems that ran on Xerox's later Xerox Star|Star workstations; Mezzano; Interim; ChrysaLisp, by developers of Tao Systems' TAOS.
+

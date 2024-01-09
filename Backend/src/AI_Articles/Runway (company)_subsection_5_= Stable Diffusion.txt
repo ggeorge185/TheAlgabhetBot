@@ -1,0 +1,2 @@
+Stable Diffusion is an Open source|open-source deep learning, text-to-image model released in 2022 based on the original paper High-Resolution Image Synthesis with Latent Diffusion Models published by Runway and the CompVis Group at Ludwig Maximilian University of Munich. Stable Diffusion is mostly used to create images conditioned on text descriptions.
+

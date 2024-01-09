@@ -1,0 +1,16 @@
+AIBO &ndash; Sony's robot dog. It integrates vision, hearing and motorskills.
+* Asimo (2000 to present) – humanoid robot developed by Honda, capable of walking, running, negotiating through pedestrian traffic, climbing and descending stairs, recognizing speech commands and the faces of specific individuals, among a growing set of capabilities.
+* [https://web.archive.org/web/20070705035725/http://www.mindmakers.org/projects/MIRAGE MIRAGE] &ndash; A.I. embodied humanoid in an augmented reality environment.
+* MIT Cog project|Cog &ndash; M.I.T. humanoid robot project under the direction of Rodney Brooks.
+* QRIO &ndash; Sony's version of a humanoid robot.
+* TOPIO, TOSY's humanoid robot that can play ping-pong with humans.
+* Watson (computer)|Watson (2011) – computer developed by IBM that played and won the game show ''Jeopardy!'' It is now being used to guide nurses in medical procedures.
+** Purpose: Open domain question answering
+** Technologies employed:
+*** Natural language processing
+*** Information retrieval
+*** Knowledge representation
+*** Automated reasoning
+*** Machine learning
+* Project Debater (2018) &ndash; artificially intelligent computer system, designed to make coherent arguments, developed at IBM's lab in Haifa, Israel.
+

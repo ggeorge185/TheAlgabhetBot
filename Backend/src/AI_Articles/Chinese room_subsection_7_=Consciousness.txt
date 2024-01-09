@@ -1,0 +1,8 @@
+Searle's original presentation emphasized "understanding"—that is, mental states with what philosophers call "intentionality"—and did not directly address other closely related ideas such as "consciousness". However, in more recent presentations, Searle has included consciousness as the real target of the argument.
+|John R. Searle| ''Consciousness and Language'', p. 16}}
+David Chalmers writes, "it is fairly clear that consciousness is at the root of the matter" of the Chinese room.
+
+Colin McGinn argues that the Chinese room provides strong evidence that the hard problem of consciousness is fundamentally insoluble. The argument, to be clear, is not about whether a machine can be conscious, but about whether it (or anything else for that matter) can be shown to be conscious. It is plain that any other method of probing the occupant of a Chinese room has the same difficulties in principle as exchanging questions and answers in Chinese. It is simply not possible to divine whether a conscious agency or some clever simulation inhabits the room.
+
+Searle argues that this is only true for an observer ''outside'' of the room. The whole point of the thought experiment is to put someone ''inside'' the room, where they can directly observe the operations of consciousness. Searle claims that from his vantage point within the room there is nothing he can see that could imaginably give rise to consciousness, other than himself, and clearly he does not have a mind that can speak Chinese.
+

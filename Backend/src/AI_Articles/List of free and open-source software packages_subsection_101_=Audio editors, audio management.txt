@@ -1,0 +1,4 @@
+Main|Comparison of free software for audio}}
+* Audacity (audio editor)|Audacity
+* LMMS: Digital audio workstation 
+

@@ -1,0 +1,12 @@
+main|ChatGPT}}
+
+Launched in November 2022, ChatGPT is an artificial intelligence tool built on top of GPT-3 that provides a conversational interface that allows users to ask questions in natural language. The system then responds with an answer within seconds. ChatGPT reached 1 million users 5 days after its launch.
+
+As of 2023, ChatGPT Plus is a GPT-4 backed version of ChatGPT available for a US$20 per month subscription fee (the original version is backed by GPT-3.5). OpenAI also makes GPT-4 available to a select group of applicants through their GPT-4 API waitlist; after being accepted, an additional fee of US$0.03 per 1000 Tokenization (lexical analysis)|tokens in the initial text provided to the model ("prompt"), and US$0.06 per 1000 tokens that the model generates ("completion"), is charged for access to the version of the model with an 8192-token context window; for the 32768-token context window, the prices are doubled.
+
+In May 2023, OpenAI launched a user interface for ChatGPT for the App Store (Apple)|App Store on iOS and later in July 2023 for the Google Play|Play Store on Android.  In September 2023, OpenAI announced that ChatGPT "can now see, hear, and speak". ChatGPT Plus users can upload images, while mobile app users can talk to the chatbot.
+
+In October 2023, OpenAI's latest image generation model, DALL-E|DALL-E 3, was integrated into ChatGPT Plus and ChatGPT Enterprise. The integration uses ChatGPT to write prompts for DALL-E guided by conversation with users.
+
+OpenAI's GPT Store, initially slated for a 2023 launch, is now deferred to an undisclosed date in early 2024, attributed likely to the leadership changes in November following the initial announcement.
+

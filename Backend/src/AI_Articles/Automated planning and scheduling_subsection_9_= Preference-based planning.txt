@@ -1,0 +1,3 @@
+main|Preference-based planning}}
+In preference-based planning, the objective is not only to produce a plan but also to satisfy user-specified preferences. A difference to the more common reward-based planning, for example corresponding to MDPs, preferences don't necessarily have a precise numerical value.
+

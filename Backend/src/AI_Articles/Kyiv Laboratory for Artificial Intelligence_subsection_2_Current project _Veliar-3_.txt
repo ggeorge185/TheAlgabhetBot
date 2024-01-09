@@ -1,0 +1,15 @@
+the system to understand text in a natural language,
+* program-instrumental system of automatisation of programming
+("PICAP"):
+** language support Cprolog,
+** construct logics support Veliar-2,
+** filemanager Fmgr,
+** text editor Fedit,
+** language support Perl-6,
+** language support Lisp (programming language)|Lisp-13,
+** language support Common-Lisp,
+** language support CLIPS,
+** primary key hierarchy database support BTIO,
+** database support BerkeleyDB,
+** connection support with С-compilers.
+

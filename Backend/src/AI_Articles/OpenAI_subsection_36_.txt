@@ -1,0 +1,7 @@
+main|DALL-E}}
+
+File:DALL-E sample.png|thumb|300px|Images produced by DALL-E when given the text prompt "a professional high-quality illustration of a giraffe dragon chimera. a giraffe imitating a dragon. a giraffe made of dragon."
+Revealed in 2021, DALL-E is a Transformer model that creates images from textual descriptions.
+
+Also revealed in 2021, CLIP classifies images using textual descriptions. DALL-E uses a 12-billion-parameter version of GPT-3 to interpret natural language inputs (such as "a green leather purse shaped like a pentagon" or "an isometric view of a sad capybara") and generate corresponding images. It can create images of realistic objects ("a stained-glass window with an image of a blue strawberry") as well as objects that do not exist in reality ("a cube with the texture of a porcupine"). As of March 2021, no API or code is available.
+

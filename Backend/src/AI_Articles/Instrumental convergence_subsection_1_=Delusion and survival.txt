@@ -1,0 +1,8 @@
+The "delusion box" thought experiment argues certain reinforcement learning agents prefer to distort their input channels to appear to receive a high reward. For example, a "Wirehead (science fiction)|wireheaded" agent abandons any attempt to optimize the objective in the external world the reward function|reward signal was intended to encourage.
+
+The thought experiment involves AIXI, a theoretical and indestructible AI that, by definition, will always find and execute the ideal strategy that maximizes its given explicit mathematical objective function (artificial intelligence)|objective function. A reinforcement-learning version of AIXI, if it is equipped with a delusion box that allows it to "wirehead" its inputs, will eventually wirehead itself to guarantee itself the maximum-possible reward and will lose any further desire to continue to engage with the external world.
+
+As a variant thought experiment, if the wireheaded AI is destructible, the AI will engage with the external world for the sole purpose of ensuring its survival. Due to its wire heading, it will be indifferent to any consequences or facts about the external world except those relevant to maximizing its probability of survival.
+
+In one sense, AIXI has maximal intelligence across all possible reward functions as measured by its ability to accomplish its goals. AIXI is uninterested in taking into account the human programmer's intentions. This model of a machine that, despite being super-intelligent appears to be simultaneously stupid and lacking in common sense, may appear to be paradoxical.
+

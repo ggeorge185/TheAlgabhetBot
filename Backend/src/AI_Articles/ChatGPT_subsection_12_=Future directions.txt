@@ -1,0 +1,4 @@
+According to OpenAI guest researcher Scott Aaronson, OpenAI has been working on a tool to digital watermark|digitally watermark its text generation systems to combat bad actors using their services for academic plagiarism or spam.
+
+In February 2023, Microsoft announced an experimental framework and gave a rudimentary demonstration of how ChatGPT could be used to control robotics with intuitive open-ended natural language commands.
+

@@ -1,0 +1,6 @@
+While Libratus was written from scratch, it is the nominal successor of Claudico. Like its predecessor, its name is a Latin expression and means 'balanced'.
+
+Libratus was built with more than 15 million core hours of computation as compared to 2-3 million for Claudico. The computations were carried out on the new 'Bridges' supercomputer at the Pittsburgh Supercomputing Center. According to one of Libratus' creators, Professor Tuomas Sandholm, Libratus does not have a fixed built-in strategy, but an algorithm that computes the strategy. The technique involved is a new variant of counterfactual regret minimization, namely the CFR+ method introduced in 2014 by Oskari Tammelin. On top of CFR+, Libratus used a new technique that Sandholm and his PhD student, Noam Brown, developed for the problem of endgame solving. Their new method gets rid of the prior de facto standard in Poker programming, called "action mapping".
+
+As Libratus plays only against one other human or computer player, the special 'heads up' rules for two-player Texas hold 'em are enforced.
+

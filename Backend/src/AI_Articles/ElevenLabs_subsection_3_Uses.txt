@@ -1,0 +1,12 @@
+ElevenLabs' use cases span a range of sectors.
+
+Content creators have used ElevenLabs for podcasts, narration, and comedy shows. In March 2023, comedian Drew Carey used ElevenLabs' voice cloning tool to recreate his voice for an episode of his radio show, ''Friday Night Freakout''. Seth Godin has also used ElevenLabs to narrate his AI-focused podcast. ElevenLabs has also been employed for narrating games and voicing game characters in partnerships with Swedish game developer Paradox Interactive and the United Kingdom-based Magicave.
+
+Publishers and authors have used ElevenLabs to narrate audiobooks and newsletters. On 13 June 2023, Storytel announced an exclusive partnership with the company. In this collaboration, ElevenLabs will create voices tailored specifically to Storytel's core markets and to produce AI-narrated audiobooks.  A voice-changing feature called VoiceSwitcher was implemented to enhance personalization for users, providing unique listening experiences customized for each individual.
+
+ElevenLabs has been used to generate audio for dubbing videos in different languages, including by content creators. Celebrity fans have used ElevenLabs to create inspirational messages using the voices of their favorite celebrities.
+
+In February, Vice Media|VICE reporter Joseph Cox published findings that he had recorded five minutes of himself talking and then used ElevenLabs to create voice deepfakes that defeated a bank's Speaker recognition|voice-authentication system.
+
+ElevenLabs sets explicit guidelines regarding the use of its technology, forbidding the cloning of voices for abusive purposes such as fraud, discrimination, hate speech, or online abuse, although it does support the use of its platform for “caricature, parody and satire” and “artistic and political speech contributing to public debates." The company asserts its authority to suspend the accounts and content of users found in violation of these guidelines, and it also highlights its commitment to cooperate with authorities and report any illegal activities in accordance with applicable laws. and toughened its safeguards against vexatious use of its technology.
+

@@ -1,0 +1,6 @@
+AI has been explored for use in cancer diagnosis, risk stratification, molecular characterization of tumors, and cancer drug discovery. A particular challenge in oncologic care that AI is being developed to address is the ability to accurately predict which treatment protocols will be best suited for each patient based on their individual genetic, molecular, and tumor-based characteristics. Through its ability to translate images to mathematical sequences, AI has been trialed in cancer diagnostics with the reading of imaging studies and pathology slides.
+
+In January 2020, researchers demonstrated an AI system, based on a Google DeepMind algorithm, capable of surpassing human experts in breast cancer Breast cancer screening|detection. In July 2020, it was reported that an AI algorithm developed by the University of Pittsburgh achieves the highest accuracy to date in Cancer screening|identifying prostate cancer, with 98% sensitivity and 97% specificity.
+
+In 2023 a study reported the use of AI for CT scan|CT-based radiomics classification at grading the aggressiveness of retroperitoneal sarcoma with 82% accuracy compared with 44% for lab analysis of biopsies.
+

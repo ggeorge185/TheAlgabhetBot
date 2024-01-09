@@ -1,0 +1,4 @@
+Computational neuroscience aims to address a wide array of questions. How do axons and dendrites form during development? How do axons know where to target and how to reach these targets? How do neurons migrate to the proper position in the central and peripheral systems? How do synapses form? We know from molecular biology that distinct parts of the nervous system release distinct chemical cues, from growth factors to hormones that modulate and influence the growth and development of functional connections between neurons.
+
+Theoretical investigations into the formation and patterning of synaptic connection and morphology are still nascent. One hypothesis that has recently garnered some attention is the ''minimal wiring hypothesis'', which postulates that the formation of axons and dendrites effectively minimizes resource allocation while maintaining maximal information storage.
+

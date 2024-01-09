@@ -1,0 +1,8 @@
+Suppose that the program simulated in fine detail the action of every neuron in the brain of a Chinese speaker.}} This strengthens the intuition that there would be no significant difference between the operation of the program and the operation of a live human brain.
+
+:Searle replies that such a simulation does not reproduce the important features of the brain—its causal and intentional states. John Searle|Searle is adamant that "human mental phenomena [are] dependent on actual physical–chemical properties of actual human brains." Moreover, he argues:
+
+}}}}
+
+Two variations on the brain simulator reply are the China brain and the brain-replacement scenario.
+

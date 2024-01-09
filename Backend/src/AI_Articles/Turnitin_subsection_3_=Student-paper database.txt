@@ -1,0 +1,2 @@
+The essays submitted by students are stored in a database used to check for plagiarism. This prevents one student from using another student's paper, by identifying matching text between papers. In addition to student papers, the database contains a copy of the publicly accessible Internet, with the company using a web crawler to continually add content to Turnitin's archive. It also contains commercial and/or copyrighted pages from books, newspapers, and journals.
+

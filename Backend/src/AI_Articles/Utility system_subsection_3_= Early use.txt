@@ -1,0 +1,2 @@
+Numbers and formulas and scores have been used for decades in games to define behavior. Even something as simple as a defining a set percentage chance for something to happen (e.g. 12% chance to perform Action X) was an early step into utility AI. Only in the early 21st century, however, has that method started to take on more of a formalized approach now referred to commonly as "utility AI".
+

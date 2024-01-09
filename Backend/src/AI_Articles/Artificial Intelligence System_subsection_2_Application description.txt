@@ -1,0 +1,6 @@
+the application is a brain network test system that reenacts biophysical sensory cells characterized as numerical models and use the Hodgkin–Huxley model to portray the properties of brain cells
+# the rundown of models will keep developing and will ultimately arrive at many models
+# the test system gets information from XML records that contain cell properties which portray behavior
+# the test system will process the framework's way of behaving over the long haul
+# calculation results will be saved in records
+

@@ -1,0 +1,3 @@
+Main|Inductive reasoning}}
+Inductive reasoning is the process of inferring some ''general'' principle <math>b</math> from a body of knowledge <math>a</math>, where <math>b</math> does not necessarily follow from <math>a</math>. <math>a</math> might give us very good reason to accept <math>b</math>, but does not ensure <math>b</math>. For example, if all swans that we have observed so far are white, we may induce that the possibility that all swans are white is reasonable. We have good reason to believe the conclusion from the premise, but the truth of the conclusion is not guaranteed. (Indeed, it turns out that Black swan|some swans are black.)
+

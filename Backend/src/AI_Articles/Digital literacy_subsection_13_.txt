@@ -1,0 +1,17 @@
+In 2013 the Open Universiteit Nederland released an article defining twelve digital competence areas. These areas are based on the knowledge and skills people have to acquire to be a literate.
+
+* A.	General knowledge and functional skills. Knowing the basics of digital devices and using them for elementary purposes.
+* B.	Use in everyday life. Being able to integrate digital technologies into the activities in everyday life.
+* C.	Specialized and advanced competence in work and creative expression. Being able to use ICT (Information and Communication Technologies) to express your creativity and improve your professional performance.
+* D.	Technology-mediated communication and collaboration. Being able to connect, share, communicate, and collaborate with others effectively in a digital environment.
+* E.	Information processing and management. Using technology to improve your ability to gather, analyze, and judge the relevance and purpose of digital information.
+* F.	Privacy and security. Being able to protect your privacy and take appropriate security measures.
+* G.	Legal and ethical aspects. Behaving appropriately in a socially responsible way in the digital environment and being aware of the legal and ethical aspects of the use of ICT.
+* H.	Balanced attitude towards technology. Demonstrating an informed, open-minded, and balanced attitude towards an information society and the use of digital technologies.
+* I.	Understanding and awareness of the role of ICT in society. Understanding the broader context of use and development of ICT.
+* J.	Learning about and with digital technologies. Exploring emerging technologies and integrating them.
+* K.	Informed decisions on appropriate digital technologies. Being aware of the most relevant or common technologies.
+* L.	Seamless use demonstrating self-efficacy. Confidently and creatively applying digital technologies to increase personal and professional effectiveness and efficiency.
+
+The competencies mentioned are based on each other. Competencies A, B, and C are the basic knowledge and skills a person has to have to be a fully digitally literate person. When these three competencies are acquired you can build upon this knowledge and those skills to acquire the other competencies.
+

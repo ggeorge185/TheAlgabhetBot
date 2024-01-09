@@ -1,0 +1,9 @@
+The earliest known use of the term ''business intelligence'' is in Richard Millar Devens' ''Cyclopædia of Commercial and Business Anecdotes'' (1865). Devens used the term to describe how the banker Sir Henry Furnese, 1st Baronet|Sir Henry Furnese gained profit by receiving and acting upon information about his environment, prior to his competitors:
+
+
+The ability to collect and react accordingly based on the information retrieved, Devens says, is central to business intelligence.
+
+When Hans Peter Luhn, a researcher at IBM, used the term ''business intelligence'' in an article published in 1958, he employed the ''Webster's Dictionary'' definition of intelligence: "the ability to apprehend the interrelationships of presented facts in such a way as to guide action towards a desired goal." 
+
+In 1989, Howard Dresner (later a Gartner analyst) proposed ''business intelligence'' as an umbrella term to describe "concepts and methods to improve business decision making by using fact-based support systems." It was not until the late 1990s that this usage was widespread.
+

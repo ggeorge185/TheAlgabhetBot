@@ -1,0 +1,14 @@
+File:AI-ML-DL.svg|thumb|How deep learning is a subset of machine learning and how machine learning is a subset of artificial intelligence (AI)
+
+In the late 2000s, deep learning started to outperform other methods in machine learning competitions.
+In 2009, a long short-term memory trained by connectionist temporal classification (Alex Graves (computer scientist)|Alex Graves, Santiago Fernández, Faustino Gomez, and Jürgen Schmidhuber, 2006) Until 2011, CNNs did not play a major role at computer vision conferences, but in June 2012, a paper by Ciresan et al. at the leading conference CVPR In October 2012, the similar AlexNet by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton further reduced the error rate and
+won the ImageNet 2014 competition, following a similar trend in large-scale speech recognition.
+
+Image classification was then extended to the more challenging task of Automatic image annotation|generating descriptions (captions) for images, often as a combination of CNNs and LSTMs.
+
+In 2012, a team led by George E. Dahl won the "Merck Molecular Activity Challenge" using multi-task deep neural networks to predict the biomolecular target of one drug. In 2014, Sepp Hochreiter's group used deep learning to detect off-target and toxic effects of environmental chemicals in nutrients, household products and drugs and won the "Tox21 Data Challenge" of NIH, FDA and National Center for Advancing Translational Sciences|NCATS.
+
+In 2016, Roger Parloff mentioned a "deep learning revolution" that has transformed the AI industry.
+
+In March 2019, Yoshua Bengio, Geoffrey Hinton and Yann LeCun were awarded the Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+

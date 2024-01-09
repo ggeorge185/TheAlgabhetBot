@@ -1,0 +1,11 @@
+The following is an example of a generic single-objective genetic algorithm.
+
+Step One: Generate the initial population of individuals randomly. (First generation)
+
+Step Two: Repeat the following regenerational steps until termination:
+
+#Evaluate the Fitness function|fitness of each individual in the population (time limit, sufficient fitness achieved, etc.)
+#Select the fittest individuals for reproduce|reproduction. (Parents)
+# Breed new individuals through crossover (genetic algorithm)|crossover and mutation (genetic algorithm)|mutation operations to give birth to offspring.
+# Replace the least-fit individuals of the population with new individuals.
+

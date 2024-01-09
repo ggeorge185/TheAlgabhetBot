@@ -1,0 +1,6 @@
+Multi-agent systems consist of agents and their Biophysical environment|environment. Typically multi-agent systems research refers to software agents. However, the agents in a multi-agent system could equally well be robots, humans or human teams. A multi-agent system may contain combined human-agent teams.
+
+Agents can be divided into types spanning simple to complex. Categories include:
+* Passive agents or "agent without goals" (such as obstacle, apple or key in any simple simulation)
+* Active agents and dimensionality (whether spatial characteristics are important factors of the environment and the agent considers space in its decision making). Agent actions are typically mediated via an appropriate middleware. This middleware offers a first-class design abstraction for multi-agent systems, providing means to govern resource access and agent coordination.
+

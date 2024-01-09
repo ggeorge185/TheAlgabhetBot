@@ -1,0 +1,2 @@
+Lars Lidén argues that good game design involves finding a balance between the computer's "intelligence" and the player's ability to win. By finely tuning the level of "artificial stupidity", it is possible to create computer controlled plays that allow the player to win, but do so "without looking unintelligent".
+

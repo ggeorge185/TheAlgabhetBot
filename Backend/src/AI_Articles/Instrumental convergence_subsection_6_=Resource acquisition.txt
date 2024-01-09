@@ -1,0 +1,4 @@
+Many instrumental goals, such as resource acquisition, are valuable to an agent because they increase its ''freedom of action''.
+
+For almost any open-ended, non-trivial reward function (or set of goals), possessing more resources (such as equipment, raw materials, or energy) can enable the agent to find a more "optimal" solution. Resources can benefit some agents directly by being able to create more of whatever stuff its reward function values: "The AI neither hates you nor loves you, but you are made out of atoms that it can use for something else." In addition, almost all agents can benefit from having more resources to spend on other instrumental goals, such as self-preservation.
+

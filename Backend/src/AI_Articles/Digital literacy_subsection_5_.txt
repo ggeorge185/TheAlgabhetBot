@@ -1,0 +1,11 @@
+Digital literacy skills continue to develop with the rapid advancements of artificial intelligence (AI) technologies in the 21st century. AI technologies are designed to simulate human intelligence through the use of complex systems such as machine learning algorithms, natural language processing, and robotics. As the field advances and transforms aspects of everyday life such as education, workplaces, and public services, individuals must develop the skills to appropriately understand and use these tools.
+
+As these technologies emerge, so have different attempts at defining AI literacy - the ability to understand the basic techniques and concepts behind AI in different products and services and how to use them effectively []. Many framings leverage existing digital literacy frameworks and apply an AI lens to the skills and competencies. Common elements of these frameworks include:
+
+* '''Know and understand:''' know the basic functions of AI and how to use AI applications
+* '''Use and apply:''' applying AI knowledge, concepts and applications in different scenarios
+* '''Evaluate and create''': higher-order thinking skills (e.g., evaluate, appraise, predict, design)
+* '''Ethical issues''': considering fairness, accountability, transparency, and safety with AI
+
+As AI continues to advance and become more integrated into daily life, being AI literate will be critical for individuals and organizations to effectively engage with AI technologies and to take advantage of their potential benefits while mitigating their potential risks and challenges.
+

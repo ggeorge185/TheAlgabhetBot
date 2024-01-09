@@ -1,0 +1,6 @@
+Deep neural networks are generally interpreted in terms of the universal approximation theorem or Bayesian inference|probabilistic inference.
+
+The classic universal approximation theorem concerns the capacity of feedforward neural networks with a single hidden layer of finite size to approximate continuous functions.
+
+The universal approximation theorem for deep neural networks concerns the capacity of networks with bounded width but the depth is allowed to grow. Lu et al.
+

@@ -1,0 +1,7 @@
+NX technology|FreeNX
+*OpenVPN
+*rdesktop
+*Synergy (software)|Synergy
+*Virtual Network Computing|VNC (RealVNC, TightVNC, UltraVNC)
+*Remmina (based on FreeRDP)
+

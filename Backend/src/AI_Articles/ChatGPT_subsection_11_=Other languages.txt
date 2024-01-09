@@ -1,0 +1,8 @@
+OpenAI met Icelandic President Guðni Th. Jóhannesson in 2022. In 2023, OpenAI worked with a team of 40 Icelandic volunteers to fine-tune ChatGPT's Icelandic conversation skills as a part of Iceland's attempts to preserve the Icelandic language.
+
+''PCMag'' journalists conducted a test to determine translation capabilities of ChatGPT, Google Bard|Google's Bard, and Microsoft Bing, and compared them to Google Translate. They "asked bilingual speakers of seven languages to do a blind test." Languages tested were Polish language|Polish, French language|French, Korean language|Korean, Spanish language|Spanish, Arabic, Tagalog language|Tagalog, and Amharic. They came to the conclusion that ChatGPT was better than both Google Translate and other chatbots.
+
+Japanese researchers compared Japanese to English translation abilities of ChatGPT (GPT-4), Bing, Bard and DeepL, and found that ChatGPT provided the best translations, noting that "AI chatbots’ translations were much better than those of DeepL—presumably because of their ability to capture the context".
+
+In December 2023, the Albanian government signed an agreement with OpenAI to use ChatGPT for fast translation of European Union documents and analysis of required changes needed for Albania to be accepted into the EU.
+

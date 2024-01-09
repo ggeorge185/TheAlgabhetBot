@@ -1,0 +1,2 @@
+The accuracy of prediction of business failure is a very crucial issue in financial decision-making. Therefore, different ensemble classifiers are proposed to predict financial crisis|financial crises and financial distress. Also, in the Market manipulation|trade-based manipulation problem, where traders attempt to manipulate stock prices by buying and selling activities, ensemble classifiers are required to analyze the changes in the stock market data and detect suspicious symptom of stock price Market manipulation|manipulation. and cervical cytology classification.
+

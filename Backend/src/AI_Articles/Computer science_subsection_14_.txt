@@ -1,0 +1,4 @@
+main|Computer graphics (computer science)}}
+Computer graphics is the study of digital visual contents and involves the synthesis and manipulation of image data. The study is connected to many other fields in computer science, including computer vision, image processing, and computational geometry, and is heavily applied in the fields of special effects and video games.
+
+

@@ -1,0 +1,6 @@
+Compiler theory – Theory of compiler design, based on Automata theory.
+* Programming language|Programming language pragmatics – Taxonomy of programming languages, their strength and weaknesses. Various programming paradigms, such as object-oriented programming.
+* Programming language theory
+* Formal semantics of programming languages|Formal semantics – rigorous mathematical study of the meaning of programs.
+* Type theory – Formal analysis of the types of data, and the use of these types to understand properties of programs — especially program safety.
+

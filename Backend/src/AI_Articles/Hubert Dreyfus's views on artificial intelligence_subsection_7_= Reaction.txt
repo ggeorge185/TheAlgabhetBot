@@ -1,0 +1,10 @@
+The paper "caused an uproar", according to Pamela McCorduck. The AI community's response was derisive and personal. Seymour Papert dismissed one third of the paper as "gossip" and claimed that every quotation was deliberately taken out of context. Herbert A. Simon accused Dreyfus of playing "politics" so that he could attach the prestigious RAND name to his ideas. Simon said, "what I resent about this was the RAND name attached to that garbage".
+
+Dreyfus, who taught at Massachusetts Institute of Technology|MIT, remembers that his colleagues working in AI  "dared not be seen having lunch with me." Joseph Weizenbaum, the author of ELIZA, felt his colleagues' treatment of Hubert Dreyfus|Dreyfus was unprofessional and childish. Although he was an outspoken critic of Dreyfus' positions, he recalls "I became the only member of the AI community to be seen eating lunch with Dreyfus. And I deliberately made it plain that theirs was not the way to treat a human being."
+
+The paper was the subject of a short in ''The New Yorker'' magazine on June 11, 1966. The piece mentioned Dreyfus' contention that, while computers may be able to play checkers, no computer could yet play a decent game of chess. It reported with wry humor (as Dreyfus had) about the victory of a ten-year-old over the leading chess program,  with "even more than its usual smugness."
+
+In hope of restoring AI's reputation, Seymour Papert arranged a chess match between Dreyfus and Richard Greenblatt (programmer)|Richard Greenblatt's Mac Hack program. Dreyfus lost, much to Papert's satisfaction. An Association for Computing Machinery bulletin used the headline:
+: "A Ten Year Old Can Beat the Machine— Dreyfus: ''But the Machine Can Beat Dreyfus''"
+Dreyfus complained in print that he hadn't said a computer will ''never'' play chess, to which Herbert A. Simon replied: "You should recognize that some of those who are bitten by your sharp-toothed prose are likely, in their human weakness, to bite back ... may I be so bold as to suggest that you could well begin the cooling---a recovery of your sense of humor being a good first step."
+

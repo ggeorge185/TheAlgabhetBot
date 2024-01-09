@@ -1,0 +1,21 @@
+Stochastic methods for uncertain reasoning:
+** Bayesian networks
+** Bayesian inference algorithm 
+** Bayesian learning and the expectation-maximization algorithm
+** Bayesian decision theory and Bayesian decision networks
+* Probabilistic perception and control:
+** Dynamic Bayesian networks
+** Hidden Markov model
+** Kalman filters
+** Fuzzy Logic
+* Decision tools from economics:
+** Decision theory
+** Decision analysis
+** Information value theory
+** Markov decision processes 
+** Dynamic decision networks
+** Game theory
+** Mechanism design
+* Algorithmic information theory
+** Algorithmic probability
+

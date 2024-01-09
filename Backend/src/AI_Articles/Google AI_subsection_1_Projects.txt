@@ -1,0 +1,10 @@
+Google Brain: a big subsidiary developing AI with machine learning to improve various Google services (e.g. better translation quality in Google Translate)
+*Bard (chatbot)|Bard: a chatbot based on the Gemini (language model)|Gemini model.
+*Google Assistant: is a virtual assistant software application developed by Google AI since 2023.
+* Serving cloud-based TPUs (tensor processing units) in order to develop machine learning software. The TPU research cloud provides free access to a cluster of cloud TPUs to researchers engaged in open-source machine learning research.
+* TensorFlow: a machine learning software library.
+* Magenta: a deep learning research team exploring the role of machine learning as a tool in the creative process. The team has released many open source|open source projects allowing artists and musicians to extend their processes using AI. With the use of Magenta, musicians and composers could create high-quality music at a lower cost, making it easier for new artists to enter the industry.
+*Sycamore processor|Sycamore : a new 54-qubit programmable Quantum computing|quantum processor.
+*LaMDA: a family of conversational neural language models
+*A program designed to address the growing need for developing free speech resources for under-represented languages
+

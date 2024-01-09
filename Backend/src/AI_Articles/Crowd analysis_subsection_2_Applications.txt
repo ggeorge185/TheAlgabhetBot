@@ -1,0 +1,2 @@
+The data drawn from crowd analysis is invaluable in a range of fields and real world implementations.
+

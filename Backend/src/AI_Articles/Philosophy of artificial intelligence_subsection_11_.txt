@@ -1,0 +1,8 @@
+Main|Physical symbol system}}
+
+In 1963, Allen Newell and Herbert A. Simon proposed that "symbol manipulation" was the essence of both human and machine intelligence. They wrote: 
+* "A physical symbol system has the necessary and sufficient means of general intelligent action."
+Another version of this position was described by philosopher Hubert Dreyfus, who called it "the psychological assumption":
+* "The mind can be viewed as a device operating on bits of information according to formal rules."
+The "symbols" that Newell, Simon and Dreyfus discussed were word-like and high levelsymbols that directly correspond with objects in the world, such as <nowiki><dog></nowiki> and <nowiki><tail></nowiki>. Most AI programs written between 1956 and 1990 used this kind of symbol. Modern AI, based on statistics and mathematical optimization, does not use the high-level "symbol processing" that Newell and Simon discussed.
+

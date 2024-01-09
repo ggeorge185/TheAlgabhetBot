@@ -1,0 +1,10 @@
+main|GPT-4}}
+
+On March 14, 2023, OpenAI announced the release of Generative Pre-trained Transformer 4 (GPT-4), capable of accepting text or image inputs. OpenAI announced the updated technology passed a simulated law school bar exam with a score around the top 10% of test takers; by contrast, the prior version, GPT-3.5, scored around the bottom 10%. GPT-4 can also read, analyze or generate up to 25,000 words of text, and write code in all major programming languages.
+
+Observers reported that the iteration of ChatGPT using GPT-4 was an improvement on the previous iteration based on GPT-3.5, with the caveat that GPT-4 retains some of the problems with earlier revisions. GPT-4 is also capable of taking images as input on ChatGPT. OpenAI has declined to reveal various technical details and statistics about GPT-4, such as the precise size of the model.<!--
+During an interview with StrictlyVC, Altman [...] "It'll come out at some point, when we are confident we can do it safely and responsibly," he said.
+
+When asked about one viral (and factually incorrect) chart that purportedly compares the number of parameters in GPT-3 (175 billion) to GPT-4 (100 trillion), Altman called it "complete bullshit."
+-->
+

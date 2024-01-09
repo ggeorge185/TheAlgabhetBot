@@ -1,0 +1,13 @@
+Refimprove section|date=January 2012}}
+Despite decades of development of decision support system and methodologies (like decision analysis), these are still less popular than spreadsheets as primary tools for decision-making. Decision intelligence seeks to bridge this gap, creating a critical mass of users of a common methodology and language for the core entities included in a decision, such as assumptions, external values, facts, data, and conclusions. If a pattern from previous industries holds, such a methodology will also facilitate technology adoption, by clarifying common maturity models and road maps that can be shared from one organization to another.
+
+The decision intelligence approach is multidisciplinary, unifying findings on cognitive bias and decision-making, situational awareness, Critical thinking|critical and Creativity|creative thinking, collaboration and organizational design, with engineering technologies.
+
+Decision intelligence is considered an improvement upon current organizational decision-making practices, which include the use of spreadsheets, text (sequential in nature, so is not a good fit for how information flows through a decision structure), and verbal argument. The movement from these largely informal structures to one in which a decision is documented in a well understood, visual language, echoes the creation of common blueprint methodologies in construction, with promise of similar benefits.
+
+Decision intelligence is both a very new and also a very old discipline. Many of its elements—such as the language of assessing assumptions, using logic to support an argument, the necessity of critical thinking to evaluate a decision, and understanding the impacts of Cognitive bias|bias—are ancient. Yet the realization that these elements can form a coherent whole that provides significant benefits to organizations by focusing on a common methodology is relatively new.
+
+In 2018, Google's processes and training programs in applied data science were renamed to "decision intelligence" to indicate the central role of actions and decisions in the application of data science. The extent to which the theoretical frameworks drew on the managerial and social sciences in addition to data science was an additional motivator for unifying decision intelligence into a field of study that is distinct from data science.
+
+Modern decision intelligence is highly interdisciplinary and academically inclusive. Research centering on decisions, defined broadly as biological and nonbiological action selection, is considered part of the discipline. Decision intelligence is not an umbrella term for data science and social science, however, since it does not cover components unconcerned with decisions.
+

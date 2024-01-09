@@ -1,0 +1,11 @@
+Artificial Intelligence projects can have their ethical permissibility tested while designing, developing, and implementing an AI system. An AI framework such as the Care and Act Framework containing the SUM values – developed by the Alan Turing Institute tests projects in four main areas:
+
+* RESPECT the dignity of individual people
+* CONNECT with other people sincerely, openly and inclusively
+* CARE for the wellbeing of everyone
+* PROTECT social values, justice and the public interest
+
+Other developments in ethical frameworks include those decided upon during the Asilomar Conference on Beneficial AI|Asilomar Conference, the Montreal Declaration for Responsible AI, and the IEEE's Ethics of Autonomous Systems initiative, among others; however, these principles do not go without their criticisms, especially regards to the people chosen contributes to these frameworks.
+
+Promotion of the wellbeing of the people and communities that these technologies affect requires consideration of the social and ethical implications at all stages of AI system design, development and implementation, and collaboration between job roles such as data scientists, product managers, data engineers, domain experts, and delivery managers.
+

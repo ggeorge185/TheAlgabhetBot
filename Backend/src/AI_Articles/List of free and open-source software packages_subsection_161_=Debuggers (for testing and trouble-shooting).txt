@@ -1,0 +1,4 @@
+GNU Debugger – A portable debugger that runs on many Unix-like systems
+*Memtest86 – Stress-tests random access memory|RAM on x86 machines
+*Xnee – Record and replay tests
+

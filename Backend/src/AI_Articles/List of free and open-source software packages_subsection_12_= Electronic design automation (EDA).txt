@@ -1,0 +1,4 @@
+Main category|Free electronic design automation software}}
+* Fritzing - a CAD software for the design of Electronic hardware|electronics hardware to build more permanent circuits from prototypes
+* KiCad - a suite for electronic design automation (EDA) for schematic capture, PCB layout, manufacturing file viewing, SPICE simulation, and engineering calculation
+

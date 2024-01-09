@@ -1,0 +1,9 @@
+cite conference |url=https://intelligence.org/files/LOGI.pdf |title=Levels of Organization in General Intelligence |last=Yudkowsky |first=Eliezer |date=2007 |publisher=Springer |book-title=Artificial General Intelligence |location=Berlin }}
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+

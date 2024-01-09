@@ -1,0 +1,4 @@
+A 2021 arXiv report listed foundation models' capabilities in regards to "language, vision, robotics, reasoning, and human interaction", technical principles, such as "model architectures, training procedures, data, systems, security, evaluation, and theory", their applications, for example in law, healthcare, and education and their potential impact on society, including "inequity, misuse, economic and environmental impact, legal and ethical considerations".
+
+An article about foundation models in ''The Economist'' notes that "some worry that the technology's heedless spread will further concentrate economic and political power".
+

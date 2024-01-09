@@ -1,0 +1,2 @@
+Voting is another form of ensembling. See e.g. Weighted majority algorithm (machine learning).
+

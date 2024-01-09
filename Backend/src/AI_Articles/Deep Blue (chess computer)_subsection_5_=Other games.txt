@@ -1,0 +1,2 @@
+Following Deep Blue's victory, artificial intelligence|AI specialist Omar Syed designed a new game, Arimaa, which was intended to be very simple for humans but very difficult for computers to master; however, in 2015, computers proved capable of defeating strong Arimaa players. Since Deep Blue's victory, computer scientists have developed software for other complex board games with competitive communities. AlphaGo defeated top Go (game)|Go players in the 2010s.
+

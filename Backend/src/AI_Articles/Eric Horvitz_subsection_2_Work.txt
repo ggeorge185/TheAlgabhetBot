@@ -1,0 +1,22 @@
+Horvitz's research interests span theoretical and practical challenges with developing systems that perceive, learn, and reason. His contributions include advances in principles and applications of machine learning and inference, information retrieval, human-computer interaction, bioinformatics, and e-commerce.
+
+Horvitz played a significant role in the use of probability and decision theory in artificial intelligence. His work raised the credibility of artificial intelligence in other areas of computer science and computer engineering, influencing fields ranging from human-computer interaction to operating systems. His research helped establish the link between artificial intelligence and decision science. As an example, he coined the concept of bounded optimality, a decision-theoretic approach to bounded rationality. The influences of bounded optimality extend beyond computer science into cognitive science and psychology.
+
+He studied the use of probability and utility to guide automated reasoning for decision making. The methods include consideration of the solving of streams of problems in environments over time. In related work, he applied probability and machine learning to solve combinatorial problems and to guide theorem proving. He introduced the anytime algorithm paradigm in AI, where partial results, probabilities, or utilities of outcomes are refined with computation under different availabilities or costs of time, guided by the expected value of computation.
+
+He has issued long-term challenge problems for AI—and has espoused a vision of open-world AI, where machine intelligences have the ability to understand and perform well in the larger world where they encounter situations they have not seen before.
+
+He has explored synergies between human and machine intelligence. He introduced principles for using machine learning and decision theory to guide machine versus human initiative, methods that provide AI systems with understandings of when to transfer problem solving to humans, and the use of machine learning and planning techniques to identify and merge the complementary abilities of people and AI systems. In work on human-centered AI, he introduced measures and models of the expected value of displayed information to guide the display of information to human decision makers in time-critical settings and methods for making statistical AI inferences more understandable. He introduced models of human attention in computing systems, and studied the use of machine learning to infer the cost of interruptions to computer users. His use of machine learning to build models of human surprise was featured as a technology breakthrough by ''MIT Technology Review''. 
+
+He investigated the use of AI methods to provide assistance to users including help with software and in the daily life.
+
+He made contributions to multimodal interaction. In 2015, he received the ACM ICMI Sustained Accomplishment Award for contributions to multimodal interaction. His work on multimodal interaction includes studies of situated interaction, where systems consider physical details of open-world settings and can perform dialog with multiple people.
+
+He co-authored probability-based methods to enhance privacy, including a model of altruistic sharing of data called community sensing and risk-sensitive approaches including stochastic privacy.
+
+He is Microsoft's top inventor.
+
+He led efforts in applying AI methods to computing systems, including machine learning for memory management in Windows, web prefetching, graphics rendering, and web crawling. He did early work on AI for debugging software.
+
+Horvitz speaks on the topic of artificial intelligence, including on NPR and the Charlie Rose show.  Online talks include both technical lectures and presentations for general audiences (''[https://www.youtube.com/watch?v=dpoVh9xwdD4 TEDx Austin: Making Friends with Artificial Intelligence]''). His research has been featured in ''The New York Times'' and ''MIT Technology Review''.
+

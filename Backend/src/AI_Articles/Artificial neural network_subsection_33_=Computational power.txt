@@ -1,0 +1,4 @@
+The multilayer perceptron is a UTM theorem|universal function approximator, as proven by the universal approximation theorem. However, the proof is not constructive regarding the number of neurons required, the network topology, the weights and the learning parameters.
+
+A specific recurrent architecture with Rational number|rational-valued weights (as opposed to full precision real number-valued weights) has the power of a Universal Turing Machine|universal Turing machine, using a finite number of neurons and standard linear connections. Further, the use of Irrational number|irrational values for weights results in a machine with Hypercomputation|super-Turing power.
+

@@ -1,0 +1,13 @@
+While the term "data mining" itself may have no ethical implications, it is often associated with the mining of information in relation to User behavior analytics|user behavior (ethical and otherwise).
+
+The ways in which data mining can be used can in some cases and contexts raise questions regarding privacy, legality, and ethics. In particular, data mining government or commercial data sets for national security or law enforcement purposes, such as in the Total Information Awareness Program or in ADVISE, has raised privacy concerns.
+
+Data mining requires data preparation which uncovers information or patterns which compromise confidentiality and Data privacy|privacy obligations. A common way for this to occur is through aggregate function|data aggregation. Data aggregation involves combining data together (possibly from various sources) in a way that facilitates analysis (but that also might make identification of private, individual-level data deducible or otherwise apparent). This is not data mining ''per se'', but a result of the preparation of data before—and for the purposes of—the analysis. The threat to an individual's privacy comes into play when the data, once compiled, cause the data miner, or anyone who has access to the newly compiled data set, to be able to identify specific individuals, especially when the data were originally anonymous.
+
+It is recommended to be aware of the following '''before''' data are collected:
+
+The inadvertent revelation of personally identifiable information leading to the provider violates Fair Information Practices.   This indiscretion can cause financial,
+emotional, or bodily harm to the indicated individual.  In one instance of privacy violation, the patrons of Walgreens filed a lawsuit against the company in 2011 for selling
+prescription information to data mining companies who in turn provided the data
+to pharmaceutical companies.
+

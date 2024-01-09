@@ -1,0 +1,10 @@
+Axiom (computer algebra system)|Axiom
+* Cadabra (computer program)|Cadabra
+* Cambridge Algebra System
+* CPMP-Tools
+* CoCoA
+* Erable
+* PARI/GP
+* Reduce (computer algebra system)|Reduce
+* Xcas
+

@@ -1,0 +1,45 @@
+class="wikitable sortable"
+|-
+! SN !! City !! Country
+|-
+| 1. || Auckland || 
+|-
+| 2. || Bangalore || 
+|-
+| 3. || Bangkok || 
+|-
+| 4. || Beijing || 
+|-
+| 5. || Guangzhou || 
+|-
+| 6. || Gurgaon || 
+|-
+| 7. || Hong Kong || 
+|-
+| 8. || Hyderabad || 
+|-
+| 9. || Jakarta || 
+|-
+| 10. || Kuala Lumpur || 
+|-
+| 11. || Manila || 
+|-
+| 12. || Melbourne || 
+|-
+| 13. || Mumbai || 
+|-
+| 14. || Seoul || 
+|-
+| 15. || Shanghai || 
+|-
+| 16. || Singapore || 
+|-
+| 17. || Sydney || 
+|-
+| 18. || Taipei || 
+|-
+| 19. || Tokyo – RPG || 
+|-
+| 20. || Tokyo – STRM || 
+|}
+

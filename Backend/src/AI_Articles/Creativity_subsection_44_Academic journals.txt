@@ -1,0 +1,8 @@
+columns-list|colwidth=22em|
+* ''Creativity Research Journal''
+* ''International Journal of Creative Computing''
+* ''Journal of Creative Behavior''
+* ''Psychology of Aesthetics, Creativity, and the Arts''
+* ''Thinking Skills and Creativity''
+}}
+

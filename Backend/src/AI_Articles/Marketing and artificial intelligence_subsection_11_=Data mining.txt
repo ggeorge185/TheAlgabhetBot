@@ -1,0 +1,7 @@
+Data mining involves searching the Web for existing information namely opinions and feelings that are posted online among social networks. “ This area of study is called opinion mining or sentiment analysis. It analyzes peoples opinions, appraisals, attitudes, and emotions toward entities, individuals, issues, events, topics, and their attributes”. One tool, Twizoo, uses AI to gather reviews from social networking sites about restaurants to help users find a place to eat. Twizoo had much success from the feedback of its users and expanded by launching “a widget where travel and hospitality websites could instantly bring those social media reviews to their own audiences” (Twizzo, 2017).
+
+Influencer marketing is huge on social media. Many brands collaborate and sponsor popular social media users and try to promote their products to that social media user's followers. This has been a successful tactic for Sugar Bear Hair and subscription box company FabFitFun. One company, InsightPool, uses AI to search through over 600 million influencers on social media to find the influencers who fit the brand's personality and target audience (Ellot, 2017). This can be an effective tool when searching for new influencers or a specific audience. It could also be cost-effective to find someone who is not famous (like Kardashians/Bachelorette cast) but could also influence a large audience and bring in sales 
+
+Category:Marketing
+Category:Applications of artificial intelligence
+Category:Mass media monitoring

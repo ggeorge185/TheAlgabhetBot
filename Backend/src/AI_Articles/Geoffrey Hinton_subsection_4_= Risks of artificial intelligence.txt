@@ -1,0 +1,8 @@
+external media
+| float  = right
+| video1 = [https://www.youtube.com/watch?v=qrvK_KuIeJk Geoffrey Hinton shares his thoughts on AI’s benefits and dangers], 60 Minutes YouTube video
+| video2 = 
+}}
+
+In 2023, Hinton expressed concerns about the rapid progress of A.I. He noted that "a part of him now regrets his life's work" due to his concerns and he expressed fears about a race between Google and Microsoft.
+

@@ -1,0 +1,2 @@
+Automated decision-making technologies (ADMT) are software-coded digital tools that automate the translation of input data to output data, contributing to the function of automated decision-making systems. Examples of these technologies include OpenAI|Open AI's DALL-E (an image creation program) and their various Generative pre-trained transformer|GPT language models, and Google's PaLM language model program.
+

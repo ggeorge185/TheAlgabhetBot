@@ -1,0 +1,14 @@
+In addition to established competitors, fintech companies often face doubts from financial regulators like issuing banks and national governments. In July 2018, the Trump Administration in the United States issued a policy statement that allowed fintech companies to apply for special purpose national bank charters from the federal Office of the Comptroller of the Currency. Federal preemption applies to state law regarding federally chartered banks.
+
+Data security is another issue regulators are concerned about because of the threat of Security hacker|hacking as well as the need to protect sensitive consumer and corporate financial data. Leading global fintech companies are proactively turning to cloud technology to meet increasingly stringent compliance regulations.
+
+The Federal Trade Commission provides free resources for corporations of all sizes to meet their legal obligations of protecting sensitive data. Several private initiatives suggest that multiple layers of defense can help isolate and secure financial data.
+
+In the European Union, fintech companies must adhere to data protection laws, such as General Data Protection Regulation|GDPR. Companies need to proactively protect users and companies data or face fines of 20 million euros, or in the case of an undertaking, up to 4% of their total global turnover. In addition to GDPR, European financial institutions including fintech firms have to update their regulatory affairs departments with the Payment Services Directive (PSD2), meaning they must organise their revenue structure around a central goal of privacy.
+
+Any data breach, no matter how small, can result in direct liability to a company (see the Gramm–Leach–Bliley Act) and ruin a fintech company's reputation.
+
+The online financial sector is also an increasing target of distributed denial of service extortion attacks. This security challenge is also faced by historical bank companies since they do offer Internet-connected customer services.
+
+Many fintech technologies have very high start-up costs but very low marginal costs for adding additional customers, effectively necessitating many fintech companies to act as natural monopolies.
+

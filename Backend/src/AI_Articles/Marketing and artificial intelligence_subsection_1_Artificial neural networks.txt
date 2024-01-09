@@ -1,0 +1,5 @@
+An artificial neural network is a form of computer program modeled on the brain and nervous system of humans. Neural networks are composed of a series of interconnected processing neurons that function in unison to achieve certain outcomes. 
+Using “human-like trial and error learning methods neural networks detect patterns existing within a data set ignoring data that is not significant while emphasizing the data which is most influential”.
+
+From a marketing perspective, neural networks are a form of software tool used to assist in decision making. Neural networks are effective in gathering and extracting information from large data sources and have the ability to identify cause and effect within tha data. These neural nets through the process of learning, identify relationships and connections between databases. Once knowledge has been accumulated, neural networks can be relied on to provide generalizations and can apply past knowledge and learning to a variety of situations. Neural networks can be used to assist in pattern classification, forecasting and marketing analysis.
+

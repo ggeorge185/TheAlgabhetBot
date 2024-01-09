@@ -1,0 +1,16 @@
+Main category|Free learning support software|Virtual learning environment}}
+*ATutor – Web-based Learning Content Management System (LCMS)
+*Chamilo – Web-based e-learning and content management system
+*Claroline – Collaborative Learning Management System
+*DoceboLMS – SAAS/cloud platform for learning
+*EFront (eLearning software)|eFront – Icon-based learning management system
+*H5P – Framework for creating and sharing interactive HTML5 content
+*IUP Portfolio – Educational platform for Education in Sweden|Swedish schools
+*ILIAS – Web-based learning management system (LMS)
+*Moodle – Free and open-source learning management system
+*OLAT – Web-based Learning Content Management System
+*Omeka – Content management system for online digital collections
+*openSIS – Web-based Student Information and School Management system
+*Sakai Project – Web-based learning management system
+*SWAD (software)|SWAD – Web-based learning management system
+

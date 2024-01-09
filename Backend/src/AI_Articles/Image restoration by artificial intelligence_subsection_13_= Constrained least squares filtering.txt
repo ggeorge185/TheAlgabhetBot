@@ -1,0 +1,2 @@
+By incorporating constraints on the solution, this method reduces noise and restores the image while preserving important image details.
+

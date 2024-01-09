@@ -1,0 +1,2 @@
+In the review of 84 ethics guidelines for AI, 11 clusters of principles were found: transparency, justice and fairness, non-maleficence, responsibility, privacy, beneficence, freedom and autonomy, trust, sustainability, dignity, solidarity.
+

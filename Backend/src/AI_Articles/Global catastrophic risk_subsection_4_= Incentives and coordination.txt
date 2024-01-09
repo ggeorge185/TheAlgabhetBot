@@ -1,0 +1,10 @@
+There are economic reasons that can explain why so little effort is going into existential risk reduction. It is a global public good, so we should expect it to be undersupplied by markets.
+
+Scope insensitivity influences how bad people consider the extinction of the human race to be. For example, when people are motivated to donate money to altruistic causes, the quantity they are willing to give does not increase linearly with the magnitude of the issue: people are roughly as willing to prevent the deaths of 200,000 or 2,000 birds. Similarly, people are often more concerned about threats to individuals than to larger groups.
+
+<blockquote>Substantially larger numbers, such as 500 million deaths, and especially qualitatively different scenarios such as the extinction of the entire human species, seem to trigger a different mode of thinking... People who would never dream of hurting a child hear of existential risk, and say, "Well, maybe the human species doesn't really deserve to survive".</blockquote>
+
+All past predictions of human extinction have proven to be false. To some, this makes future warnings seem less credible. Nick Bostrom argues that the absence of human extinction in the past is weak evidence that there will be no human extinction in the future, due to survivor bias and other anthropic principle|anthropic effects.
+
+Sociobiologist E. O. Wilson argued that: "The reason for this myopic fog, evolutionary biologists contend, is that it was actually advantageous during all but the last few millennia of the two million years of existence of the genus Homo... A premium was placed on close attention to the near future and early reproduction, and little else. Disasters of a magnitude that occur only once every few centuries were forgotten or transmuted into myth."
+

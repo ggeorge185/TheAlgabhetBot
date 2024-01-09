@@ -1,0 +1,2 @@
+Deep learning is employed for analysis of high-dimensional data. For instance, deep learning techniques can aid in examining the layout and connections of integrated circuits (ICs), substantially reducing the manual effort required for reverse engineering.<ref name=":1" /><ref name=":2" />
+

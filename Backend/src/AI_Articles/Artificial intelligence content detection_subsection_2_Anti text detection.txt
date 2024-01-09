@@ -1,0 +1,8 @@
+There is software available designed to bypass AI text detection. 
+
+In August 2023, a study was conducted by Taloni, et al. at Magna Græcia University and the Royal College of Ophthalmologists, to test AI text detection. The study tested an AI detection tool called Originality.ai, and found it detected GPT-4 with a mean accuracy of 91.3%.
+
+However, when the tool was reprocessed the tool through another software called Undetectable.ai, the detection accuracy of Originality.ai dropped to a mean accuracy of 27.8%.
+
+Some experts also believe that techniques like digital watermarking are ineffective because they can be removed or added to trigger false positives.
+

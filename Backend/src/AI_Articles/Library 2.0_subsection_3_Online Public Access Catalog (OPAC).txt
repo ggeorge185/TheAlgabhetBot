@@ -1,0 +1,12 @@
+main|Online public access catalog#Next-generation catalogs}}
+
+The Online Public Access Catalogue (OPAC) provides the library collection to its users, this is usually done by searching and browsing the library catalogue online. It may be an extension of the Integrated Library Management System (ILS) or independent software.
+
+Library 2.0 is a new way of providing library services through new Internet technologies, with emphasis on “user-centered” change and interaction.  Like Web 2.0, a full-featured Library 2.0 OPAC gets better the more that users are involved in the process of interacting with the catalog and sharing content.
+
+Librarians have been working to retool library catalogs in order to make them more useful for patrons to find, organize, and interact with information in a way that has infinite potential for user customization.  These new types of catalogs are a shift from "isolated information silos" to "interlinked computing platforms." In the past the information flow was mostly one way, from library to user.  With new web tools information can be released to flow in every direction (library to user, user to library, library to library, and user to user).
+
+Jessamyn West (librarian)|Jessamyn West, on her librarian.net website, authored "What We Want: An OPAC Manifesto," which broke down the needs of library staff, geeks, and users in their OPAC.  These valuable suggestions inform librarians of the flexibility, customizability and plain language approach that is desired by users in their OPAC.  Librarians should be aware of these issues so that planning for improvement can begin.
+
+Nishat Kazi recommends that the clients interest area should be recorded when they join the library, and when they login to their account on the OPAC, new items which match their interests should be displayed to them.  Kazi also recommends allowing clients to rank and review items in the OPAC, as well as giving other clients the opportunity to respond to these reviews. Key words can also be added by clients in addition to key words added by the librarian to facilitate searching.
+

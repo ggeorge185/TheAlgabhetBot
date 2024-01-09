@@ -1,0 +1,13 @@
+more citations needed|section|date=March 2018}}
+
+
+In reference to economics, rational agent refers to hypothetical consumers and how they make decisions in a free market. This concept is one of the assumptions made in neoclassical economics|neoclassical economic theory. The concept of economic rationality arises from a tradition of marginal analysis used in neoclassical economics. The idea of a rational agent is important to the philosophy of utilitarianism, as detailed by philosopher Jeremy Bentham's theory of the felicific calculus, also known as the hedonistic calculus.
+
+The action a rational agent takes depends on:
+* the preferences of the agent
+* the agent's information of its environment, which may come from past experiences
+* the actions, duties and obligations available to the agent
+* the estimated or actual benefits and the chances of success of the actions.
+
+In game theory and classical economics, it is often assumed that the actors, people, and firms are rational.  However, the extent to which people and firms behave rationally is subject to debate.  Economists often assume the models of rational choice theory and bounded rationality to formalize and predict the behavior of individuals and firms.  Rational agents sometimes behave in manners that are counter-intuitive to many people, as in the traveler's dilemma.
+

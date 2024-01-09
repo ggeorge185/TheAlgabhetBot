@@ -1,0 +1,9 @@
+The AI effect" is that line of thinking, the tendency to redefine AI to mean: "AI is anything that has not been done yet." This is the common public misperception, that as soon as AI successfully solves a problem, that solution method is no longer within the domain of AI. Geist credits John McCarthy (computer scientist)|John McCarthy giving this phenomenon its name, the "AI effect".
+
+McCorduck calls it an "odd paradox" that "practical AI successes, computational programs that actually achieved intelligent behavior, were soon assimilated into whatever application domain they were found to be useful in, and became silent partners alongside other problem-solving approaches, which left AI researchers to deal only with the 'failures', the tough nuts that couldn't yet be cracked." It is an example of moving the goalposts.
+
+Tesler's Theorem is:
+<blockquote>"AI is whatever hasn't been done yet."<br/>
+Larry Tesler</blockquote>
+Douglas Hofstadter quotes this as do many other commentators.
+

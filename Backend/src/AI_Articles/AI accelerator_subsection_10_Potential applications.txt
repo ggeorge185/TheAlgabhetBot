@@ -1,0 +1,11 @@
+Agricultural robots, for example, herbicide-free weed control.
+*Vehicular automation|Autonomous vehicles: Nvidia has targeted their Drive PX-series boards at this application.
+*Computer-aided diagnosis
+*Industrial robots, increasing the range of tasks that can be automated, by adding adaptability to variable situations.
+*Machine translation
+*Military robots
+*Natural language processing
+*Search engines, increasing the energy efficiency in computing|energy efficiency of data centers and the ability to use increasingly advanced information retrieval|queries.
+*Unmanned aerial vehicles, e.g. navigation systems, e.g. the Movidius Myriad 2 has been demonstrated successfully guiding autonomous drones.
+*Voice user interface, e.g. in mobile phones, a target for Qualcomm Zeroth (software)|Zeroth.
+

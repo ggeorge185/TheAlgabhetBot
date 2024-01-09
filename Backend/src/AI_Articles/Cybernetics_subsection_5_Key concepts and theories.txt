@@ -1,0 +1,20 @@
+The central theme in cybernetics is feedback. Feedback is a process where the observed outcomes of actions are taken as inputs for further action in ways that support the pursuit, maintenance, or disruption of particular conditions, forming a circular causal relationship. In steering a ship, the helmsperson maintains a steady course in a changing environment by adjusting their steering in continual response to the effect it is observed as having.
+
+Negative feedback processes are those that maintain particular conditions by reducing (hence 'negative') the difference from a desired state, such as where a thermostat turns on a heater when it is too cold and turns a heater off when it is too hot. Positive feedback processes increase (hence 'positive') the difference from a desired state. An example of positive feedback is when a microphone picks up the sound that it is producing through a speaker, which is then played through the speaker, and so on.
+
+In addition to feedback, cybernetics is concerned with other forms of circular processes including: feedforward, recursion, and Reflexivity (social theory)|reflexivity.
+
+Other key concepts and theories in cybernetics include:
+* Autopoiesis
+* Black box
+* Conversation theory
+* Double bind theory: Double binds are patterns created in interaction between two or more parties in ongoing relationships where there is a contradiction between messages at different logical levels that creates a situation with emotional threat but no possibility of withdrawal from the situation and no way to articulate the problem. The theory was first described by Gregory Bateson and colleagues in the 1950s with regard to the origins of schizophrenia, but it is also characteristic of many other social contexts.
+* Good regulator theorem
+* Perceptual control theory: A model of behavior based on the properties of negative feedback (cybernetic) control loops. A key insight of PCT is that the controlled variable is not the output of the system (the behavioral actions), but its input, "perception". The theory came to be known as "perceptual control theory" to distinguish from those control theorists that assert or assume that it is the system's output that is controlled. Method of levels is an approach to psychotherapy based on perceptual control theory where the therapist aims to help the patient shift their awareness to higher levels of perception in order to resolve conflicts and allow reorganization to take place.
+* Radical constructivism
+* Second-order cybernetics: Also known as the cybernetics of cybernetics, second-order cybernetics is the recursive application of cybernetics to itself and the practice of cybernetics according to such a critique. 
+* Requisite Variety
+* Self-organization in cybernetics|Self-organisation
+* Social systems theory
+* Viable system model
+

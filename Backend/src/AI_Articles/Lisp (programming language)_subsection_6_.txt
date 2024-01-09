@@ -1,0 +1,23 @@
+File:LISP machine.jpg|thumb|right|A [[Lisp machine in the MIT Museum]]
+File:4.3 BSD UWisc VAX Emulation Lisp Manual.png|thumb|[[4.3BSD|4.3 BSD from the University of Wisconsin, displaying the man page for Franz Lisp]]
+* LISP 1 – First implementation.
+* LISP 1.5 – First widely distributed version, developed by McCarthy and others at MIT. So named because it contained several improvements on the original "LISP 1" interpreter, but was not a major restructuring as the planned LISP 2 would be.
+* Stanford LISP 1.6 – This was a successor to LISP 1.5 developed at the Stanford AI Lab, and widely distributed to PDP-10 systems running the TOPS-10 operating system. It was rendered obsolete by Maclisp and InterLisp.
+* Maclisp|MACLISP – developed for MIT's Project MAC, MACLISP is a direct descendant of LISP 1.5. It ran on the PDP-10 and Multics systems. MACLISP would later come to be called Maclisp, and is often referred to as MacLisp. The "MAC" in MACLISP is related neither to Apple's Macintosh nor to John McCarthy (computer scientist)|McCarthy.
+* Interlisp – developed at BBN Technologies for PDP-10 systems running the TENEX (operating system)|TENEX operating system, later adopted as a "West coast" Lisp for the Xerox Lisp machines as InterLisp-D. A small version called "InterLISP 65" was published for the MOS 6502|6502-based Atari 8-bit family computer line. For quite some time, Maclisp and InterLisp were strong competitors.
+* Franz Lisp – originally a University of California, Berkeley project; later developed by Franz Inc. The name is a humorous deformation of the name "Franz Liszt", and does not refer to Allegro Common Lisp, the dialect of Common Lisp sold by Franz Inc., in more recent years.
+* XLISP, which AutoLISP was based on.
+* Standard Lisp and Portable Standard Lisp were widely used and ported, especially with the Computer Algebra System REDUCE.
+* ZetaLisp, also termed Lisp Machine Lisp – used on the Lisp machines, direct descendant of Maclisp. ZetaLisp had a big influence on Common Lisp.
+* LeLisp is a French Lisp dialect. One of the first Graphical user interface builder|Interface Builders (called SOS Interface) was written in LeLisp.
+* Scheme (programming language)|Scheme (1975).
+* Common Lisp (1984), as described by ''Common Lisp the Language'' – a consolidation of several divergent attempts (ZetaLisp, Spice Lisp, NIL (programming language)|NIL, and S-1 Lisp) to create successor dialects to Maclisp, with substantive influences from the Scheme dialect as well. This version of Common Lisp was available for wide-ranging platforms and was accepted by many as a de facto standard until the publication of ANSI Common Lisp (ANSI X3.226-1994). Among the most widespread sub-dialects of Common Lisp are Steel Bank Common Lisp (SBCL), CMU Common Lisp (CMU-CL), Clozure OpenMCL (not to be confused with Clojure!), GNU CLisp, and later versions of Franz Lisp; all of them adhere to the later ANSI CL standard (see below).
+* Dylan (programming language)|Dylan was in its first version a mix of Scheme with the Common Lisp Object System.
+* EuLisp – attempt to develop a new efficient and cleaned-up Lisp.
+* ISLISP – attempt to develop a new efficient and cleaned-up Lisp. Standardized as ISO/IEC 13816:1997 and later revised as ISO/IEC 13816:2007: ''Information technology – Programming languages, their environments and system software interfaces – Programming language ISLISP''.
+* IEEE Scheme (programming language)|Scheme – IEEE standard, 1178–1990 (R1995).
+* ANSI Common Lisp – an American National Standards Institute (ANSI) Standardization|standard for Common Lisp, created by subcommittee X3J13, chartered to begin with ''Common Lisp: The Language'' as a base document and to work through a public Consensus decision-making|consensus process to find solutions to shared issues of Portability (software)|portability of programs and Computer compatibility|compatibility of Common Lisp implementations. Although formally an ANSI standard, the implementation, sale, use, and influence of ANSI Common Lisp has been and continues to be seen worldwide.
+* ACL2 or "A Computational Logic for Applicative Common Lisp", an applicative (side-effect free) variant of Common LISP. ACL2 is both a programming language which can model computer systems, and a tool to help proving properties of those models.
+* Clojure, a recent dialect of Lisp which compiles to the Java virtual machine and has a particular focus on Concurrency (computer science)|concurrency.
+* Game Oriented Assembly Lisp (or GOAL) is a video game programming language developed by Andy Gavin at Naughty Dog. It was written using Allegro Common Lisp and used in the development of the entire Jak and Daxter|Jak and Daxter series of games developed by Naughty Dog.
+

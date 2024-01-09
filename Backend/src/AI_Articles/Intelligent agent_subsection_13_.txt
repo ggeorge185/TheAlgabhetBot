@@ -1,0 +1,6 @@
+Image:Model based utility based.png|thumb|right|408px|Model-based, utility-based agent
+Goal-based agents only distinguish between goal states and non-goal states. It is also possible to define a measure of how desirable a particular state is. This measure can be obtained through the use of a ''utility function'' which maps a state to a measure of the utility of the state. A more general performance measure should allow a comparison (computer programming)|comparison of different world states according to how well they satisfied the agent's goals. The term utility can be used to describe how "happy" the agent is.
+
+
+A rational utility-based agent chooses the action that maximizes the expected utility of the action outcomes - that is, what the agent expects to derive, on average, given the probabilities and utilities of each outcome. A utility-based agent has to model and keep track of its environment, tasks that have involved a great deal of research on perception, representation, reasoning, and learning.
+

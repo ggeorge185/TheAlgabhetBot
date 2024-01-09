@@ -1,0 +1,11 @@
+Lexical semantics: What is the computational meaning of individual words in context?
+; Distributional semantics: How can we learn semantic representations from data?
+; Named entity recognition (NER): Given a stream of text, determine which items in the text map to proper names, such as people or places, and what the type of each such name is (e.g. person, location, organization). Although capitalization can aid in recognizing named entities in languages such as English, this information cannot aid in determining the type of named entity, and in any case, is often inaccurate or insufficient.  For example, the first letter of a sentence is also capitalized, and named entities often span several words, only some of which are capitalized.  Furthermore, many other languages in non-Western scripts (e.g. Chinese language|Chinese or Arabic language|Arabic) do not have any capitalization at all, and even languages with capitalization may not consistently use it to distinguish names. For example, German language|German capitalizes all nouns, regardless of whether they are names, and French language|French and Spanish language|Spanish do not capitalize names that serve as adjectives. Another name for this task is token classification.
+
+; Sentiment analysis (see also Multimodal sentiment analysis)
+: Extract subjective information usually from a set of documents, often using online reviews to determine "polarity" about specific objects. It is especially useful for identifying trends of public opinion in social media, for marketing.
+; Terminology extraction
+:The goal of terminology extraction is to automatically extract relevant terms from a given corpus.
+; Word-sense disambiguation (WSD): Many words have more than one Meaning (linguistics)|meaning; we have to select the meaning which makes the most sense in context.  For this problem, we are typically given a list of words and associated word senses, e.g. from a dictionary or an online resource such as WordNet.
+; Entity linking: Many words—typically proper names—refer to Named entity|named entities; here we have to select the entity (a famous individual, a location, a company, etc.) which is referred to in context.
+

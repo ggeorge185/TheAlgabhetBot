@@ -1,0 +1,10 @@
+Virtual assistants can provide a wide variety of services. These include:
+
+* Provide information such as weather, facts from e.g. Wikipedia or IMDb, set an alarm, make to-do lists and shopping lists 
+* Play music from streaming services such as Spotify and Pandora Radio|Pandora; play radio stations; read audiobooks
+* Play videos, TV shows or movies on televisions, streaming from e.g. Netflix
+* Conversational commerce (see below)
+*Assist public interactions with government (see Artificial intelligence in government)
+* Complement and/or replace human customer service specialists in domains like healthcare, sales, and banking. One report estimated that an automated online assistant produced a 30% decrease in the work-load for a human-provided call centre.
+* Enhance the driving experience by enabling interaction with virtual assistants like Siri and Alexa while in the car.
+

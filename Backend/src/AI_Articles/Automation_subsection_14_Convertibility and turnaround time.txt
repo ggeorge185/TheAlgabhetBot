@@ -1,0 +1,8 @@
+Main|Turnaround time}}
+
+Another major shift in automation is the increased demand for Stiffness|flexibility and convertibility in manufacturing processes. Manufacturers are increasingly demanding the ability to easily switch from manufacturing Product A to manufacturing Product B without having to completely rebuild the production lines. Flexibility and distributed processes have led to the introduction of Automated Guided Vehicles with Natural Features Navigation.
+
+Digital electronics helped too. Former analog-based Instrumentation (computer programming)|instrumentation was replaced by digital equivalents which can be more accurate and flexible, and offer greater scope for more sophisticated Configuration management|configuration, Parametrization (geometry)|parametrization, and operation. This was accompanied by the fieldbus revolution which provided a networked (i.e. a single cable) means of communicating between control systems and field-level instrumentation, eliminating hard-wiring.
+
+Discrete manufacturing plants adopted these technologies fast. The more conservative process industries with their longer plant life cycles have been slower to adopt and analog-based measurement and control still dominate. The growing use of Industrial Ethernet on the factory floor is pushing these trends still further, enabling manufacturing plants to be integrated more tightly within the enterprise, via the internet if necessary. Global competition has also increased demand for Reconfigurable Manufacturing Systems.
+

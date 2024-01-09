@@ -1,0 +1,4 @@
+While xAI's stated goal is "to understand the true nature of the universe", one of its immediate objectives is to create an AI that is way capable of advanced mathematical reasoning, something not found in current models.
+
+On November 4, 2023, xAI unveiled Grok (chatbot)|Grok, an AI chatbot that is integrated with Twitter|X. Once out of beta, the bot would only be available to X's Premium+ subscribers.
+

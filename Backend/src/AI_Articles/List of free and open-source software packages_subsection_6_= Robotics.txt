@@ -1,0 +1,4 @@
+Robot Operating System (ROS)
+*Webots – Robot Simulator
+*YARP – Yet Another Robot Platform
+

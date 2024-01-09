@@ -1,0 +1,4 @@
+unreferenced|date=October 2021|section}}
+
+A neuromorphic computer/chip is any device that uses physical artificial neurons (made from silicon) to do computations (See: neuromorphic computing, physical neural network). One of the advantages of using a physical model computer such as this is that it takes the computational load of the processor (in the sense that the structural and some of the functional elements don't have to be programmed since they are in hardware). In recent times, neuromorphic technology has been used to build supercomputers which are used in international neuroscience collaborations. Examples include the Human Brain Project SpiNNaker supercomputer and the BrainScaleS computer.
+

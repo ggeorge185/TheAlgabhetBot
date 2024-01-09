@@ -1,0 +1,4 @@
+Computer graphics – Algorithms both for generating visual images synthetically, and for integrating or altering visual and spatial information sampled from the real world.
+*  Image processing – Determining information from an image through computation.
+* Information visualization – Methods for representing and displaying abstract data to facilitate human interaction for exploration and understanding.
+

@@ -1,0 +1,4 @@
+The increase of experimentally characterized ribosomally synthesized and post-translationally modified peptides (RiPPs), together with the availability of information on their sequence and chemical structure, selected from databases such as BAGEL, BACTIBASE, MIBIG, and THIOBASE, provide the opportunity to develop machine learning tools to decode the chemical structure and classify them.
+
+In 2017, researchers at the National Institute of Immunology of New Delhi, India, developed RiPPMiner software, a bioinformatics resource for decoding RiPP chemical structures by genome mining. The RiPPMiner web server consists of a query interface and the RiPPDB database. RiPPMiner defines 12 subclasses of RiPPs, predicting the cleavage site of the leader peptide and the final cross-link of the RiPP chemical structure.
+

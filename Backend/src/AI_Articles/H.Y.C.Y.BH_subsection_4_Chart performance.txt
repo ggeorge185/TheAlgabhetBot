@@ -1,0 +1,13 @@
+class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Rankings for "H.Y.C.Y.BH"
+! Work
+! List
+! Rank
+! 
+|-
+! scope="row"| Triple J
+| Triple J Hottest 100, 2021|Triple J Hottest 100 of 2021
+| 11
+| 
+|}
+

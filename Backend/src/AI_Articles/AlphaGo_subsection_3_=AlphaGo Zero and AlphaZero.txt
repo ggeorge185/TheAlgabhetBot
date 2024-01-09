@@ -1,0 +1,5 @@
+Main|AlphaGo Zero|AlphaZero}}
+AlphaGo's team published an article in the journal ''Nature (journal)|Nature'' on 19 October 2017, introducing AlphaGo Zero, a version without human data and stronger than any previous human-champion-defeating version. By playing games against itself, AlphaGo Zero surpassed the strength of AlphaGo Lee in three days by winning 100 games to 0, reached the level of AlphaGo Master in 21 days, and exceeded all the old versions in 40 days.
+
+In a paper released on arXiv on 5 December 2017, DeepMind claimed that it generalized AlphaGo Zero's approach into a single AlphaZero algorithm, which achieved within 24 hours a superhuman level of play in the games of chess, shogi, and Go (game)|Go by defeating world-champion programs, Stockfish (chess)|Stockfish, Elmo (shogi engine)|Elmo, and 3-day version of AlphaGo Zero in each case.
+

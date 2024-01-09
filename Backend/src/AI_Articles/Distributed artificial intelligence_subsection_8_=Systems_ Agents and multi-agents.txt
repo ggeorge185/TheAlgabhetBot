@@ -1,0 +1,6 @@
+Further|Multi-agent system#Applications}}
+
+Notion of Agents: Agents can be described as distinct entities with standard boundaries and interfaces designed for problem solving.
+
+Notion of Multi-Agents: Multi-Agent system is defined as a network of agents which are loosely coupled working as a single entity like society for problem solving that an individual agent cannot solve.
+

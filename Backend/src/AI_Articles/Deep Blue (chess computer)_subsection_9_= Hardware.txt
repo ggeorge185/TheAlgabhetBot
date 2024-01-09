@@ -1,0 +1,6 @@
+Deep Blue used custom VLSI chips to parallel computing|parallelize the alpha–beta pruning|alpha–beta search algorithm, an example of symbolic AI. The system derived its playing strength mainly from brute-force search|brute force computing power. It was a massively parallel IBM RS/6000 SP Supercomputer with 30 PowerPC 600#PowerPC 604e|PowerPC 604e processors and 480 custom 600&nbsp;µm CMOS VLSI "chess chips" designed to execute the chess-playing expert system, as well as Field-programmable gate array|FPGAs intended to allow patching of the VLSIs (which ultimately went unused) all housed in two cabinets. The chess chip has four parts: the move generator, the smart-move stack, the evaluation function, and the search control. The move generator is a 8x8 combinational logic circuit, a chess board in miniature. 
+
+Its chess playing program was written in C (programming language)|C and ran under the AIX operating system. It was capable of evaluating 200&nbsp;million positions per second, twice as fast as the 1996 version. 
+
+In 1997, Deep Blue was upgraded again to become the 259th most powerful supercomputer according to the TOP500 list, achieving 11.38 GFLOPS on the LINPACK|parallel high performance LINPACK benchmark.
+

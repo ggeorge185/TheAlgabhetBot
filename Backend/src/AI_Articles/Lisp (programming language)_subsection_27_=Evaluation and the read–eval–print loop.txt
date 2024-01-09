@@ -1,0 +1,20 @@
+Lisp languages are often used with an interactive command line, which may be combined with an integrated development environment (IDE). The user types in expressions at the command line, or directs the IDE to transmit them to the Lisp system. Lisp ''reads'' the entered expressions, ''evaluates'' them, and ''prints'' the result. For this reason, the Lisp command line is called a ''read–eval–print loop'' (REPL).
+
+The basic operation of the REPL is as follows. This is a simplistic description which omits many elements of a real Lisp, such as quoting and macros.
+
+The  function accepts textual S-expressions as input, and parses them into an internal data structure. For instance, if you type the text  at the prompt,  translates this into a linked list with three elements: the symbol , the number 1, and the number 2. It so happens that this list is also a valid piece of Lisp code; that is, it can be evaluated. This is because the car of the list names a function—the addition operation.
+
+Note that a  will be read as a single symbol.  will be read as the number one hundred and twenty-three.  will be read as the string "123".
+
+The  function evaluates the data, returning zero or more other Lisp data as a result. Evaluation does not have to mean interpretation; some Lisp systems compile every expression to native machine code. It is simple, however, to describe evaluation as interpretation: To evaluate a list whose car names a function,  first evaluates each of the arguments given in its cdr, then applies the function to the arguments. In this case, the function is addition, and applying it to the argument list  yields the answer . This is the result of the evaluation.
+
+The symbol  evaluates to the value of the symbol foo. Data like the string "123" evaluates to the same string. The list  evaluates to the list (1 2 3).
+
+It is the job of the  function to represent output to the user. For a simple result such as  this is trivial. An expression which evaluated to a piece of list structure would require that  traverse the list and print it out as an S-expression.
+
+To implement a Lisp REPL, it is necessary only to implement these three functions and an infinite-loop function. (Naturally, the implementation of  will be complex, since it must also implement all special operators like  or .) This done, a basic REPL is one line of code: .
+
+The Lisp REPL typically also provides input editing, an input history, error handling and an interface to the debugger.
+
+Lisp is usually evaluated eager evaluation|eagerly. In Common Lisp, arguments are evaluated in applicative order ('leftmost innermost'), while in Scheme programming language|Scheme order of arguments is undefined, leaving room for optimization by a compiler.
+

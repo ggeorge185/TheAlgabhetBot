@@ -1,0 +1,4 @@
+Even if current goal-based AI programs are not intelligent enough to think of resisting programmer attempts to modify their goal structures, a sufficiently advanced AI might resist any attempts to change its goal structure, just as a pacifist would not want to take a pill that makes them want to kill people. If the AI were superintelligent, it would likely succeed in out-maneuvering its human operators and prevent itself being "turned off" or reprogrammed with a new goal. This is particularly relevant to value lock-in scenarios. The field of "corrigibility" studies how to make agents that will not resist attempts to change their goals.
+
+An additional source of concern is that AI "must reason about what people ''intend'' rather than carrying out commands literally", and that it must be able to fluidly solicit human guidance if it is too uncertain about what humans want.
+

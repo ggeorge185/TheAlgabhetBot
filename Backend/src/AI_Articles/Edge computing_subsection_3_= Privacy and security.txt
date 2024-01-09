@@ -1,0 +1,3 @@
+The distributed nature of this paradigm introduces a shift in security schemes used in cloud computing. In edge computing, data may travel between different distributed nodes connected through the Internet and thus requires special encryption mechanisms independent of the cloud. Edge nodes may also be resource-constrained devices, limiting the choice in terms of security methods. Moreover, a shift from centralized top-down infrastructure to a decentralized trust model is required.
+On the other hand, by keeping and processing data at the edge, it is possible to increase privacy by minimizing the transmission of sensitive information to the cloud. Furthermore, the ownership of collected data shifts from service providers to end-users.
+

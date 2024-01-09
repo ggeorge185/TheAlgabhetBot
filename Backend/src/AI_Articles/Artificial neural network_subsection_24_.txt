@@ -1,0 +1,4 @@
+Main|Neuroevolution}}
+
+Neuroevolution can create neural network topologies and weights using evolutionary computation. It is competitive with sophisticated gradient descent approaches. One advantage of neuroevolution is that it may be less prone to get caught in "dead ends".
+

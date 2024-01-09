@@ -1,0 +1,4 @@
+Microarrays, a type of lab-on-a-chip, are used for automatically collecting data about large amounts of biological material. Machine learning can aid in analysis, and has been applied to expression pattern identification, classification, and genetic network induction. One of the main tasks is identifying which genes are expressed based on the collected data.
+
+Machine learning has been used to aid in modeling these interactions in domains such as genetic networks, signal transduction networks, and metabolic pathways.
+

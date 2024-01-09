@@ -1,0 +1,20 @@
+Engineers can now have numerical control over automated devices. The result has been a rapidly expanding range of applications and human activities. Computer-aided technologies (or CAx) now serve as the basis for mathematical and organizational tools used to create complex systems. Notable examples of CAx include computer-aided design (CAD software) and computer-aided manufacturing (CAM software). The improved design, analysis, and manufacture of products enabled by CAx has been beneficial for industry.
+
+Information technology, together with industrial machinery and industrial process|processes, can assist in the design, implementation, and monitoring of control systems. One example of an industrial control systems|industrial control system is a programmable logic controller (PLC). PLCs are specialized hardened computers which are frequently used to synchronize the flow of inputs from (physical) sensors and events with the flow of outputs to actuators and events.
+
+File:Automated online assistant.png|thumb|An [[automated online assistant on a website, with an avatar (computing)|avatar for enhanced human–computer interaction]]
+Human-computer interaction|Human-machine interfaces (HMI) or Human–computer interaction|computer human interfaces (CHI), formerly known as ''man-machine interfaces'', are usually employed to communicate with PLCs and other computers. Service personnel who monitor and control through HMIs can be called by different names. In the industrial process and manufacturing environments, they are called operators or something similar. In boiler houses and central utility departments, they are called ''stationary engineers''.
+
+Different types of automation tools exist:
+* ANN – Artificial neural network
+* DCS – Distributed control system
+* HMI – Human machine interface
+* RPA – Robotic process automation
+* SCADA – Supervisory control and data acquisition
+* PLC – Programmable logic controller
+* Instrumentation
+* Motion control
+* Robotics
+
+Host simulation software (HSS) is a commonly used testing tool that is used to test the equipment software. HSS is used to test equipment performance concerning factory automation standards (timeouts, response time, processing time).
+

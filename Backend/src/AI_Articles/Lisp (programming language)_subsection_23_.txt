@@ -1,0 +1,15 @@
+Lisp lists, being simple linked lists, can share structure with one another. That is to say, two lists can have the same ''tail'', or final sequence of conses. For instance, after the execution of the following Common Lisp code:
+<syntaxhighlight lang="Lisp">
+(setf foo (list 'a 'b 'c))
+(setf bar (cons 'x (cdr foo)))
+</syntaxhighlight>
+the lists  and  are  and  respectively. However, the tail  is the same structure in both lists. It is not a copy; the cons cells pointing to  and  are in the same memory locations for both lists.
+
+Sharing structure rather than copying can give a dramatic performance improvement. However, this technique can interact in undesired ways with functions that alter lists passed to them as arguments. Altering one list, such as by replacing the  with a , will affect the other:
+<syntaxhighlight lang="Lisp">
+ (setf (third foo) 'goose)
+</syntaxhighlight>
+This changes  to , but thereby also changes  to  – a possibly unexpected result. This can be a source of bugs, and functions which alter their arguments are documented as ''destructive'' for this very reason.
+
+Aficionados of functional programming avoid destructive functions. In the Scheme dialect, which favors the functional style, the names of destructive functions are marked with a cautionary exclamation point, or "bang"—such as  (read ''set car bang''), which replaces the car of a cons. In the Common Lisp dialect, destructive functions are commonplace; the equivalent of  is named  for "replace car". This function is rarely seen, however, as Common Lisp includes a special facility, , to make it easier to define and use destructive functions. A frequent style in Common Lisp is to write code functionally (without destructive calls) when prototyping, then to add destructive calls as an optimization where it is safe to do so.
+

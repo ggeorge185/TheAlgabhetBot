@@ -1,0 +1,37 @@
+Here are examples of Common Lisp code.
+
+The basic "Hello, World!" program:
+<syntaxhighlight lang="Lisp">
+(print "Hello, World!")
+</syntaxhighlight>
+
+Lisp syntax lends itself naturally to recursion. Mathematical problems such as the enumeration of recursively defined sets are simple to express in this notation. For example, to evaluate a number's factorial:
+<syntaxhighlight lang="Lisp">
+(defun factorial (n)
+    (if (zerop n) 1
+        (* n (factorial (1- n)))))
+</syntaxhighlight>
+
+An alternative implementation takes less stack space than the previous version if the underlying Lisp system optimizes tail recursion:
+<syntaxhighlight lang="Lisp">
+(defun factorial (n &optional (acc 1))
+    (if (zerop n) acc
+        (factorial (1- n) (* acc n))))
+</syntaxhighlight>
+
+Contrast the examples above with an iterative version which uses Common Lisp's  macro:
+<syntaxhighlight lang="Lisp">
+(defun factorial (n)
+    (loop for i from 1 to n
+        for fac = 1 then (* fac i)
+        finally (return fac)))
+</syntaxhighlight>
+
+The following function reverses a list. (Lisp's built-in ''reverse'' function does the same thing.)
+<syntaxhighlight lang="Lisp">
+(defun -reverse (list)
+    (let ((return-value))
+      (dolist (e list) (push e return-value))
+      return-value))
+</syntaxhighlight>
+

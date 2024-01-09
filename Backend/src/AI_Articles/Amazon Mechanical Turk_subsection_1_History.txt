@@ -1,0 +1,8 @@
+The service was conceived by Venky Harinarayan in a U.S. patent disclosure in 2001. Amazon coined the term ''artificial artificial intelligence'' for processes that outsource some parts of a computer program to humans, for those tasks carried out much faster by humans than computers. It is claimed that Jeff Bezos was responsible for proposing the development of Amazon's Mechanical Turk to realize this process.
+
+The name ''Mechanical Turk'' was inspired by "Mechanical Turk|The Turk", an 18th-century chess-playing automaton made by Wolfgang von Kempelen that toured Europe, and beat both Napoleon Bonaparte and Benjamin Franklin. It was later revealed that this "machine" was not an automaton, but a human chess master hidden in the cabinet beneath the board and controlling the movements of a humanoid dummy. Analogously, the Mechanical Turk online service uses remote human labor hidden behind a computer interface to help employers perform tasks that are not possible using a true machine.
+
+MTurk launched publicly on November 2, 2005. Its user base grew quickly. In early- to mid-November 2005, there were tens of thousands of jobs, all uploaded to the system by Amazon itself for some of its internal tasks that required human intelligence. HIT types expanded to include transcribing, rating, image tagging, surveys, and writing.
+
+In March 2007, there were reportedly more than 100,000 workers in over 100 countries. That year, Techlist published an interactive map pinpointing the locations of 50,000 of their MTurk workers around the world. By 2018, research demonstrated that while over 100,000 workers were available on the platform at any time, only around 2,000 were actively working.
+

@@ -1,0 +1,3 @@
+The programming community around the world has created and maintained several internet-resources dedicated to competitive programming. They offer standalone contests with or without minor prizes. Also the past archives of problems are a popular resource for training in competitive programming. There are several organizations that host programming competitions on a regular basis. These include:
+
+

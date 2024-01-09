@@ -1,0 +1,4 @@
+James Barrat weaves together explanations of AI concepts, AI history, and interviews with prominent AI researchers including Eliezer Yudkowsky and Ray Kurzweil. The book starts with an account of how an artificial general intelligence could become an artificial super-intelligence through recursive self-improvement. In subsequent chapters, the book covers the History of artificial intelligence|history of AI, including an account of the work done by I. J. Good, up to the work and ideas of researchers in the field today.
+
+Throughout the book, Barrat takes a cautionary tone, focusing on the threats artificial super-intelligence poses to human existence. Barrat emphasizes how difficult it would be to control or even to predict the actions of something that may become orders of magnitude more intelligent than the most intelligent humans.
+

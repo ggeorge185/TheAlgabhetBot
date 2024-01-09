@@ -1,0 +1,3 @@
+main|Social computing|Human–computer interaction}}
+Social computing is an area that is concerned with the intersection of social behavior and computational systems. Human–computer interaction research develops theories, principles, and guidelines for user interface designers.
+

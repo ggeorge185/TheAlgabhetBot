@@ -1,0 +1,5 @@
+glossary}}
+
+ that is class-based programming|class-based, (although not a ''pure'' OO language), and designed to have as few implementation  as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that  Java code can run on all platforms that support Java without the need for recompilation.}}
+
+

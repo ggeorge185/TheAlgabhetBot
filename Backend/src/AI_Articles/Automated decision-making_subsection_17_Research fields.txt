@@ -1,0 +1,10 @@
+Many academic disciplines and fields are increasingly turning their attention to the development, application and implications of ADM including business, computer sciences, Human–computer interaction|human computer interaction (HCI), law, public administration, and media and communications. The automation of media content and algorithmically driven news, video and other content via search systems and platforms is a major focus of academic research in media studies.<ref name=":6" />
+
+The ACM Conference on Fairness, Accountability, and Transparency|ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) was established in 2018 to study transparency and explainability in the context of socio-technical systems, many of which include ADM and AI.
+
+Key research centres investigating ADM include: 
+*Algorithm Watch, Germany
+*ARC Centre of Excellence for Automated Decision-Making and Society, Australia
+*Citizen Lab, Canada
+*Informatics Europe
+

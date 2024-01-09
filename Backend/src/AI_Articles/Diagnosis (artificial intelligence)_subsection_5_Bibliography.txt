@@ -1,0 +1,2 @@
+cite book|last = Hamscher | first = W. |author2=L. Console |author3=J. de Kleer | title = Readings in model-based diagnosis | publisher = Morgan Kaufmann Publishers Inc | location =  San Francisco, CA, USA | year = 1992|isbn = 1-55860-249-6}}
+

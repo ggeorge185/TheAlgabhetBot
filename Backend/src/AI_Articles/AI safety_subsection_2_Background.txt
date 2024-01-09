@@ -1,0 +1,24 @@
+Risks from AI began to be seriously discussed at the start of the Information Age|computer age:
+
+
+
+From 2008 to 2009, the Association for the Advancement of Artificial Intelligence (Association for the Advancement of Artificial Intelligence|AAAI) commissioned a study to explore and address potential long-term societal influences of AI research and development. The panel was generally skeptical of the radical views expressed by science-fiction authors but agreed that "additional research would be valuable on methods for understanding and verifying the range of behaviors of complex computational systems to minimize unexpected outcomes."
+
+In 2011, Roman Yampolskiy introduced the term "AI safety engineering" at the Philosophy and Theory of Artificial Intelligence conference, listing prior failures of AI systems and arguing that "the frequency and seriousness of such events will steadily increase as AIs become more capable."
+
+In 2014, philosopher Nick Bostrom published the book ''Superintelligence: Paths, Dangers, Strategies''. He has the opinion that the rise of AGI has the potential to create various societal issues, ranging from the displacement of the workforce by AI, manipulation of political and military structures, to even the possibility of human extinction. His argument that future advanced systems may pose a threat to human existence prompted Elon Musk,  Bill Gates, and Stephen Hawking to voice similar concerns.
+
+In 2015, dozens of artificial intelligence experts signed an Open Letter on Artificial Intelligence|open letter on artificial intelligence calling for research on the societal impacts of AI and outlining concrete directions. To date, the letter has been signed by over 8000 people including Yann LeCun, Shane Legg, Yoshua Bengio, and Stuart J. Russell|Stuart Russell.
+
+In the same year, a group of academics led by professor Stuart J. Russell|Stuart Russell founded the Center for Human-Compatible Artificial Intelligence|Center for Human-Compatible AI at the University of California Berkeley and the Future of Life Institute awarded $6.5 million in grants for research aimed at "ensuring artificial intelligence (AI) remains safe, ethical and beneficial."
+
+In 2016, the White House Office of Science and Technology Policy and Carnegie Mellon University announced The Public Workshop on Safety and Control for Artificial Intelligence, which was one of a sequence of four White House workshops aimed at investigating "the advantages and drawbacks" of AI. In the same year, Concrete Problems in AI Safety – one of the first and most influential technical AI Safety agendas – was published.
+
+In 2017, the Future of Life Institute sponsored the Asilomar Conference on Beneficial AI, where more than 100 thought leaders formulated principles for beneficial AI including "Race Avoidance: Teams developing AI systems should actively cooperate to avoid corner-cutting on safety standards."
+
+In 2018, the DeepMind Safety team outlined AI safety problems in specification, robustness, and assurance. The following year, researchers organized a workshop at ICLR that focused on these problem areas.
+
+In 2021, Unsolved Problems in ML Safety was published, outlining research directions in robustness, monitoring, alignment, and systemic safety.
+
+In 2023, Rishi Sunak said he wants the United Kingdom to be the "geographical home of global AI safety regulation" and to host the first global summit on AI safety.
+

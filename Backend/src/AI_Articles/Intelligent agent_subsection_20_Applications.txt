@@ -1,0 +1,4 @@
+Undue-section|date=September 2023}}
+
+Hallerbach et al. discussed the application of agent-based approaches for the development and validation of automated driving systems via a digital twin of the vehicle-under-test and microscopic traffic simulation based on independent agents. Waymo has created a multi-agent simulation environment Carcraft to test algorithms for self-driving cars. It simulates traffic interactions between human drivers, pedestrians and automated vehicles. People's behavior is imitated by artificial agents based on data of real human behavior. The basic idea of using agent-based modeling to understand self-driving cars was discussed as early as 2003.
+

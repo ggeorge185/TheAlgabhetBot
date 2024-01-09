@@ -1,0 +1,2 @@
+In addition to natural language text, large language models can be trained on programming language text, allowing them to generate source code for new computer programs. Examples include OpenAI Codex.
+

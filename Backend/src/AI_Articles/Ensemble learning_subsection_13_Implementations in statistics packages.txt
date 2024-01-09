@@ -1,0 +1,4 @@
+R (programming language)|R: at least three packages offer Bayesian model averaging tools, including the  (an acronym for Bayesian Model Selection) package, the  (an acronym for Bayesian Adaptive Sampling) package, and the  package. 
+* Python (programming language)|Python: scikit-learn, a package for machine learning in Python offers packages for ensemble learning including packages for bagging, voting and averaging methods.
+* MATLAB: classification ensembles are implemented in Statistics and Machine Learning Toolbox.
+

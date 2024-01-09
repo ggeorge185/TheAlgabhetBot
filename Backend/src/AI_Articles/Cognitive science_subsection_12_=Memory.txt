@@ -1,0 +1,8 @@
+Main|Memory}}
+
+Memory allows us to store information for later retrieval. Memory is often thought of as consisting of both a long-term and short-term store. Long-term memory allows us to store information over prolonged periods (days, weeks, years). We do not yet know the practical limit of long-term memory capacity. Short-term memory allows us to store information over short time scales (seconds or minutes).
+
+Memory is also often grouped into declarative and procedural forms. Declarative memory—grouped into subsets of Semantic memory|semantic and Episodic memory|episodic forms of memory—refers to our memory for facts and specific knowledge, specific meanings, and specific experiences (e.g. "Are apples food?", or "What did I eat for breakfast four days ago?"). Procedural memory allows us to remember actions and motor sequences (e.g. how to ride a bicycle) and is often dubbed implicit knowledge or memory .
+
+Cognitive scientists study memory just as psychologists do, but tend to focus more on how memory bears on cognitive processes, and the interrelationship between cognition and memory. One example of this could be, what mental processes does a person go through to retrieve a long-lost memory? Or, what differentiates between the cognitive process of recognition (seeing hints of something before remembering it, or memory in context) and recall (retrieving a memory, as in "fill-in-the-blank")?
+

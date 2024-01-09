@@ -1,0 +1,2 @@
+This section provides an overview of techniques and contributions in an overall context leading to many other, more detailed articles in Wikipedia. Sections on #Machine_learning|Machine Learning and #Uncertain_reasoning|Uncertain Reasoning are covered earlier in the #A short history|history section.
+

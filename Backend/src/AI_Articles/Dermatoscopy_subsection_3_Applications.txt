@@ -1,0 +1,10 @@
+The typical application of dermatoscopy is early detection of melanoma (see above)
+# Digital dermatoscopy (videodermatoscopy) is used for monitoring skin lesions suspicious of melanoma. Digital dermatoscopy images are stored and compared to images obtained during the patient's next visit. Suspicious changes in such a lesion are an indication for excision. Skin lesions, which appear unchanged over time are considered benign. Common systems for digital dermoscopy are Fotofinder, Molemax, DermoGenius, Easyscan and HEINE.
+# Aid in the diagnosis of skin tumors - such as basal cell carcinomas, squamous cell carcinomas, cylindromas, dermatofibromas, angiomas, seborrheic keratosis and many other common skin tumors have classical dermatoscopic findings.
+# Aid in the diagnosis of scabies and pubic louse. By staining the skin with India ink, a dermatoscope can help identify the location of the mite in the burrow, facilitating scraping of the scabetic burrow. By magnifying pubic louse, it allows for rapid diagnosis of the difficult to see small insects.
+# Aid in the diagnosis of warts. By allowing a physician to visualize the structure of a wart, to distinguish it from corn, callouses, trauma, or foreign bodies. By examining warts at late stages of treatment, to assure that therapy is not stopped prematurely due to difficult to visualize wart structures.
+# Aid in the diagnosis of fungal infections. To differentiate "black dot" tinea, or tinea capitis (fungal scalp infection) from alopecia areata.
+# Aid in the diagnosis of hair and scalp diseases, such as alopecia areata, female androgenic alopecia, monilethrix, Netherton syndrome, and Woolly hair nevus|woolly hair syndrome. Dermoscopy of hair and scalp is called trichoscopy.
+# Determination of surgical margin of hard to define skin cancers. Examples would be Bowen's disease, superficial basal cell carcinomas, and lentigo malignas. These tumors have very indistinct margins. By allowing the surgeon to correctly identify the true extent of the tumor, repeat surgery often is decreased.
+# Differentiation of tinea nigra from malignant melanoma or junctional melanocytic nevus.
+

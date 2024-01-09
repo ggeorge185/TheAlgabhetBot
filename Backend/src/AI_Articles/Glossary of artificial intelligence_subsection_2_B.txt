@@ -1,0 +1,72 @@
+glossary}}
+
+ to calculate a gradient that is needed in the calculation of the Artificial neural network#Components of an artificial neural network|weights to be used in the network. Backpropagation is shorthand for "the backward propagation of errors", since an error is computed at the output and distributed backwards throughout the network's layers. It is commonly used to train , a term referring to neural networks with more than one hidden layer.}}
+
+
+. It can be used to train Recurrent neural network#Elman networks and Jordan networks|Elman networks. The algorithm was independently derived by numerous researchers}}
+
+
+
+ applications.}}
+
+
+. The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a Feature (machine learning)|feature for training a Statistical classification|classifier.}}
+
+
+
+
+
+. It is a technique to provide any layer in a neural network with inputs that are zero mean/unit variance. Batch normalization was introduced in a 2015 paper. It is used to normalize the input layer by adjusting and scaling the activations.}}
+
+
+
+
+
+ which was developed by Pham, Ghanbarzadeh and et al. in 2005. It mimics the food foraging behaviour of honey bee colonies. In its basic version the algorithm performs a kind of neighbourhood search combined with global search, and can be used for both combinatorial optimization and continuous optimization. The only condition for the application of the bees algorithm is that some measure of distance between the solutions is defined. The effectiveness and specific abilities of the bees algorithm have been proven in a number of studies.}}
+
+
+
+
+
+
+
+
+. Superficially characterized by the implementation of an agent's ''beliefs'', ''desires'' and ''intentions'', it actually uses these concepts to solve a particular problem in agent programming. In essence, it provides a mechanism for separating the activity of selecting a plan (from a plan library or an external planner application) from the execution of currently active plans. Consequently, BDI agents are able to balance the time spent on deliberating about plans (choosing what to do) and executing those plans (doing it). A third activity, creating the plans in the first place (planning), is not within the scope of the model, and is left to the system designer and programmer.}}
+
+
+, the bias–variance tradeoff is the property of a set of predictive models whereby models with a lower Bias of an estimator|bias in statistical parameter|parameter estimation theory|estimation have a higher variance of the parameter estimates across sample (statistics)|samples, and vice versa.}}
+
+
+
+
+
+
+
+
+'' and the ''''. A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (''L'', ''S'', ''R''), where ''L'' and ''R'' are binary trees or the empty set and ''S'' is a singleton set. Some authors allow the binary tree to be the empty set as well.}}
+
+
+ approach based on the blackboard design pattern|blackboard architectural model, where a common knowledge base, the "blackboard", is iteratively updated by a diverse group of specialist knowledge sources, starting with a problem specification and ending with a solution.  Each knowledge source updates the blackboard with a partial solution when its internal constraints match the blackboard state.  In this way, the specialists work together to solve the problem.}}
+
+
+
+
+
+
+
+&nbsp;TRUE and ''b''&nbsp;&nbsp;FALSE, which make (''a'' AND NOT ''b'')&nbsp;&nbsp;TRUE. In contrast, "''a'' AND NOT ''a''" is unsatisfiable.}}
+
+
+
+
+
+
+, the outdegree. If this value is not uniform, an ''average branching factor'' can be calculated.}}
+
+
+
+
+
+
+
+

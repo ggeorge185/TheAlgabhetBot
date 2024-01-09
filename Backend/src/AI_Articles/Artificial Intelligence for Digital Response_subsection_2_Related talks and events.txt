@@ -1,0 +1,3 @@
+Muhammad Imran delivered a keynote talk on the science behind the AIDR system at the International Conference on Information Systems for Crisis Response And Management (ISCRAM). 
+* Abdelkader Lattab and Ji Lucas also presented the system at the 2016 QCRI-IBM Data Science Connect event.
+

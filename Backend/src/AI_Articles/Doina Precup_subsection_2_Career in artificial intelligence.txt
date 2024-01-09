@@ -1,0 +1,6 @@
+Precup was recruited as an assistant professor by McGill University's School of Computer Science in 2000 and has since been living in the Montreal area.
+
+In 2017, Precup was appointed to lead the Montreal office of the artificial intelligence firm Deepmind, which is owned by Google. She teaches at McGill while conducting fundamental research on reinforcement learning at Deepmind, working in particular on AI applications in areas that have a social impact, such as health care (medical imaging for example). She's interested in machine decision-making in situations where uncertainty is high.
+
+She is a senior fellow of the Canadian Institute for Advanced Research, fellow of the Association for the Advancement of Artificial Intelligence and a member of the Mila (research institute)|Montreal Institute for Learning Algorithms. With four other AI researchers (Yoshua Bengio, Geoffrey Hinton, Richard S. Sutton|Rich Sutton and Ian Kerr (academic)|Ian Kerr), she sent a letter to the Canadian Prime Minister in 2017 asking him to start addressing the risks posed by the development of Lethal autonomous weapon|AI-controlled weapons.
+

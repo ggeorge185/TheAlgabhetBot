@@ -1,0 +1,25 @@
+Expand section|date=March 2009|reason=More examples needed}}
+
+Given the measured quantities <math>x_1,\dots,x_n\,\!</math>each with Normal distribution|normally distributed errors of known standard deviation <math>\sigma\,\!</math>,
+
+: <math>
+x_i \sim N(\theta_i, \sigma^2)
+</math>
+
+Suppose we are interested in estimating the <math>\theta_i</math>. An approach would be to estimate the <math>\theta_i</math> using a maximum likelihood approach; since the observations are independent, the likelihood factorizes and the maximum likelihood estimate is simply
+
+: <math>
+\theta_i = x_i.
+</math>
+
+However, if the quantities are related, so that for example the individual <math>\theta_i</math>have themselves been drawn from an underlying distribution, then this relationship destroys the independence and suggests a more complex model, e.g.,
+
+: <math>
+x_i \sim N(\theta_i,\sigma^2),
+</math>
+: <math>
+\theta_i\sim N(\varphi, \tau^2),
+</math>
+
+with improper priors <math>\varphi\sim\text</math>, <math>\tau\sim\text \in (0,\infty)</math>. When <math>n\ge 3</math>, this is an ''identified model'' (i.e. there exists a unique solution for the model's parameters), and the posterior distributions of the individual <math>\theta_i</math> will tend to move, or ''Shrinkage estimator|shrink'' away from the maximum likelihood estimates towards their common mean. This ''shrinkage'' is a typical behavior in hierarchical Bayes models.
+

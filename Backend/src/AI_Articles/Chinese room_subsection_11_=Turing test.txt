@@ -1,0 +1,9 @@
+main|Turing test}}
+File:Turing Test version 3.png|thumb|The "standard interpretation" of the Turing Test, in which player C, the interrogator, is given the task of trying to determine which player—A or B—is a computer and which is a human. The interrogator is limited to using the responses to written questions to make the determination. Image adapted from Saygin, et al. 2000.
+The Chinese room implements a version of the Turing test. Alan Turing introduced the test in 1950 to help answer the question "can machines think?" In the standard version, a human judge engages in a natural language conversation with a human and a machine designed to generate performance indistinguishable from that of a human being. All participants are separated from one another. If the judge cannot reliably tell the machine from the human, the machine is said to have passed the test.
+
+Turing then considered each possible objection to the proposal "machines can think", and found that there are simple, obvious answers if the question is de-mystified in this way. He did not, however, intend for the test to measure for the presence of "consciousness" or "understanding". He did not believe this was relevant to the issues that he was addressing. He wrote:
+}}
+
+To Searle, as a philosopher investigating in the nature of philosophy of mind|mind and consciousness, these are the relevant mysteries. The Chinese room is designed to show that the Turing test is insufficient to detect the presence of consciousness, even if the room can behaviourism|behave or functionalism (philosophy)|function as a conscious mind would.
+

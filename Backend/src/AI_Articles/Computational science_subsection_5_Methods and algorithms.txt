@@ -1,0 +1,27 @@
+Algorithms and mathematical methods used in computational science are varied. Commonly applied methods include:
+
+
+* Computer algebra, including symbolic computation in fields such as statistics, equation solving, algebra, calculus, geometry, linear algebra, tensor analysis (multilinear algebra), optimization
+* Numerical analysis, including Computing derivatives by finite differences
+** Application of Taylor series as convergent and asymptotic series
+** Computing derivatives by Automatic differentiation (AD)
+** Finite element method for solving PDEs
+** High order difference approximations via Taylor series and Richardson extrapolation
+** Methods of integration on a uniform Mesh (mathematics)|mesh: rectangle rule (also called ''midpoint rule''), trapezoid rule, Simpson's rule
+** Runge–Kutta methods for solving ordinary differential equations
+** Newton's method
+* Discrete Fourier transform
+* Monte Carlo methods
+* Numerical linear algebra, including decompositions and eigenvalue algorithms
+* Linear programming
+* Branch and cut
+* Branch and bound
+* Molecular dynamics, Car–Parrinello molecular dynamics
+* Space mapping
+* Time stepping methods for dynamical systems
+
+
+Historically and today, Fortran remains popular for most applications of scientific computing. Other programming languages and computer algebra systems commonly used for the more mathematical aspects of scientific computing applications include GNU Octave, Haskell (programming language)|Haskell, MATLAB, Python (programming language)|Python (with third-party SciPy library), Perl (with third-party Perl Data Language|PDL library), R (programming language)|R, Scilab, and TK Solver. The more computationally intensive aspects of scientific computing will often use some variation of C (programming language)|C or Fortran and optimized algebra libraries such as BLAS or LAPACK. In addition, parallel computing is heavily used in scientific computing to find solutions of large problems in a reasonable amount of time. In this framework, the problem is either divided over many cores on a single CPU node (such as with OpenMP), divided over many CPU nodes networked together (such as with Message Passing Interface|MPI), or is run on one or more Graphics processing unit|GPUs (typically using either CUDA or OpenCL).
+
+Computational science application programs often model real-world changing conditions, such as weather, airflow around a plane, automobile body distortions in a crash, the motion of stars in a galaxy, an explosive device, etc. Such programs might create a 'logical mesh' in computer memory where each item corresponds to an area in space and contains information about that space relevant to the model. For example, in Numerical weather prediction|weather models, each item might be a square kilometer; with land elevation, current wind direction, humidity, temperature, pressure, etc. The program would calculate the likely next state based on the current state, in simulated time steps, solving differential equations that describe how the system operates, and then repeat the process to calculate the next state.
+

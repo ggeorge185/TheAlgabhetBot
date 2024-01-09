@@ -1,0 +1,2 @@
+Tractable's technology uses computer vision and deep learning to automate the appraisal of visual damage in accident and disaster recovery, for example to a vehicle. Drivers can be directed to use the application by their insurer after an accident, with the aim of settling their claim more quickly. The AI evaluates the damage from images, and therefore doesn't assess what isn't visible (such as, for example, interior damage to a vehicle or property).
+

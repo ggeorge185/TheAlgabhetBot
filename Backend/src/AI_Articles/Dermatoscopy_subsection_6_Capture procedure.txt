@@ -1,0 +1,8 @@
+Full-body capture
+
+* The patient will stand on a designated spot for full-body imaging. Then, devices such as the WB360 will fire all of its cameras at the same time, capturing a snapshot of the patient’s entire body in one singular motion. 
+* The camera then proceeds to send the pictures to a backend software, where it compiles and generates a three dimensional render of the patient. 
+* The three-dimensional model is often viewable in applications provided by the device.
+* Most modern software will also use computer vision algorithms and neural networks to automatically find and analyze each lesion on the patient's body. A list of lesions is then provided, allowing doctors and nurses to have the freedom to see a patient’s lesion(s) of interest on their rendered model or in a readily provided list for ease of navigation. 
+* Most modern software will also allow users to add single lesion close up shots with a regular dermatoscopy to a specific lesion for better image quality. Oftentimes a nurse will go through all the lesions provided by the three dimensional model and then capture close ups for those that seemed suspicious or Malignancy|malignant.
+

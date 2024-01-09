@@ -1,0 +1,2 @@
+Advocates of Hybrid neural network|hybrid models (combining neural networks and symbolic approaches) say that such a mixture can better capture the mechanisms of the human mind.
+

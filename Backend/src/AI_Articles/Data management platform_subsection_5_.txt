@@ -1,0 +1,6 @@
+During the 1950s, data management became a problem for companies as computers were not quick with computations and needed a great amount of labor to deliver results. Companies started by storing their data in warehouses. Early programs were written in Binary number|binary and decimal and this was known as Machine code|absolute machine language, which later was called the first generation programming language. 
+File:Memory Data Register diagram.jpg|thumb|An example of how data was stored in the early days of data management.
+After this, assembly language - which came to be known as second generation programming languages - came into existence. This symbolic machine code grew popular among programmers as they were able to utilize alphabet letters for coding. This led to less errors in programs and improved code readability.
+* '''User profiling -''' representing real people using sets of data on user related information, such as needs, interests, and behaviors. Profiles can be created manually or through machine learning algorithms that automatically analyze and profile internet users.
+* '''Look-alike modeling -''' identifying new clients who behave similarly to current customers for targeted ad campaigns.
+

@@ -1,0 +1,19 @@
+The following applications are available under proprietary licenses.
+
+* Angoss KnowledgeSTUDIO: data mining tool
+* LIONsolver: an integrated software application for data mining, business intelligence, and modeling that implements the Learning and Intelligent OptimizatioN (LION) approach.
+* PolyAnalyst: data and text mining software by Megaputer Intelligence.
+* Microsoft Analysis Services: data mining software provided by Microsoft.
+* NetOwl: suite of multilingual text and entity analytics products that enable data mining.
+* Oracle Data Mining: data mining software by Oracle Corporation.
+* PSeven: platform for automation of engineering simulation and analysis, multidisciplinary optimization and data mining provided by DATADVANCE.
+* Qlucore Omics Explorer: data mining software.
+* RapidMiner: An environment for machine learning and data mining experiments. <!-- Latest version is NOT opensource -->
+* SAS (software)#Components|SAS Enterprise Miner: data mining software provided by the SAS Institute.
+* SPSS Modeler: data mining software provided by IBM.
+* STATISTICA Data Miner: data mining software provided by StatSoft.
+* Tanagra (machine learning)|Tanagra: Visualisation-oriented data mining software, also for teaching.
+* Vertica: data mining software provided by Hewlett-Packard.
+* Google Cloud Platform: automated custom ML models managed by Google.
+* Amazon SageMaker: managed service provided by Amazon.com|Amazon for creating & productionising custom ML models.
+

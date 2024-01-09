@@ -1,0 +1,21 @@
+class="wikitable plainrowheaders" style="text-align:center;"
+|+Release dates and formats for ''Artificial Intelligence''
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format(s)
+! scope="col"| Label
+! scope="col"| 
+|-
+! scope="row"| Various
+| 6 August 2021
+| 
+| Tom Cardy (independent record label|independent)
+| 
+|-
+! scope="row"| Australia
+| 1 November 2021
+| LP record|LP
+| Tom Cardy (independent)
+| 
+|}
+

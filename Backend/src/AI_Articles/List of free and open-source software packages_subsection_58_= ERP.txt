@@ -1,0 +1,15 @@
+Adempiere – Enterprise resource planning (ERP) business suite
+* OFBiz|Apache OFBiz - A suite of enterprise applications from Apache Software Foundation
+* Compiere – ERP solution automates accounting, supply chain, inventory, and sales orders
+* Dolibarr – Web-based ERP system
+* ERPNext – Web-based open-source ERP system for managing accounting and finance
+* ERP5 - Single Unified Business Model based system written with Python (programming language)|Python and Zope 
+* iDempiere - Fully navigable on PCs, tablets and smartphones driven only by a community of supporters
+* Ino erp – Dynamic pull based system ERP
+* JFire – An ERP business suite written with Java (programming language)|Java and Java Data Objects|JDO
+* LedgerSMB - A Double-entry book-keeping|double entry accounting and ERP system written with Perl
+* metasfresh – Enterprise resource planning|ERP Software
+* Odoo – Open-source ERP, CRM and CMS
+* Openbravo – Web-based ERP
+* Tryton – Open-source ERP
+

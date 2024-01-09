@@ -1,0 +1,18 @@
+Radio Rex was the first voice activated toy, patented in 1916 and released in 1922. It was a wooden toy in the shape of a dog that would come out of its house when its name is called.
+
+In 1952, Bell Labs presented "Audrey", the Automatic Digit Recognition machine. It occupied a six- foot-high relay rack, consumed substantial power, had streams of cables and exhibited the myriad maintenance problems associated with complex vacuum-tube circuitry. It could recognize the fundamental units of speech, phonemes. It was limited to accurate recognition of digits spoken by designated talkers. It could therefore be used for voice dialing, but in most cases push-button dialing was cheaper and faster, rather than speaking the consecutive digits.
+
+Another early tool which was enabled to perform digital speech recognition was the IBM Shoebox voice-activated calculator, presented to the general public during the 1962 Seattle World's Fair after its initial market launch in 1961. This early computer, developed almost 20 years before the introduction of the first IBM Personal Computer in 1981, was able to recognize 16 spoken words and the digits 0 to 9.
+
+The first natural language processing computer program or the chatbot ELIZA was developed by MIT professor Joseph Weizenbaum in the 1960s. It was created to "demonstrate that the communication between man and machine was superficial". ELIZA used pattern matching and substitution methodology into scripted responses to simulate conversation, which gave an illusion of understanding on the part of the program.
+
+Weizenbaum's own secretary reportedly asked Weizenbaum to leave the room so that she and ELIZA could have a real conversation. Weizenbaum was surprised by this, later writing: "I had not realized ... that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.
+
+This gave name to the ELIZA effect, the tendency to unconsciously assume computer behaviors are analogous to human behaviors; that is, anthropomorphisation, a phenomenon present in human interactions with virtual assistants.
+
+The next milestone in the development of voice recognition technology was achieved in the 1970s at the Carnegie Mellon University in Pittsburgh, Pennsylvania with substantial support of the United States Department of Defense and its DARPA agency, funded five years of a Speech Understanding Research program, aiming to reach a minimum vocabulary of 1,000 words. Companies and academia including IBM, Carnegie Mellon University (CMU) and Stanford Research Institute took part in the program.
+
+The result was "Harpy", it mastered about 1000 words, the vocabulary of a three-year-old and it could understand sentences. It could process speech that followed pre-programmed vocabulary, pronunciation, and grammar structures to determine which sequences of words made sense together, and thus reducing speech recognition errors.
+
+In 1986 Tangora was an upgrade of the Shoebox, it was a voice recognizing typewriter. Named after the world's fastest typist at the time, it had a vocabulary of 20,000 words and used prediction to decide the most likely result based on what was said in the past. IBM's approach was based on a hidden Markov model, which adds statistics to digital signal processing techniques. The method makes it possible to predict the most likely phonemes to follow a given phoneme. Still each speaker had to individually train the typewriter to recognize his or her voice, and pause between each word.
+

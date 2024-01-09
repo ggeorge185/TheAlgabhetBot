@@ -1,0 +1,6 @@
+Artificial intelligence algorithms have shown promising results in accurately diagnosing and risk stratifying patients with concern for coronary artery disease, showing potential as an initial triage tool. Other algorithms have been used in predicting patient mortality, medication effects, and adverse events following treatment for acute coronary syndrome. Another growing area of research is the utility of AI in classifying heart sounds and diagnosing Valvular heart disease|valvular disease. Challenges of AI in cardiovascular medicine have included the limited data available to train machine learning models, such as limited data on social determinants of health as they pertain to cardiovascular disease.
+
+A key limitation in early studies evaluating AI were omissions of data comparing algorithmic performance to humans. Examples of studies which assess AI performance relative to physicians includes how AI is noninferior to humans in interpretation of cardiac echocardiograms and that AI can diagnose heart attack better than human physicians in the emergency setting, reducing both low-value testing and missed diagnoses.
+
+In cardiovascular tissue engineering and organoid studies, AI is increasingly used to analyze microscopy images, and integrate electrophysiological read outs.
+

@@ -1,0 +1,2 @@
+The difference between optimization and machine learning arises from the goal of generalization (learning)|generalization: while optimization algorithms can minimize the loss on a training set, machine learning is concerned with minimizing the loss on unseen samples. Characterizing the generalization of various learning algorithms is an active topic of current research, especially for deep learning algorithms.
+

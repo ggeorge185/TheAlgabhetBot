@@ -1,0 +1,4 @@
+The term ''intelligence amplification'' (IA) has enjoyed a wide currency since William Ross Ashby wrote of "amplifying intelligence" in his ''Introduction to Cybernetics'' (1956). Related ideas were explicitly proposed as an alternative to Artificial Intelligence by Hao Wang (academic)|Hao Wang from the early days of automated theorem proving|automatic theorem provers.
+
+
+

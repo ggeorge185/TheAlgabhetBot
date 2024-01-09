@@ -1,0 +1,4 @@
+While exploring the possibilities of realizing spiritual figures digitally, P. Pataranutaporn et al. implemented a chatbot, named <nowiki>''Buddha bot''</nowiki>, as an AI embodiment of the Buddha. It allows users to ask it questions and have conversations with it. It uses machine learning concepts to process languages and give responses.
+
+In 2017, a funeral service began using <nowiki>''</nowiki>Pepper (robot)|Pepper", a semi-humanoid robot that was created by Japanese manufacturer Softbank Robotics. Notable for its capability of discerning human emotions and recognizing facial expressions, it mainly provides funeral services and preaches Buddhist teachings to people.
+

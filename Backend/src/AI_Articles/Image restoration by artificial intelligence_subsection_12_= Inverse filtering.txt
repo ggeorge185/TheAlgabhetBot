@@ -1,0 +1,2 @@
+This technique aims to recover the original image by estimating the inverse of the degradation function. However, it is highly sensitive to noise and can amplify noise in the restoration process.
+

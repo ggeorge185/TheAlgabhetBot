@@ -1,0 +1,2 @@
+Appian offers a low-code platform with a visual interface and pre-built development modules. As of August 2020, it was the only pure-play provider of low-code software on the stock market. As with other low-code platforms, it enables businesses to create apps and automations using little or no code. The platform protects privacy and security with its Health Insurance Portability and Accountability Act|HIPAA-compliant cloud. The platform includes Appian AI and Appian RPA.
+

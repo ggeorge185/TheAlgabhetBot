@@ -1,0 +1,10 @@
+File:Ad-tech London 2010 (2).JPG|thumb|Google on ad-tech London, 2010
+
+Google generates most of its revenues from advertising. This includes sales of apps, purchases made in-app, digital content products on Google and YouTube, Android and licensing and service fees, including fees received for Google Cloud offerings. Forty-six percent of this profit was from clicks (cost per clicks), amounting to US$109,652 million in 2017. This includes three principal methods, namely AdMob, AdSense (such as AdSense for Content, AdSense for Search, etc.) and DoubleClick AdExchange.
+
+In addition to its own algorithms for understanding search requests, Google uses technology from its acquisition of DoubleClick, to project user interest and target advertising to the search context and the user history.
+
+In 2007, Google launched "AdSense for Mobile", taking advantage of the emerging mobile advertising market.
+
+Google Analytics allows website owners to track where and how people use their website, for example by examining click rates for all the links on a page. Google advertisements can be placed on third-party websites in a two-part program. Google Ads allows advertisers to display their advertisements in the Google content network, through a cost-per-click scheme. The sister service, Google AdSense, allows website owners to display these advertisements on their website and earn money every time ads are clicked. One of the criticisms of this program is the possibility of click fraud, which occurs when a person or automated script clicks on advertisements without being interested in the product, causing the advertiser to pay money to Google unduly. Industry reports in 2006 claimed that approximately 14 to 20&nbsp;percent of clicks were fraudulent or invalid. Google Search Console (rebranded from Google Webmaster Tools in May 2015) allows webmasters to check the sitemap, crawl rate, and for security issues of their websites, as well as optimize their website's visibility.
+

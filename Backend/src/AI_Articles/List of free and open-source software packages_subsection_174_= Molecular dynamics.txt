@@ -1,0 +1,6 @@
+GROMACS – Protein, lipid, and nucleic acid simulation
+* LAMMPS – Molecular dynamics software
+* MDynaMix – General-purpose molecular dynamics, simulating mixtures of molecules
+*Molecular simulation - ms2|''ms''2 - molecular dynamics and Monte Carlo simulation package to predict thermophysical properties of fluids
+* NWChem – Quantum chemical and molecular dynamics software
+

@@ -1,0 +1,5 @@
+On 11 December 2017, DeepMind released AlphaGo teaching tool on its website to analyze winning rates of different Go openings as calculated by AlphaGo Master. The teaching tool collects 6,000 Go openings from 230,000 human games each analyzed with 10,000,000 simulations by AlphaGo Master. Many of the openings include human move suggestions.
+
+In the Future of Go Summit in May 2017, DeepMind disclosed that the version of AlphaGo used in this Summit was Master (software)|AlphaGo Master, and revealed that it had measured the strength of different versions of the software. AlphaGo Lee, the version used against Lee, could give AlphaGo Fan, the version used in AlphaGo vs. Fan Hui, three stones, and AlphaGo Master was even three stones stronger.
+
+

@@ -1,0 +1,57 @@
+glossary}}
+
+
+
+
+ in which many calculations or the execution of Process (computing)|processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: Bit-level parallelism|bit-level, Instruction-level parallelism|instruction-level, Data parallelism|data, and task parallelism.}}
+
+
+
+, a special kind of Variable (programming)|variable, used in a  to refer to one of the pieces of data provided as input to the subroutine. being discussed.}} These pieces of data are the values of the arguments (often called ''actual arguments'' or ''actual parameters'') with which the subroutine is going to be called/invoked. An ordered list of parameters is usually included in the function signature|definition of a subroutine, so that, each time the subroutine is called, its arguments for that call are evaluated, and the resulting values can be assigned to the corresponding parameters.}}
+
+
+
+
+
+
+
+
+, a condition or Predicate (mathematics)|predicate that must always be true just after the execution of some section of code or after an operation in a formal specification. Postconditions are sometimes tested using assertion (computing)|assertions within the code itself. Often, postconditions are simply included in the documentation of the affected section of code.}}
+
+
+, a condition or Predicate (mathematics)|predicate that must always be true just prior to the execution of some section of code or before an operation in a formal specification.  If a precondition is violated, the effect of the section of code becomes undefined and thus may or may not carry out its intended work.  Computer security|Security problems can arise due to incorrect preconditions.}}
+
+
+
+
+
+
+
+
+ or  data structure, but where additionally each element has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority. In some implementations, if two elements have the same priority, they are served according to the order in which they were enqueued, while in other implementations, ordering of elements with the same priority is undefined.}}
+
+
+
+
+
+Subroutines may be defined within programs, or separately in library (computer science)|libraries that can be used by many programs.  In different programming languages, a subroutine may be called a routine, subprogram, function, method (computing)|method, or procedure. Technically, these terms all have different definitions. The generic, umbrella term  callable unit is sometimes used.}}
+
+
+ undergoes, from initial creation to deployment and Execution (computing)|execution. The phases are edit time, compile time, link time, distribution time, installation time, load time, and run time.}}
+
+
+ to implement .}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

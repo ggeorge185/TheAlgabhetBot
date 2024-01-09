@@ -1,0 +1,8 @@
+From 2011 to 2012, he worked at Google, where he founded and directed the Google Brain Deep Learning Project with Jeff Dean (computer scientist)|Jeff Dean, Greg Corrado, and Rajat Monga.
+
+In 2014, he joined Baidu as chief scientist, and carried out research related to big data and AI. There he set up several research teams for things like Facial recognition system|facial recognition and Melody, an AI chatbot for Health care|healthcare. In March 2017, he announced his resignation from Baidu.
+
+He soon afterward launched Deeplearning.ai, an online series of deep learning courses (including the AI for Good Specialization). Then Ng launched Landing AI, which provides AI-powered SaaS products.
+
+In January 2018, Ng unveiled the AI Fund, raising $175 million to invest in new Startup company|startups. In November 2021, Landing AI secured a $57 million round of series A funding led by McRock Capital, to help manufacturers adopt computer vision.
+

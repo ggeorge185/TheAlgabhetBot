@@ -1,0 +1,66 @@
+glossary}}
+
+
+
+
+
+
+
+.}}
+
+
+
+
+
+
+ and statistical models that computer systems use in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead.}}
+
+
+
+ and systems for audio understanding by machine.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+) that may provide a sufficiently good solution to an optimization problem, especially with incomplete or imperfect information or limited computation capacity. Metaheuristics sample a set of solutions which is too large to be completely sampled.}}
+
+
+
+
+
+
+
+
+
+
+
+ for some kinds of decision processes.}}
+
+
+
+. Multi-agent systems can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve. Intelligence may include Scientific method|methodic, Function (computer science)|functional, Algorithm|procedural approaches, algorithmic search algorithm|search or .}}
+
+
+
+
+
+
+
+
+ expert system that used  to identify bacteria causing severe infections, such as bacteremia and meningitis, and to recommend antibiotics, with the dosage adjusted for patient's body weight – the name derived from the antibiotics themselves, as many antibiotics have the suffix "-mycin". The MYCIN system was also used for the diagnosis of blood clotting diseases.}}
+
+
+
+
+

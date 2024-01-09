@@ -1,0 +1,4 @@
+Digital media, entertainment platforms and information services increasingly provide content to audiences via automated recommender systems based on demographic information, previous selections, collaborative filtering or content-based filtering. This includes music and video platforms, publishing, health information, product databases and search engines. Many recommender systems also provide some agency to users in accepting recommendations and incorporate data-driven algorithmic feedback loops based on the actions of the system user.
+
+Large scale machine learning language models and image creation programs being developed by companies such as OpenAI and Google in the 2020s have restricted access however they are likely to have wide-spread application in fields such as advertising, copywriting, stock imagery and graphic design as well as other fields such as journalism and law.
+

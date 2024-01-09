@@ -1,0 +1,18 @@
+Anytime A*
+*Any-angle path planning#A*-based|Block A*
+*D*
+*Any-angle path planning|Field D*
+*Fringe search|Fringe
+*Incremental heuristic search|Fringe Saving A* (FSA*)
+*Incremental heuristic search|Generalized Adaptive A* (GAA*)
+*Incremental heuristic search
+*Reduced A*
+*Iterative deepening A*|Iterative deepening A* (IDA*)
+*Jump point search
+*Lifelong Planning A*|Lifelong Planning A* (LPA*)
+*New Bidirectional A* (NBA*)
+*SMA*|Simplified Memory bounded A* (SMA*)
+*Theta*
+
+A* can also be adapted to a bidirectional search algorithm. Special care needs to be taken for the stopping criterion.
+

@@ -1,0 +1,5 @@
+Main|Artificial intelligence in video games}}
+In video games, AI is routinely used to generate behavior in non-player characters (NPCs). In addition, AI is used for pathfinding. Some researchers consider NPC AI in games to be a "solved problem" for most production tasks. Games with less typical AI include the AI director of ''Left 4 Dead'' (2008) and the neuroevolutionary training of platoons in ''Supreme Commander 2'' (2010). AI is also used in Alien: Isolation|''Alien Isolation'' (2014) as a way to control the actions the Alien will perform next.
+
+Kinect, which provides a 3D body–motion interface for the Xbox 360 and the Xbox One, uses algorithms that emerged from AI research.
+

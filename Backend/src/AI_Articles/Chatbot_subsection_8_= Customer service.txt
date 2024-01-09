@@ -1,0 +1,15 @@
+Many high-tech banking organizations are looking to integrate automated AI-based solutions such as chatbots into their customer service in order to provide faster and cheaper assistance to their clients who are becoming increasingly comfortable with technology.  In particular, chatbots can efficiently conduct a dialogue, usually replacing other communication tools such as email, phone, or SMS. In banking, their major application is related to quick customer service answering common requests, as well as transactional support.
+
+Several studies report significant reduction in the cost of customer services, expected to lead to billions of dollars of economic savings in the next ten years. In 2019, Gartner predicted that by 2021, 15% of all customer service interactions globally will be handled completely by AI.  A study by Juniper Research in 2019 estimates retail sales resulting from chatbot-based interactions will reach $112 billion by 2023.
+
+Since 2016, when Facebook allowed businesses to deliver automated customer support, e-commerce guidance, content, and interactive experiences through chatbots, a large variety of chatbots were developed for the Facebook Messenger platform.
+
+In 2016, Russia-based Tochka Bank launched the world's first Facebook bot for a range of financial services, including a possibility of making payments.
+
+In July 2016, ABSA Group Limited|Barclays Africa also launched a Facebook chatbot, making it the first bank to do so in Africa.
+
+The France's third-largest bank by total assets Société Générale launched their chatbot called SoBot in March 2018. While 80% of users of the SoBot expressed their satisfaction after having tested it, Société Générale deputy director Bertrand Cozzarolo stated that it will never replace the expertise provided by a human advisor.
+
+
+The advantages of using chatbots for customer interactions in banking include cost reduction, financial advice, and 24/7 support.
+

@@ -1,0 +1,2 @@
+Gen-1 is a video-to-video Generative artificial intelligence|generative AI system that synthesize new videos by applying the composition and style of an image or text prompt to the structure of a source video. The model was released in February 2023. The Gen-1 model was trained and developed by Runway based on the original paper Structure and Content-Guided Video Synthesis with Diffusion Models from Runway Research. Gen-1 is an example of Generative artificial intelligence for video creation.
+

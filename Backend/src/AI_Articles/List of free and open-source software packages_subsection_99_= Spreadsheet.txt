@@ -1,0 +1,5 @@
+LibreOffice Calc – spreadsheet component of the LibreOffice package 
+* Gnumeric - spreadsheet program of the GNOME Project 
+* Calligra Sheets – spreadsheet component of the Calligra Suite in KDE
+* Pyspread – spreadsheet which uses Python for macro programming, and allows each cell to contain data, the results of a calculation, a Python program, or the results of a Python program.
+

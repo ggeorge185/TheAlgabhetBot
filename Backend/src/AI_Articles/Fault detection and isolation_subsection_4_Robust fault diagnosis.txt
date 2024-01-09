@@ -1,0 +1,9 @@
+In practice, model uncertainties and measurement noise can complicate fault detection and isolation.
+
+As a result, using fault diagnostics to meet industrial needs in a cost-effective way, and to reduce maintenance costs without requiring more investments than the cost of what is to be avoided in the first place, requires an effective scheme of applying them. This is the subject of maintenance, repair and operations; the different strategies include:
+*Condition-based maintenance
+*Planned maintenance|Planned preventive maintenance
+*Preventive maintenance
+*Corrective maintenance (does not use diagnostics)
+*Integrated vehicle health management
+

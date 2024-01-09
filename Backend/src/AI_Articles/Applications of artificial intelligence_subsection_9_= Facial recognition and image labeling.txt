@@ -1,0 +1,5 @@
+Main|Facial recognition system|Automatic image annotation}}
+AI has been used in facial recognition systems, with a 99% accuracy rate. Some examples are Apple's Face ID and Android's Face Unlock, which are used to secure mobile devices.
+
+Image labeling has been used by Google Image Labeler|Google to detect products in photos and to allow people to search based on a photo. Image labeling has also been demonstrated to generate speech to describe images to blind people.  Facebook's DeepFace identifies human faces in digital images.
+

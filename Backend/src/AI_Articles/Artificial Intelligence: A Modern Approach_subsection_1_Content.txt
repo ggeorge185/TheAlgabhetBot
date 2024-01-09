@@ -1,0 +1,2 @@
+AIMA'' gives detailed information about the working of algorithms in AI. The book's chapters span from classical AI topics like searching algorithms and first-order logic, propositional logic and probabilistic reasoning to advanced topics such as multi-agent systems, constraint satisfaction problems, Optimization_problem|optimization problems, artificial neural networks, deep learning, reinforcement learning and computer vision.
+

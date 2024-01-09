@@ -1,0 +1,9 @@
+Optical character recognition for OCR-A|ISO 1073-1:1976 and similar special characters.
+*Outline of object recognition|Classification of images
+*Handwriting recognition
+* Facial recognition system|Facial recognition
+* Visual question answering
+* SQuAD 2.0 English reading-comprehension benchmark (2019)
+* Some school science exams (2019)
+* Some tasks based on Raven's Progressive Matrices
+

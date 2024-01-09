@@ -1,0 +1,7 @@
+Akregator – Platforms running KDE
+*Liferea – Platforms running GNOME
+*NetNewsWire – macOS, iOS
+*RSS Bandit – Windows, using .NET framework
+*RSSOwl – Windows, macOS, Solaris, Linux using Java SWT Eclipse
+*Sage (Mozilla Firefox extension)
+

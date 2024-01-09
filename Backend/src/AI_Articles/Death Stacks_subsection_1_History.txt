@@ -1,0 +1,4 @@
+The game was invented November 27, 2002. The U.S. Copyright Office granted it Registered Copyright status on January 21, 2004.
+
+The first tournament was held in 2004. A new tournament category was awarded for the first time in 2007.  The trophy for "Best Artificial Intelligence Implementation of Death Stacks" was awarded (''in absentia'') to an AI programmer nicknamed Freegoldbar for his two versions of the game (one which could be downloaded and installed on a PC, and a flash-player version which could be played online). This category was created to encourage artificial intelligence programmers to tackle the problems of arithmetic logic inherent in this game.  In a programming sense this task can be considered more complicated than checkers but less complicated than chess.
+

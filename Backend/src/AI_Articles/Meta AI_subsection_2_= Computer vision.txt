@@ -1,0 +1,2 @@
+Meta AI's computer vision research aims to extract information about the environment from digital images and videos. One example of computer vision technology developed by AI is panoptic segmentation, which recognizes objects in the foreground but also classifies the scenes in the background. Meta AI seeks to improve Visual Question Answering technology, in which a machine answers human user questions about images using cycle-consistency, having the machine generate a question in addition to the answer to address linguistic variations in the questions.
+

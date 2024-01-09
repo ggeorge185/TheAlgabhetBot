@@ -1,0 +1,9 @@
+Apache Mahout, a library of scalable machine learning algorithms.
+* Deeplearning4j, an open-source, distributed deep learning framework written for the JVM. 
+* Keas, a high level open-source software library for machine learning (works on top of other libraries).
+* Microsoft Cognitive Toolkit (previously known as CNTK), an open source toolkit for building artificial neural networks.
+* Open NN, a comprehensive C++ library implementing neural networks.
+* Python (programming language)|Python, an open-source Tensor and Dynamic neural network in Python.
+* TensorFlow, an open-source software library for machine learning.
+* Theano (software)|Theano, a Python library and optimizing compiler for manipulating and evaluating mathematical expressions, especially matrix-valued ones.
+

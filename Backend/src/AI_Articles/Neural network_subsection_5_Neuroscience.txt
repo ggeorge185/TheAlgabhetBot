@@ -1,0 +1,5 @@
+Theoretical and computational neuroscience is the field concerned with the analysis and computational modeling of biological neural systems.
+Since neural systems are intimately related to cognitive processes and behaviour, the field is closely related to cognitive and behavioural modeling.
+
+The aim of the field is to create models of biological neural systems in order to understand how biological systems work. To gain this understanding, neuroscientists strive to make a link between observed biological processes (data), biologically plausible mechanisms for neural processing and learning (biological neural network models) and theory (statistical learning theory and information theory).
+

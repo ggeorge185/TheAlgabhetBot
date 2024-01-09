@@ -1,0 +1,2 @@
+An AI could be blinded to certain variables in its environment. This could provide certain safety benefits, such as an AI not knowing how a reward is generated, making it more difficult to exploit.
+

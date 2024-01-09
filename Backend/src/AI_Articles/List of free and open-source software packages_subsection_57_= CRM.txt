@@ -1,0 +1,4 @@
+CiviCRM – Constituent Relationship Management software aimed at NGOs
+* iDempiere – Business Suite, ERP and CRM
+* SuiteCRM – Web-based CRM
+

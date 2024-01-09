@@ -1,0 +1,2 @@
+Applications in artificial intelligence include Diagnosis (artificial intelligence)|fault diagnosis, belief revision, and automated planning. The most direct application of abduction is that of automatically detecting faults in systems: given a theory relating faults with their effects and a set of observed effects, abduction can be used to derive sets of faults that are likely to be the cause of the problem.
+

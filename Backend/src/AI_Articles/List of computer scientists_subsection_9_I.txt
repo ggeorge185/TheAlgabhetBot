@@ -1,0 +1,6 @@
+Jean Ichbiah – Ada (programming language)|Ada
+* Roberto Ierusalimschy – Lua (programming language)
+* Dan Ingalls – Smalltalk, BitBlt, Lively Kernel
+* Mary Jane Irwin
+* Kenneth E. Iverson – APL (programming language)|APL, J (programming language)|J
+

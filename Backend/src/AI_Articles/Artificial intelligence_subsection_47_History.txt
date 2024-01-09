@@ -1,0 +1,37 @@
+Main|History of artificial intelligence}}
+
+<!-- DON'T INCLUDE HISTORICAL PRECURSORS (THEY BELONG TO THE SEPARATE 'HISTORY OF AI' ARTICLE) -->
+<!-- MAJOR INTELLECTUAL PRECURSORS: LOGIC, THEORY OF COMPUTATION, CYBERNETICS, INFORMATION, NEUROBIOLOGY: Antiquity - 1955 -->
+The study of mechanical or "formal" reasoning began with philosophers and mathematicians in antiquity. The study of logic led directly to Alan Turing's theory of computation, which suggested that a machine, by shuffling symbols as simple as "0" and "1", could simulate both mathematical deduction and formal reasoning, which is known as the Church–Turing thesis. This, along with concurrent discoveries in cybernetics and information theory, led researchers to consider the possibility of building an "electronic brain".
+
+Alan Turing was thinking about machine intelligence at least as early as 1941, when he circulated a paper on machine intelligence which could be the earliest paper in the field of AI – though it is now lost. The first available paper generally recognized as "AI" was Warren McCullouch|McCullouch and Walter Pitts|Pitts design for Turing-complete "artificial neurons" in 1943 – the first mathematical model of a neural network. The paper was influenced by Turing's earlier paper 'Turing's proof|On Computable Numbers' from 1936 using similar two-state boolean 'neurons', but was the first to apply it to neuronal function. The field of American AI research was founded at Dartmouth workshop|a workshop at Dartmouth College in 1956. Stuart J. Russell|Russell and Peter Norvig|Norvig called the conference "the inception of artificial intelligence."}} The attendees became the leaders of AI research in the 1960s.
+}} They and their students produced programs that the press described as "astonishing":
+}} computers were learning draughts|checkers strategies, solving word problems in algebra, proving Theorem|logical theorems and speaking English. Artificial Intelligence laboratories were set up at a number of British and US Universities in the latter 1950s and early 1960s.
+
+<!-- 1980s -->
+In the early 1980s, AI research was revived by the commercial success of expert systems, a form of AI program that simulated the knowledge and analytical skills of human experts. By 1985, the market for AI had reached over a billion dollars. At the same time, Japan's fifth generation computer project inspired the U.S. and British governments to restore funding for academic research. However, beginning with the collapse of the Lisp Machine market in 1987, AI once again fell into disrepute, and a second, longer-lasting winter began.
+
+<!-- Embodied robotics and Uncertain reasoning in the 1980s -->
+Many researchers began to doubt that the current practices would be able to imitate all the processes of human cognition, especially machine perception|perception, robotics, machine learning|learning and pattern recognition. A number of researchers began to look into "sub-symbolic" approaches. Robotics researchers, such as Rodney Brooks, rejected "representation" in general and focussed directly on engineering machines that move and survive. were championed by Hans Moravec and Rodney Brooks and went by many names: Nouvelle AI. Developmental robotics,
+}} Judea Pearl, Lofti Zadeh and others developed methods that handled incomplete and uncertain information by making reasonable guesses rather than precise logic. In 1990, Yann LeCun successfully showed that convolutional neural networks can recognize handwritten digits, the first of many successful applications of neural networks.
+
+<!-- FORMAL METHODS RISING IN THE 1990s: "Statistical AI"  -->
+AI gradually restored its reputation in the late 1990s and early 21st century by exploiting formal mathematical methods and by finding specific solutions to specific problems. This "narrow AI|narrow" and "formal" focus allowed researchers to produce verifiable results and collaborate with other fields (such as statistics, economics and mathematical optimization|mathematics).
+By 2000, solutions developed by AI researchers were being widely used, although in the 1990s they were rarely described as "artificial intelligence".
+
+<!-- AGI, 2002-present -->
+Several academic researchers became concerned that AI was no longer pursuing the original goal of creating versatile, fully intelligent machines. Beginning around 2002, they founded the subfield of artificial general intelligence (or "AGI"), which had several well-funded institutions by the 2010s.
+For many specific tasks, other methods were abandoned.}}
+Deep learning's success was based on both hardware improvements (Moore's law|faster computers, graphics processing units, cloud computing)
+and access to big data|large amounts of data (including curated datasets, such as ImageNet).
+
+<!-- AI BOOM 2012–present. Four metrics: publications, patents, investment, graduates, jobs. That's enough I think, but more up-to-date numbers on these. -->
+Deep learning's success led to an enormous increase in interest and funding in AI.}}
+The amount of machine learning research (measured by total publications) increased by 50% in the years 2015–2019,
+and WIPO reported that AI was the most prolific emerging technologies|emerging technology in terms of the number of patent applications and granted patents.
+According to 'AI Impacts', about $50 billion annually was invested in "AI" around 2022 in the US alone and about 20% of new US Computer Science PhD graduates have specialized in "AI";
+about 800,000 "AI"-related US job openings existed in 2022. The large majority of the advances have occurred within the United States, with its companies, universities, and research labs leading artificial intelligence research.
+
+<!-- ALIGNMENT PROBLEM  -->
+In 2016, issues of fairness and the misuse of technology were catapulted into center stage at machine learning conferences, publications vastly increased, funding became available, and many researchers re-focussed their careers on these issues. The AI alignment|alignment problem became a serious field of academic study.
+

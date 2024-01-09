@@ -1,0 +1,48 @@
+Nadia Magnenat Thalmann – computer graphics, virtual actor
+* Tom Maibaum
+* Simon Marlow – Haskell developer, book author; co-developer: Glasgow Haskell Compiler, Haxl remote data access Library (computing)|library
+* Zohar Manna – fuzzy logic
+* James Martin (author)|James Martin – Information engineering (field)|information engineering
+* Robert C. Martin (Uncle Bob) – software craftsmanship
+* John Mashey
+* Yuri Matiyasevich – solving Hilbert's tenth problem
+* Yukihiro Matsumoto – Ruby (programming language)
+* John Mauchly (1907–1980) – designed ENIAC, first general-purpose electronic digital computer, as well as EDVAC, BINAC and UNIVAC I, the first commercial computer; worked with Jean Bartik on ENIAC and Grace Murray Hopper on UNIVAC
+* Ujjwal Maulik (1965–) Multi-objective Clustering and Bioinformatics
+* Derek McAuley – ubiquitous computing, computer architecture, networking
+* John McCarthy (computer scientist)|John McCarthy – Lisp (programming language), ALGOL, IFIP Working Group 2.1|IFIP WG 2.1 member, artificial intelligence
+* Andrew McCallum
+* Douglas McIlroy – Macro (computer science)|macros, pipes, Unix philosophy
+* Chris McKinstry – artificial intelligence, Mindpixel
+* Marshall Kirk McKusick – BSD, Berkeley Fast File System
+* Lambert Meertens – ALGOL 68, IFIP Working Group 2.1|IFIP WG 2.1 member, ABC (programming language)
+* Kurt Mehlhorn – algorithms, data structures, Library of Efficient Data types and Algorithms|LEDA
+* Dora Metcalf – entrepreneur, engineer and mathematician
+* Bertrand Meyer – Eiffel (programming language)
+* Silvio Micali – cryptography
+* Robin Milner – ML (programming language)
+* Jack Minker – database logic
+* Marvin Minsky – artificial intelligence, perceptrons, Society of Mind
+* James G. Mitchell – WATFIV|WATFOR compiler, Mesa (programming language), Spring (operating system), ARM architecture family|ARM architecture
+* Tom M. Mitchell
+* Arvind (computer scientist)|Arvind Mithal – formal verification of large digital systems, developing dynamic dataflow architectures, parallel computing programming languages (Id, pH), compiling on parallel machines
+* Paul Mockapetris – Domain Name System (DNS)
+* Cleve Moler – numerical analysis, MATLAB
+* Faron Moller – concurrency theory
+* John P. Moon – inventor, Apple Inc.
+* Charles H. Moore – Forth (programming language)|Forth language
+* Edward F. Moore – Moore machine
+* Gordon Moore – Moore's law
+* J Strother Moore – string searching, ACL2 theorem prover
+* Roger Moore (computer scientist)|Roger Moore – co-developed APL (programming language)|APL\360, created IPSANET, co-founded I. P. Sharp Associates
+* Hans Moravec – robotics
+* Carroll Morgan (computer scientist)|Carroll Morgan – formal methods
+* Robert Tappan Morris – Morris worm
+* Joel Moses – Macsyma
+* Rajeev Motwani – randomized algorithm
+* Oleg A. Mukhanov – quantum computing developer, co-founder and CTO of SeeQC
+* Stephen Muggleton – Inductive Logic Programming
+* Klaus-Robert Müller – machine learning, artificial intelligence
+* Alan Mycroft – programming languages
+* Brad A. Myers – human-computer interaction
+

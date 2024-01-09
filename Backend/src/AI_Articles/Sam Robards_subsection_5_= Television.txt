@@ -1,0 +1,174 @@
+class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+|1983
+|Jacobo Timerman: Prisoner Without a Name, Cell Without a Number|''Prisoner Without a Name, Cell Without a Number''
+|Daniel Timerman
+|Television film
+|-
+|1985
+|''Spenser: For Hire''
+|Chip Holmby
+|Episode: "The Choice"
+|-
+|1985
+|''Into Thin Air''
+|Stephen Walker
+| rowspan="2" |Television film
+|-
+|1988
+|Pancho Barnes (1988 film)|''Pancho Barnes''
+|Gene McKendry
+|-
+|1988–1989
+|''TV 101''
+|Kevin Keegan
+|17 episodes
+|-
+|1990–1991
+|Get a Life (American TV series)|''Get a Life''
+|Larry Potter
+|24 episodes
+|-
+|1993, 2009
+|''Law & Order''
+|Davis Webb / Daniel Hendricks
+|2 episodes
+|-
+|1995
+|The Outer Limits (1995 TV series)|''The Outer Limits''
+|Ben Kohler
+|Episode: "Living Hell"
+|-
+|1995
+|''Donor Unknown''
+|Dr. David Bausch
+| rowspan="3" |Television film
+|-
+|1996
+|''The Man Who Captured Eichmann''
+|David
+|-
+|1997
+|''The Trial of Adolf Eichmann''
+|Avraham Aviel
+|-
+|1998
+|''Maximum Bob (TV series)|Maximum Bob''
+|Sheriff Gary Hammond
+|7 episodes
+|-
+|1998–1999
+|''Spin City''
+|Arthur
+|4 episodes
+|-
+|1999
+|Black and Blue (1999 film)|''Black and Blue''
+|Mike Riordan
+|Television film
+|-
+|2000
+|''Sex and the City''
+|Tom Reymi
+|Episode: "Running with Scissors"
+|-
+|2000
+|Hamlet (2000 film)|''Hamlet''
+|Fortinbras
+| rowspan="6" |Television film
+|-
+|2001
+|''The Warden''
+|Axel
+|-
+|2001
+|On Golden Pond (2001 film)|''On Golden Pond''
+|Bill Ray
+|-
+|2002
+|''Obsessed''
+|David Stillman
+|-
+|2003
+|''My Life with Men''
+|Jess Zebrowski
+|-
+|2004
+|The Blackwater Lightship (film)|''The Blackwater Lightship''
+|Paul
+|-
+|2004
+|Clubhouse (TV series)|''Clubhouse''
+|Bennet
+|Episode: "Chin Music"
+|-
+|2004
+|''Law & Order: Criminal Intent''
+|Paul Whitlock
+|Episode: "Magnificat"
+|-
+|2004–2005
+|''The West Wing''
+|Greg Brock
+|8 episodes
+|-
+|2006
+|''CSI: Miami''
+|Mitchell Collett
+|Episode: "Dead Air"
+|-
+|2007–2012
+|''Gossip Girl''
+|Howie 'The Captain' Archibald
+|16 episodes
+|-
+|2010
+|''Vamped Out''
+|Audition Actor #1
+|Episode: "A New Day"
+|-
+|2011
+|''Body of Proof''
+|Bradford Paige
+|Episode: "Pilot"
+|-
+|2011
+|Blue Bloods (TV series)|''Blue Bloods''
+|Roger Carson
+|Episode: "My Funny Valentine"
+|-
+|2011
+|''The Good Wife''
+|Jarvis Bowes
+|Episode: "Killer Song"
+|-
+|2012–2013
+|Treme (TV series)|''Treme''
+|Tim Feeny
+|11 episodes
+|-
+|2013–2014
+|Twisted (TV series)|''Twisted''
+|Kyle Masterson
+|19 episodes
+|-
+|2015
+|Limitless (TV series)|''Limitless''
+|Miles Amos
+|Episode: "Badge! Gun!"
+|-
+|2019
+|Madam Secretary (TV series)|''Madam Secretary''
+|Major Brad Jenkins
+|Episode: "Valor"
+|-
+|2021
+|Y: The Last Man (TV series)|''Y: The Last Man''
+|Dean Brown
+|2 episodes
+|}
+

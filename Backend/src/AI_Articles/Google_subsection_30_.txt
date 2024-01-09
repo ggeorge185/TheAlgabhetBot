@@ -1,0 +1,55 @@
+class="wikitable sortable"
+|-
+! SN !! City !! Country
+|-
+| 1. || Aarhus || 
+|-
+| 2. || Amsterdam ||
+|-
+| 3. || Athens ||
+|-
+| 4. || Berlin || 
+|-
+| 5. || Brussels ||
+|-
+| 6. || Copenhagen || 
+|-
+| 7. || Dublin || 
+|-
+| 8. || Hamburg || 
+|-
+| 9. || Lisbon || 
+|-
+| 10.|| London – 6PS || 
+|-
+| 11.|| London – BEL || 
+|-
+| 12.|| London – CSG || 
+|-
+| 13.|| Madrid || 
+|-
+| 14.|| Milan || 
+|-
+| 15.|| Moscow || 
+|-
+| 16.|| Munich || 
+|-
+| 17.|| Oslo || 
+|-
+| 18.|| Paris || 
+|-
+| 19.|| Prague || 
+|-
+| 20.|| Stockholm || 
+|-
+| 21.|| Vienna || 
+|-
+| 22.|| Warsaw || 
+|-
+| 23.|| Wroclaw || 
+|-
+| 24.|| Zurich – BRA || 
+|-
+| 25.|| Zurich – EUR || 
+|}
+

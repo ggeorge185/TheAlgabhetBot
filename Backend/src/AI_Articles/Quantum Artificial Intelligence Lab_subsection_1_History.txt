@@ -1,0 +1,9 @@
+The Quantum AI Lab was announced by Google Research in a blog post on May 16, 2013. At the time of launch, the Lab was using the most advanced commercially available quantum computer, D-Wave Two from D-Wave Systems.
+
+On October 18, 2013, Google announced that it had incorporated quantum physics into ''Minecraft''.
+
+In January 2014, Google reported results comparing the performance of the D-Wave Two in the lab with that of classical computers. The results were ambiguous and provoked heated discussion on the Internet.
+On 2 September 2014, it was announced that the Quantum AI Lab, in partnership with UC Santa Barbara, would be launching an initiative to create quantum information processors based on superconducting electronics.
+
+On the 23rd of October 2019, the Quantum AI Lab announced in a paper that it had achieved quantum supremacy.
+

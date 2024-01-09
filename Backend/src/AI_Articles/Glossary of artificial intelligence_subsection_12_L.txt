@@ -1,0 +1,14 @@
+glossary}}
+
+, lazy learning is a learning method in which generalization of the training data is, in theory, delayed until a query is made to the system, as opposed to in eager learning, where the system tries to generalize the training data before receiving queries.}}
+
+
+
+
+
+ is a set of sentences in logical form, expressing facts and rules about some problem domain. Major logic programming language families include ,  (ASP), and .}}
+
+
+ architecture used in the field of . Unlike standard feedforward neural networks, LSTM has feedback connections that make it a "general purpose computer" (that is, it can compute anything that a  can). It can not only process single data points (such as images), but also entire sequences of data (such as speech or video).}}
+
+

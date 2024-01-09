@@ -1,0 +1,3 @@
+Further|programming game}}
+Program-based simulations contain organisms with a "genome" language.  This language is more often in the form of a Turing complete computer program than actual biological DNA.  Assembly derivatives are the most common languages used. An organism "lives" when its code is executed, and there are usually various methods allowing self-replication. Mutations are generally implemented as random changes to the code. Use of cellular automata is common but not required. Another example could be an artificial intelligence and Multi-agent system|multi-agent system/program.
+

@@ -1,0 +1,25 @@
+class="wikitable" style="float:left;"
+|-
+! scope="col" | Game
+! scope="col" | Date
+! scope="col" | Black
+! scope="col" | White
+! scope="col" | Result
+! scope="col" | Moves
+|-
+| 1 || 9 March 2016 || style="text-align:center"|Lee Sedol ||  || Lee Sedol resigned || 186 [http://gokifu.com/s/2ipk-gokifu-20160309-Lee_Sedol(9p)-AlphaGo(9p).html Game 1]
+|-
+| 2 || 10 March 2016 ||  || style="text-align:center"|Lee Sedol || Lee Sedol resigned || 211 [http://gokifu.com/s/2ipv-gokifu-20160310-AlphaGo(9p)-Lee_Sedol(9p).html Game 2]
+|-
+| 3 || 12 March 2016 || style="text-align:center"|Lee Sedol ||   || Lee Sedol resigned || 176 [http://gokifu.com/s/2iq2-gokifu-20160312-Lee_Sedol(9p)-AlphaGo(9p).html Game 3]
+|-
+| 4 || 13 March 2016 || style="text-align:center"|AlphaGo ||  || AlphaGo resigned || 180 [http://gokifu.com/s/2iq8-gokifu-20160313-Alphago(9p)-Lee_Sedol(9p).html Game 4]
+|-
+| 5 || 15 March 2016 || style="text-align:center"|Lee Sedol ||  || Lee Sedol resigned || 280 [http://gokifu.com/s/2iqt-gokifu-20160315-Lee_Sedol(9p)-AlphaGo(9p).html Game 5]
+|-
+! colspan=6 | ''Result:''<br /> AlphaGo 4 – 1 Lee Sedol
+|-
+| colspan=6 | note 1: For Game Five, under the official rules, it was intended that the colour assignments would be done at random. However, during the press conference after the fourth match, Lee requested "... since I won with white, I really do hope that in the fifth match I could win with black because winning with black is much more valuable." Hassabis agreed to allow Sedol to play with black.
+|}
+
+

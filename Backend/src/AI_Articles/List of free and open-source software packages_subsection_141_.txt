@@ -1,0 +1,14 @@
+Chromium (web browser)|Chromium – web browser using the custom Blink (browser engine)|Blink engine from which Google Chrome draws its source code
+*Brave (web browser)|Brave – privacy-focused web browser based on Chromium browser
+*Falkon – web browser based on Blink engine, a KDE project
+*Firefox – Mozilla-developed web browser using Gecko (software)|Gecko layout engine
+*Waterfox – Firefox Fork (software development)|fork supporting legacy extensions, 64-bit only
+*Pale Moon - a customizable fork of Firefox
+*Tor Browser – onion-routed browser by The Tor Project, based on Firefox ESR
+*GNOME Web - WebKit-based web browser for the GNOME desktop environment
+*Midori (web browser)|Midori – Lightweight web browser using the WebKit layout engine
+*qutebrowser - keyboard operated Webkit-based browser with Vi (text editor)|vi-like keybindings
+*SeaMonkey|SeaMonkey Navigator – the SeaMonkey internet suite's web browser
+*Surf (web browser)|Surf - a minimal Tab (interface)|tab-less browser by suckless.org using WebKitGTK
+*Firefox Focus - privacy-focused mobile web browser from Mozilla available for Android (operating system)|Android and iOS
+

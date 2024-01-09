@@ -1,0 +1,8 @@
+A common criticism of neural networks, particularly in robotics, is that they require too much training for real-world operation. Potential solutions include randomly shuffling training examples, by using a numerical optimization algorithm that does not take too large steps when changing the network connections following an example, grouping examples in so-called mini-batches and/or introducing a recursive least squares algorithm for cerebellar model articulation controller|CMAC. One response to Dewdney is that neural networks handle many complex and diverse tasks, ranging from autonomously flying aircraft to detecting credit card fraud to mastering the game of Go (game)|Go.
+
+Technology writer Roger Bridgman commented:
+
+
+
+Biological brains use both shallow and deep circuits as reported by brain anatomy, displaying a wide variety of invariance. Weng argued that the brain self-wires largely according to signal statistics and therefore, a serial cascade cannot catch all major statistical dependencies.
+

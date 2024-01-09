@@ -1,0 +1,2 @@
+Melomics, a bioinspired technology for music composition and synthesization of music, where computers develop their own style, rather than mimic musicians.
+

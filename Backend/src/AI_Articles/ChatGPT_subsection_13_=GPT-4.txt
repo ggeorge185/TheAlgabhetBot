@@ -1,0 +1,6 @@
+main|GPT-4}}
+
+OpenAI's GPT-4 model was released on March 14, 2023. Observers saw it as an impressive improvement on the existing GPT-3.5 model for ChatGPT, with the caveat that GPT-4 retained many of the same problems. Some of GPT-4's improvements were predicted by OpenAI before training it, while others remained hard to predict due to Neural scaling law#Broken Neural Scaling Laws (BNSL)|breaks in downstream scaling laws. OpenAI demonstrated video and image inputs for GPT-4, although such features remain inaccessible to the general public. OpenAI has declined to reveal technical information such as the size of the GPT-4 model.
+
+The ChatGPT Plus subscription service offers access to a GPT-4-powered version of ChatGPT. Microsoft acknowledged that Bing Chat was using GPT-4 before GPT-4's official release.
+

@@ -1,0 +1,14 @@
+Model-based diagnosis is an example of abductive reasoning using a model (abstract)|model of the system.  In general, it works as follows:
+
+file:principle diagnosis.png|600px|center|Principle of the model-based diagnosis
+
+We have a model that describes the behaviour of the system (or artefact).  The model is an abstraction of the behaviour of the system and can be incomplete.  In particular, the faulty behaviour is generally little-known, and the faulty model may thus not be represented.  Given observations of the system, the diagnosis system simulates the system using the model, and compares the observations actually made to the observations predicted by the simulation.
+
+The modelling can be simplified by the following rules (where <math>Ab\,</math> is the ''Ab''normal predicate):
+
+<math>\neg Ab(S) \Rightarrow Int1 \wedge Obs1</math>
+
+<math>Ab(S) \Rightarrow Int2 \wedge Obs2</math> (fault model)
+
+The semantics of these formulae is the following: if the behaviour of the system is not abnormal (i.e. if it is normal), then the internal (unobservable) behaviour will be <math>Int1\,</math> and the observable behaviour <math>Obs1\,</math>.  Otherwise, the internal behaviour will be <math>Int2\,</math> and the observable behaviour <math>Obs2\,</math>.  Given the observations <math>Obs\,</math>, the problem is to determine whether the system behaviour is normal or not (<math>\neg Ab(S)\,</math> or <math>Ab(S)\,</math>).  This is an example of abductive reasoning.
+

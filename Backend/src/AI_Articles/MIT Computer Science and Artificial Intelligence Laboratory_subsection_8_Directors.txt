@@ -1,0 +1,21 @@
+Directors of Project MAC
+* Robert Fano, 1963–1968
+* J. C. R. Licklider, 1968–1971
+* Edward Fredkin, 1971–1974
+* Michael Dertouzos, 1974–1975
+
+;Directors of the Artificial Intelligence Laboratory
+* Marvin Minsky, 1970–1972
+* Patrick Winston, 1972–1997
+* Rodney Brooks, 1997–2003
+
+;Directors of the Laboratory for Computer Science
+* Michael Dertouzos, 1975–2001
+* Victor Zue, 2001–2003
+
+;Directors of CSAIL
+* Rodney Brooks, 2003–2007
+* Victor Zue, 2007–2011
+* Anant Agarwal, 2011–2012
+* Daniela L. Rus, 2012–
+

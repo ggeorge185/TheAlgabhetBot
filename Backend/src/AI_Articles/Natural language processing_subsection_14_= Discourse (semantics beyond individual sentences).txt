@@ -1,0 +1,14 @@
+Coreference|Coreference resolution: Given a sentence or larger chunk of text, determine which words ("mentions") refer to the same objects ("entities"). Anaphora resolution is a specific example of this task, and is specifically concerned with matching up pronouns with the nouns or names to which they refer. The more general task of coreference resolution also includes identifying so-called "bridging relationships" involving referring expressions. For example, in a sentence such as "He entered John's house through the front door", "the front door" is a referring expression and the bridging relationship to be identified is the fact that the door being referred to is the front door of John's house (rather than of some other structure that might also be referred to).
+; Discourse analysis: This rubric includes several related tasks.  One task is discourse parsing, i.e., identifying the discourse structure of a connected text, i.e. the nature of the discourse relationships between sentences (e.g. elaboration, explanation, contrast).  Another possible task is recognizing and classifying the speech acts in a chunk of text (e.g. yes–no question, content question, statement, assertion, etc.).
+
+; 
+:Given a single sentence, identify and disambiguate semantic predicates (e.g., verbal Frame semantics (linguistics)|frames) and their explicit semantic roles in the current sentence (see #Semantic role labelling|Semantic role labelling above). Then, identify semantic roles that are not explicitly realized in the current sentence, classify them into arguments that are explicitly realized elsewhere in the text and those that are not specified, and resolve the former against the local text. A closely related task is zero anaphora resolution, i.e., the extension of coreference resolution to pro-drop languages.
+
+; Textual entailment|Recognizing textual entailment: Given two text fragments, determine if one being true entails the other, entails the other's negation, or allows the other to be either true or false.
+
+; Topic segmentation and recognition
+:Given a chunk of text, separate it into segments each of which is devoted to a topic, and identify the topic of the segment.
+
+; Argument mining
+:The goal of argument mining is the automatic extraction and identification of argumentative structures from natural language text with the aid of computer programs. Such argumentative structures include the premise, conclusions, the argument scheme and the relationship between the main and subsidiary argument, or the main and counter-argument within discourse.
+

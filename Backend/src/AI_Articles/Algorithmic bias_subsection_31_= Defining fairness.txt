@@ -1,0 +1,4 @@
+main|Fairness (machine learning)}}
+
+Literature on algorithmic bias has focused on the remedy of fairness, but definitions of fairness are often incompatible with each other and the realities of machine learning optimization. For example, defining fairness as an "equality of outcomes" may simply refer to a system producing the same result for all people, while fairness defined as "equality of treatment" might explicitly consider differences between individuals. As a result, fairness is sometimes described as being in conflict with the accuracy of a model, suggesting innate tensions between the priorities of social welfare and the priorities of the vendors designing these systems. In response to this tension, researchers have suggested more care to the design and use of systems that draw on potentially biased algorithms, with "fairness" defined for specific applications and contexts.
+

@@ -1,0 +1,22 @@
+In 2020, OpenAI announced GPT-3, a language model trained on large internet datasets. GPT-3 is aimed at natural language answering questions, but it can also translate between languages and coherently generate improvised text. It also announced that an associated API, named simply "the API", would form the heart of its first commercial product.
+
+In 2021, OpenAI introduced DALL-E, a specialized deep learning model adept at generating complex digital images from textual descriptions, utilizing a variant of the GPT-3 architecture.
+
+In December 2022, OpenAI received widespread media coverage after launching a free preview of ChatGPT, its new AI chatbot based on GPT-3.5. According to OpenAI, the preview received over a million signups within the first five days. According to anonymous sources cited by Reuters in December 2022, OpenAI Global LLC was projecting $200 million of revenue in 2023 and $1 billion in revenue in 2024.
+
+In January 2023, OpenAI Global LLC was in talks for funding that would value the company at $29 billion, double its 2021 value. On January 23, 2023, Microsoft announced a new multi-year US$10 billion investment in OpenAI Global LLC. Rumors of this deal suggested that Microsoft may receive 75% of OpenAI's profits until it secures its investment return and a 49% stake in the company. The investment is believed to be a part of Microsoft's efforts to integrate OpenAI's ChatGPT into the Bing search engine. Google announced a similar AI application (Bard (chatbot)|Bard), after ChatGPT was launched, fearing that ChatGPT could threaten Google's place as a go-to source for information.
+
+On February 7, 2023, Microsoft announced that it was building AI technology based on the same foundation as ChatGPT into Microsoft Bing, Microsoft Edge|Edge, Microsoft 365 and other products.
+
+On March 3, 2023, Reid Hoffman resigned from his board seat, citing a desire to avoid conflicts of interest with his investments in AI companies via Greylock Partners, and his co-founding of the AI startup Inflection AI. Hoffman remained on the board of Microsoft, a major investor in OpenAI.
+
+On March 14, 2023, OpenAI released GPT-4, both as an API (with a waitlist) and as a feature of ChatGPT Plus.
+
+On May 22, 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence. They consider that superintelligence could happen within the next 10 years, allowing a "dramatically more prosperous future" and that "given the possibility of existential risk, we can't just be reactive". They propose creating an international watchdog organization similar to International Atomic Energy Agency|IAEA to oversee AI systems above a certain capability threshold, suggesting that relatively weak AI systems on the other side should not be overly regulated. They also call for more technical safety research for superintelligences, and ask for more coordination, for example through governments launching a joint project which "many current efforts become part of".
+
+In August 2023, it was announced that OpenAI had acquired the New York City|New York-based start-up, Global Illumination, a company that deploys AI to develop digital infrastructure and creative tools.
+
+In October 2023, Sam Altman and Peng Xiao, CEO of the Emirati AI firm G42 (company)|G42, announced Open AI would let G42 deploy Open AI technology.
+ 
+On November 6, 2023, OpenAI launched GPTs, allowing individuals to create customized versions of ChatGPT for specific purposes, further expanding the possibilities of AI applications across various industries. On November 14, 2023, OpenAI announced they temporarily suspended new sign-ups for ChatGPT Plus due to high demand. Access for newer subscribers re-opened a month later on December 13.
+

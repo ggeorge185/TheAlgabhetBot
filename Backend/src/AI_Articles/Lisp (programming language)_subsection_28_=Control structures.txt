@@ -1,0 +1,20 @@
+Lisp originally had very few control structures, but many more were added during the language's evolution. (Lisp's original conditional operator, , is the precursor to later  structures.)
+
+Programmers in the Scheme dialect often express loops using tail recursion. Scheme's commonality in academic computer science has led some students to believe that tail recursion is the only, or the most common, way to write iterations in Lisp, but this is incorrect. All oft-seen Lisp dialects have imperative-style iteration constructs, from Scheme's  loop to Common Lisp's complex  expressions. Moreover, the key issue that makes this an objective rather than subjective matter is that Scheme makes specific requirements for the handling of tail calls, and thus the reason that the use of tail recursion is generally encouraged for Scheme is that the practice is expressly supported by the language definition. By contrast, ANSI Common Lisp does not require the optimization commonly termed a tail call elimination. Thus, the fact that tail recursive style as a casual replacement for the use of more traditional iteration constructs (such as ,  or ) is discouraged in Common Lisp is not just a matter of stylistic preference, but potentially one of efficiency (since an apparent tail call in Common Lisp may not compile as a simple Branch (computer science)|jump) and program correctness (since tail recursion may increase stack use in Common Lisp, risking stack overflow).
+
+Some Lisp control structures are ''special operators'', equivalent to other languages' syntactic keywords. Expressions using these operators have the same surface appearance as function calls, but differ in that the arguments are not necessarily evaluated—or, in the case of an iteration expression, may be evaluated more than once.
+
+In contrast to most other major programming languages, Lisp allows implementing control structures using the language. Several control structures are implemented as Lisp macros, and can even be macro-expanded by the programmer who wants to know how they work.
+
+Both Common Lisp and Scheme have operators for non-local control flow. The differences in these operators are some of the deepest differences between the two dialects. Scheme supports ''re-entrant continuations'' using the  procedure, which allows a program to save (and later restore) a particular place in execution. Common Lisp does not support re-entrant continuations, but does support several ways of handling escape continuations.
+
+Often, the same algorithm can be expressed in Lisp in either an imperative or a functional style. As noted above, Scheme tends to favor the functional style, using tail recursion and continuations to express control flow. However, imperative style is still quite possible. The style preferred by many Common Lisp programmers may seem more familiar to programmers used to structured languages such as C, while that preferred by Schemers more closely resembles pure-functional languages such as Haskell.
+
+Because of Lisp's early heritage in list processing, it has a wide array of higher-order functions relating to iteration over sequences. In many cases where an explicit loop would be needed in other languages (like a  loop in C) in Lisp the same task can be accomplished with a higher-order function. (The same is true of many functional programming languages.)
+
+A good example is a function which in Scheme is called  and in Common Lisp is called . Given a function and one or more lists,  applies the function successively to the lists' elements in order, collecting the results in a new list:
+<syntaxhighlight lang="Lisp">
+ (mapcar #'+ '(1 2 3 4 5) '(10 20 30 40 50))
+</syntaxhighlight>
+This applies the  function to each corresponding pair of list elements, yielding the result .
+

@@ -1,0 +1,7 @@
+CS50 also provides courses for people who are new to programming or who want to understand more about technology.
+*CS50P - Intro to Python programming
+*CS50x - Computer Science intro
+* CS50's Introduction to Programming with Scratch - an introduction to programming using  Scratch_(programming_language) |Scratch, a visual programming language with which aspiring programmers can write code by dragging and dropping graphical blocks 
+* CS50's Understanding Technology - covers basic technology concepts, such as computer hardware, the Internet, and multimedia.
+* CS50's Introduction to Computer Science for Lawyer|lawyers.
+

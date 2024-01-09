@@ -1,0 +1,4 @@
+File:DelFly Nimble.jpg|thumb|The [[DelFly flying insectoid robot]]
+File:U.S. Department of Energy - Science - 393 001 007 (9787756292).jpg|thumb|Two flying insectoid robots designed using the [[BEAM robotics of Mark Tilden]]
+For a very small aircraft, Fixed-wing aircraft|fixed-wing flight becomes impractical due to rapidly decreasing lift-to-drag ratio with size.  Insect flight, on the other hand, is always ornithopteric which suggests an approach for insectoid robots.  Ma ''et al.'' for instance, developed a tethered robot fly with flapping wings constructed of piezoelectric material.  Ma chose to model the robot on the fly because, according to their paper, it is the most agile creature alive, and therefore the most difficult to emulate as a robot.
+

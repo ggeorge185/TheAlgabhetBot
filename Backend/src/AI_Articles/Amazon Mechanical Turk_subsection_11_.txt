@@ -1,0 +1,4 @@
+Amazon makes available an application programming interface (API) for the MTurk system. The MTurk API lets a programmer submit jobs, retrieve completed work, and approve or reject that work. In 2017, Amazon launched support for AWS Software Development Kits (SDK), allowing for nine new SDKs available to MTurk Users. MTurk is accessible via API from the following languages: Python, JavaScript, Java, .NET, Go, Ruby, PHP, or C++. Web sites and web services can use the API to integrate MTurk work into other web applications, providing users with alternatives to the interface Amazon has built for these functions.
+
+File:Mturk-Workers-HIT-assignment ER diagram.svg|thumb|Worker-HIT-assignment ER_diagram
+

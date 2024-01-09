@@ -1,0 +1,2 @@
+She teaches the Stanford course CS231n on "Deep Learning for Computer Vision," whose 2015 version was previously online at Coursera. She has also taught CS131, an introductory class on computer vision.
+

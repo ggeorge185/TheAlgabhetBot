@@ -1,0 +1,20 @@
+Colby's aim in writing PARRY had been practical as well as theoretical.  He thought of PARRY as a virtual reality teaching system for students before they were let loose on real patients. However, PARRY's design was driven by Colby's own theories about paranoia.  Colby saw paranoia as a degenerate mode of processing symbols where the patient's remarks "are produced by an underlying organized structure of rules and not by a variety of random and unconnected mechanical failures."  This underlying structure was an algorithm, not unlike a set of computer processes or procedures, which is accessible and can be reprogrammed, in other words "cured."
+
+Shortly after it was introduced, PARRY would go on to create intense discussion and controversy over the possibility or nature of machine intelligence.  PARRY was the first program to pass the Turing Test, named for the British mathematician Alan Turing, who in 1950 suggested that if a computer could successfully impersonate a human by carrying on a typed conversation with a person, it could be called intelligent. PARRY succeeded in passing this test when human interrogators, interacting with the program via remote keyboard, were unable with more than random accuracy to distinguish PARRY from an actual paranoid individual.
+
+As philosopher Daniel Dennett stated in ''Alan Turing: Life and Legacy of a Great Thinker'', 
+
+Much of the criticism of ELIZA as a model for artificial intelligence focused on the program's lack of an internal world model that influenced and tracked the conversation. PARRY simulates paranoid behavior by tracking its own internal emotional state on a few different dimensions. To illustrate this, Colby created another program called RANDOM-PARRY which chose responses at random.  Responses from RANDOM-PARRY did not model the human patients' responses as well as standard PARRY. Some have argued that PARRY fooled its judges because paranoid behavior makes inappropriate responses or Non sequitur (humor)|non sequiturs appropriate. But there is still a certain logic to them that PARRY simulates effectively. It is simpler to simulate paranoid behavior, perhaps, but it is not trivial.
+
+The two computer programs, ELIZA and the paranoid PARRY, eventually met for series of "talks," executing different programs. One exchange such went like this:
+
+
+
+Colby would claim that PARRY mimics the natural process by which a person (in this case a person with paranoid schizophrenia) engages in conversation.  The structure of the program that makes the linguistic decisions in PARRY is isomorphic to the 'deep structure' of the mind of the paranoiac. As Colby stated: "Since we do not know the structure of the 'real' simulative processes used by the mind-brain, our posited structure stands as an imagined theoretical analogue, a possible and plausible organization of processes analogous to the unknown processes and serving as an attempt to explain their workings".
+
+Yet, some critics of PARRY expressed the concern that this computer program does not in actuality "understand" the way a person understands and continued to assert that the idiosyncratic, partial and idiolectic responses from PARRY cover up its limitations.  Colby attempted to answer these and other criticisms in a 1974 publication entitled, "Ten Criticisms of PARRY."
+
+Colby also raised his own ethical concerns over the application of his work to real life situations. In 1984, he wrote, 
+
+Still, PARRY has withstood the test of time and for many years has continued to be acknowledged by researchers in computer science for its apparent achievements. In a 1999 review of human-computer conversation, Yorick Wilks and Roberta Catizone from the University of Sheffield comment: 
+

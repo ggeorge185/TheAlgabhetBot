@@ -1,0 +1,7 @@
+Image:Simple reflex agent.png|thumb|right|408px|Simple reflex agent
+Simple reflex agents act only on the basis of the current Percept (artificial intelligence)|percept, ignoring the rest of the percept history. The agent function is based on the ''condition-action rule'': "if condition, then action".
+
+This agent function only succeeds when the environment is fully observable. Some reflex agents can also contain information on their current state which allows them to disregard conditions whose actuators are already triggered.
+
+Infinite loops are often unavoidable for simple reflex agents operating in partially observable environments. If the agent can randomize its actions, it may be possible to escape from infinite loops.
+

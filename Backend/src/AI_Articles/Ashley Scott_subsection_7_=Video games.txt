@@ -1,0 +1,16 @@
+class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+| 2013
+| ''The Last of Us''
+| rowspan="2"|Maria Miller (voice)
+| rowspan="2"|also motion capture
+|-
+| 2020
+| ''The Last of Us Part II''
+|}
+

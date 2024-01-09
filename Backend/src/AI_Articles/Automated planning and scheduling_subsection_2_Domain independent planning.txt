@@ -1,0 +1,8 @@
+More citations needed|section
+| name  = More citations needed section
+| find  = none
+|date=February 2021
+}}
+
+In AI planning, planners typically input a domain model (a description of a set of possible actions which model the domain) as well as the specific problem to be solved specified by the initial state and goal, in contrast to those in which there is no input domain specified. Such planners are called "domain independent" to emphasize the fact that they can solve planning problems from a wide range of domains. Typical examples of domains are block-stacking, logistics, workflow management, and robot task planning. Hence a single domain-independent planner can be used to solve planning problems in all these various domains. On the other hand, a route planner is typical of a domain-specific planner.
+

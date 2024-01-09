@@ -1,0 +1,10 @@
+Main|Deep learning}}
+
+Deep learning is a branch of machine learning that models high level abstractions in data by using a deep graph with many processing layers. As such, deep neural networks are able to realistically generate much more complex models as compared to their shallow counterparts.
+
+However, deep learning has problems of its own. A common problem for recurrent neural networks is the vanishing gradient problem, which is where gradients passed between layers gradually shrink and literally disappear as they are rounded off to zero. There have been many methods developed to approach this problem, such as Long short-term memory units.
+
+State-of-the-art deep neural network architectures can sometimes even rival human accuracy in fields like computer vision, specifically on things like the MNIST database, and traffic sign recognition.
+
+Language processing engines powered by smart search engines can easily beat humans at answering general trivia questions (such as IBM Watson), and recent developments in deep learning have produced astounding results in competing with humans, in things like Go (game)|Go, and ''Doom (franchise)|Doom'' (which, being a first-person shooter game, has sparked some controversy).
+

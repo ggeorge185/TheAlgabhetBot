@@ -1,0 +1,2 @@
+Supervised learning employs tagged data to train models to recognize system components, their operations, and their interconnections. This method is particularly helpful in software analysis to discover vulnerabilities or enhance compatibility.
+

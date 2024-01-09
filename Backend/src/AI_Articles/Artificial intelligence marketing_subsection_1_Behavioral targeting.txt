@@ -1,0 +1,4 @@
+Behavioral targeting refers to the act of reaching out to a prospect or customer with communication based on implicit or explicit behavior shown by the customer's past. Understanding of behaviors is facilitated by marketing technology platforms such as web analytics, mobile analytics, social media analytics, and trigger-based marketing platforms. Artificial Intelligence Marketing provides a set of tools and techniques that enable behavioral targeting.
+
+Machine learning is used to improve the efficiency of behavioral targeting. Additionally, to prevent human bias in behavioral targeting at scale, artificial intelligence technologies are used. The most advanced form of behavioral targeting aided by artificial intelligence is called algorithmic marketing.
+

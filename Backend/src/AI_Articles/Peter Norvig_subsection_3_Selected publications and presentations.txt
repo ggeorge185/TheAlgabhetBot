@@ -1,0 +1,8 @@
+By 2022, ''Artificial Intelligence: A Modern Approach'', which Norvig first co-authored with Stuart J. Russell in 1995, was the leading textbook in the field used by over 1400 schools globally. arguing against the fashionable introductory programming textbooks that purported to teach programming in days or weeks.  The article was widely shared and discussed, and has attracted contributed translations to over 20 languages. a satire about bad presentation practices using Abraham Lincoln's famous Gettysburg Address.
+
+His 2009 IEEE Intelligent Systems article, "The Unreasonable Effectiveness of Data" co-authored with Alon Y. Halevy and  Fernando Pereira, described how the best approach to highly complex natural language understanding problems is to harness large quantities of data, not to depend on "tidy", simple formulas. They said that by generating "large amounts of unlabeled, noisy data, new algorithms can be used to build high-quality models from the data. This has informed the development of foundation models. 
+
+In a 23 September 2010 lecture presented as part of the Vancouver-based University of British Columbia's Department of Computer Science's Distinguished Lecture Series, Norvig, who was then the Director of Research at Google, described how large quantities of data deepen our understanding of phenomena.
+
+In his June 2012 Ted Talk, described the fall of 2011 hybrid class on artificial intelligence attended by 100,000 online students around the globe that he co-taught with Sebastian Thrun at Stanford University.
+

@@ -1,0 +1,8 @@
+Three research awards are given at each IJCAI conference.
+
+* The IJCAI Computers and Thought Award is given to outstanding young scientists under the age of 35 in AI.
+* The Donald E. Walker Distinguished Service Award is given to honor senior scientists for their contributions and service to the field of AI.
+* The IJCAI Award for Research Excellence is given to scientists who have carried out a research program of consistently high quality throughout an entire career yielding several substantial results.
+
+Additionally, IJCAI presents one or more Best Paper Awards at each conference to recognize the highest quality papers.
+

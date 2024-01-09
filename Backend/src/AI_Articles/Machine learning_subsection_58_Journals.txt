@@ -1,0 +1,6 @@
+Journal of Machine Learning Research
+* Machine Learning (journal)|Machine Learning
+* Nature Machine Intelligence
+* Neural Computation (journal)|Neural Computation
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
+

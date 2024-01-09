@@ -1,0 +1,6 @@
+This is linked to in the introduction -->
+
+Machine perception is the ability to use input from sensors (such as cameras, microphones, wireless signals, active lidar, sonar, radar, and tactile sensors) to deduce aspects of the world. Computer vision is the ability to analyze visual input.
+
+The field includes speech recognition, image classification, facial recognition system|facial recognition, object recognition, and robotic sensing|robotic perception.
+

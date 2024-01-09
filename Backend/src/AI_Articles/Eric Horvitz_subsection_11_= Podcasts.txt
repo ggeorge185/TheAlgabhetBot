@@ -1,0 +1,3 @@
+Citation|title=AI and Our Future With Machines with Dr. Eric Horvitz|url=https://www.microsoft.com/en-us/research/blog/ai-and-our-future-with-machines-eric-horvitz/|publisher=Microsoft Research Podcast|date=4 Dec 2017}}
+* 
+

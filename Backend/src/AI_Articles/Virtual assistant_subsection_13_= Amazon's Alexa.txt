@@ -1,0 +1,2 @@
+The privacy policy of Amazon's virtual assistant, Alexa, states that it only listens to conversations when its wake word (like Alexa, Amazon, Echo) is used. It starts recording the conversation after the call of a wake word, and stops recording after 8 seconds of silence. It sends the recorded conversation to the cloud. It is possible to delete the recording from the cloud by visiting 'Alexa Privacy' in 'Alexa'.
+

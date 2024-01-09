@@ -1,0 +1,6 @@
+glossary}}
+
+
+ to extract marginal distribution|marginalization in general Graph (discrete mathematics)|graphs. In essence, it entails performing belief propagation on a modified graph called a junction tree. The graph is called a tree because it branches into different sections of data; Vertex (graph theory)|nodes of variables are the branches.}}
+
+

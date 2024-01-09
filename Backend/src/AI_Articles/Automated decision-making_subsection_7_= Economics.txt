@@ -1,0 +1,2 @@
+Automated decision-making systems are used in certain computer programs to create buy and sell orders related to specific financial transactions and automatically submit the orders in the international markets. Computer programs can automatically generate orders based on predefined set of rules using trading strategies which are based on technical analyses, advanced statistical and mathematical computations, or inputs from other electronic sources.
+

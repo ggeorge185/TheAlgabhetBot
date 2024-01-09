@@ -1,0 +1,10 @@
+The school of behavior-based robots owes much to work undertaken in the 1980s at the Massachusetts Institute of Technology by Rodney Brooks, who with students and colleagues built a series of wheeled and legged robots utilizing the subsumption architecture. Brooks' papers, often written with lighthearted titles such as "''Planning is just a way of avoiding figuring out what to do next''", the anthropomorphic qualities of his robots, and the relatively low cost of developing such robots, popularized the behavior-based approach.
+
+Brooks' work builds—whether by accident or not—on two prior milestones in the behavior-based approach. In the 1950s, William Grey Walter|W. Grey Walter, an English scientist with a background in neurology|neurological research, built a pair of vacuum tube-based robots that were exhibited at the 1951 Festival of Britain, and which have simple but effective behavior-based control systems.
+
+The second milestone is Valentino Braitenberg|Valentino Braitenberg's 1984 book, "''Vehicles – Experiments in Synthetic Psychology''" (MIT Press). He describes a series of thought experiments demonstrating how simply wired sensor/motor connections can result in some complex-appearing behaviors such as fear and love.
+
+Later work in BBR is from the BEAM robotics community, which has built upon the work of Mark Tilden. Tilden was inspired by the reduction in the computational power needed for walking mechanisms from Brooks' experiments (which used one microcontroller for each leg), and further reduced the computational requirements to that of logic chips, transistor-based electronics, and analog electrical network|circuit design.
+
+A different direction of development includes extensions of behavior-based robotics to multi-robot teams. The focus in this work is on developing simple generic mechanisms that result in coordinated group behavior, either implicitly or explicitly.
+

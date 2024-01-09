@@ -1,0 +1,8 @@
+Main|Computational theory of mind}}
+
+The computational theory of mind or "computationalism" claims that the relationship between mind and brain is similar (if not identical) to the relationship between a ''running program'' (software) and a computer (hardware). The idea has philosophical roots in Hobbes (who claimed reasoning was "nothing more than reckoning"), Gottfried Wilhelm Leibniz|Leibniz (who attempted to create a logical calculus of all human ideas), David Hume|Hume (who thought perception could be reduced to "atomic impressions") and even Immanuel Kant|Kant (who analyzed all experience as controlled by formal rules). The latest version is associated with philosophers Hilary Putnam and Jerry Fodor.
+
+This question bears on our earlier questions: if the human brain is a kind of computer then computers can be both intelligent and conscious, answering both the practical and philosophical questions of AI. In terms of the practical question of AI ("Can a machine display general intelligence?"), some versions of computationalism make the claim that (as Hobbes wrote):
+* Reasoning is nothing but reckoning.
+This is John Searle's "strong AI" discussed above, and it is the real target of the Chinese room argument (according to Stevan Harnad|Harnad). Fear is a source of urgency. Empathy is a necessary component of good human computer interaction. He says robots "will try to please you in an apparently selfless manner because it will get a thrill out of this positive reinforcement. You can interpret this as a kind of love."
+

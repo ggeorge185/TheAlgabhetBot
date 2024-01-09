@@ -1,0 +1,2 @@
+The Chinese room argument is primarily an argument in the philosophy of mind, and both major computer scientists and artificial intelligence researchers consider it irrelevant to their fields. However, several concepts developed by computer scientists are essential to understanding the argument, including physical symbol system|symbol processing, Turing machines, Turing completeness, and the Turing test.
+

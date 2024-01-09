@@ -1,0 +1,11 @@
+class="wikitable"
+! scope="col"| Title
+! scope="col"| Details
+|-
+! scope="row"| ''Big Dumb Idiot''
+|
+* Released: 9 December 2022
+* Label: Self-publishing|None
+* Format: LP record|LP, music download|digital download, streaming media|streaming
+|}
+

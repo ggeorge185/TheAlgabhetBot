@@ -1,0 +1,2 @@
+Like Solomonoff induction, AIXI is Undecidable problem|incomputable. However, there are computable approximations of it. One such approximation is AIXI''tl'', which performs at least as well as the provably best time ''t'' and space ''l'' limited agent.
+

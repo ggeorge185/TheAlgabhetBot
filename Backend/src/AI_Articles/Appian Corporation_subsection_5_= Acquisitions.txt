@@ -1,0 +1,4 @@
+On January 7, 2020, Appian announced acquisition of Novayre Solutions SL, developer of the Jidoka robotic process automation (RPA) platform.
+
+In August 2021, Appian acquired the process mining company Lana Labs. The company's applications help companies discover the work patterns being used within their organization by looking through system logs for common actions and sequences.
+

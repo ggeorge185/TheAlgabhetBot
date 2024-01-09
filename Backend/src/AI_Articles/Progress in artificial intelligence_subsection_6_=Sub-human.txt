@@ -1,0 +1,14 @@
+More citations needed section|date=December 2022}}
+* Optical character recognition for printed text (nearing par-human for Latin-script typewritten text)
+* Object recognition (computer vision)|Object recognition
+* Various robotics tasks that may require advances in robot hardware as well as AI, including:
+** Stable bipedal locomotion: Bipedal robots can walk, but are less stable than human walkers (as of 2017)
+** Robot soccer|Humanoid soccer
+* Speech recognition: "nearly equal to human performance" (2017)
+* Explainable artificial intelligence|Explainability. Current medical systems can diagnose certain medical conditions well, but cannot explain to users why they made the diagnosis.
+* Many tests of fluid intelligence (2020)
+* Visual Commonsense Reasoning (VCR) benchmark (as of 2020)
+* Various tasks that are difficult to solve without contextual knowledge, including:
+**Machine translation|Translation
+** Word-sense disambiguation
+

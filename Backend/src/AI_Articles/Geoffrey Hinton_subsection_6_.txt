@@ -1,0 +1,2 @@
+Hinton expressed concerns about AI takeover, stating that "it's not inconceivable" that AI could "wipe out humanity." He worries that generally intelligent AI systems could "create sub-goals" that are AI alignment|unaligned with their programmers' interests. He states that AI systems may become AI alignment#Power-seeking and instrumental strategies|power-seeking or prevent themselves from being shut off, not because programmers intended them to, but because those sub-goals are Instrumental convergence|useful for achieving later goals.
+

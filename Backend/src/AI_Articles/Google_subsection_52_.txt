@@ -1,0 +1,4 @@
+On January 21, 2019, French data regulator CNIL imposed a record €50 million fine on Google for breaching the European Union's General Data Protection Regulation. The judgment claimed Google had failed to sufficiently inform users of its methods for collecting data to personalize advertising. Google issued a statement saying it was "deeply committed" to transparency and was "studying the decision" before determining its response.
+
+On January 6, 2022, France's data privacy regulatory body CNIL fined Alphabet's Google 150 million euros (US$169 million) for not allowing its Internet users an easy refusal of  HTTP cookie|Cookies along with Facebook.
+

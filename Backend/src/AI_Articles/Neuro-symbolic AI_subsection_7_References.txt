@@ -1,0 +1,24 @@
+cite arXiv | last1 = Bader| first1 = Sebastian| last2 = Pascal Hitzler|Hitzler| first2 = Pascal| title = Dimensions of Neural-symbolic Integration – A Structured Survey | date = 2005-11-10| eprint = cs/0511042}}
+* 
+* 
+* 
+* 
+* 
+* 
+* Hochreiter, Sepp. "Toward a Broad AI." Commun. ACM 65(4): 56–57 (2022). [https://dl.acm.org/doi/pdf/10.1145/3512715 Toward a broad AI]
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Sun, Ron; Alexandre, Frederic (1997). ''Connectionist Symbolic Integration''. Lawrence Erlbaum Associates. 
+* 
+
+* 
+

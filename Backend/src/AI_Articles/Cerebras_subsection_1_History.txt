@@ -1,0 +1,28 @@
+Cerebras was founded in 2015 by Andrew Feldman, Gary Lauterbach, Michael James, Sean Lie and Jean-Philippe Fricker. These five founders worked together at SeaMicro, which was started in 2007 by Feldman and Lauterbach and was later sold to AMD in 2012 for $334 million.
+
+In May 2016, Cerebras secured $27 million in series A funding led by Benchmark (venture capital firm)|Benchmark, Foundation Capital and Eclipse Ventures.
+
+On August 19, 2019, Cerebras announced its Wafer-Scale Engine (WSE).
+
+In November 2019, Cerebras closed its series E round with over $270 million for a valuation of $2.4 billion.
+
+In 2020, the company announced an office in Japan and partnership with Tokyo Electron|Tokyo Electron Devices.
+
+In April 2021, Cerebras announced the CS-2 based on the company's Wafer Scale Engine Two (WSE-2), which has 850,000 cores.
+
+In November 2021, Cerebras announced that it had raised an additional $250 million in Series F funding, valuing the company at over $4 billion. The Series F financing round was led by Alpha Wave Ventures and Abu Dhabi Growth Fund (ADG). To date, the company has raised $720 million in financing.
+
+In August 2022, Cerebras was honored by the Computer History Museum in Mountain View, California. The museum added to its permanent collection and unveiled a new display featuring the WSE-2—the biggest computer chip made so far—marking an "epochal" achievement in the history of fabricating transistors as an integrated part.
+
+In August 2022, Cerebras announced the opening of a new office in Bangalore, India. It is a 19-inch rack-mounted appliance designed for AI training and inference workloads in a datacenter.
+The WSE-2 expanded on-chip SRAM to 40 gigabytes, memory bandwidth to 20 petabytes per second and total fabric bandwidth to 220 petabits per second.
+
+In August 2021, the company announced a system which connects multiple integrated circuits (commonly called "chips") into a neural network with many connections.
+
+
+In June 2022, Cerebras set a record for the largest AI models ever trained on one device.  Cerebras said that for the first time ever, a single CS-2 system with one Cerebras wafer can train models with up to 20 billion parameters. The Cerebras CS-2 system can train multibillion-parameter natural language processing (NLP) models including GPT-3XL 1.3 billion models, as well as GPT-J 6B, GPT-3 13B and GPT-NeoX 20B with reduced software complexity and infrastructure.
+
+In September 2022, Cerebras announced that it can patch its chips together to create what would be the largest-ever computing cluster for AI computing. A Wafer-Scale Cluster can connect up to 192 CS-2 AI systems into a cluster, while a cluster of 16 CS-2 AI systems can create a computing system with 13.6 million cores for natural language processing.
+
+In November 2022, Cerebras unveiled its latest supercomputer, Andromeda, which combines 16 WSE-2 chips into one cluster with 13.5 million AI-optimized cores, delivering up to 1 Exaflop of AI computing horsepower, or at least one quintillion (10 to the power of 18) operations per second. The entire system consumes 500KW, which is a drastically lower amount than somewhat-comparable GPU-accelerated supercomputers.
+

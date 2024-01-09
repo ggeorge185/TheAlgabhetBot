@@ -1,0 +1,4 @@
+Main|Computer-generated imagery}}
+
+Computer-generated animations are animations created with a computer from digital models created by 3D artists or Procedural generation|procedurally generated. The term is usually applied to works created entirely with a computer. Movies make heavy use of computer-generated graphics; they are called computer-generated imagery (CGI) in the film industry. In the 1990s and early 2000s, CGI advanced enough that, for the first time, it was possible to create realistic 3D computer animation, although films had been using extensive computer images since the mid-70s. A number of modern films have been noted for their heavy use of photo-realistic CGI.
+

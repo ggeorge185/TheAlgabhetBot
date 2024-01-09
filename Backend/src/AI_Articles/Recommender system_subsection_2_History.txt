@@ -1,0 +1,8 @@
+Elaine Rich created the first recommender system in 1979, called Grundy. She looked for a way to recommend users books they might like. Her idea was to create a system that asks users specific questions and classifies them into classes of preferences, or "stereotypes", depending on their answers. Depending on users' stereotype membership, they would then get recommendations for books they might like.
+
+Another early recommender system, called a "digital bookshelf", was described in a 1990 technical report by Jussi Karlgren at Columbia University, and implemented at scale and worked through in technical reports and publications from 1994 onwards by Jussi Karlgren, then at SICS,
+and research groups led by Pattie Maes at MIT, Will Hill at Bellcore, and Paul Resnick, also at MIT
+whose work with GroupLens was awarded the 2010 ACM Software Systems Award.
+
+Montaner provided the first overview of recommender systems from an intelligent agent perspective. Gediminas Adomavicius|Adomavicius provided a new, alternate overview of recommender systems.  Herlocker provides an additional overview of evaluation techniques for recommender systems, and Joeran Beel|Beel et al. discussed the problems of offline evaluations. Beel et al. have also provided literature surveys on available research paper recommender systems and existing challenges.
+

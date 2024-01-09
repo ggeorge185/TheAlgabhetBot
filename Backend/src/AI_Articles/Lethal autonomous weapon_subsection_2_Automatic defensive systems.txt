@@ -1,0 +1,6 @@
+The oldest automatically triggered lethal weapon is the land mine, used since at least the 1600s, and naval mines, used since at least the 1700s.  Anti-personnel mines are banned in many countries by the 1997 Ottawa Treaty, not including the United States, Russia, and much of Asia and the Middle East.
+
+Some current examples of LAWs are automated "hardkill" active protection systems, such as a radar-guided CIWS systems used to defend ships that have been in use since the 1970s (e.g., the US Phalanx CIWS). Such systems can autonomously identify ''and attack'' oncoming missiles, rockets, artillery fire, aircraft and surface vessels according to criteria set by the human operator. Similar systems exist for tanks, such as the Russian Arena (countermeasure)|Arena, the Israeli Trophy (countermeasure)|Trophy, and the German AMAP-ADS. Several types of stationary sentry guns, which can fire at humans and vehicles, are used in South Korea and Israel. Many missile defence systems, such as Iron Dome, also have autonomous targeting capabilities.
+
+The main reason for not having a "human in the loop" in these systems is the need for rapid response. They have generally been used to protect personnel and installations against incoming projectiles.
+

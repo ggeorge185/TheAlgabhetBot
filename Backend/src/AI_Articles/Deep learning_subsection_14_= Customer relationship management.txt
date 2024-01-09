@@ -1,0 +1,3 @@
+Main|Customer relationship management}}
+Deep reinforcement learning has been used to approximate the value of possible direct marketing actions, defined in terms of RFM (customer value)|RFM variables. The estimated value function was shown to have a natural interpretation as customer lifetime value.
+

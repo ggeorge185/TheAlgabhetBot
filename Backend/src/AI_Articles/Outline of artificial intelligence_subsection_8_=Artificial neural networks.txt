@@ -1,0 +1,20 @@
+Artificial neural networks 
+**** Perceptrons
+**** Multi-layer perceptrons 
+**** Radial basis networks
+**** Convolutional neural network
+*** Recurrent neural networks
+**** Long short-term memory 
+**** Hopfield networks 
+**** Attractor networks
+*** Deep learning
+*** Hybrid neural network
+** Machine learning|Learning algorithms for neural networks
+*** Hebbian learning
+*** Backpropagation
+*** GMDH
+*** Competitive learning
+*** Supervised learning|Supervised backpropagation
+*** Neuroevolution
+*** Restricted Boltzmann machine
+

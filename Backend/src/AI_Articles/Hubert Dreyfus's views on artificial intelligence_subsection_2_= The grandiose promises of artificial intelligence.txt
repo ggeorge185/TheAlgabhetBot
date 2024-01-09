@@ -1,0 +1,11 @@
+In ''Alchemy and AI'' #|(1965) and ''What Computers Can't Do'' #|(1972), Hubert Dreyfus|Dreyfus summarized the history of artificial intelligence and ridiculed the unbridled optimism that permeated the field. For example, Herbert A. Simon, following the success of his program General Problem Solver #|(1957), predicted that by 1967:
+# A computer would be world champion in chess.
+# A computer would discover and prove an important new mathematical theorem.
+# Most theories in psychology will take the form of computer programs.
+The press reported these predictions in glowing reports of the imminent arrival of machine intelligence.
+
+Dreyfus felt that this optimism was unwarranted and based on false assumptions about the nature of human intelligence. Pamela McCorduck explains Dreyfus' position:
+<blockquote>A great misunderstanding accounts for public confusion about thinking machines, a misunderstanding perpetrated by the unrealistic claims researchers in AI have been making, claims that thinking machines are already here, or at any rate, just around the corner.</blockquote>
+
+These predictions were based on the success of an "information processing" model of the mind, articulated by Newell and Simon in their physical symbol systems hypothesis, and later expanded into a philosophical position known as computationalism by philosophers such as Jerry Fodor and Hilary Putnam. Believing that they had successfully simulated the essential process of human thought with simple programs, it seemed a short step to producing fully intelligent machines. However, Dreyfus argued that philosophy, especially 20th-century philosophy, had discovered serious problems with this information processing viewpoint. The mind, according to modern philosophy, is nothing like a digital computer.
+

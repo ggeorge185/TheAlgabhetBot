@@ -1,0 +1,20 @@
+Ng is the chair of the board for Woebot Labs, a psychological clinic that uses data science to provide cognitive behavioral therapy. It provides a therapy chatbot to help treat depression, among other things.
+
+He is also a member of the board of directors for drive.ai, which uses AI for self-driving cars and was acquired by Apple in 2019.
+
+Through Landing AI, he also focuses on democratizing AI technology and lowering the barrier for entrance to businesses and developers.<!-- list all journals he has published in --> His work in computer vision and deep learning has been featured often in press releases and reviews.
+*1995. Bell Atlantic Network Services Scholarship
+*1995, 1996. Microsoft Technical Scholarship Award
+*2008. Massachusetts Institute of Technology (MIT) ''Technology Review'', 35 Innovators Under 35 (TR35)
+*2009. IJCAI Computers and Thought Award (the highest award in AI given to a researcher under 35)
+*2009. Vance D. & Arlene C. Coffman Faculty Scholar Award
+*2013. Time 100|''Time'' 100 Most Influential People
+*2013. ''Fortune (magazine)|Fortune'' 40 under 40 
+*2013. CNN 10: Thinkers
+*2014. ''Fast Company'' Most Creative People in Business
+*2015. World Economic Forum's Young Global Leaders|World Economic Forum Young Global Leaders
+*2023. Time AI 100|''Time'' AI 100 Most Influential People
+
+
+He has corefereed hundreds of AI publications in journals like Conference on Neural Information Processing Systems|NeurIPS. He has also been the editor of the Journal of Artificial Intelligence Research (JAIR), Associate Editor for the Institute of Electrical and Electronics Engineers|IEEE Robotics and Automation Society Conference Editorial Board (ICRA), and much more. He also writes a weekly digital newsletter called ''The Batch''.
+

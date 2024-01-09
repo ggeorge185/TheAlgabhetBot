@@ -1,0 +1,7 @@
+File:Power-Seeking Image.png|thumb|500x500px|Some ways in which an advanced misaligned AI could try to gain more power. Power-seeking behaviors may arise because power is useful to accomplish virtually any objective.
+Steve Omohundro itemized several convergent instrumental goals, including self-preservation or self-protection, utility function or goal-content integrity, self-improvement, and resource acquisition. He refers to these as the "basic AI drives."
+
+A "drive" in this context is a "tendency which will be present unless specifically counteracted"; this is different from the psychological term "drive theory|drive", which denotes an excitatory state produced by a homeostatic disturbance. A tendency for a person to fill out income tax forms every year is a "drive" in Omohundro's sense, but not in the psychological sense.
+
+Daniel Dewey of the Machine Intelligence Research Institute argues that even an initially introverted, self-rewarding Artificial General Intelligence, (AGI), may continue to acquire free energy, space, time, and freedom from interference to ensure that it will not be stopped from self-rewarding.
+

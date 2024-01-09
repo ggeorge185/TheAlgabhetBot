@@ -1,0 +1,31 @@
+Div col|colwidth=18em}}
+* Caffe (software)|Caffe
+* Deeplearning4j
+* DeepSpeed
+* ELKI
+* Google JAX
+* Infer.NET
+* Keras
+* Kubeflow
+* LightGBM
+* Apache Mahout|Mahout
+* Mallet (software project)|Mallet 
+* Microsoft Cognitive Toolkit
+* ML.NET
+* mlpack
+* MXNet
+* OpenNN
+* Orange (software)|Orange
+* pandas (software)
+* ROOT (TMVA with ROOT)
+* scikit-learn
+* Shogun (toolbox)|Shogun
+* Apache Spark#MLlib Machine Learning Library|Spark MLlib
+* Apache SystemML|SystemML
+* TensorFlow
+* Torch (machine learning)|Torch / PyTorch
+* Weka (machine learning)|Weka / MOA (Massive Online Analysis)|MOA
+* XGBoost
+* Yooreeka
+
+

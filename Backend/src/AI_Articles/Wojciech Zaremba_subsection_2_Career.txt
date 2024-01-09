@@ -1,0 +1,9 @@
+During his bachelor studies, he spent time at NVIDIA during the pre deep learning era (2008).
+His PhD was divided between Google Brain where he spent a year, and Facebook Artificial Intelligence Research where he spent another year.
+
+During his stay at Google, he co-authored work on adversarial examples for neural networks. This result created the field of adversarial attacks on neural networks.
+
+His PhD is focused on matching capabilities of neural networks with the algorithmic power of programmable computers.
+
+In 2015, Zaremba became one of the co-founders of OpenAI, an artificial intelligence (AI) research company. The aim of the project is to create safe artificial intelligence. In OpenAl, Zaremba works as robotics research manager. Zaremba sits on the advisory board of Growbots, a Silicon Valley startup company aiming to automate sales processes with the use of machine learning and artificial intelligence.
+

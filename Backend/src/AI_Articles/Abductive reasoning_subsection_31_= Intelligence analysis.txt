@@ -1,0 +1,2 @@
+In intelligence analysis, analysis of competing hypotheses and Bayesian networks, probabilistic abductive reasoning is used extensively. Similarly in medical diagnosis and legal reasoning, the same methods are being used, although there have been many examples of errors, especially caused by the base rate fallacy and the prosecutor's fallacy.
+

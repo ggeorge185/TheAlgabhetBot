@@ -1,0 +1,12 @@
+The classical example of unsupervised learning in the study of neural networks is Donald Hebb's principle, that is, neurons that fire together wire together.
+
+
+
+
+
+
+
+
+
+}}
+

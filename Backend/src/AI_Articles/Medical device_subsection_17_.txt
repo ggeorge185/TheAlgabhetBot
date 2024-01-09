@@ -1,0 +1,39 @@
+Main|Medical device manufacturing}}
+
+
+
+Under the FDA (510k) filing|Food, Drug, and Cosmetic Act, the U.S. Food and Drug Administration recognizes three classes of medical devices, based on the level of control necessary to assure safety and effectiveness.
+* Class I
+* Class II
+* Class III
+
+
+
+The classification procedures are described in the Code of Federal Regulations, Title 21, part 860 (usually known as 21 CFR 860).
+
+Class I devices are subject to the least regulatory control and are not intended to help support or sustain life or be substantially important in preventing impairment to human health, and may not present an unreasonable risk of illness or injury. Examples of Class I devices include elastic bandages, examination gloves, and hand-held surgical instruments.
+
+Class II devices are subject to special labeling requirements, mandatory performance standards and Postmarketing surveillance|postmarket surveillance.
+
+Class III devices are usually those that support or sustain human life, are of substantial importance in preventing impairment of human health, or present a potential, unreasonable risk of illness or injury and require premarket approval#Premarket approval (PMA)|premarket approval.
+
+
+
+'''Class I Devices:''' Non-invasive, everyday devices or equipment. Class I devices are generally low risk and can include bandages, compression hosiery, or walking aids. Such devices require only for the manufacturer to complete a Technical File.
+
+'''Class Is Devices:''' Class Is devices are similarly non-invasive devices, however this sub-group extends to include sterile devices. Examples of Class Is devices include stethoscopes, examination gloves, colostomy bags, or oxygen masks. These devices also require a technical file, with the added requirement of an application to a European Notified Body for certification of manufacturing in conjunction with sterility standards.
+
+'''Class Im Devices:''' This refers chiefly to similarly low-risk measuring devices. Included in this category are: thermometers, droppers, and non-invasive blood pressure measuring devices. Once again the manufacturer must provide a technical file and be certified by a European Notified Body for manufacturing in accordance with metrology regulations.
+
+'''Class IIa Devices:''' Class IIa devices generally constitute low to medium risk and pertain mainly to devices installed within the body in the short term. Class IIa devices are those which are installed within the body for only between 60 minutes and 30 days. Examples include hearing-aids, blood transfusion tubes, and catheters. Requirements include technical files and a conformity test carried out by a European Notified Body.
+
+'''Class IIb Devices:''' Slightly more complex than IIa devices, class IIb devices are generally medium to high risk and will often be devices installed within the body for periods of 30 days or longer. Examples include ventilators and intensive care monitoring equipment. Identical compliance route to Class IIa devices with an added requirement of a device type examination by a Notified Body.
+
+'''Class III Devices:''' Class III devices are strictly high risk devices. Examples include balloon catheters, prosthetic heart valves, pacemakers, etc. The steps to approval here include a full quality assurance system audit, along with examination of both the device's design and the device itself by a European Notified Body.
+
+The authorization of medical devices is guaranteed by a Declaration of Conformity. This declaration is issued by the manufacturer itself, but for products in Class Is, Im, Ir, IIa, IIb or III, it must be verified by a Certificate of Conformity issued by a Notified Body. A Notified Body is a public or private organisation that has been accredited to validate the compliance of the device to the European Directive. Medical devices that pertain to class I (on condition they do not require sterilization or do not measure a function) can be marketed purely by self-certification.
+
+The European classification depends on rules that involve the medical device's duration of body contact, invasive character, use of an energy source, effect on the central circulation or nervous system, diagnostic impact, or incorporation of a medicinal product. Certified medical devices should have the CE mark on the packaging, insert leaflets, etc.. These packagings should also show harmonised pictograms and list of EN standards|EN standardised logos to indicate essential features such as instructions for use, expiry date, manufacturer, sterile, do not reuse, etc.
+
+In November 2018, the Federal Administrative Court (Switzerland)|Federal Administrative Court of Switzerland decided that the "Sympto" app, used to analyze a woman's menstrual cycle, was a medical device because it calculates a fertility window for each woman using personal data. The manufacturer, Sympto-Therm Foundation, argued that this was a didactic, not a medical process. the court laid down that an Application software|app is a medical device if it is to be used for any of the medical purposes provided by law, and creates or modifies health information by calculations or comparison, providing information about an individual patient.
+

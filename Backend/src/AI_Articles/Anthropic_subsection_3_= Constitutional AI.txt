@@ -1,0 +1,2 @@
+Constitutional AI (CAI) is a framework developed to align AI systems with human values and ensure that they are helpful, harmless, and honest. CAI does this by defining a "constitution" for the AI that consists of a set of high-level normative principles that describe the desired behavior of the AI. These principles are then used to train the AI to avoid harm, respect preferences, and provide true information.
+

@@ -1,0 +1,6 @@
+Virtual assistants spur the filter bubble: As for social media, virtual assistants' algorithms are trained to show pertinent data and discard others based on previous activities of the consumer: The pertinent data is the one which will interest or please the consumer. As a result, they become isolated from data that disagrees with their viewpoints, effectively isolating them into their own intellectual bubble, and reinforcing their opinions. This phenomenon was known to reinforce fake news and Echo chamber (media)|echo chambers.
+* Virtual assistants are also sometimes criticized for being overrated. In particular, Antonio Casilli|A. Casilli points out that the AI of virtual assistants are neither intelligent nor artificial for two reasons:
+
+# Not intelligent because all they do is being the assistant of the human, and only by doing tasks that a human could do easily, and in a very limited specter of actions: find, class, and present information, offers or documents. Also, virtual assistants are neither able to make decisions on their own nor to anticipate things.
+# And not artificial because they would be impossible without human labelization through Microwork|micro working.
+

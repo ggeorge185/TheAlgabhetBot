@@ -1,0 +1,3 @@
+Main|Virtual assistant}}
+Intelligent personal assistants use AI to understand many natural language requests in other ways than rudimentary commands. Common examples are Apple's Siri, Amazon's Alexa, and a more recent AI, ChatGPT by OpenAI.
+

@@ -1,0 +1,2 @@
+The privacy policy of Google Assistant states that it does not store the audio data without the user's permission, but may store the conversation transcripts to personalise its experience. Personalisation can be turned off in settings. If a user wants Google Assistant to store audio data, they can go to Voice & Audio Activity (VAA) and turn on this feature. Audio files are sent to the cloud and used by Google to improve the performance of Google Assistant, but only if the VAA feature is turned on.
+

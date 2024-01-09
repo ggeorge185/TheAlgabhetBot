@@ -1,0 +1,22 @@
+AIXI is a reinforcement learning agent that interacts with some stochastic and unknown but computable environment <math>\mu</math>. The interaction proceeds in time steps, from <math>t=1</math> to <math>t=m</math>, where <math>m \in \mathbb</math> is the lifespan of the AIXI agent. At time step ''t'', the agent chooses an action <math>a_t \in \mathcal</math> (e.g. a limb movement) and executes it in the environment, and the environment responds with a "percept" <math>e_t \in \mathcal = \mathcal \times \mathbb</math>, which consists of an "observation" <math>o_t \in \mathcal</math> (e.g., a camera image) and a reward <math>r_t \in \mathbb</math>, distributed according to the conditional probability <math>\mu(o_t r_t | a_1 o_1 r_1 ... a_ o_ r_ a_t)</math>, where <math>a_1 o_1 r_1 ... a_ o_ r_ a_t</math> is the "history" of actions, observations and rewards. The environment <math>\mu</math> is thus mathematically represented as a probability distribution over "percepts" (observations and rewards) which depend on the ''full'' history, so there is no Markov property|Markov assumption (as opposed to other RL algorithms). Note again that this probability distribution is ''unknown'' to the AIXI agent. Furthermore, note again that <math>\mu</math> is computable, that is, the observations and rewards received by the agent from the environment <math>\mu</math> can be computed by some program (which runs on a Turing machine), given the past actions of the AIXI agent.
+
+The ''only'' goal of the AIXI agent is to maximise <math>\sum_^m r_t</math>, that is, the sum of rewards from time step 1 to m.
+
+The AIXI agent is associated with a stochastic policy <math>\pi : (\mathcal \times \mathcal)^* \rightarrow \mathcal</math>, which is the function it uses to choose actions at every time step, where <math>\mathcal</math> is the space of all possible actions that AIXI can take and <math>\mathcal</math> is the space of all possible "percepts" that can be produced by the environment. The environment (or probability distribution) <math>\mu</math> can also be thought of as a stochastic policy (which is a function): <math>\mu  : (\mathcal \times \mathcal)^* \times \mathcal \rightarrow \mathcal </math>, where the <math>*</math> is the Kleene star operation.
+
+In general, at time step <math>t</math> (which ranges from 1 to m), AIXI, having previously executed actions <math>a_1\dots a_</math> (which is often abbreviated in the literature as <math>a_</math>) and having observed the history of percepts <math>o_1 r_1 ... o_ r_</math> (which can be abbreviated as <math>e_</math>), chooses and executes in the environment the action, <math>a_t</math>, defined as follows 
+
+:<math>
+a_t := \arg \max_ \sum_ \ldots \max_ \sum_ [r_t + \ldots + r_m] \sum_ 2^(q)} 
+</math>
+
+or, using parentheses, to disambiguate the precedences
+
+:<math>
+a_t :=  \arg \max_ \left( \sum_ \ldots \left( \max_ \sum_ [r_t + \ldots + r_m] \left( \sum_ 2^(q)} \right) \right) \right)
+</math>
+
+Intuitively, in the definition above, AIXI considers the sum of the total reward over all possible "futures" up to <math>m - t</math> time steps ahead (that is, from <math>t</math> to <math>m</math>), weighs each of them by the complexity of programs <math>q</math> (that is, by <math>2^(q)}</math>) consistent with the agent's past (that is, the previously executed actions, <math>a_</math>, and received percepts, <math>e_</math>) that can generate that future, and then picks the action that maximises expected future rewards.
+
+However, AIXI does have limitations. It is restricted to maximizing rewards based on percepts as opposed to external states. It also assumes it interacts with the environment solely through action and percept channels, preventing it from considering the possibility of being damaged or modified. Colloquially, this means that it doesn't consider itself to be contained by the environment it interacts with. It also assumes the environment is computable.
+

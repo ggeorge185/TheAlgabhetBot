@@ -1,0 +1,7 @@
+Is it possible to create a machine that can solve ''all'' the problems humans solve using their intelligence? This question defines the scope of what machines could do in the future and guides the direction of AI research. It only concerns the ''behavior'' of machines and ignores the issues of interest to psychologists, cognitive scientists and philosophy|philosophers, evoking the question: does it matter whether a machine is ''really'' thinking, as a person thinks, rather than just producing outcomes that appear to result from thinking?
+
+The basic position of most AI researchers is summed up in this statement, which appeared in the proposal for the Dartmouth workshop of 1956:
+* "Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it." essentially achieves the desired feature of intelligence without a precise design-time description as to how it would exactly work. The account on robot tacit knowledge eliminates the need for a precise description altogether.
+
+The first step to answering the question is to clearly define "intelligence".
+

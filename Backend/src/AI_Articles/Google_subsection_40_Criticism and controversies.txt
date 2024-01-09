@@ -1,0 +1,10 @@
+Main|Criticism of Google|Censorship by Google|Privacy concerns regarding Google}}
+
+File:Google bus protest.jpg|thumb|San Francisco activists [[San Francisco tech bus protests|protest privately owned shuttle buses that transport workers for tech companies such as Google from their homes in San Francisco and Oakland to corporate campuses in Silicon Valley.]]
+
+Google has had criticism over issues such as Google tax avoidance|aggressive tax avoidance, Criticism of Google#Danger of ranking manipulation|search neutrality, Criticism of Google#Copyright issues|copyright, Censorship by Google|censorship of search results and content, and Google privacy|privacy.
+
+Other criticisms are alleged misuse and manipulation of search results, its use of other people's intellectual property, concerns that its Data collection|compilation of data may violate people's Internet privacy|privacy, and the energy consumption of its servers, as well as concerns over traditional business issues such as monopoly, restraint of trade, anti-competitive practices, and patent infringement.
+
+Google formerly complied with Internet censorship in the People's Republic of China|Internet censorship policies of the People's Republic of China, enforced by means of filters colloquially known as "The Great Firewall of China", but Censorship by Google#China|no longer does so. As a result, all Google services except for Chinese Google Maps are blocked from access within mainland China without the aid of virtual private networks, proxy servers, or other similar technologies.
+

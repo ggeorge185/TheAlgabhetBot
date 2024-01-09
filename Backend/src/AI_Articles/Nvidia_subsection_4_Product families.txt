@@ -1,0 +1,17 @@
+File:NVIDIA_Shield_Tablet_with_Wireless_Controller_(16131034479).jpg|thumb|A [[Shield Tablet with its accompanying input pen (left) and game controller]]
+
+Nvidia's family includes graphics, wireless communication, PC processors, and automotive hardware/software.
+
+Some families are listed below:
+* GeForce, consumer-oriented graphics processing products
+* Nvidia RTX, professional visual computing graphics processing products (replacing GTX and Quadro)
+* Nvidia Quadro#For business NVS|NVS, multi-display business graphics solution
+* Tegra, a system on a chip series for mobile devices
+* Nvidia Tesla|Tesla, dedicated general-purpose GPU for high-end image generation applications in professional and scientific fields
+* nForce, a motherboard chipset created by Nvidia for Intel (Celeron, Pentium and Core 2) and AMD (Athlon and Duron) microprocessors
+* Nvidia GRID, a set of hardware and services by Nvidia for graphics virtualization
+* Nvidia Shield, a range of gaming hardware including the Shield Portable, Shield Tablet and, most recently, the Shield Android TV
+* Nvidia Drive automotive solutions, a range of hardware and software products for designers and manufacturers of autonomous vehicles. The Drive PX-series is a high-performance computer platform aimed at autonomous driving through deep learning, while Driveworks is an operating system for Self-driving car|driverless cars.
+*Nvidia BlueField, a range of Data processing unit|Data Processing Units, initially inherited from their acquisition of Mellanox Technologies
+* Nvidia Datacenter/Server class CPU, codenamed Nvidia Grace, released in 2023
+

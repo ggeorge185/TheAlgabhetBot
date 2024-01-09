@@ -1,0 +1,2 @@
+Business intelligence and business analytics are sometimes used interchangeably, but there are alternate definitions. Thomas H. Davenport|Thomas Davenport, professor of information technology and management at Babson College argues that business intelligence should be divided into Information retrieval|querying, Financial reporting|reporting, Online analytical processing (OLAP), an "alerts" tool, and business analytics. In this definition, business analytics is the subset of BI focusing on statistics, prediction, and optimization, rather than the reporting functionality.
+

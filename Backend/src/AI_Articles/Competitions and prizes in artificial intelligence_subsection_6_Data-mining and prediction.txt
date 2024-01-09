@@ -1,0 +1,8 @@
+The Netflix Prize was a competition for the best collaborative filtering algorithm that predicts user ratings for films, based on previous ratings.  The competition was held by Netflix, an online DVD-rental service.  The prize was $1,000,000.
+
+The Pittsburgh Brain Activity Interpretation Competition will reward analysis of fMRI data "to predict what individuals perceive and how they act and feel in a novel Virtual Reality world involving searching for and collecting objects, interpreting changing instructions, and avoiding a threatening dog."  The prize in 2007 was $22,000.
+
+The Face Recognition Grand Challenge (May 2004 to March 2006) aimed to promote and advance facial recognition system|face recognition technology.
+
+The American Meteorological Society's artificial intelligence competition involves learning a classifier (mathematics)|classifier to characterise precipitation based on meteorological analyses of environmental conditions and polarimetric radar data.
+

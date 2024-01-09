@@ -1,0 +1,10 @@
+The modeling philosophy of artificial life strongly differs from traditional modeling by studying not only "life-as-we-know-it" but also "life-as-it-might-be".
+
+A traditional model of a biological system will focus on capturing its most important parameters. In contrast, an alife modeling approach will generally seek to decipher the most simple and general principles underlying life and implement them in a simulation. The simulation then offers the possibility to analyse new and different lifelike systems.
+
+Vladimir Georgievich Red'ko proposed to generalize this distinction to the modeling of any process, leading to the more general distinction of "processes-as-we-know-them" and "processes-as-they-could-be".
+
+At present, the commonly accepted Life#Definitions|definition of life does not consider any current alife simulations or software to be alive, and they do not constitute part of the evolutionary process of any ecosystem. However, different opinions about artificial life's potential have arisen:
+* The ''strong alife'' (cf. philosophy of artificial intelligence#Strong AI vs. weak AI|Strong AI) position states that "life is a process which can be abstracted away from any particular medium" (John von Neumann) . Notably, Thomas S. Ray|Tom Ray declared that his program Tierra (computer simulation)|Tierra is not simulating life in a computer but synthesizing it.
+* The ''weak alife'' position denies the possibility of generating a "living process" outside of a chemical solution. Its researchers try instead to simulate life processes to understand the underlying mechanics of biological phenomena.
+

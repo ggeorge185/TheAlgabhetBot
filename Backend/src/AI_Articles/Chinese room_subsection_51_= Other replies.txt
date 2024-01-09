@@ -1,0 +1,2 @@
+Margaret Boden argued in her paper "Escaping from the Chinese Room" that even if the person in the room does not understand the Chinese, it does not mean there is no understanding in the room. The person in the room at least understands the rule book used to provide output responses.
+

@@ -1,0 +1,13 @@
+Main|History of computer hardware|History of computer science}}
+
+Calculating machines were designed or built in antiquity and throughout history by many people, including 
+Gottfried Leibniz#Information technology|Gottfried Leibniz,
+Joseph Marie Jacquard, 
+Charles Babbage,
+Percy Ludgate,
+Leonardo Torres Quevedo,
+Vannevar Bush,
+and others. Ada Lovelace speculated that Babbage's machine was "a thinking or ... reasoning machine", but warned "It is desirable to guard against the possibility of exaggerated ideas that arise as to the powers" of the machine.
+
+The first modern computers were the massive machines of the Second World War (such as Konrad Zuse's Z3 (computer)|Z3, Alan Turing's Heath Robinson machine|Heath Robinson and Colossus computer|Colossus, John Vincent Atanasoff|Atanasoff and Clifford Berry|Berry's and Atanasoff–Berry computer|ABC and ENIAC at the University of Pennsylvania). ENIAC was based on the theoretical foundation laid by Alan Turing and developed by John von Neumann, and proved to be the most influential.
+

@@ -1,0 +1,3 @@
+Expand section|date=June 2021}}
+Researchers in artificial intelligence are trying to add intuition to algorithms, as the "fourth generation of AI"; this can be applied to many industries, especially finance. One example of artificial intuition is AlphaGo Zero, which used neural networks and was trained with reinforcement learning from a blank slate. In another example, ThetaRay partnered with Google Cloud to use artificial intuition for anti-money laundering purposes.
+

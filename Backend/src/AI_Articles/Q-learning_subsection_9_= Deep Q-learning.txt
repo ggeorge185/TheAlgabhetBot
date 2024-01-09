@@ -1,0 +1,4 @@
+The DeepMind system used a deep convolutional neural network, with layers of tiled convolutional filters to mimic the effects of receptive fields. Reinforcement learning is unstable or divergent when a nonlinear function approximator such as a neural network is used to represent Q. This instability comes from the correlations present in the sequence of observations, the fact that small updates to Q may significantly change the policy of the agent and the data distribution, and the correlations between Q and the target values. The method can be used for stochastic search in various domains and applications.
+
+The technique used ''experience replay,'' a biologically inspired mechanism that uses a random sample of prior actions instead of the most recent action to proceed.
+

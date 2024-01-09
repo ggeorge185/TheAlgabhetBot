@@ -1,0 +1,4 @@
+redirect|Bleeding edge}}
+
+The term '''bleeding edge''' has been used to refer to some new technologies, formed as an allusion to the similar terms "leading edge" and "cutting edge (development)|cutting edge". It tends to imply even greater advancement, albeit at an increased risk because of the unreliability of the software or Computer hardware|hardware. The first documented example of this term being used dates to early 1983, when an unnamed banking executive was quoted to have used it in reference to Storage Technology Corporation.
+

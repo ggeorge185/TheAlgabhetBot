@@ -1,0 +1,8 @@
+The execution of a behavior tree is described by the following standard ordinary difference equations:
+
+<math>x_(t_)=f_i( x_(t_))  </math>
+
+<math>t_=t_+\Delta t </math>
+
+where <math> k\in \mathbb</math> represent the discrete time, and  <math> x \in \mathbb^n  </math> is the state space of the system modelled by the behavior tree.
+

@@ -1,0 +1,9 @@
+GnuCash – Double-entry book-keeping
+* HomeBank – Personal accounting software
+* KMyMoney – Double-entry book-keeping
+* LedgerSMB – Double-entry book-keeping
+* RCA open-source application – management accounting application
+* SQL Ledger – Double-entry book-keeping
+* TurboCASH – Double-entry book-keeping for Windows
+* Wave Accounting – Double-entry book-keeping
+

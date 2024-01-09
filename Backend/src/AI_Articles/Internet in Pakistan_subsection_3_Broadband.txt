@@ -1,0 +1,24 @@
+Pakistan's Government definition of Broadband is contrary to the definition of Broadband in the industrialized world. For example, Pakistan defines broadband as always on 128 kbit/s, while US FCC defines broadband as 20 Mbit/s.  Or a difference in speed of 159 times (15900%). In 2015 Government of Pakistan (GoP) recognised that Telecommunication has become one of the dominant sectors in the economy, contributing to the well-being of society and a major contributor to GDP thus introduced a Telecommunication Policy 2015. The Telecom Policy 2015 aims to facilitate the attainment of an all-embracing national agenda and to transform Pakistan into an economically vibrant, knowledge-based, middle-income country by 2025.
+
+Broadband is offered at speeds that range from 1 Mbit/s to 1 Gbit/s in all major cities. The largest broadband providers for both corporate and residential consumers include PTCL, Wateen, Cybernet (StormFiber), Multinet, Optix, Transworld and Nayatel.
+
+In August 2007, PTCL launched Smart TV, an IPTV (Internet Protocol Television) service. IPTV along with high-speed broadband internet and voice telephony is available on the subscribers existing telephone lines.
+
+PTCL provides wireless broadband using the Evolution-Data Optimized (EV-DO) Rev. A standard, with speeds of up to 3.1 Mbit/s. PTCL provides its service under the brand name EVO which is available in more than 100 cities.
+
+Nayatel is offering multiple value-added services as well other than the basic tagline of voice, video, and data. The VAS includes Surveillance Solutions, IT solutions, Web Hosting, Gaming Solutions, IPTV, Data Security and Video on demand|VOD.
+
+StormFiber (powered by Cybernet) and Optix Pakistan have developed good market among consumers by providing FTTH and FTTX services including value added services like digital television, IPTV services. Internet packages varies from 2Mbit/s to 100Mbit/s 
+
+Wateen Telecom launched its WiMAX services in Pakistan in 2007. Connections are available at speeds from 256 kbit/s to 9.8 Mbit/s. PTCL offers Pakistan fastest WiMAX connection EVO Wingle at 9.3 Mbit/s. PTA issued the License to Telenor, Zong, Ufone, Jazz to launch 3G and 4G services in form of wireless broadband.
+
+In 2016, Wi-tribe signed a contract with Huawei to Launch 4.5G LTE Advanced Internet in Pakistan. This technology Advancement is not only new in Pakistan but in South Asia & Middle East too. The first stage has been completed in Lahore and Karachi, which is providing the most Advanced Generation of Internet speeds .i.e. 4.5G to users. In 2021, the Pakistan Telecommunication Authority|PTA (Pakistan Telecommunication Authority) revoked Wi-tribe's license because of frequent service interruptions.
+
+Between 2019 and 2021, major cell sites of Zong 4G|Zong, Jazz (mobile network operator)|Jazz and Telenor Pakistan|Telenor were upgraded to support LTE Advanced|LTE-A, allowing the use of carrier aggregation on modern smartphones that support the technology.
+
+On 22 August 2019, Pakistan became the first South Asian country to test 5G services. The successful tests were conducted by Pakistani telecom company Zong 4G|Zong.
+
+The country is reported to have 5G services launched by December 2022, however experts believe it will take more than 3–4 years for country to fully deploy 5G services in the country.
+
+In April 2021, the PTA announced that broadband subscriptions in Pakistan had reached the 100 million users mark.
+

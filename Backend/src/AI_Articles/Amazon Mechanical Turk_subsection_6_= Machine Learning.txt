@@ -1,0 +1,2 @@
+Supervised Machine Learning algorithms require large amounts of human-annotated data to be trained successfully. Machine learning researchers have hired Workers through Mechanical Turk to produce datasets such as SQuAD, a question answering dataset.
+

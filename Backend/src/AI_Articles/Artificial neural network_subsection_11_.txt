@@ -1,0 +1,2 @@
+While it is possible to define a cost function ad hoc, frequently the choice is determined by the function's desirable properties (such as Convex function|convexity) or because it arises from the model (e.g. in a probabilistic model the model's posterior probability can be used as an inverse cost).
+

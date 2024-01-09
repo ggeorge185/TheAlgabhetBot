@@ -1,0 +1,6 @@
+Despite significant advancements in image restoration, several challenges remain. Some of the key challenges include handling complex degradations, dealing with limited information, and addressing the trade-off between restoration quality and computation time.
+
+The future of image restoration is likely to be driven by developments in deep learning and artificial intelligence. Convolutional neural networks (CNNs) have shown promising results in various image restoration tasks, including denoising, super-resolution, and inpainting. The use of generative adversarial networks (GANs) has also gained attention for realistic image restoration.
+
+Additionally, emerging technologies such as computational photography and multi-sensor imaging are expected to provide new avenues for image restoration research and applications.
+

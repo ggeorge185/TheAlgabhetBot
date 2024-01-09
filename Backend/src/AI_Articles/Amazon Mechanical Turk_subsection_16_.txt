@@ -1,0 +1,12 @@
+Companies with large online catalogues use Mechanical Turk to identify duplicates and verify details of item entries. For example: removing duplicates in yellow pages directory listings, checking restaurant details (e.g. phone number and hours), and finding contact information from web pages (e.g. author name and email). This is in largely because questions of validity are complex: they involve not only questions of whether the research methods were appropriate and whether the study was well-executed, but also questions about the goal of the project, how the researchers used MTurk, who was sampled, and what conclusions were drawn.
+
+Most experts agree that MTurk is better suited for some types of research than others. MTurk appears well-suited for questions that seek to understand whether two or more things are related to each other (called correlational research; e.g., are happy people more healthy?) and questions that attempt to show one thing causes another thing (experimental research; e.g., being happy makes people more healthy). Fortunately, these categories capture most of the research conducted by behavioral scientists, and most correlational and experimental findings found in nationally representative samples replicate on MTurk.
+
+The type of research that is not well-suited for MTurk is often called "descriptive research." Descriptive research seeks to describe how or what people think, feel, or do; one example is public opinion polling. MTurk is not well-suited to such research because it does not select a representative sample of the general population. Instead, MTurk is a nonprobability, convenience sample. Descriptive research is best conducted with a probability-based, representative sample of the population researchers want to understand. When compared to the general population, people on MTurk are younger, more highly educated, more liberal, and less religious. A similar point is made in the book ''Ghostwork'' by Mary L. Gray and Siddharth Suri.
+
+Critics of MTurk argue that workers are forced onto the site by precarious economic conditions and then exploited by requesters with low wages and a lack of power when disputes occur. Journalist Alana Semuels’s article "The Internet Is Enabling a New Kind of Poorly Paid Hell" in ''The Atlantic'' is typical of such criticisms of MTurk.
+
+Some academic papers have obtained findings that support or serve as the basis for such common criticisms, but others contradict them. 
+
+A paper published by a team at CloudResearch
+

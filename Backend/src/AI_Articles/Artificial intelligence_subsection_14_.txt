@@ -1,0 +1,9 @@
+File:Gradient descent.gif|thumb|Illustration of [[gradient descent for 3 different starting points. Two parameters (represented by the plan coordinates) are adjusted in order to minimize the loss function (the height).]]
+Local search (optimization)|Local search uses mathematical optimization to find a numeric solution to a problem. It begins with some form of a guess and then refines the guess incrementally until no more refinements can be made. These algorithms can be visualized as blind hill climbing: we begin the search at a random point on the landscape, and then, by jumps or steps, we keep moving our guess uphill, until we reach the top. This process is called stochastic gradient descent.
+
+Evolutionary computation uses a form of optimization search. For example, they may begin with a population of organisms (the guesses) and then allow them to mutate and recombine, Artificial selection|selecting only the fittest to survive each generation (refining the guesses).
+
+Distributed search processes can coordinate via swarm intelligence algorithms. Two popular swarm algorithms used in search are particle swarm optimization (inspired by bird Flocking (behavior)|flocking) and ant colony optimization (inspired by ant trails).
+
+Neural networks and statistical classification|statistical classifiers (discussed below), also use a form of local search, where the "landscape" to be searched is formed by learning.
+

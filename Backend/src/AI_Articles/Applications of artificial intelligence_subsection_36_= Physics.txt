@@ -1,0 +1,4 @@
+main|Machine learning in physics}}
+
+A deep learning system was reported to learn intuitive physics from visual data (of virtual 3D environments) based on an reproducibility|unpublished approach inspired by studies of visual cognition in infants. Other researchers have developed a machine learning algorithm that could discover sets of basic variables of various physical systems and predict the systems' future dynamics from video recordings of their behavior. In the future, it may be possible that such can be used to automate the discovery of physical laws of complex systems.
+

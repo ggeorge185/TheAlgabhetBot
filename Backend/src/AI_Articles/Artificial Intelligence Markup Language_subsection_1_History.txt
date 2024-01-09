@@ -1,0 +1,7 @@
+The '''XML dialect''' called AIML was developed by Richard Wallace (scientist)|Richard Wallace and a worldwide free software community between 1995 and 2002. AIML formed the basis for what was initially a highly extended ELIZA|Eliza called "Artificial Linguistic Internet Computer Entity|A.L.I.C.E." ("Artificial Linguistic Internet Computer Entity"), which won the annual Loebner Prize|Loebner Prize Competition in Artificial Intelligence three times, and was also the Chatterbox Challenge Champion in 2004.
+
+Because the A.L.I.C.E. AIML set was released under the GNU GPL, and because most AIML interpreters are offered under a Free Software|free or open source license, many "Alicebot clones" have been created based upon the original implementation of the program and its AIML knowledge base. Free AIML sets in several languages have been developed and made available by the user community. There are AIML interpreters available in Java (programming language)|Java, Ruby programming language|Ruby, Python (programming language)|Python, C++, C Sharp (programming language)|C#, Pascal programming language|Pascal, and other languages (see #Free .2F Open Source AIML Implementations|below ).
+A semi-formal specification and a W3C XML Schema for AIML are available.
+
+Since early 2013, The A.L.I.C.E foundation has been working on a draft specification for AIML 2.0.
+

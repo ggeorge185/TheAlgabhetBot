@@ -1,0 +1,7 @@
+Early models on sensory processing understood within a theoretical framework are credited to Horace Barlow. Somewhat similar to the minimal wiring hypothesis described in the preceding section, Barlow understood the processing of the early sensory systems to be a form of  efficient coding hypothesis|efficient coding, where the neurons encoded information which minimized the number of spikes. Experimental and computational work have since supported this hypothesis in one form or another.  For the example of visual processing, efficient coding is manifested in the
+forms of efficient spatial coding, color coding, temporal/motion coding,  stereo coding, and combinations of them.
+
+Further along the visual pathway, even the efficiently coded visual information is too much for the capacity of the information bottleneck, the visual attentional bottleneck. A subsequent theory, V1 Saliency Hypothesis|V1 Saliency Hypothesis (V1SH), has been developed on exogenous attentional selection of a fraction of visual input for further processing, guided by a bottom-up saliency map in the primary visual cortex.
+
+Current research in sensory processing is divided among a biophysical modelling of different subsystems and a more theoretical modelling of perception. Current models of perception have suggested that the brain performs some form of Bayesian approaches to brain function|Bayesian inference and integration of different sensory information in generating our perception of the physical world.
+

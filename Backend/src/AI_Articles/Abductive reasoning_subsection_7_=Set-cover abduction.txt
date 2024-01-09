@@ -1,0 +1,6 @@
+A different formalization of abduction is based on inverting the function that calculates the visible effects of the hypotheses. Formally, we are given a set of hypotheses <math>H</math> and a set of manifestations <math>M</math>; they are related by the domain knowledge, represented by a function <math>e</math> that takes as an argument a set of hypotheses and gives as a result the corresponding set of manifestations. In other words, for every subset of the hypotheses <math>H' \subseteq H</math>, their effects are known to be <math>e(H')</math>.
+
+Abduction is performed by finding a set <math>H' \subseteq H</math> such that <math>M \subseteq e(H')</math>. In other words, abduction is performed by finding a set of hypotheses <math>H'</math> such that their effects <math>e(H')</math> include all observations <math>M</math>.
+
+A common assumption is that the effects of the hypotheses are independent, that is, for every <math>H' \subseteq H</math>, it holds that <math>e(H') = \bigcup_ e(\)</math>. If this condition is met, abduction can be seen as a form of set covering.
+

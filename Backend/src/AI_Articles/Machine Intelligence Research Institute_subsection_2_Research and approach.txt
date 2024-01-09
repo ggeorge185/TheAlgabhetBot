@@ -1,0 +1,8 @@
+File:Nate Soares giving a talk at Google.gk.jpg|thumb|Nate Soares presenting an overview of the AI alignment problem at [[Google in 2016]]
+
+MIRI's approach to identifying and managing the risks of AI, led by Yudkowsky, primarily addresses how to design friendly AI, covering both the initial design of AI systems and the creation of mechanisms to ensure that evolving AI systems remain friendly.   
+
+MIRI researchers advocate early safety work as a precautionary measure. However, MIRI researchers have expressed skepticism about the views of Singularitarianism|singularity advocates like Ray Kurzweil that superintelligence is "just around the corner".
+
+MIRI aligns itself with the principles and objectives of the effective altruism movement.
+

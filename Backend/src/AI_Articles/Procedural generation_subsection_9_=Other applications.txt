@@ -1,0 +1,8 @@
+As in video games, procedural generation is often used in film to create visually interesting and accurate spaces rapidly. This comes in a wide variety of applications.
+
+One application is known as an ''imperfect factory'', where artists can rapidly generate many similar objects. This accounts for the fact that, in real life, no two objects are ever exactly alike. For instance, an artist could model a product for a grocery store shelf, and then create an imperfect factory to generate many similar objects to populate the shelf.
+
+MASSIVE (software)|MASSIVE is a high-end computer animation and artificial intelligence software package used for generating crowd-related visual effects for film and television. It was developed to create fighting armies of hundreds of thousands of soldiers for Peter Jackson's ''The Lord of the Rings (film series)|The Lord of the Rings'' films automatically.
+
+Coherent noise can be extremely important to procedural workflow in film. Simplex noise is often faster with fewer artifacts, though an older function called Perlin noise may be used as well. Coherent noise, in this case, refers to a function that generates smooth pseudo-randomness in  dimensions.
+

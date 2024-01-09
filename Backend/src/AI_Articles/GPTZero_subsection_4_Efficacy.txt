@@ -1,0 +1,6 @@
+In a March 2023 a paper named "Can AI-Generated Text be Reliably Detected?", computer scientists Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang, and Soheil Feizi from the University of Maryland demonstrate empirically and theoretically that several AI-text detectors are not reliable in practical scenarios.
+
+Tech website Singularity Group#History|''Futurism'' tested the tool, and said that while the "results are impressive", based on its error rate, teachers relying the tool would end up "falsely accusing nearly 20 percent of [innocent students] of academic misconduct".
+
+The The Washington Post|''Washington Post'' have noted GPTZero suffers from false positives, emphasizing that  "even a small “false positive” error rate means that some students could be wrongly accused [of academic misconduct]".
+

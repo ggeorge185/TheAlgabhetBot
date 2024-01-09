@@ -1,0 +1,13 @@
+Allen Institute for Artificial Intelligence – research institute funded by Microsoft co-founder Paul Allen to construct AI systems with reasoning, learning and reading capabilities. The current flagship project is Project Aristo, the goal of which is computers that can pass school science examinations (4th grade, 8th grade, and 12th grade) after preparing for the examinations from the course texts and study guides.
+* Artificial Intelligence Applications Institute
+* Association for the Advancement of Artificial Intelligence
+* European Coordinating Committee for Artificial Intelligence
+* European Neural Network Society
+* Future of Humanity Institute
+* Future of Life Institute &ndash; volunteer-run research and outreach organization that works to mitigate existential risks facing humanity, particularly existential risk from advanced artificial intelligence.
+* ILabs
+* International Joint Conferences on Artificial Intelligence
+* Machine Intelligence Research Institute
+* Partnership on AI &ndash; founded in September 2016 by Amazon, Facebook, Google, IBM, and Microsoft. Apple joined in January 2017.  It focuses on establishing best practices for artificial intelligence systems and to educate the public about AI.
+* Society for the Study of Artificial Intelligence and the Simulation of Behaviour
+

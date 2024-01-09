@@ -1,0 +1,2 @@
+The Loebner prize is an annual competition to determine the best Turing test competitors. The winner is the computer system that, in the judges' opinions, demonstrates the "most human" conversational behaviour, they have an additional prize for a system that in their opinion passes a Turing test. This second prize has not yet been awarded.
+

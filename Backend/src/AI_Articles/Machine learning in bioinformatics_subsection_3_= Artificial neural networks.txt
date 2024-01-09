@@ -1,0 +1,10 @@
+Artificial neural networks in bioinformatics have been used for:
+
+* Comparing and aligning RNA, protein, and DNA sequences.
+* Identification of promoters and finding genes from sequences related to DNA.
+* Interpreting the expression-gene and micro-array data.
+* Identifying the network (regulatory) of genes.
+* Learning evolutionary relationships by constructing phylogenetic trees.
+* Classifying and predicting protein structure.
+* Molecular modelling|Molecular design and Docking (molecular)|docking.
+

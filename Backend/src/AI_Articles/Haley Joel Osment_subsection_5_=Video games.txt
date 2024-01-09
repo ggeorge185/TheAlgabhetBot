@@ -1,0 +1,17 @@
+class="wikitable sortable plainrowheaders"
+! Year
+! Title
+! Voice role
+! class="unsortable"| Notes
+! class="unsortable"| Source
+|-
+|  || ''Kingdom Hearts (video game)|Kingdom Hearts'' ||rowspan=4|Sora (Kingdom Hearts)|Sora || || 
+|-
+|  || ''Kingdom Hearts III'' || Sora, Vanitas || Also voices Sora in the ''Re:Mind'' (2020) downloadable content|DLC|| 
+|-
+|  || ''Kingdom Hearts: Melody of Memory'' || rowspan=2|Sora || Archive audio || 
+|-
+|  || ''Super Smash Bros. Ultimate'' || As part of DLC Fighter Pack #11<br>Archive audio
+| 
+|}
+

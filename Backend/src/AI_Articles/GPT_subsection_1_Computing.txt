@@ -1,0 +1,5 @@
+Generative pre-trained transformer, a type of artificial intelligence language model
+* ChatGPT, a chatbot developed by OpenAI, based on generative pre-trained transformer technology
+* GUID Partition Table, a disk partitioning standard 
+*
+

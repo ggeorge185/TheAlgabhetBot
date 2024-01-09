@@ -1,0 +1,18 @@
+Citation | first = Rodney | last = Brooks | title = Elephants Don't Play Chess | journal = Robotics and Autonomous Systems | volume=6 | issue = 1–2 | year =1990 | pages = 3–15 | author-link=Rodney Brooks | url=http://people.csail.mit.edu/brooks/papers/elephants.pdf | access-date=2007-08-30 | doi = 10.1016/S0921-8890(05)80025-9| citeseerx = 10.1.1.588.7539 }}
+* 
+* 
+* 
+* .
+* .
+* .
+* 
+* .
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Noah Wardrip-Fruin and Nick Montfort, eds. (2003). ''The New Media Reader''. Cambridge: MIT Press. . "Lucasfilm's Habitat" pp.&nbsp;663–677.
+

@@ -1,0 +1,8 @@
+Main|Chinese room}}
+
+The Turing test is concerned strictly with how the subject ''acts''&nbsp;– the external behaviour of the machine. In this regard, it takes a behaviourist or Functionalism (philosophy of mind)|functionalist approach to the study of the mind. The example of ELIZA suggests that a machine passing the test may be able to simulate human conversational behaviour by following a simple (but large) list of mechanical rules, without thinking or having a mind at all.
+
+John Searle has argued that external behaviour cannot be used to determine if a machine is "actually" thinking or merely "simulating thinking." His Chinese room argument is intended to show that, even if the Turing test is a good operational definition of intelligence, it may not indicate that the machine has a mind, consciousness, or intentionality. (Intentionality is a philosophical term for the power of thoughts to be "about" something.)
+
+Turing anticipated this line of criticism in his original paper, writing:  }}
+

@@ -1,0 +1,9 @@
+Cyc
+* Open Mind Common Sense (data source) and ConceptNet (datastore and NLP engine)
+* [https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/commonsense/quasimodo/ Quasimodo]
+* [https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/commonsense/webchild/ Webchild]
+* [https://allenai.org/data/tuple-kb TupleKB]
+* True Knowledge
+* Graphiq
+* [https://ascentpp.mpi-inf.mpg.de/ Ascent++]
+

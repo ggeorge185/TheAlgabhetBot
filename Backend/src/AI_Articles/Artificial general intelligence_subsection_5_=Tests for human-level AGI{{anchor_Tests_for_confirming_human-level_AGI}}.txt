@@ -1,0 +1,12 @@
+Several tests meant to confirm human-level AGI have been considered, including:
+;Turing test|The Turing Test (Alan Turing|''Turing'')
+: A machine and a human both converse unseen with a second human, who must evaluate which of the two is the machine, which passes the test if it can fool the evaluator a significant fraction of the time. Note: Turing does not prescribe what should qualify as intelligence, only that knowing that it is a machine should disqualify it. The AI Eugene Goostman achieved Turing's estimate of convincing 30% of judges that it was human in 2014.
+;The Robot College Student Test (Ben Goertzel|''Goertzel'')
+: A machine enrolls in a university, taking and passing the same classes that humans would, and obtaining a degree. LLMs can now pass university degree-level exams without even attending the classes.
+;The Employment Test (Nils John Nilsson|''Nilsson'')
+: A machine performs an economically important job at least as well as humans in the same job. AIs are now replacing humans in many roles as varied as fast food and marketing.
+;The Ikea test (Gary Marcus|''Marcus'')
+: Also known as the Flat Pack Furniture Test. An AI views the parts and instructions of an Ikea flat-pack product, then controls a robot to assemble the furniture correctly.
+;The Coffee Test (Steve Wozniak|''Wozniak'')
+: A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons. This has not yet been completed.
+

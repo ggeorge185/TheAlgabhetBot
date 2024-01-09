@@ -1,0 +1,32 @@
+columns-list|colwidth=30em|
+*Timnit Gebru
+*Joy Buolamwini
+*Deb Raji
+*Ruha Benjamin
+*Safiya Noble
+*Margaret Mitchell (scientist)|Margaret Mitchell
+*Meredith Whittaker
+*Alison Adam
+*Seth Baum
+*Nick Bostrom
+*Joanna Bryson
+*Kate Crawford
+*Kate Darling
+*Luciano Floridi
+*Anja Kaspersen
+*Michael Kearns (computer scientist)|Michael Kearns
+*Ray Kurzweil
+*Catherine Malabou
+*Ajung Moon
+*Vincent C. Müller
+*Peter Norvig
+*Steve Omohundro
+*Stuart J. Russell
+*Anders Sandberg
+*Mariarosaria Taddeo
+*John Tasioulas
+*Roman Yampolskiy
+*Eliezer Yudkowsky
+*Emily M. Bender
+}}
+

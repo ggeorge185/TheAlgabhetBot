@@ -1,0 +1,10 @@
+File:Curette in sterile packaging.jpg|thumb|Curette in sterile pouch. Porous tyvek material allows gas sterilization
+Medical device packaging is highly regulated. Often medical devices and products are sterilized in the package.
+Sterility must be maintained throughout distribution to allow immediate use by physicians. A series of special packaging tests measure the ability of the package to maintain sterility. Relevant standards include:
+* ASTM F2097 – ''Standard Guide for Design and Evaluation of Primary Flexible Packaging for Medical Products''
+* ASTM F2475-11 – Standard Guide for Biocompatibility Evaluation of Medical Device Packaging Materials
+* EN 868 ''Packaging materials and systems for medical devices to be sterilized, General requirements and test methods''
+* ISO 11607 ''Packaging for terminally sterilized medical devices''
+
+Package testing is part of a quality management system including verification and validation. It is important to document and ensure that packages meet regulations and end-use requirements. Manufacturing processes must be controlled and validated to ensure consistent performance. EN ISO 15223-1 defines symbols that can be used to convey important information on packaging and labeling.
+

@@ -1,0 +1,5 @@
+main|Differential game}}
+Differential games such as the continuous Pursuit-evasion|pursuit and evasion game are continuous games where the evolution of the players' state variables is governed by differential equations. The problem of finding an optimal strategy in a differential game is closely related to the optimal control theory. In particular, there are two types of strategies: the open-loop strategies are found using the Pontryagin's Minimum Principle|Pontryagin maximum principle while the closed-loop strategies are found using Hamilton–Jacobi–Bellman equation|Bellman's Dynamic Programming method.
+
+A particular case of differential games are the games with a random time horizon. In such games, the terminal time is a random variable with a given probability distribution function. Therefore, the players maximize the mathematical expectation of the cost function. It was shown that the modified optimization problem can be reformulated as a discounted differential game over an infinite time interval.
+

@@ -1,0 +1,10 @@
+main|GPT-3}}
+
+First described in May 2020, Generative Pre-trained Transformer 3 (GPT-3) is an unsupervised transformer language model and the successor to #GPT-2|GPT-2. in the full version of GPT-2 (although GPT-3 models with as few as 125 million parameters were also trained).
+
+OpenAI stated that GPT-3 succeeds at certain "meta-learning" tasks. It can generalize the purpose of a single input-output pair. The GPT-3 release paper gives an example of translation and cross-linguistic transfer learning between English and Romanian, and between English and German.
+
+GPT-3 dramatically improved benchmark results <!-- describe results --> over GPT-2. OpenAI cautioned that such scaling up of language models could be approaching or encountering the fundamental capability limitations of predictive language models. Pre-training GPT-3 required several thousand petaflop/s-days of compute<!--"compute" is the correct technical term; do not correct to computations (see )-->, compared to tens of petaflop/s-days for the full GPT-2 model.
+
+On September 23, 2020, GPT-3 was licensed exclusively to Microsoft.
+

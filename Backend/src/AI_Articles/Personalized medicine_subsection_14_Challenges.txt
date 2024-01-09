@@ -1,0 +1,4 @@
+As personalised medicine is practiced more widely, a number of challenges arise. The current approaches to intellectual property rights, reimbursement policies, patient privacy, data biases and confidentiality as well as regulatory oversight will have to be redefined and restructured to accommodate the changes personalised medicine will bring to healthcare.
+For instance, a survey performed in the UK concluded that 63% of UK adults are not comfortable with their personal data being used for the sake of utilizing AI in the medical field. Furthermore, the analysis of acquired diagnostic data is a recent challenge of personalized medicine and its implementation.
+In the future, adequate tools will be required to accelerate the adoption of personalised medicine to further fields of medicine, which requires the interdisciplinary cooperation of experts from specific fields of research, such as medicine, clinical oncology, biology, and artificial intelligence.
+

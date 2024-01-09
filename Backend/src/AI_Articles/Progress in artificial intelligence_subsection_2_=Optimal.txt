@@ -1,0 +1,6 @@
+Tic-tac-toe
+* Connect Four: 1988
+* Checkers (aka 8x8 draughts): Weakly solved (2007)
+* Rubik's Cube: Mostly solved (2010)
+* Computer poker player|Heads-up limit hold'em poker: Statistically optimal in the sense that "a human lifetime of play is not sufficient to establish with statistical significance that the strategy is not an exact solution" (2015)
+

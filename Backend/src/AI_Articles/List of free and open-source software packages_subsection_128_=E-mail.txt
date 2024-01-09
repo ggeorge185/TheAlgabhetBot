@@ -1,0 +1,19 @@
+Main category|Free email software}}
+*Amavis – Email content filter
+*Claws Mail – Email Client 
+*Fetchmail – Email Retrieval 
+*Geary (software)|Geary – Email client based on WebKitGTK+
+*GNUMail – Cross-platform email client
+*Hula (software)|Hula – Discontinued mail and calendar project 
+*K-9 Mail – Android Email Client
+*MailScanner – Email security system
+*MH Message Handling System – Email Client 
+*Modest (email client)|Modest – Email Client 
+*Mozilla Mail & Newsgroups – Email Client that was part of the now discontinued Mozilla Application Suite
+*Mozilla Thunderbird – Email, news, RSS, and chat client
+*POPFile – Cross-platform mail filter 
+*Roundcube – Web-based IMAP email client 
+*Sylpheed – Email and News Client 
+*Sympa – Mailing list management software|MLA software
+*Vpopmail – Email management software
+

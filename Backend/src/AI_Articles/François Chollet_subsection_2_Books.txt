@@ -1,0 +1,2 @@
+Chollet is the author of ''Deep Learning with Python'', the co-author with Joseph J. Allaire of ''Deep Learning With R'', and the creator of the Abstraction and Reasoning Corpus (ARC) Challenge.
+

@@ -1,0 +1,12 @@
+At some institutions, a specialization in scientific computation can be earned as a "minor" within another program (which may be at varying levels). However, there are increasingly many Bachelor's degree|bachelor's, Master's degree|master's, and doctoral degree|doctoral programs in computational science. The joint degree program master program computational science at the University of Amsterdam and the Vrije Universiteit Amsterdam|Vrije Universiteit in computational science was first offered in 2004. In this program, students:
+* learn to build computational models from real-life observations;
+* develop skills in turning these models into computational structures and in performing large-scale simulations;
+* learn theories that will give a firm basis for the analysis of complex systems;
+* learn to analyze the results of simulations in a virtual laboratory using advanced numerical algorithms.
+
+ETH Zurich offers a bachelor's and master's degree in Computational Science and Engineering. The degree equips students with the ability to understand scientific problem and apply numerical methods to solve such problems. The directions of specializations include Physics, Chemistry, Biology and other Scientific and Engineering disciplines.
+
+George Mason University was one of the early pioneers first offering a multidisciplinary doctorate Ph.D. program in Computational Sciences and Informatics in 1992 that focused on a number of specialty areas, including bioinformatics, computational chemistry, earth systems, and global changes, computational mathematics, computational physics, space sciences, and computational statistics.
+
+The School of Computational and Integrative Sciences, Jawaharlal Nehru University (erstwhile School of Information Technology) also offers a vibrant master's science program for computational science with two specialties: Computational biology|Computational Biology and Complex Systems.
+

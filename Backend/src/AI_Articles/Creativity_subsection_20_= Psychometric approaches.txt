@@ -1,0 +1,11 @@
+J. P. Guilford's group,
+
+Additionally, Guilford hypothesized one of the first models for the components of creativity. He explained that creativity was a result of having:
+# sensitivity to problems, or the ability to recognize problems
+# fluency, which encompasses<ol type="a"><li>ideational fluency, or the ability rapidly to produce a variety of ideas that fulfill stated requirements</li><li>associational fluency, or the ability to generate a list of words, each of which is associated with a given word</li><li>expressional fluency, or the ability to organize words into larger units, such as phrases, sentences, and paragraphs</li></ol>
+# flexibility, which encompasses<ol type="a"><li>spontaneous flexibility, or the ability to demonstrate flexibility</li><li>adaptive flexibility, or the ability to produce responses that are novel and high in quality</li></ol>
+
+This represents the base model which several researchers would alter to produce their new theories of creativity years later. and criticized. For example, Ellis Paul Torrance|Torrance developed the Torrance Tests of Creative Thinking in 1966. Computer programs were able to achieve a correlation to human graders of 0.60 and 0.72.
+
+Semantic networks also devise originality scores that yield significant correlations with socio-personal measures. A team of researchers led by James C. Kaufman and Mark A. Runco combined expertise in creativity research, natural language processing, computational linguistics, and statistical data analysis to devise a scalable system for computerized automated testing (SparcIt Creativity Index Testing system). This system enabled automated scoring of DT tests that is reliable, objective, and scalable, thus addressing most of the issues of DT tests that had been found and reported.
+

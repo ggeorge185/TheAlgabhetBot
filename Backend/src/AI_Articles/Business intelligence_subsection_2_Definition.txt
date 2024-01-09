@@ -1,0 +1,23 @@
+According to Solomon Negash and Paul Gray, business intelligence (BI) can be defined as systems that combine:
+*Data collection|Data gathering
+*Data storage
+*Knowledge management
+
+with analysis to evaluate complex corporate and competitive information for presentation to planners and decision makers, with the objective of improving the timeliness and the quality of the input to the decision process."
+
+According to Forrester Research, business intelligence is "a set of methodologies, processes, architectures, and technologies that transform raw data into meaningful and useful information used to enable more effective strategic, tactical, and operational insights and decision-making." Under this definition, business intelligence encompasses information management (data integration, data quality, data warehousing, master-data management, text- and content-analytics, et al.). Therefore, Forrester refers to ''data preparation'' and ''data usage'' as two separate but closely linked segments of the business-intelligence architectural stack.
+
+Some elements of business intelligence are:
+
+* Multidimensional Aggregate (data warehouse)|aggregation and allocation
+* Denormalization, tagging, and standardization
+* Realtime reporting with analytical alert
+* A method of interfacing with unstructured data sources
+* Group consolidation, budgeting, and rolling forecasts
+* Statistical inference and probabilistic simulation
+* Key performance indicators optimization
+* Version control and process management
+* Open item management
+
+Forrester distinguishes this from the ''business-intelligence market'', which is "just the top layers of the BI architectural stack, such as Data reporting|reporting, analytics, and Dashboards (management information systems)|dashboards."
+

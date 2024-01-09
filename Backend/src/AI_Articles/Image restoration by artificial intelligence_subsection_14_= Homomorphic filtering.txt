@@ -1,0 +1,2 @@
+It is used for enhancing images that suffer from both additive and multiplicative noise. This technique separately processes the low-frequency and high-frequency components of the image to improve visibility.
+

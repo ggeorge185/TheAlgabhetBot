@@ -1,0 +1,2 @@
+Developing a Bayesian network often begins with creating a DAG ''G'' such that ''X'' satisfies the local Markov property with respect to ''G''. Sometimes this is a Causal graph|causal DAG. The conditional probability distributions of each variable given its parents in ''G'' are assessed. In many cases, in particular in the case where the variables are discrete, if the joint distribution of ''X'' is the product of these conditional distributions, then ''X'' is a Bayesian network with respect to ''G''.
+

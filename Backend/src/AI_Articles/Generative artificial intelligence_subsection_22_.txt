@@ -1,0 +1,7 @@
+Main|Audio deepfake}}
+Instances of users abusing software to generate controversial statements in the vocal style of celebrities, public officials, and other famous individuals have raised ethical concerns over voice generation AI. In response, companies such as ElevenLabs have stated that they would work on mitigating potential abuse through safeguards and Identity document|identity verification.
+
+Concerns and fandom have spawned from AI generated music. The same software used to clone voices has been used on famous musicians' voices to create songs that mimic their voices, gaining both tremendous popularity and criticism. Similar techniques have also been used to create improved quality or full-length versions of songs that have been leaked or have yet to be released.
+
+Generative AI has also been used to create new digital artist personalities, with some of these receiving enough attention to receive record deals at major labels. The developers of these virtual artists have also faced their fair share of criticism for their personified programs, including backlash for "dehumanizing" an artform, and also creating artists which create unrealistic or immoral appeals to their audiences.
+

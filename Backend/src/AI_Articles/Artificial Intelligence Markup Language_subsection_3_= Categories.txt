@@ -1,0 +1,11 @@
+Categories in AIML form the fundamental unit of knowledge. A category consists of at least two further elements: the '''pattern''' and '''template''' elements. Here is a simple category:
+
+<syntaxhighlight lang="xml">
+<category>
+  <pattern>WHAT IS YOUR NAME</pattern>
+  <template>My name is Michael N.S Evanious.</template>
+</category>
+</syntaxhighlight>
+
+When this category is loaded, an AIML bot will respond to the input "What is your name" with the response "My name is Michael N.S Evanious."
+

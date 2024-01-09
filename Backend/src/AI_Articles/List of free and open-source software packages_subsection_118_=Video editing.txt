@@ -1,0 +1,19 @@
+Avidemux
+*AviSynth
+*Blender (software)|Blender
+*Cinelerra
+*Flowblade
+*Kdenlive
+*Kino (software)|Kino
+*LiVES
+*Losslesscut|LosslessCut
+*Natron (software)|Natron
+*Olive (software)|Olive
+*OpenShot
+*Open Movie Editor
+*Pitivi
+*Shotcut
+*VirtualDub
+*VirtualDubMod
+*VLMC#VLMC|VideoLAN Movie Creator
+

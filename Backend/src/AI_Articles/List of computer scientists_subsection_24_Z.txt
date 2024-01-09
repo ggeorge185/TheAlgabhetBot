@@ -1,0 +1,12 @@
+Please keep entries in alphabetical order -->
+* Lotfi Zadeh – fuzzy logic
+* Hans Zantema – termination analysis
+* Arif Zaman – pseudo-random number generator
+* Stanley Zdonik — database management systems
+* Hussein Zedan – formal methods and real-time systems
+* Shlomo Zilberstein – artificial intelligence, anytime algorithms, automated planning and scheduling|automated planning, and decentralized partially observable Markov decision process|POMDPs
+* Jill Zimmerman – James M. Beall Professor of Mathematics and Computer Science at Goucher College
+* Mark Zuckerberg – cofounder of Facebook and Meta Platforms
+* Konrad Zuse – German pioneer of hardware and software
+<!-- Please keep entries in alphabetical order -->
+

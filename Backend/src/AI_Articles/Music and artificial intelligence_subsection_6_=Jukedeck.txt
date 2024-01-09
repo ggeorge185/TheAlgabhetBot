@@ -1,0 +1,3 @@
+main|Jukedeck}}
+Jukedeck was a website that let people use artificial intelligence to generate original, royalty-free music for use in videos. The team started building the music generation technology in 2010, formed a company around it in 2012, and launched the website publicly in 2015. which was later replaced with artificial neural networks. In 2019, the company was acquired by ByteDance.
+

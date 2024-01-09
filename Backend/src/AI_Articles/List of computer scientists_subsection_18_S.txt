@@ -1,0 +1,69 @@
+George Sadowsky
+* Mehrnoosh Sadrzadeh - compositional models of meaning, machine learning
+* Umar Saif
+* Gerard Salton – information retrieval
+* Jean E. Sammet – programming languages
+* Claude Sammut – artificial intelligence researcher
+* Carl Sassenrath – operating systems, programming languages, Amiga, REBOL
+* Mahadev Satyanarayanan – file systems, distributed systems, mobile computing, pervasive computing
+* Walter Savitch – discovery of complexity class NL (complexity)|NL, Savitch's theorem, natural language processing, mathematical linguistics
+* Jonathan Schaeffer
+* Wilhelm Schickard – one of the first calculating machines
+* Jürgen Schmidhuber – artificial intelligence, deep learning, artificial neural networks, recurrent neural networks, Gödel machine, artificial curiosity, meta-learning
+* Steve Schneider (computer scientist)|Steve Schneider – formal methods, security
+* Bruce Schneier – cryptography, security
+* Fred B. Schneider – concurrent and distributed computing
+* Sarita Schoenebeck — human–computer interaction
+* Glenda Schroeder – command-line shell, e-mail
+* Bernhard Schölkopf – machine learning, artificial intelligence
+* Dana Scott – domain theory
+* Michael L. Scott – programming languages, algorithms, distributed computing
+* Robert Sedgewick (computer scientist)|Robert Sedgewick – algorithms, data structures
+* Ravi Sethi – compilers, 2nd Compilers: Principles, Techniques, and Tools#Second edition|Dragon Book
+* Nigel Shadbolt
+* Adi Shamir – RSA (cryptosystem)|RSA, cryptanalysis
+* Claude Shannon – information theory
+* David E. Shaw – computational finance, computational biochemistry, parallel architectures
+* Cliff Shaw – systems programmer, artificial intelligence
+* Scott Shenker – networking
+* Shashi Shekhar (scientist)|Shashi Shekhar - Spatial Computing
+* Ben Shneiderman – human–computer interaction, information visualization
+* Edward H. Shortliffe – MYCIN (medical diagnostic expert system)
+* Daniel Siewiorek – electronic design automation, Reliability (computer networking)|reliability computing, Context awareness|context aware mobile computing, Wearable computer|wearable computing, computer-aided design, rapid prototyping, fault tolerance
+* Joseph Sifakis – model checking
+* Herbert A. Simon – artificial intelligence
+* Munindar P. Singh – multiagent systems, software engineering, artificial intelligence, social networks
+* Ramesh Sitaraman – helped build Akamai's high performance network
+* Daniel Sleator – splay tree, amortized analysis
+* Aaron Sloman – artificial intelligence and cognitive science
+* Arne Sølvberg – information modelling
+* Brian Cantwell Smith – reflection (computer science), 3lisp
+* David Canfield Smith – invented Icon (computing)|interface icons, programming by demonstration, developed graphical user interface, Xerox Star; PARC (company)|Xerox PARC researcher, cofounded Dest Systems, Cognition
+* Steven Spewak – enterprise architecture planning
+* Carol Spradling
+* Robert Sproull
+* Rohini Kesavan Srihari – information retrieval, text analytics, multilingual text mining
+* Sargur Srihari – pattern recognition, machine learning, computational criminology, CEDAR-FOX
+* Maciej Stachowiak – GNOME, Safari (web browser)|Safari, WebKit
+* Richard Stallman (born 1953) – GNU Project
+* Ronald Stamper
+* Thad Starner
+* Richard E. Stearns – computational complexity theory
+* Guy L. Steele, Jr. – Scheme (programming language)|Scheme, Common Lisp
+* Thomas Sterling (computing)|Thomas Sterling – creator of Beowulf (computing)|Beowulf clusters
+* Alexander Stepanov – generic programming
+* W. Richard Stevens (1951–1999) – author of books, including ''TCP/IP Illustrated'' and ''Advanced Programming in the Unix Environment''
+* Larry Stockmeyer – computational complexity, distributed computing
+* Salvatore Stolfo – computer security, machine learning
+* Michael Stonebraker – relational database practice and theory
+* Olaf Storaasli (computing)|Olaf Storaasli – finite element machine, linear algebra, high performance computing
+* Christopher Strachey – denotational semantics
+* Volker Strassen – Strassen algorithm|matrix multiplication, Schönhage–Strassen algorithm|integer multiplication, Solovay–Strassen primality test
+* Bjarne Stroustrup – C++
+* Madhu Sudan – computational complexity theory, coding theory
+* Gerald Jay Sussman – Scheme (programming language)|Scheme
+* Bert Sutherland – graphics, Internet
+* Ivan Sutherland – graphics
+* Latanya Sweeney – Data privacy and algorithmic fairness
+* Mario Szegedy – Computational complexity theory|complexity theory, quantum computing
+

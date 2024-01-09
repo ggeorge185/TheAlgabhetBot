@@ -1,0 +1,10 @@
+AAAI Conference on Artificial Intelligence
+* Association for Computational Linguistics|Association for Computational Linguistics ('''ACL''')
+* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ('''ECML PKDD''')
+* International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics|International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics ('''CIBB''')
+* International Conference on Machine Learning|International Conference on Machine Learning ('''ICML''')
+* International Conference on Learning Representations|International Conference on Learning Representations ('''ICLR''')
+* International Conference on Intelligent Robots and Systems|International Conference on Intelligent Robots and Systems ('''IROS''')
+* Conference on Knowledge Discovery and Data Mining|Conference on Knowledge Discovery and Data Mining ('''KDD''')
+* Conference on Neural Information Processing Systems|Conference on Neural Information Processing Systems ('''NeurIPS''')
+

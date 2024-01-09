@@ -1,0 +1,35 @@
+Richard E. Ladner
+* Monica S. Lam
+* Leslie Lamport – algorithms for distributed computing, LaTeX
+* Butler Lampson – SDS 940, founding member Xerox PARC, Xerox Alto, Turing Award
+* Peter Landin – ISWIM, J operator, SECD machine, off-side rule, syntactic sugar, ALGOL, IFIP Working Group 2.1|IFIP WG 2.1 member, advanced lambda calculus to model programming languages (aided functional programming), denotational semantics
+* Tom Lane (computer scientist)|Tom Lane – Independent JPEG Group, PostgreSQL, Portable Network Graphics (PNG)
+* Börje Langefors
+* Chris Lattner – creator of Swift (programming language) and LLVM compiler infrastructure
+* Steve Lawrence (computer scientist)|Steve Lawrence
+* Edward D. Lazowska
+* Joshua Lederberg
+* Manny M Lehman
+* Charles E. Leiserson – cache-oblivious algorithms, provably good Cilk#Work-stealing|work-stealing, coauthor of Introduction to Algorithms
+* Douglas Lenat – artificial intelligence, Cyc
+* Yann LeCun
+* Rasmus Lerdorf – PHP
+* Max Levchin – Gausebeck–Levchin test and PayPal
+* Leonid Levin – computational complexity theory
+* Kevin Leyton-Brown – artificial intelligence
+* J.C.R. Licklider
+* David Liddle
+* Jochen Liedtke – microkernel operating systems Eumel, L3 microkernel|L3, L4 microkernel family|L4
+* John Lions – Lions' Commentary on UNIX 6th Edition, with Source Code (Lions Book)
+* Charles H. Lindsey – IFIP Working Group 2.1|IFIP WG 2.1 member, ''Revised Report on ALGOL 68''
+* Richard J. Lipton – computational complexity theory
+* Barbara Liskov – programming languages
+* Yanhong Annie Liu – programming languages, algorithms, program design, program optimization, software systems, optimizing, analysis, and transformations, intelligent systems, distributed computing, computer security, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Darrell Long – computer data storage, computer security
+* Patricia D. Lopez – broadening participation in computing
+* Gillian Lovegrove
+* Ada Lovelace – first programmer
+* David Luckham – Lisp (programming language)|Lisp, Automated theorem proving, Stanford Pascal (programming language)|Pascal Verifier, Complex event processing, Rational Software cofounder (Ada (programming language)|Ada compiler)
+* Eugene Luks
+* Nancy Lynch
+

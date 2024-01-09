@@ -1,0 +1,9 @@
+In more recent presentations of the Chinese room argument, Searle has identified "strong AI" as "computer functionalism (philosophy of mind)|functionalism" (a term he attributes to Daniel Dennett). Functionalism is a position in modern philosophy of mind that holds that we can define mental phenomena (such as beliefs, desires, and perceptions) by describing their functions in relation to each other and to the outside world. Because a computer program can accurately knowledge representation and reasoning|represent functional relationships as relationships between symbols, a computer can have mental phenomena if it runs the right program, according to functionalism.
+
+Stevan Harnad argues that Searle's depictions of strong AI can be reformulated as "recognizable tenets of ''computationalism'', a position (unlike "strong AI") that is actually held by many thinkers, and hence one worth refuting." Computationalism and is held by Allen Newell, Zenon Pylyshyn and Steven Pinker, among others.}} is the position in the philosophy of mind which argues that the mind can be accurately described as an Information processing (psychology)|information-processing system.
+
+Each of the following, according to Harnad, is a "tenet" of computationalism:
+* Mental states are computational states (which is why computers can have mental states and help to explain the mind);
+* Computational states are multiple realizability|implementation-independent—in other words, it is the software that determines the computational state, not the hardware (which is why the brain, being hardware, is irrelevant); and that
+* Since implementation is unimportant, the only empirical data that matters is how the system functions; hence the Turing test is definitive.
+

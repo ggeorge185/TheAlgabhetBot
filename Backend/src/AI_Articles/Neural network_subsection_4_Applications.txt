@@ -1,0 +1,7 @@
+Neural networks can be used in different fields. The tasks to which artificial neural networks are applied tend to fall within the following broad categories:
+*Function approximation, or regression analysis, including time series prediction and modeling.
+*Statistical classification|Classification, including Pattern recognition|pattern and sequence recognition, novelty detection and sequential decision making.
+*Data processing, including filtering, clustering, blind signal separation and data compression|compression.
+
+Application areas of ANNs include nonlinear system identification and control (vehicle control, process control), game-playing and decision making (backgammon, chess, racing), pattern recognition (radar systems, Facial recognition system|face identification, object recognition), sequence recognition (gesture, speech, handwritten text recognition), medical diagnosis, financial applications, data mining (or knowledge discovery in databases, "KDD"), visualization and e-mail spam filtering. For example, it is possible to create a semantic profile of user's interests emerging from pictures trained for object recognition.
+

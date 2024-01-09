@@ -1,0 +1,22 @@
+glossary}}
+
+''.}}
+
+
+}}
+ although many people use the two terms interchangeably.  Thus <code><nowiki>http:</nowiki>//www.example.com</code> is a URL, while <code>www.example.com</code> is not.}} URLs occur most commonly to reference web pages (http), but are also used for file transfer (File Transfer Protocol|ftp), email (mailto), database access (Java Database Connectivity|JDBC), and many other applications.}}
+
+
+
+
+
+) that acts on behalf of a , such as a web browser that "retrieves, renders and facilitates end user interaction with Web content". An email reader is a mail user agent.}}
+
+
+
+
+
+
+ for machines and , such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals (user-centered design).}}
+
+

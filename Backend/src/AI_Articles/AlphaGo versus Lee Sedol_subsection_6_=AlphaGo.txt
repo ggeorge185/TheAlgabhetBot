@@ -1,0 +1,7 @@
+main article|AlphaGo}}
+File:Alphago logo Reversed.svg|thumb|AlphaGo logo
+AlphaGo is a computer program developed by Google DeepMind to play the board game Go (game)|Go. AlphaGo's algorithm uses a combination of machine learning and tree search techniques, combined with extensive training, both from human and computer play. The system's neural networks were initially bootstrapped from human game-play expertise. AlphaGo was initially trained to mimic human play by attempting to match the moves of expert players from recorded historical games, using a KGS Go Server database of around 30 million moves from 160,000 games by KGS 6 to 9 dan human players. Once it had reached a certain degree of proficiency, it was trained further by being set to play large numbers of games against other instances of itself, using reinforcement learning to improve its play. The system does not use a "database" of moves to play. As one of the creators of AlphaGo explained: 
+
+
+In the match against Lee, AlphaGo used about the same computing power as it had in the match against Fan Hui, where it used 1,202 CPUs and 176 GPUs. Google has also stated that its proprietary tensor processing units were used in the match against Lee Sedol.
+

@@ -1,0 +1,4 @@
+Main|Spam filter}}
+
+Machine learning can be used to fight against spam, scams, and phishing. It can scrutinize the contents of spam and phishing attacks to identify any malicious elements. Numerous models built on machine learning algorithms exhibit exceptional performance with accuracies over 90% in distinguishing between spam and legitimate emails.
+

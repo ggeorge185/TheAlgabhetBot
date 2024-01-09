@@ -1,0 +1,48 @@
+Logic and automated reasoning
+** Programming using logic
+*** Logic programming
+*** See "Logic as search" above.
+** Forms of Logic
+*** Propositional logic
+*** First-order logic
+**** First-order logic with Equality (mathematics)|equality
+**** Constraint satisfaction
+*** Fuzzy logic
+**** Fuzzy set theory
+**** Fuzzy systems
+**** Combs method
+**** Ordered weighted averaging aggregation operator 
+**** Perceptual Computing –
+*** Default reasoning and other solutions to the frame problem and qualification problem 
+**** Non-monotonic logic
+**** Abductive reasoning
+**** Default logic
+**** Circumscription (logic)
+**** Closed world assumption
+** Domain specific logics
+*** Representing categories and relations 
+**** Description logics
+**** Semantic networks
+**** Inheritance (object-oriented programming) 
+**** Frame (artificial intelligence) 
+**** Scripts (artificial intelligence)
+*** Representing events and time
+**** Situation calculus
+**** Event calculus 
+**** Fluent calculus 
+*** Causes and effects
+**** Causality#Causal calculus|causal calculus
+*** Knowledge about knowledge
+**** Belief revision
+**** Modal logics
+**** paraconsistent logics 
+** Planning using logic
+***Satplan
+** Learning using logic
+*** Inductive logic programming
+*** Explanation based learning
+*** Relevance based learning
+*** Case based reasoning
+** General logic algorithms
+*** Automated theorem proving
+

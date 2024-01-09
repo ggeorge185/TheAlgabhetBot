@@ -1,0 +1,6 @@
+main|Emotion recognition}}
+
+While speech recognition is mainly based on deep learning because most of the industry players in this field like Google, Microsoft and IBM reveal that the core technology of their speech recognition is based on this approach, speech-based emotion recognition can also have a satisfactory performance with ensemble learning.
+
+It is also being successfully used in Emotion recognition|facial emotion recognition.
+

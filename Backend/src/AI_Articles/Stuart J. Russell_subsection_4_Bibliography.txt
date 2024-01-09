@@ -1,0 +1,3 @@
+with Peter Norvig. ''Artificial Intelligence: A Modern Approach'' (4th ed.). Prentice Hall, 2020. 
+* ''Human Compatible|Human Compatible: Artificial Intelligence and the Problem of Control''. Viking, 2019. 
+

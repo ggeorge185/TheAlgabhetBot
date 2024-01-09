@@ -1,0 +1,4 @@
+Main|Constraint programming|Spatial–temporal reasoning}}
+
+Constraint solvers perform a more limited kind of inference than first-order logic. They can simplify sets of spatiotemporal constraints, such as those for Region connection calculus|RCC or Allen's interval algebra|Temporal Algebra, along with solving other kinds of puzzle problems, such as Wordle, Sudoku, verbal arithmetic|cryptarithmetic problems, and so on. Constraint logic programming can be used to solve scheduling problems, for example with constraint handling rules (CHR).
+

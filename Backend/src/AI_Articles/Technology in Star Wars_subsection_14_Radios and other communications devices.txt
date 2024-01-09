@@ -1,0 +1,6 @@
+In ''Star Wars'', a subspace transceiver, also known as a subspace comm, subspace radio, and hyper-transceiver, was a standard device used for instantaneous, faster-than-light communications between nearby systems. Similar to its shorter-ranged cousin, the com-link, the subspace transceiver relied on energy to broadcast signals. Starships carried these units to broadcast distress signals and other important messages. They used subspace as the communications medium. The subspace transceiver of an Imperial Star Destroyer had a range of 100 light-years.
+
+Devices for shorter-range communications, such as the com-link, can be either hand-held (as seen in ''A New Hope'') or strapped to the wrist (as seen in ''The Empire Strikes Back'', during the early scenes on the planet Hoth). These devices can also be tuned with encryption algorithms for private communication.
+
+Most humanoid droids, such as C-3PO, communicate long distances using these com-links. Other droids, such as R2-D2 and Imperial Probe Droids, use antennas to transmit/receive messages and signals for longer range communications. Robotics in ''Star Wars'' are generally divided into two categories, as in modern reality: military and civil.
+

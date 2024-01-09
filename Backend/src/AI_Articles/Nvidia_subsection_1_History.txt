@@ -1,0 +1,8 @@
+File:2484 Berryessa Road.jpg|thumb|right|The Denny's roadside diner in East San Jose,  2023, where Nvidia's three co-founders agreed to start the company in 1993
+File:Nvidia campus aerial.jpg|thumb|right|Aerial view of the new Nvidia headquarters building and surrounding campus and area in [[Santa Clara, California, in 2017. Apple Park is visible in the distance.]]
+File:NVIDIA Headquarters.jpg|thumb|right|Entrance of headquarters building in 2018
+
+Nvidia was founded on April 5, 1993, by Jensen Huang (CEO ), a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD; Chris Malachowsky, an engineer who worked at Sun Microsystems; and Curtis Priem, who was previously a senior staff engineer and graphics chip designer at IBM and Sun Microsystems. The three men founded the company in a meeting at a Denny's roadside diner in East San Jose (just off Interstate 680 (California)|Interstate 680 at the Berryessa Road interchange).
+
+In 1993, the three co-founders envisioned that the ideal trajectory for the forthcoming wave of computing would be in the realm of accelerated computing, specifically in graphics-based processing. This path was chosen due to its unique ability to tackle challenges that eluded general-purpose computing methods. They also observed that video games were simultaneously one of the most computationally challenging problems and would have incredibly high sales volume; the two conditions do not happen very often. Nvidia initially had no name and the co-founders named all their files NV, as in "next version". and also announced that its graphics software (Direct3D) would support only triangles.
+

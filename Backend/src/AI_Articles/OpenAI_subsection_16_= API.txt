@@ -1,0 +1,2 @@
+In June 2020, OpenAI announced a multi-purpose Application programming interface|API which it said was "for accessing new AI models developed by OpenAI" to let developers call on it for "any English language AI task".
+

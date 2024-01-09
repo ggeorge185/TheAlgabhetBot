@@ -1,0 +1,2 @@
+Otherwise referred to as '''swarm intelligence''', the analysis and application of crowd movement can contribute to the modeling of group behavior based on biological and artificial models. Social instinct behavior is applied to complex systems that model multiple agents and their interactions. Population-based methods are used to represent local interactions of agents with their surroundings.
+

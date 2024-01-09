@@ -1,0 +1,12 @@
+File:Terragen.jpg|thumb|A procedural landscape rendered in [[Terragen]]
+The term ''procedural'' refers to the process that computes a particular function. Fractals are geometric patterns which can often be generated procedurally. Commonplace procedural content includes Texture mapping|textures and polygon mesh|meshes. Sound is often also procedurally generated, and has applications in both speech synthesis as well as music. It has been used to create compositions in various genres of electronic music by artists such as Brian Eno who popularized the term "generative music".
+
+File:Tiling procedural textures.jpg|thumb|Procedurally generated [[texture mapping|textures]]
+While software developers have applied procedural generation techniques for years, few products have employed this approach extensively. Procedurally generated elements have appeared in earlier video games: ''The Elder Scrolls II: Daggerfall'' takes place in a mostly procedurally generated world, giving a world roughly two thirds the actual size of the British Isles. ''Soldier of Fortune (video game)|Soldier of Fortune'' from Raven Software uses simple routines to detail enemy models, while Soldier of Fortune II: Double Helix|its sequel featured a Random map|randomly generated level mode. Avalanche Studios employed procedural generation to create a large and varied group of detailed tropical islands for ''Just Cause (video game)|Just Cause''. ''No Man's Sky'', a game developed by games studio Hello Games, is all based upon procedurally generated elements.
+
+The modern demoscene uses procedural generation to package a great deal of audiovisual content into relatively small programs.
+
+New methods and applications are presented annually in conferences such as the IEEE Conference on Computational Intelligence and Games and the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment.
+
+Particularly in the application of procedural generation with video games, which are intended to be highly replayable, there are concerns that procedural systems can generate infinite numbers of worlds to explore, but without sufficient human guidance and rules to guide these. The result has been called "procedural oatmeal", a term coined by writer Kate Compton, in that while it is possible to mathematically generate thousands of bowls of oatmeal with procedural generation, they will be perceived to be the same by the user, and lack the notion of perceived uniqueness that a procedural system should aim for.
+

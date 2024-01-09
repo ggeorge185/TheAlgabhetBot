@@ -1,0 +1,39 @@
+class="wikitable sortable"
+|-
+! Algorithm !! Description !!Policy !! Action space !! State space !! Operator
+|-
+| Monte Carlo method|Monte Carlo || Every visit to Monte Carlo ||  Either || Discrete || Discrete || Sample-means of state-values or action-values
+|-
+| Temporal difference learning|TD learning || State–action–reward–state ||  Off-policy || Discrete || Discrete || State-value
+|-
+| Q-learning || State–action–reward–state ||  Off-policy || Discrete || Discrete || Action-value
+|-
+| State–action–reward–state–action|SARSA || State–action–reward–state–action  || On-policy || Discrete || Discrete || Action-value
+|-
+| Q-learning#Deep Q-learning|DQN || Deep Q Network  || Off-policy || Discrete || Continuous || Action-value
+|-
+| DDPG || Deep Deterministic Policy Gradient || Off-policy || Continuous || Continuous || Action-value
+|-
+| A3C || Asynchronous Advantage Actor-Critic Algorithm || On-policy || Discrete || Continuous || Advantage (=action-value - state-value)
+|-
+| TRPO || Trust Region Policy Optimization ||  On-policy || Continuous or Discrete || Continuous || Advantage
+|-
+| Proximal Policy Optimization|PPO || Proximal Policy Optimization ||  On-policy || Continuous or Discrete || Continuous || Advantage
+|-
+|TD3
+|Twin Delayed Deep Deterministic Policy Gradient
+|Off-policy
+|Continuous
+|Continuous
+|Action-value
+|-
+|SAC
+|Soft Actor-Critic
+|Off-policy
+|Continuous
+|Continuous
+|Advantage
+|-
+|Distributional Soft Actor Critic|DSAC ||Distributional Soft Actor Critic ||Off-policy ||Continuous ||Continuous ||Action-value distribution
+|}
+

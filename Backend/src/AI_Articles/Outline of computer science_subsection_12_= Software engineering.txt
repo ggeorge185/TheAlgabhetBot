@@ -1,0 +1,8 @@
+Outline of software engineering
+* Formal methods – Mathematical approaches for describing and reasoning about software design.
+* Software engineering – The principles and practice of designing, developing, and testing programs, as well as proper engineering practices.
+*  Algorithm design – Using ideas from algorithm theory to creatively design solutions to real tasks.
+*  Computer programming – The practice of using a programming language to implement algorithms.
+*  Human–computer interaction – The study and design of computer interfaces that people use.
+* Reverse engineering – The application of the scientific method to the understanding of arbitrary existing software.
+

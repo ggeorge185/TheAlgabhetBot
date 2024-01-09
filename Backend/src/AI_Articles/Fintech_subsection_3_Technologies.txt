@@ -1,0 +1,10 @@
+Fintech companies use a variety of technologies, including artificial intelligence (AI), big data, robotic process automation (RPA), and blockchain.
+
+AI algorithms can provide insight into customer spending habits, allowing financial institutions to better understand their clients. Chatbots are another AI-driven tool that banks are starting to use to help with customer service. AI enables personalized financial services, enhanced fraud prevention, financial inclusion, and sustainable investing. It's anticipated to drive massive value creation in the fintech sector, notably in predictive finance and automated decision-making. Advancements in deep learning and large language models (LLM) are pivotal for AI-driven investment strategies, enabling real-time market adjustments and personalized investment strategies tailored to individual risk profiles. Furthermore, AI and Machine Learning (ML) contribute to improved efficiency, better risk management, cost savings, and an enhanced customer experience in financial institutions.
+
+Big data can predict client investments and market changes in order to create new strategies and portfolios, analyze customer spending habits, improve fraud detection, and create marketing strategies.
+
+Robotic Process Automation is an artificial intelligence technology that focuses on automating specific repetitive tasks. RPA helps to process financial information such as accounts payable and receivable more efficiently than the manual process and often more accurately.
+
+Blockchain is an emerging technology in finance which has driven significant investment from many companies. The decentralized nature of blockchain can eliminate the need for a third party to execute transactions.
+

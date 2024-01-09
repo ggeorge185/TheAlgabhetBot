@@ -1,0 +1,2 @@
+In 2009, Jürgen Schmidhuber concluded, in a setting where agents search for proofs about possible self-modifications, "that any rewrites of the utility function can happen only if the Gödel machine first can prove that the rewrite is useful according to the present utility function." An analysis by Bill Hibbard of a different scenario is similarly consistent with maintenance of goal content integrity.
+

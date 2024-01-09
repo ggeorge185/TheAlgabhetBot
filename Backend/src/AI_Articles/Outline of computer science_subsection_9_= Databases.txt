@@ -1,0 +1,5 @@
+Outline of databases
+* Relational databases – the set theory|set theoretic and algorithmic foundation of databases.
+* Structured Storage - non-relational databases such as NoSQL databases. 
+* Data mining – Study of algorithms for searching and processing information in documents and databases; closely related to information retrieval.
+

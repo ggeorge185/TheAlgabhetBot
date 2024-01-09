@@ -1,0 +1,5 @@
+File:Computational collective intelligence.jpg|thumb|Computational Collective Intelligence, by Tadeusz Szuba
+In 2001, Tadeusz (Tad) Szuba from the Akademia Górniczo-Hutnicza|AGH University in Poland proposed a formal model for the phenomenon of collective intelligence. It is assumed to be an unconscious, random, parallel, and distributed computational process, run in mathematical logic by the social structure.
+
+In this model, beings and information are modeled as abstract information molecules carrying expressions of mathematical logic. (or "cooperation quotient") – which can be normalized from the "individual" intelligence quotient (IQ)
+

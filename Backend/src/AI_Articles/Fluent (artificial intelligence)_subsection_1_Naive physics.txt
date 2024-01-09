@@ -1,0 +1,4 @@
+From a historical point of view, fluents were introduced in the context of qualitative reasoning. The idea is to describe a process model not with mathematical equations but with natural language. That means an action is not only determined by its trajectory, but with a symbolic model, very similar to a text adventure. Naive physics stands in opposition to a numerical physics engine and has the obligation to predict the outcome of actions. The fluent realizes the common sense grounding between the robot's motion and the task description in natural language.
+
+From a technical perspective, a fluent is equal to a parameter that is parsed by the naive physics engine. The parser converts between natural language fluents and numerical values measured by sensors. As a consequence, the human-machine interaction is improved.
+

@@ -1,0 +1,14 @@
+Tweet
+| name = Sam Altman
+| username = sama
+| text  = i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit.
+| date = November 17, 2023
+| reference = 
+| image = Sam Altman TechCrunch SF 2019 Day 2 Oct 3 (cropped) (cropped).jpg
+| width  = 20%
+| align  = right
+}}
+On November 17, 2023, at approximately noon Pacific Time|PST, OpenAI's board of directors ousted Altman effective immediately following a "deliberative review process". The board concluded that Altman was not "consistently candid in his communications". Altman was informed of his removal five to ten minutes before it occurred on a Google Meet while watching the Las Vegas Grand Prix. Within thirty minutes, Sutskever invited OpenAI chairman and president Greg Brockman to a Google Meet to inform him of Altman's removal. and OpenAI chief executive Emmett Shear denied accusations that the removal was due to disagreements. The board publicly announced Altman's removal thirty minutes later.
+
+Chief technology officer Mira Murati was immediately appointed to interim chief executive officer. Hours after Altman's removal, Brockman resigned as chairman, joined by director of research Jakub Pachocki and researchers Aleksander Madry and Szymon Sidor. During an all-hands meeting, Sutskever defended the ouster and denied accusations of a hostile takeover.
+

@@ -1,0 +1,5 @@
+Because it makes visible the otherwise invisible reasoning structures used in complex decisions, the design aspect of decision intelligence draws from other conceptual representation technologies like mind mapping, conceptual graphs, and semantic networks.
+
+The basic idea is that a visual metaphor enhances Intuition (knowledge)|intuitive thinking, inductive reasoning, and pattern recognition—important cognitive skills usually less accessible in a verbal or text discussion.
+A Business Decision Mapping|business decision map can be seen as one approach to a formal decision language to support decision intelligence.
+

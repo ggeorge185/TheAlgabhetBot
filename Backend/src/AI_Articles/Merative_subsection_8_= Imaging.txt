@@ -1,0 +1,4 @@
+Recent advances have suggested the use of AI to describe and evaluate the outcome of Orthognathic surgery|maxillo-facial surgery or the assessment of Cleft lip and cleft palate|cleft palate therapy in regard to facial attractiveness or age appearance.
+
+In 2018, a paper published in the journal of Annals of Oncology mentioned that skin cancer could be detected more accurately by an artificial intelligence system (which used a deep learning convolutional neural network) than by dermatologists. On average, the human dermatologists accurately detected 86.6% of skin cancers from the images, compared to 95% for the CNN machine.
+

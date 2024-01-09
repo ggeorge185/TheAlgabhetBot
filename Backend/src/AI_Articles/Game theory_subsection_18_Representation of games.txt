@@ -1,0 +1,6 @@
+The games studied in game theory are well-defined mathematical objects. To be fully defined, a game must specify the following elements: the ''players'' of the game, the ''information'' and ''actions'' available to each player at each decision point, and the Utility|''payoffs'' for each outcome. (Eric Rasmusen refers to these four "essential elements" by the acronym "PAPI".)
+
+There is also the chance of a player having more than one dominant strategy.  This occurs when reacting to multiple strategies from a second player, and the first player's separate responses having different strategies to each other.  This means that there is no chance of a Nash Equilibrium occurring within the game.
+
+Most cooperative games are presented in the characteristic function form, while the extensive and the normal forms are used to define noncooperative games.
+

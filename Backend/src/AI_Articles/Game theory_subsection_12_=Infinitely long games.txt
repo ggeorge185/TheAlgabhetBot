@@ -1,0 +1,5 @@
+main|Determinacy}}
+Games, as studied by economists and real-world game players, are generally finished in finitely <!--Do not change to 'infinitely'-->many moves. Pure mathematicians are not so constrained, and Set theory|set theorists in particular study games that last for infinitely many moves, with the winner (or other payoff) not known until ''after'' all those moves are completed.
+
+The focus of attention is usually not so much on the best way to play such a game, but whether one player has a Determinacy#Basic notions|winning strategy. (It can be proven, using the axiom of choice, that there are gameseven with perfect information and where the only outcomes are "win" or "lose"for which ''neither'' player has a winning strategy.) The existence of such strategies, for cleverly designed games, has important consequences in descriptive set theory.
+

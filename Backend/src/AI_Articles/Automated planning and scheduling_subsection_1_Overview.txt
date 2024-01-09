@@ -1,0 +1,39 @@
+see|State space search}}
+
+
+
+Given a description of the possible initial states of the world, a description of the desired goals, and a description of a set of possible actions, the planning problem is to synthesize a plan that is guaranteed (when applied to any of the initial states) to generate a state which contains the desired goals (such a state is called a goal state).
+
+The difficulty of planning is dependent on the simplifying assumptions employed. Several classes of planning problems can be identified depending on the properties the problems have in several dimensions.
+* Are the actions deterministic or non-deterministic? For nondeterministic actions, are the associated probabilities available?
+* Are the state variables discrete or continuous? If they are discrete, do they have only a finite number of possible values?
+* Can the current state be observed unambiguously? There can be full observability and partial observability.
+* How many initial states are there, finite or arbitrarily many?
+* Do actions have a duration?
+* Can several actions be taken concurrently, or is only one action possible at a time?
+* Is the objective of a plan to reach a designated goal state, or to maximize a reward function?
+* Is there only one agent or are there several agents? Are the agents cooperative or selfish? Do all of the agents construct their own plans separately, or are the plans constructed centrally for all agents?
+
+The simplest possible planning problem, known as the Classical Planning Problem, is determined by:
+* a unique known initial state,
+* durationless actions,
+* deterministic actions,
+* which can be taken only one at a time,
+* and a single agent.
+Since the initial state is known unambiguously, and all actions are deterministic, the state of the world after any sequence of actions can be accurately predicted, and the question of observability is irrelevant for classical planning.
+
+Further, plans can be defined as sequences of actions, because it is always known in advance which actions will be needed.
+
+With nondeterministic actions or other events outside the control of the agent, the possible executions form a tree, and plans have to determine the appropriate actions for every node of the tree.
+
+Discrete-time Markov decision processes (MDP) are planning problems with:
+* durationless actions,
+* nondeterministic actions with probabilities,
+* full observability,
+* maximization of a reward function,
+* and a single agent.
+
+When full observability is replaced by partial observability, planning corresponds to a partially observable Markov decision process (POMDP).
+
+If there are more than one agent, we have multi-agent planning, which is closely related to game theory.
+

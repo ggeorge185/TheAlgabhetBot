@@ -1,0 +1,5 @@
+One of the obstacles for AI is finding or creating an organized dataset to train and develop a useful algorithm. NLP can be used to create such a dataset. NLP is a technique that takes in semantic, lexical, speech recognition, and optical character recognition to take in unstructured data and turn it into a structured one.
+* Personalized treatment: AI-based systems can analyze data from EHRs, brain imaging, and genetic tests to identify the most effective treatment for specific individuals.
+* Bias: AI systems can be biased if the data used to train them is biased. This can lead to inaccurate predictions and unfair treatment of certain groups of people.
+* Privacy: The use of AI in mental health raises concerns about privacy, as large amounts of personal data are collected and analyzed.
+

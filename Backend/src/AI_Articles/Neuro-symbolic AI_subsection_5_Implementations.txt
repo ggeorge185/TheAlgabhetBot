@@ -1,0 +1,7 @@
+Implementations of neuro-symbolic approaches include:
+* Scallop: a language based on Datalog that supports differentiable logical and relational reasoning. Scallop can be integrated in Python (programming language)|Python and with a PyTorch learning module.
+* Logic Tensor Networks: encode logical formulas as neural networks and simultaneously learn term encodings, term weights, and formula weights.
+* DeepProbLog: combines neural networks with the probabilistic reasoning of ProbLog.
+* SymbolicAI: a compositional differentiable programming library.
+* Explainable Neural Networks (XNNs): combine neural networks with symbolic Hypergraph|hypergraphs and trained using a mixture of backpropagation and symbolic learning called induction.
+

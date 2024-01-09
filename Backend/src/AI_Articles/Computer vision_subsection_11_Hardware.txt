@@ -1,0 +1,14 @@
+File:LiDAR_Scanner_and_Back_Camera_of_iPad_Pro_2020_-_3.jpg|thumb|upright|An [[iPad Pro (4th generation)|2020 model iPad Pro with a LiDAR sensor]]
+
+There are many kinds of computer vision systems; however, all of them contain these basic elements: a power source, at least one image acquisition device (camera, ccd, etc.), a processor, and control and communication cables or some kind of wireless interconnection mechanism. In addition, a practical vision system contains software, as well as a display in order to monitor the system. Vision systems for inner spaces, as most industrial ones, contain an illumination system and may be placed in a controlled environment. Furthermore, a completed system includes many accessories such as camera supports, cables and connectors.
+
+Most computer vision systems use visible-light cameras passively viewing a scene at frame rates of at most 60 frames per second (usually far slower).
+
+A few computer vision systems use image-acquisition hardware with active illumination or something other than visible light or both, such as structured-light 3D scanners, thermographic cameras, hyperspectral imagers, radar imaging, lidar scanners, magnetic resonance images, side-scan sonar, synthetic aperture sonar, etc. Such hardware captures "images" that are then processed often using the same computer vision algorithms used to process visible-light images.
+
+While traditional broadcast and consumer video systems operate at a rate of 30 frames per second, advances in digital signal processing and Graphics processing unit|consumer graphics hardware has made high-speed image acquisition, processing, and display possible for real-time systems on the order of hundreds to thousands of frames per second. For applications in robotics, fast, real-time video systems are critically important and often can simplify the processing needed for certain algorithms. When combined with a high-speed projector, fast image acquisition allows 3D measurement and feature tracking to be realized.
+
+Egocentric vision systems are composed of a wearable camera that automatically take pictures from a first-person perspective.
+
+As of 2016, vision processing units are emerging as a new class of processor, to complement CPUs and graphics processing units (GPUs) in this role.
+

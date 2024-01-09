@@ -1,0 +1,3 @@
+File:Eliezer Yudkowsky, Stanford 2006 (square crop).jpg|thumb|[[Eliezer Yudkowsky, AI researcher and creator of the term]]
+The term was coined by Eliezer Yudkowsky, who is best known for popularizing the idea, to discuss superintelligence|superintelligent artificial agents that reliably implement human values. Stuart J. Russell and Peter Norvig's leading artificial intelligence textbook, ''Artificial Intelligence: A Modern Approach'', describes the idea:
+

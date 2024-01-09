@@ -1,0 +1,8 @@
+main|Prisoner's dilemma}}
+
+William Poundstone described the game in his 1993 book Prisoner's Dilemma:
+
+Two members of a criminal gang, A and B, are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communication with their partner. The principal charge would lead to a sentence of ten years in prison; however, the police do not have the evidence for a conviction. They plan to sentence both to two years in prison on a lesser charge but offer each prisoner a Faustian bargain: If one of them confesses to the crime of the principal charge, betraying the other, they will be pardoned and free to leave while the other must serve the entirety of the sentence instead of just two years for the lesser charge.
+
+The dominant strategy (and therefore the best response to any possible opponent strategy), is to betray the other, which aligns with the sure-thing principle. However, both prisoners staying silent would yield a greater reward for both of them than mutual betrayal.
+

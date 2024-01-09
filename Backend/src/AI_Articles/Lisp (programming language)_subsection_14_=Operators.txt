@@ -1,0 +1,26 @@
+Arithmetic operators are treated similarly. The expression
+<syntaxhighlight lang="Lisp">
+ (+ 1 2 3 4)
+</syntaxhighlight>
+evaluates to 10. The equivalent under infix notation would be "".
+
+Lisp has no notion of operators as implemented in Algol-derived languages. Arithmetic operators in Lisp are variadic functions (or ''n-ary''), able to take any number of arguments. A C-style '++' increment operator is sometimes implemented under the name <code>incf</code> giving syntax
+<syntaxhighlight lang="Lisp">
+ (incf x)
+</syntaxhighlight>
+equivalent to <code>(setq x (+ x 1))</code>, returning the new value of <code>x</code>.
+
+"Special operators" (sometimes called "special forms") provide Lisp's control structure. For example, the special operator  takes three arguments. If the first argument is non-nil, it evaluates to the second argument; otherwise, it evaluates to the third argument. Thus, the expression
+<syntaxhighlight lang="Lisp">
+ (if nil
+     (list 1 2 "foo")
+     (list 3 4 "bar"))
+</syntaxhighlight>
+evaluates to . Of course, this would be more useful if a non-trivial expression had been substituted in place of .
+
+Lisp also provides logical operators '''and''', '''or''' and '''not'''. The '''and''' and '''or''' operators do short-circuit evaluation and will return their first nil and non-nil argument respectively.
+<syntaxhighlight lang="Lisp">
+ (or (and "zero" nil "never") "James" 'task 'time)
+</syntaxhighlight>
+will evaluate to "James".
+

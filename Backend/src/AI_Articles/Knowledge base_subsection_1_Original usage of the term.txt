@@ -1,0 +1,2 @@
+The original use of the term knowledge base was to describe one of the two sub-systems of an expert system. A Knowledge-based systems|knowledge-based system consists of a knowledge-base representing facts about the world and ways of Reasoning system|reasoning about those facts to deduce new facts or highlight inconsistencies.
+

@@ -1,0 +1,3 @@
+With doctors who are experts in dermatoscopy, the diagnostic accuracy for melanoma is significantly better than those who do not have any specialized training.
+Thus, there is considerable improvement in the  Sensitivity and specificity#Sensitivity|sensitivity (detection of melanomas) as well as Sensitivity and specificity#Specificity|specificity  (percentage of non-melanomas correctly diagnosed as benign), compared with naked eye examination. The accuracy by dermatoscopy was increased up to 20% in the case of sensitivity and up to 10% in the case of specificity, compared with naked eye examination.  By using dermatoscopy the specificity is thereby increased, reducing the frequency of unnecessary surgical excisions of benign lesions.
+

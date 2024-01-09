@@ -1,0 +1,6 @@
+Artificial intelligence is used to automatically distinguish benign from malignant (cancerous) lesions. Modern software technology allows the usage of databases to aid in this process. Patients will consent their lesion pictures to be stored in a database which acts as an archive and allow artificial intelligence programs to compare newly taken ones. The program then compares key features of a new image with known features of benign and malignant lesions. Oftentimes a score is given to a specific lesion, indicating how dangerous and likely it is to be a malignant lesion. It is then flagged for further examination through a dermatologist. This speeds up the diagnosis process.
+
+One limit is that since not many patients get their lesions documented, the sample size is minuscule compared to what an AI needs.
+
+Proposed solutions include generating synthetic images of skin lesions to improve the algorithm. Then, the AI needs to differentiate whether the sample came from the synthetic samples or from real data sets. It needs to minimize the probability that it will predict its outputs as fake while also maximizing its probability to correctly distinguish between real and fake samples.
+

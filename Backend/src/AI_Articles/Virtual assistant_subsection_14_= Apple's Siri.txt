@@ -1,0 +1,2 @@
+Apple states that it does not record audio to improve Siri. Instead, it uses transcripts. Transcript data is only sent if it is deemed important for analysis. Users can opt out anytime if they don't want Siri to send the transcripts in the cloud.
+

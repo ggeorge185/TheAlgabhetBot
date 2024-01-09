@@ -1,0 +1,6 @@
+A number of purported AI image detection software exists, to detect AI-generated images (for example, those originating from Midjourney or DALL-E). They are not completely reliable. 
+
+Others claim to identify video and audio deepfakes, but this technology is also not fully reliable yet either. 
+
+Despite debate around the efficacy of watermarking, Google DeepMind is actively developing a detection software called SynthID, which works by inserting a digital watermark that is invisible to the human eye into the pixels of an image.
+

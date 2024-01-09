@@ -1,0 +1,6 @@
+Main|Chinese room}}
+
+John Searle's 1980 paper ''Minds, Brains, and Programs'' proposed the "Chinese room" thought experiment and argued that the Turing test could not be used to determine if a machine could think. Searle noted that software (such as ELIZA) could pass the Turing test simply by manipulating symbols of which they had no understanding. Without understanding, they could not be described as "thinking" in the same sense people did. Therefore, Searle concluded, the Turing test could not prove that machines could think. Much like the Turing test itself, Searle's argument has been both widely criticised and endorsed.
+
+Arguments such as Searle's and others working on the philosophy of mind sparked off a more intense debate about the nature of intelligence, the possibility of machines with a conscious mind and the value of the Turing test that continued through the 1980s and 1990s.
+

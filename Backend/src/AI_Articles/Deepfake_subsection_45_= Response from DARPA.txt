@@ -1,0 +1,2 @@
+In 2018, the Defense Advanced Research Projects Agency (DARPA) funded a project where individuals will compete to create AI-generated videos, audio, and images as well as automated tools to detect these deepfakes. In 2019, DARPA hosted a "proposers day" for a project affiliated with the Semantic Forensics Program where researchers were driven to prevent viral spread of AI-manipulated media. DARPA and the Semantic Forensics Program were also working together to detect AI-manipulated media through efforts in training computers to utilize common sense, logical reasoning.
+

@@ -1,0 +1,7 @@
+As limitations with weak, domain-independent methods became more and more apparent, researchers from all three traditions began to build knowledge representation|knowledge into AI applications. The knowledge revolution was driven by the realization that knowledge underlies high-performance, domain-specific AI applications.
+
+Edward Feigenbaum said:
+* "In the knowledge lies the power." 
+to describe that high performance in a specific domain requires both general and highly domain-specific knowledge. Ed Feigenbaum and Doug Lenat called this The Knowledge Principle: 
+
+

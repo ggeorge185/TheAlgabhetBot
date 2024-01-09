@@ -1,0 +1,4 @@
+Excerpt|Artificial intelligence in Wikimedia projects}} Millions of its articles have been edited by bots which however are usually not artificial intelligence software. Many AI platforms use Wikipedia data, mainly for training machine learning applications. There is research and development of various artificial intelligence applications for Wikipedia such as for identifying outdated sentences, Vandalism on Wikipedia|detecting covert vandalism or recommending articles and tasks to new editors.
+
+Machine translation  has also be used for translating Wikipedia articles and could play a larger role in creating, updating, expanding, and generally improving articles in the future. A content translation tool allows editors of some Wikipedias to more easily translate articles across several select languages.
+

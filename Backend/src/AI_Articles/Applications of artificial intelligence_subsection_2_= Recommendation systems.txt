@@ -1,0 +1,3 @@
+Main|Recommendation system}}
+A recommendation system predicts the rating or preference a user would give to an item. Artificial intelligence recommendation systems are designed to offer suggestions based on previous behavior. These systems have been used by companies such as Netflix, Amazon (company)|Amazon, and YouTube, where they generate personalized playlists, product suggestions, and video recommendations.
+

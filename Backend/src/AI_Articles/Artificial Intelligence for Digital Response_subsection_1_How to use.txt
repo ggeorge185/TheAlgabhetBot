@@ -1,0 +1,4 @@
+It can be used by logging in with ones Twitter credentials and by collecting tweets by specifying keywords or hashtags, like #ChileEarthquake, and possibly a geographical region as well.
+
+* AIDR was used for the first time during the 2010 Pakistan floods. The first real test of AIDR took place during the 2014 Iquique earthquake in Chile.
+

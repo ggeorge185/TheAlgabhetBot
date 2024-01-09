@@ -1,0 +1,6 @@
+further|Comparison of speech synthesizers}}
+* 15.ai, a real-time artificial intelligence text-to-speech tool developed by an anonymous researcher from MIT
+* Amazon Polly, a speech synthesis software by Amazon
+* Festival Speech Synthesis System, a general multi-lingual speech synthesis system developed at the Centre for Speech Technology Research (CSTR) at the University of Edinburgh
+* WaveNet, a deep neural network for generating raw audio
+

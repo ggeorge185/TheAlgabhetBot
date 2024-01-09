@@ -1,0 +1,18 @@
+see also|Ideal_observer_theory|l1=Ideal observer theory}}
+
+The classical ideal observer theory is a metaethics|metaethical theory about the meaning of moral statements. It holds that a moral statement is any statement to which an "ideal observer" would react or respond in a certain way. An ideal observer is defined as being: (1) omniscient with respect to non-ethical facts, (2) omnipercipient, (3) disinterested, (4) dispassionate, (5) consistent, and (6) normal in all other respects.
+
+Adam Smith and David Hume espoused versions of the ideal observer theory and Roderick Firth provided a more sophisticated and modern version. An analogous idea in law is the reasonable person criterion.
+
+Today, artificial intelligence systems are capable of providing or assisting in moral decisions, stating what we ought to morally do if we want to comply with certain moral principles. These systems can enable humans to make (nearly) optimal moral choices that we do not or cannot usually perform because of lack of necessary mental resources or time constraints.
+
+Artificial moral advisors can be compared and contrasted with ideal observer theory|ideal observers.
+
+Opponents of exhaustive enhancement list five main concerns: (1) the existence of Pluralism_(political_philosophy)|pluralism may complicate finding Consensus decision-making|consensuses on which to build, configure, train, or inform systems, (2) even if such consensuses could be achieved, people might still fail to construct good systems due to human or nonhuman limitations, (3) resultant systems might not be able to make autonomous moral decisions, (4) moral progress might be hindered, (5) it would mean the death of morality.
+
+Dependence on artificial intelligence systems to perform moral reasoning would not only neglect the cultivation of moral excellence but actively undermine it, exposing people to risks of disengagement, of atrophy of human faculties, and of moral manipulation at the hands of the systems or their creators.<ref name="volkman2023ai"/>
+
+Auxiliary enhancement addresses these concerns and involves scenarios where machines augment or supplement human decision-making. Artificial intelligence assistants would be tools to help people to clarify and keep track of their moral commitments and contexts while providing accompanying explanations, arguments, and Justification (epistemology)|justifications for conclusions. The ultimate decision-making, however, would rest with the human users.<ref name="volkman2023ai"/>
+
+Some proponents of auxiliary enhancement also support Educational technology|educational technologies with respect to morality, technologies which teach moral reasoning, e.g., assistants which utilize the Socratic method.<ref name="lara2020artificial" /> It may be the case that a “right” or “best” answer to a moral question is a “best” dialogue which provides value for users.
+

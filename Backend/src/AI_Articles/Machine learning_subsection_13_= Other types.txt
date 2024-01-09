@@ -1,0 +1,2 @@
+Other approaches have been developed which do not fit neatly into this three-fold categorization, and sometimes more than one is used by the same machine learning system. For example, topic modeling, meta-learning (computer science)|meta-learning.
+

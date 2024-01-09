@@ -1,0 +1,2 @@
+Appian SAIL technology is a low-code method for enterprise applications that works from back-end integration to upper level graphical user interfaces. It also incorporates Appian's AI Intelligent Document Processing (IDP) tool.
+

@@ -1,0 +1,4 @@
+The study of heuristics in human decision-making was developed in the 1970s and the 1980s, by the psychologists Amos Tversky and Daniel Kahneman, although the concept had been originally introduced by the list of Nobel laureates|Nobel laureate Herbert A. Simon. Simon's original primary object of research was problem solving that showed that we operate within what he calls ''bounded rationality''. He coined the term ''satisficing'', which denotes a situation in which people seek solutions, or accept choices or judgements, that are "good enough" for their purposes although they could be optimised.
+
+Rudolf Groner analysed the history of heuristics from its roots in ancient Greece up to contemporary work in cognitive psychology and artificial intelligence, proposing a cognitive style "heuristic versus algorithmic thinking", which can be assessed by means of a validated questionnaire.
+

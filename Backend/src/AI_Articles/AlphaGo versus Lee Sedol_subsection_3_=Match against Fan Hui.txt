@@ -1,0 +1,4 @@
+main|AlphaGo versus Fan Hui}}
+File:FHvAG5.jpg|thumb|Fan Hui vs AlphaGo – Game 5
+AlphaGo defeated European Go Championship|European champion Fan Hui, a 2 dan professional, 5–0 in October 2015, the first time an AI had beaten a human professional player at the game on a full-sized board without a handicap. Some commentators stressed the gulf between Fan and Lee, who is ranked 9 dan professional. Canadian AI specialist Jonathan Schaeffer, commenting after the win against Fan, compared AlphaGo with a "child prodigy" that lacked experience, and considered, "the real achievement will be when the program plays a player in the true top echelon." He then believed that Lee would win the match in March 2016.
+

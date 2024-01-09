@@ -1,0 +1,2 @@
+Unsupervised learning is utilized to detect concealed patterns and structures in untagged data. It proves beneficial in comprehending complex systems where there's no evident labeling or mapping of components.
+

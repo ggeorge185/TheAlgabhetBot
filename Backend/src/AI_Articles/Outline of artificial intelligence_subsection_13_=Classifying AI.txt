@@ -1,0 +1,27 @@
+Symbolic vs sub-symbolic AI
+** Symbolic AI
+** Physical symbol system
+** Dreyfus' critique of AI
+** Moravec's paradox
+* Elegant and simple vs. ad-hoc and complex
+** Neats and scruffies|Neat vs. Scruffy
+** ''Society of Mind'' (scruffy approach)
+** ''The Master Algorithm'' (neat approach)
+* Level of generality and flexibility
+** Artificial general intelligence
+** Narrow AI
+* Level of precision and correctness
+** Soft computing 
+** "Hard" computing
+* Level of intelligence 
+** Progress in artificial intelligence
+** Superintelligence
+* Level of consciousness, philosophy of mind|mind and intentionality|understanding
+** Chinese room
+** Hard problem of consciousness
+** Computationalism
+** Functionalism (philosophy of mind)
+** Robot rights
+** User illusion 
+** Artificial consciousness
+

@@ -1,0 +1,2 @@
+Policy issues in legal informatics arise from the use of informational technologies in the implementation of law, such as the use of subpoenas for information found in emails, web query|search queries, and social networks. Policy approaches to legal informatics issues vary throughout the world. For example, European countries tend to require the destruction or anonymization of data so that it cannot be used for discovery.
+

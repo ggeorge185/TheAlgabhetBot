@@ -1,0 +1,4 @@
+Joint All-Domain Command and Control (JADC2) is an initiative of the military's network of networks, as each branch of the US Armed Forces (Army, Air Force, Navy, Marines and Coast Guard) intends to have its own communications network. The JADC2 project would integrate all those networks into a larger network on all spatial scales. ''′Connect every sensor, every shooter′'', being the tagline.
+
+JADC2 confers on the US the capability to "move data globally at scale". —Gen. Chance Saltzman, US Space Force
+

@@ -1,0 +1,6 @@
+Main|Artificial intelligence in healthcare}}
+The application of AI in medicine and medical research has the potential to increase patient care and quality of life. Through the lens of the Hippocratic Oath, medical professionals are ethically compelled to use AI, if applications can more accurately diagnose and treat patients.
+
+For medical research, AI is an important tool for processing and integrating Big Data. This is particularly important for organoid and tissue engineering development which use microscopy imaging as a key technique in fabrication. 
+It has been suggested that AI can overcome discrepancies in funding allocated to different fields of research, such as cardiovascular research which typically receives a disproportionately less funding that areas such as cancer research, relative to the morbidity and mortality of these diseases.
+

@@ -1,0 +1,4 @@
+In order to be able to meticulously study the English language, an annotated text corpus was much  needed. The Penn Treebank was one of the most used corpora. It consisted of IBM computer manuals, transcribed telephone conversations, and other texts, together containing over 4.5 million words of American English, annotated using both  part-of-speech tagging and syntactic bracketing.
+
+Japanese sentence corpora were analyzed and a pattern of log-normality was found in relation to sentence length.
+

@@ -1,0 +1,4 @@
+Doxygen – Tool for writing software reference documentation. The documentation is written within code
+*Mkd (software)|Mkd – Extracts software documentation from source code files, pseudocode, or Comment (computer programming)|comments
+*Natural Docs – Claims to use a more natural language as input from the comments, hence its name
+

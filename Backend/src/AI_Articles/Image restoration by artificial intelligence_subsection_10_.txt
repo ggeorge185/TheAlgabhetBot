@@ -1,0 +1,2 @@
+This technique minimizes the total variation of an image while preserving important image details. It is effective in removing noise while maintaining image edges.
+

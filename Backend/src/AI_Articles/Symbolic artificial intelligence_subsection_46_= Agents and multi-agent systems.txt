@@ -1,0 +1,6 @@
+Main|Agent architecture|Multi-agent system}}
+
+Software agent|Agents are autonomous systems embedded in an environment they perceive and act upon in some sense. Russell and Norvig's standard textbook on artificial intelligence is organized to reflect agent architectures of increasing sophistication. The sophistication of agents varies from simple reactive agents, to those with a model of the world and automated planning capabilities, possibly a Belief–desire–intention software model|BDI agent, i.e., one with beliefs, desires, and intentions – or alternatively a reinforcement learning model learned over time to choose actions – up to a combination of alternative architectures, such as a neuro-symbolic architecture
+
+In contrast, a multi-agent system consists of multiple agents that communicate amongst themselves with some inter-agent communication language such as Knowledge Query and Manipulation Language (KQML). The agents need not all have the same internal architecture. Advantages of multi-agent systems include the ability to divide work among the agents and to increase fault tolerance when agents are lost. Research problems include Consensus dynamics|how agents reach consensus, Cooperative distributed problem solving|distributed problem solving, multi-agent learning, multi-agent planning, and distributed constraint optimization.
+

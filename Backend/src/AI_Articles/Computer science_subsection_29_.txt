@@ -1,0 +1,3 @@
+main|Concurrency (computer science)|Distributed computing}}
+Concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other. A number of mathematical models have been developed for general concurrent computation including Petri nets, Process calculus|process calculi and the Parallel random-access machine|Parallel Random Access Machine model. When multiple computers are connected in a network while using concurrency, this is known as a distributed system. Computers within that distributed system have their own private memory, and information can be exchanged to achieve common goals.
+

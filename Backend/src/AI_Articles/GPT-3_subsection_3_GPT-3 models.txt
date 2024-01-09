@@ -1,0 +1,8 @@
+There are many models in the GPT-3 family, some serving different purposes than others. In the initial research paper published by OpenAI, they mentioned 8 different sizes of the main GPT-3 model:
+
+
+
+Half of the models are accessible through the API, namely GPT-3-medium, GPT-3-xl, GPT-3-6.7B and GPT-3-175b, which are referred to as ada, babbage, curie and davinci respectively. While the size of the API models was not originally disclosed by OpenAI, EleutherAI announced the mapping between model sizes and API names in May 2021. These model sizes were later confirmed by OpenAI, but the sizes of subsequent models have not been disclosed.
+
+
+

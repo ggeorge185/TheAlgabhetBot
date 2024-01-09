@@ -1,0 +1,2 @@
+Abduction can also be used to model automated planning. Given a logical theory relating action occurrences with their effects (for example, a formula of the event calculus), the problem of finding a plan for reaching a state can be modeled as the problem of abducting a set of literals implying that the final state is the goal state.
+

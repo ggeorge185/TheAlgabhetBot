@@ -1,0 +1,2 @@
+Physics informed neural networks have been used to solve partial differential equations in both forward and inverse problems in a data driven manner. One example is the reconstructing fluid flow governed by the Navier–Stokes equations|Navier-Stokes equations. Using physics informed neural networks does not require the often expensive mesh generation that conventional Computational fluid dynamics|CFD methods relies on.
+

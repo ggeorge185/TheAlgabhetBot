@@ -1,0 +1,12 @@
+class="wikitable"
+! scope="col"| Year
+! scope="col"| Title
+! scope="col"| Artist(s)
+! scope="col"| Writer(s)
+|-
+| 2021
+| "Classic"
+| F–Pos (feat. Goldfang and Moody Beach)
+| F–Pos, Tom Cardy, Melissah Picca, Jamunajai Renaud
+|}
+

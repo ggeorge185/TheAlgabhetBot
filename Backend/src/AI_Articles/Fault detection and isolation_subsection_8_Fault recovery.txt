@@ -1,0 +1,6 @@
+Fault Recovery in FDIR is the action taken after a failure has been detected and isolated to return the system to a stable state. Some examples of fault recoveries are:
+
+* Switch-off of a faulty equipment
+* Switch-over from a faulty equipment to a Redundancy (engineering)|redundant equipment 
+* Change of state of the complete system into a Safe Mode with limited functionalities
+

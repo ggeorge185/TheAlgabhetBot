@@ -1,0 +1,10 @@
+In 2019, OpenAI transitioned from non-profit to "capped" for-profit, with the profit being capped at 100 times any investment. According to OpenAI, the capped-profit model allows OpenAI Global LLC to legally attract investment from venture funds and, in addition, to grant employees stakes in the company. Many top researchers work for Google Brain, DeepMind, or Facebook , which offer stock options that a nonprofit would be unable to. Before the transition, public disclosure of the compensation of top employees at OpenAI was legally required.
+
+The company then distributed Equity (finance)|equity to its employees and partnered with Microsoft, announcing an investment package of $1 billion into the company.  Since then, OpenAI systems have run on an Microsoft Azure|Azure-based supercomputer|supercomputing platform from Microsoft.
+
+OpenAI Global LLC then announced its intention to commercially license its technologies. It planned to spend the $1 billion "within five years, and possibly much faster." Altman has stated that even a billion dollars may turn out to be insufficient, and that the lab may ultimately need "more capital than any non-profit has ever raised" to achieve artificial general intelligence.
+
+The transition from a nonprofit to a capped-profit company was viewed with skepticism by Oren Etzioni of the nonprofit Allen Institute for AI, who agreed that wooing top researchers to a nonprofit is difficult, but stated "I disagree with the notion that a nonprofit can't compete" and pointed to successful low-budget projects by OpenAI and others. "If bigger and better funded was always better, then IBM would still be number one."
+
+The nonprofit, OpenAI, Inc., is the sole controlling interest|controlling shareholder of OpenAI Global LLC, which, despite being a for-profit company, retains a formal fiduciary duty|fiduciary responsibility to OpenAI, Inc.'s nonprofit charter. A majority of OpenAI, Inc.'s board is barred from having financial stakes in OpenAI Global LLC.
+

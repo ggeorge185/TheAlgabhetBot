@@ -1,0 +1,12 @@
+There are two main types of dermatoscopes, hand held portable and stationary mounted type.
+
+A hand held dermatoscope is composed of a transilluminating light source and a magnifying optic (usually a 10-fold magnification). There are three main modes of dermatoscopy:
+
+* Nonpolarized light, contact [https://dermoscopedia.org/Non_polarized_dermoscopy]
+* Polarized light, contact [https://dermoscopedia.org/Polarized_dermoscopy]
+* Polarized light, noncontact [https://doi.org/10.3390/app9112177]
+
+Polarized light allows for visualization of deeper skin structures, while non-polarized light provide information about the superficial skin. Most modern dermatoscopes allow the user to toggle between the two modes, which provide complementary information. Others may also allow the user to have different zoom levels and color overlay.
+
+A stationary type allows a full body image to be captured in one snap. It is then transferred into image analysis algorithms that generates a three dimensional model of the person. Lesions on the person are marked and analyzed using Artificial intelligence in healthcare|Artificial intelligence.
+

@@ -1,0 +1,9 @@
+The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy made use of similar technology, known as Massive (software), during battle scenes. Swarm technology is particularly attractive because it is cheap, robust, and simple.
+
+''Stanley and Stella in: Breaking the Ice'' was the first movie to make use of swarm technology for rendering, realistically depicting the movements of groups of fish and birds using the Boids system.
+
+Tim Burton's ''Batman Returns'' also made use of swarm technology for showing the movements of a group of bats.
+
+
+Airlines have used swarm theory to simulate passengers boarding a plane. Southwest Airlines researcher Douglas A. Lawson used an ant-based computer simulation employing only six interaction rules to evaluate boarding times using various boarding methods.(Miller, 2010, xii-xviii).
+

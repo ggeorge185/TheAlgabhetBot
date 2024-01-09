@@ -1,0 +1,4 @@
+As an addition to its consumer-friendly "ChatGPT Plus" package, OpenAI made its ChatGPT and Whisper model APIs available in March 2023, providing developers with an API|application programming interface for AI-enabled language and speech-to-text features. ChatGPT's new API uses the same GPT-3.5-turbo AI model as the chatbot. This allows developers to add either an unmodified or modified version of ChatGPT to their applications. The ChatGPT API costs $0.001 per 1,000 input tokens plus $0.002 per 1,000 output tokens (about 750 words), making it ~10% the price of the original GPT-3.5 models.
+
+A few days before the launch of OpenAI's software developer support service, on February 27, 2023, Snapchat rolled out, for its paid Snapchat Plus userbase, a custom ChatGPT chatbot called "My AI".
+

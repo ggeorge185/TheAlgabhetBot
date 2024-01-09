@@ -1,0 +1,18 @@
+Peter Eades – graph drawing
+* Annie Easley
+* Wim Ebbinkhuijsen – COBOL
+* John Presper Eckert – ENIAC
+* Alan Edelman – Edelman's Law, stochastic operator, Interactive Supercomputing, Julia (programming language) cocreator, high performance computing, numerical computing
+* Brendan Eich – JavaScript, Mozilla
+* Philip Emeagwali – supercomputing
+* E. Allen Emerson – model checking
+* Douglas Engelbart – tiled window (computing)|windows, hypertext, computer mouse
+* Barbara Engelhardt – latent variable models, genomics, quantitative trait locus (QTL)
+* David Eppstein 
+* Andrey Ershov – languages ''ALPHA'', ''Rapira''; first Soviet time-sharing system ''AIST-0'', electronic publishing system ''RUBIN'', multiprocessing workstation ''MRAMOR'', IFIP Working Group 2.1|IFIP WG 2.1 member, ''Aesthetics and the Human Factor in Programming''
+* Philip Don Estridge|Don Estridge (1937–1985) – led development of original IBM Personal Computer (PC); known as "father of the IBM PC"
+* Oren Etzioni – MetaCrawler, Netbot
+* Christopher Riche Evans
+* David C. Evans – computer graphics
+* Shimon Even
+

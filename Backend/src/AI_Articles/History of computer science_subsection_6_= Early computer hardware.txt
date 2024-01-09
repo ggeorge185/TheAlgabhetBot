@@ -1,0 +1,8 @@
+The world's first electronic digital computer, the Atanasoff–Berry computer, was built on the Iowa State campus from 1939 through 1942 by John Vincent Atanasoff|John V. Atanasoff, a professor of physics and mathematics, and Clifford Berry, an engineering graduate student.
+
+In 1941, Konrad Zuse developed the world's first functional program-controlled computer, the Z3 (computer)|Z3. In 1998, it was shown to be Turing completeness|Turing-complete in principle. Zuse also developed the S2 computing machine, considered the first process control computer. He founded one of the earliest computer businesses in 1941, producing the Z4 (computer)|Z4, which became the world's first commercial computer.  In 1946, he designed the first high-level programming language, Plankalkül.
+
+In 1948, the Manchester Baby was completed; it was the world's first electronic digital computer that ran programs stored in its memory, like almost all modern computers. Turing's design for Automatic Computing Engine|ACE had much in common with today's RISC architectures and it called for a high-speed memory of roughly the same capacity as an early Macintosh computer, which was enormous by the standards of his day.
+While the invention of the term 'bug' is often but erroneously attributed to Grace Hopper, a future rear admiral in the U.S. Navy, who supposedly logged the "bug" on September 9, 1945, most other accounts conflict at least with these details. According to these accounts, the actual date was September 9, 1947 when operators filed this 'incident' — along with the insect and the notation "First actual case of bug being found" (see software bug for details).
+File:Norbert wiener.jpg|thumb|183x183px|[[Norbert Wiener (1894–1964) created the term cybernetics]]
+

@@ -1,0 +1,6 @@
+further|Crowdsourcing}}
+
+Mechanical Turk is comparable in some respects to the now discontinued Google Answers service. However, the Mechanical Turk is a more general Marketplace#Internet Markets|marketplace that can potentially help distribute any kind of work tasks all over the world. The Collaborative human interpreter|Collaborative Human Interpreter (CHI) by Philipp Lenssen also suggested using distributed human intelligence to help computer programs perform tasks that computers cannot do well. MTurk could be used as the execution engine for the CHI.
+
+In 2014 the Russian search giant Yandex launched a similar system called Toloka that is similar to the Mechanical Turk.
+

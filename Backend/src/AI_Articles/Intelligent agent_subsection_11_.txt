@@ -1,0 +1,3 @@
+Image:Model based goal based agent.png|thumb|right|408px|Model-based, goal-based agent
+Goal-based agents further expand on the capabilities of the model-based agents, by using "goal" information. Goal information describes situations that are desirable. This provides the agent a way to choose among multiple possibilities, selecting the one which reaches a goal state. Search and automated planning and scheduling|planning are the subfields of artificial intelligence devoted to finding action sequences that achieve the agent's goals.
+

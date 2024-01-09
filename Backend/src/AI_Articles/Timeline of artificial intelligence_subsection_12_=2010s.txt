@@ -1,0 +1,64 @@
+class="wikitable"
+|-
+!Date 
+! Development
+|-
+! 2010
+| Microsoft launched Kinect for Xbox 360, the first gaming device to track human body movement, using just a 3D camera and infra-red detection, enabling users to play their Xbox 360 wirelessly. The award-winning machine learning for human motion capture technology for this device was developed by the [http://research.microsoft.com/en-us/groups/vision/default.aspx Computer Vision group] at Microsoft Research#Laboratories|Microsoft Research, Cambridge.
+|-
+! rowspan=2 | 2011 
+| Mary Lou Maher and Doug Fisher (academic)|Doug Fisher organize the First AAAI Workshop on AI and Sustainability.
+|-
+| IBM's IBM Watson|Watson computer defeated television game show ''Jeopardy!'' champions Brad Rutter|Rutter and Ken Jennings|Jennings.
+|-
+! rowspan=1 | 2011–2014
+| Apple Inc.|Apple's Siri (2011), Google's Google Now (2012) and Microsoft's Cortana (virtual assistant)|Cortana (2014) are smartphone application software|apps that use natural language to answer questions, make recommendations and perform actions.
+|-
+! rowspan=1 | 2012
+| AlexNet, a deep learning model developed by Alex Krizhevsky, wins the ImageNet Large Scale Visual Recognition Challenge with half as many errors as the second-place winner. This is a turning point in the history of AI; over the next few years dozens of other approaches to image recognition were abandoned in favor of deep learning. Krizhevsky is among the first to use GPU chips to train a deep learning network.
+|-
+! rowspan=2 | 2013
+| Robot HRP-2 built by SCHAFT Inc of Japan, a subsidiary of Google, defeats 15 teams to win DARPA’s DARPA Robotics Challenge#Trials|Robotics Challenge Trials. HRP-2 scored 27 out of 32 points in eight tasks needed in disaster response. Tasks are drive a vehicle, walk over debris, climb a ladder, remove debris, walk through doors, cut through a wall, close valves and connect a hose. 
+|-
+| Never-Ending Language Learning|NEIL, the Never Ending Image Learner, is released at Carnegie Mellon University to constantly compare and analyze relationships between different images.
+|-
+! rowspan=4 | 2015
+|Rupesh Kumar Srivastava, Klaus Greff, and Juergen Schmidhuber used LSTM principles to create the Highway network, a feedforward neural network with hundreds of layers, much deeper than previous networks. 7 months later, Kaiming He, Xiangyu Zhang;  Shaoqing Ren, and Jian Sun won the ImageNet 2015 competition with an open-gated Highway network variant called Residual neural network. This has become the most cited artificial neural network of the 21st century.
+|-
+|In January 2015, Stephen Hawking, Elon Musk, and dozens of artificial intelligence experts signed an Open letter on artificial intelligence (2015)|open letter on artificial intelligence calling for research on the societal impacts of AI.
+|-
+|In July 2015, an open letter to ban development and use of autonomous weapons was signed by Stephen Hawking|Hawking, Elon Musk|Musk, Steve Wozniak|Wozniak and 3,000 researchers in AI and robotics.
+|-
+| Google DeepMind's AlphaGo (version: Fan) defeated three-time European Go champion 2 dan professional Fan Hui by 5 games to 0.
+|-
+! 2016
+| Google DeepMind's AlphaGo (version: Lee)
+|-
+! rowspan=8 | 2017
+| Asilomar Conference on Beneficial AI was held, to discuss AI ethics and how to bring about beneficial AI while avoiding the existential risk from artificial general intelligence. 
+|-
+|Deepstack is the first published algorithm to beat human players in imperfect information games, as shown with statistical significance on heads-up no-limit poker. Soon after, the poker AI Libratus by different research group individually defeated each of its four-human opponents—among the best players in the world—at an exceptionally high aggregated winrate, over a statistically significant sample. In contrast to Chess and Go, Poker is an imperfect information game.
+|-
+|  In May 2017, Google DeepMind's Master (software)|AlphaGo (version: Master) beat Ke Jie, who at the time continuously held the world No. 1 ranking for two years, winning each game in a AlphaGo versus Ke Jie|three-game match during the Future of Go Summit.
+|-
+|A propositional logic boolean satisfiability problem (SAT) solver proves a long-standing mathematical conjecture on Pythagorean triples over the set of integers. The initial proof, 200TB long, was checked by two independent certified automatic proof checkers.
+|-
+|An OpenAI-machined learned video game bot|bot played at The International 2017 ''Dota 2'' tournament in August 2017. It won during a 1v1 demonstration game against professional ''Dota 2'' player Dendi (Dota player)|Dendi.
+|-
+|Google Lens image analysis and comparison tool released in October 2017, associates millions of landscapes, artworks, products and species to their text description. 
+|-
+|Google DeepMind revealed that AlphaGo Zero—an improved version of AlphaGo—displayed significant performance gains while using far fewer tensor processing units (as compared to AlphaGo Lee; it used same amount of TPU's as AlphaGo Master).<!-- this last sentence seems irrelevant to the timeline --> AlphaZero masters chess in four hours, defeating the best chess engine, StockFish 8. AlphaZero won 28 out of 100 games, and the remaining 72 games ended in a draw.
+|-
+|Transformer (machine learning model)|Transformer architecture was invented, which led to new kinds of large language models such as BERT (language model)|BERT by Google, followed by the generative pre-trained transformer type of model introduced by OpenAI. 
+|-
+! rowspan=3 | 2018
+|Alibaba language processing AI outscores top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.304 on a set of 100,000 questions.
+|-
+|The European Lab for Learning and Intelligent Systems (''aka'' Ellis) proposed as a pan-European competitor to American AI efforts, with the aim of staving off a Brain-drain|brain drain of talent, along the lines of CERN after World War II.
+|-
+|Announcement of Google Duplex, a service to allow an AI assistant to book appointments over the phone. The ''Los Angeles Times'' judges the AI's voice to be a "nearly flawless" imitation of human-sounding speech.
+|-
+! 2019
+|DeepMind's AlphaStar reaches Grandmaster level at ''StarCraft II'', outperforming 99.8 percent of human players.
+|}
+

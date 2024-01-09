@@ -1,0 +1,9 @@
+Midjourney, Inc. was founded in San Francisco|San Francisco, California, by David Holz, previously co-founder of Leap Motion. The Midjourney image generation platform first entered open beta on July 12, 2022. and version 3 on July 25. On November 5, 2022, the alpha iteration of version 4 was released to users. On March 15, 2023, the alpha iteration of version 5 was released. The 5.1 model is more opinionated than version 5, applying more of its own stylization to images, while the 5.1 RAW model adds improvement while working better with more literal prompts. After version 5.2 is released with a increasingly better image quality. On December 21, 2023, the alpha iteration of version 6 was released. The model was trained from scratch over a nine month period. Support was added for better text rendition and a more literal interpretation of prompts.
+
+
+
+| style="vertical-align: top;" |
+
+:
+|}
+

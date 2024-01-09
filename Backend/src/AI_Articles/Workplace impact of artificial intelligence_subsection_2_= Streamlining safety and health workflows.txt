@@ -1,0 +1,4 @@
+AI can also be used to make the Occupational safety and health|workplace safety and health workflow more efficient.  One example is Coding (social sciences)|coding of workers' compensation claims, which are submitted in a prose narrative form and must manually be assigned standardized codes.  AI is being investigated to perform this task faster, more cheaply, and with fewer errors.
+
+AI‐enabled virtual reality systems may be useful for safety training for hazard recognition.
+

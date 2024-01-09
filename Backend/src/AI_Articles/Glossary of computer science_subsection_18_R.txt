@@ -1,0 +1,59 @@
+glossary}}
+
+
+R Foundation
+* 
+The R Core Team [https://cran.r-project.org/doc/FAQ/R-FAQ.html#Citing-R asks authors who use R in their data analysis] to cite the software using:
+* R Core Team (2016). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL http://www.R-project.org/.
+}} The R language is widely used among statisticians and Data mining|data miners for developing statistical software
+* 
+}} and data analysis.}}
+
+
+
+ that is the standard in , the radix is two, because it uses only two digits, 0 and 1, to uniquely specify each number.}}
+
+
+
+
+
+, where a function (mathematics)|function being defined is applied within its own definition. While this apparently defines an infinite number of instances (function values), it is often done in such a way that no infinite loop or infinite chain of references can occur.}}
+
+
+
+
+
+, , or  to a resource, such as an object, a block of memory, disk space, and others. In garbage collection (computer science)|garbage collection algorithms, reference counts may be used to deallocate objects which are no longer needed.}}
+
+
+}}
+
+
+
+
+
+
+
+
+
+
+
+, and others. Robotics involves design, construction, operation, and use of robots, as well as computer systems for their perception, control, sensory feedback, and information processing. The goal of robotics is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe.}}
+
+
+
+ using exact arithmetic and the result produced by the same algorithm using finite-precision, rounded arithmetic. Rounding errors are due to inexactness in the representation of real numbers and the arithmetic operations done with them. This is a form of quantization error. When using approximation equations or algorithms, especially when using finitely many digits to represent real numbers (which in theory have infinitely many digits), one of the goals of numerical analysis is to error analysis (mathematics)|estimate computation errors. Computation errors, also called numerical errors, include both truncation errors and roundoff errors.}}
+
+
+
+
+
+
+
+
+s Program lifecycle phase|life cycle, in which the code is being Execution (computing)|executed on the computer's central processing unit (CPU) as machine code. In other words, "runtime" is the running phase of a program.}}
+
+
+
+
+

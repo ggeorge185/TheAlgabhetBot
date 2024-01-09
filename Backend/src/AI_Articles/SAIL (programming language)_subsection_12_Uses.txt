@@ -1,0 +1,8 @@
+A number of interesting software systems were coded in SAIL, including some early versions of File Transfer Protocol|FTP and TeX, a document formatting system called PUB, and BRIGHT, a clinical database project sponsored by the National Institutes of Health.
+
+In 1978, there were half a dozen different operating systems for the PDP-10: Incompatible Timesharing System|ITS (MIT), WAITS (Stanford), TOPS-10 (DEC), CMU TOPS-10 (Carnegie Mellon), TENEX (operating system)|TENEX (Bolt, Beranek and Newman|BBN), Tymcom-X (Tymshare), and TOPS-20 (DEC, based on TENEX).
+
+SAIL was ported from WAITS to ITS so that MIT researchers could make use of software developed at Stanford University. Every port usually required the rewriting of I/O code in each application.
+
+A machine-independent version of SAIL called MAINSAIL was developed in the late 1970s and was used to develop many eCAD design tools during the 1980s.  MAINSAIL was easily portable to new processors and operating systems, and was still in limited use .
+

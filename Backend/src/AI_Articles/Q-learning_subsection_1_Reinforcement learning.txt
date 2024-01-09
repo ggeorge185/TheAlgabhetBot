@@ -1,0 +1,19 @@
+Main|Reinforcement learning}}
+Reinforcement learning involves an Intelligent agent|agent, a set of ''states'' <math>\mathcal</math>, and a set <math>\mathcal</math> of ''actions'' per state. By performing an action <math>a \in \mathcal</math>, the agent transitions from state to state. Executing an action in a specific state provides the agent with a ''reward'' (a numerical score).
+
+The goal of the agent is to maximize its total reward. It does this by adding the maximum reward attainable from future states to the reward for achieving its current state, effectively influencing the current action by the potential future reward. This potential reward is a weighted sum of expected values of the rewards of all future steps starting from the current state.
+
+:<math>Q^(S_,A_) \leftarrow (1 - \underbrace_}) \cdot \underbrace,A_)}_} + \underbrace_} \cdot \bigg( \underbrace}_} + \underbrace_} \cdot \underbraceQ(S_, a)}_}}_} \bigg) </math>
+
+where ''<math>R_</math>'' is the reward received when moving from the state <math>S_</math> to the state <math>S_</math>, and <math>\alpha</math> is the learning rate <math>(0 < \alpha \le 1)</math>.
+
+Note that <math>Q^(S_t,A_t)</math> is the sum of three factors:
+
+* <math>(1 - \alpha)Q(S_t,A_t)</math>: the current value (weighted by one minus the learning rate)
+* <math>\alpha \, R_</math>: the reward <math>R_</math> to obtain if action <math>A_t</math> is taken when in state <math>S_t</math> (weighted by learning rate)
+*<math>\alpha \gamma \max_Q(S_,a)</math>: the maximum reward that can be obtained from state <math>S_</math>(weighted by learning rate and discount factor)
+
+An episode of the algorithm ends when state <math>S_</math> is a final or ''terminal state''. However, ''Q''-learning can also learn in non-episodic tasks (as a result of the property of convergent infinite series). If the discount factor is lower than 1, the action values are finite even if the problem can contain infinite loops.
+
+For all final states <math>s_f</math>, <math>Q(s_f, a)</math> is never updated, but is set to the reward value <math>r</math> observed for state <math>s_f</math>. In most cases, <math>Q(s_f,a)</math> can be taken to equal zero.
+

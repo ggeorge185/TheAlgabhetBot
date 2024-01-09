@@ -1,0 +1,10 @@
+Bostrom expressed concern about what values a superintelligence should be designed to have. He compared several proposals:
+* The coherent extrapolated volition (CEV) proposal is that it should have the values upon which humans would converge.
+* The moral rightness (MR) proposal is that it should value moral rightness.
+* The moral permissibility (MP) proposal is that it should value staying within the bounds of moral permissibility (and otherwise have CEV values).
+
+Bostrom clarifies these terms:
+<blockquote>instead of implementing humanity's coherent extrapolated volition, one could try to build an AI with the goal of doing what is morally right, relying on the AI's superior cognitive capacities to figure out just which actions fit that description. We can call this proposal "moral rightness" (MR)...
+
+MR would also appear to have some disadvantages. It relies on the notion of "morally right," a notoriously difficult concept, one with which philosophers have grappled since antiquity without yet attaining consensus as to its analysis. Picking an erroneous explication of "moral rightness" could result in outcomes that would be morally very wrong... The path to endowing an AI with any of these [moral] concepts might involve giving it general linguistic ability (comparable, at least, to that of a normal human adult). Such a general ability to understand natural language could then be used to understand what is meant by "morally right." If the AI could grasp the meaning, it could search for actions that fit...One might try to preserve the basic idea of the MR model while reducing its demandingness by focusing on ''moral permissibility'': the idea being that we could let the AI pursue humanity's CEV so long as it did not act in ways that are morally impermissible.</blockquote>
+

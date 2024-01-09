@@ -1,0 +1,7 @@
+main|Agent-assisted automation}}
+Agent-assisted automation refers to automation used by call center agents to handle customer inquiries. The key benefit of agent-assisted automation is compliance and error-proofing. Agents are sometimes not fully trained or they forget or ignore key steps in the process. The use of automation ensures that what is supposed to happen on the call actually does, every time. There are two basic types: desktop automation and automated voice solutions.
+
+'''Desktop automation''' refers to software programming that makes it easier for the call center agent to work across multiple desktop tools. The automation would take the information entered into one tool and populate it across the others so it did not have to be entered more than once, for example.
+
+'''Automated voice solutions''' allow the agents to remain on the line while disclosures and other important information is provided to customers in the form of pre-recorded audio files. Specialized applications of these automated voice solutions enable the agents to process credit cards without ever seeing or hearing the credit card numbers or Card security code|CVV codes.
+

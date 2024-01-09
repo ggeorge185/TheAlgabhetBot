@@ -1,0 +1,2 @@
+Expert systems were first designed in the 1970s as an expansion into artificial intelligence technologies. Their design is based on the premise of decreasing potential user error in decision-making and emulating mental reasoning used by experts in a particular field. They differentiate themselves from traditional linear reasoning models by separating identified points in data and processing them individually at the same time. Though, these systems do not rely purely on machine-learned intelligence.
+

@@ -1,0 +1,3 @@
+Conscious events interact with memory systems in learning, rehearsal, and retrieval.
+The #Intelligent Distribution Agent|IDA model elucidates the role of consciousness in the updating of perceptual memory, transient episodic memory, and procedural memory. Transient episodic and declarative memories have distributed representations in IDA, there is evidence that this is also the case in the nervous system. In IDA, these two memories are implemented computationally using a modified version of Pentti Kanerva|Kanerva’s Sparse distributed memory architecture.
+

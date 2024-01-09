@@ -1,0 +1,7 @@
+Neural Designer, a commercial deep learning tool for predictive analytics.
+* Neuroph, a Java neural network framework.
+* OpenCog, a GPL-licensed framework for artificial intelligence written in C++, Python and Scheme.
+* PolyAnalyst: A commercial tool for data mining, text mining, and knowledge management.
+* RapidMiner, an environment for machine learning and data mining, now developed commercially.
+* Weka (machine learning)|Weka, a free implementation of many machine learning algorithms in Java.
+

@@ -1,0 +1,7 @@
+Artificial life – simulation of natural life through the means of computers, robotics, or biochemistry.
+* Automatic target recognition –  
+* Diagnosis (artificial intelligence) – 
+* Speech generating device – 
+* Vehicle infrastructure integration – 
+* Virtual Intelligence –
+

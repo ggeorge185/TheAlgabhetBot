@@ -1,0 +1,34 @@
+class="wikitable sortable"
+! Year !! Title !! Role !! Notes
+|-
+| 1999 || ''Ballykissangel'' || Mairead Reilly || 2 episodes
+|-
+| 2004 || ''Born and Bred'' || Niamh Copper || Episode: "Something Old"
+|-
+| 2005–2007 || ''Rome (TV series)|Rome'' || Octavia the Younger|Octavia of the Julii || Main cast
+|-
+| 2008 || ''Anatomy of Hope#Adaptation|Anatomy of Hope'' || Jenna || Television film|TV movie, unsuccessful Television pilot|pilot
+|-
+| 2010 || ''Five Days (TV series)|Five Days'' || Sister Siobhan Doole || 3 episodes
+|-
+| 2011–2012 || ''Luck (TV series)|Luck'' || Rosie Shanahan || Main cast
+|-
+| 2013–2014 || ''The Walking Dead (TV series)|The Walking Dead'' || Clara || 3 episodes
+|-
+| 2014 || ''Believe (TV series)|Believe'' || Dr. Zoe Boyle || Recurring role
+|-
+| 2015–2022 || ''Better Call Saul'' || List of characters in the Breaking Bad franchise#Stacey Ehrmantraut|Stacey Ehrmantraut || Recurring role
+|-
+| 2016 || ''Brace for Impact'' || Sofia Gilchrist || TV movie
+|-
+| 2017 || ''Gypsy (TV series)|Gypsy'' || Melissa Saugraves || Episode: "Black Barn"
+|-
+| 2018 || ''Women on the Verge'' || Laura || Main cast
+|-
+| 2019–2020 || ''Ray Donovan'' || rowspan="2" | Molly Sullivan || Recurring role (season 7)
+|-
+| 2022 || ''Ray Donovan: The Movie'' || Television film
+|-
+| 2024 || ''Star Wars: Skeleton Crew'' || || Upcoming series
+|}
+

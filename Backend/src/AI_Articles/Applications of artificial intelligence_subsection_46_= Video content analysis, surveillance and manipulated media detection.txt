@@ -1,0 +1,4 @@
+Excerpt|Video content analysis|Artificial Intelligence}}
+
+AI algorithms have been used to detect deepfake videos.
+

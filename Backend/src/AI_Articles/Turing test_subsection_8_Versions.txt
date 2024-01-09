@@ -1,0 +1,22 @@
+This title is linked to by the article Computing Machinery and Intelligence -->
+File:The Imitation Game.svg|thumb|The imitation game, as described by Alan Turing in "Computing Machinery and Intelligence". Player C, through a series of written questions, attempts to determine which of the other two players is a man, and which of the two is the woman. Player A, the man, tries to trick player C into making the wrong decision, while player B tries to help player C. Figure adapted from Saygin, 2000.
+
+Saul Traiger argues that there are at least three primary versions of the Turing test, two of which are offered in "Computing Machinery and Intelligence" and one that he describes as the "Standard Interpretation". While there is some debate regarding whether the "Standard Interpretation" is that described by Turing or, instead, based on a misreading of his paper, these three versions are not regarded as equivalent, and their strengths and weaknesses are distinct.
+
+Turing's original article describes a simple party game involving three players. Player A is a man, player B is a woman and player C (who plays the role of the interrogator) is of either gender. In the imitation game, player C is unable to see either player A or player B, and can communicate with them only through written notes. By asking questions of player A and player B, player C tries to determine which of the two is the man and which is the woman. Player A's role is to trick the interrogator into making the wrong decision, while player B attempts to assist the interrogator in making the right one.
+
+Turing then asks:
+
+<blockquote>"What will happen when a machine takes the part of A in this game? Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman?" These questions replace our original, "Can machines think?"</blockquote>
+
+File:Turing Test Version 1.svg|thumb|The original imitation game test, in which the player A is replaced with a computer. The computer is now charged with the role of the man, while player B continues to attempt to assist the interrogator. Figure adapted from Saygin, 2000.
+
+The second version appeared later in Turing's 1950 paper. Similar to the original imitation game test, the role of player A is performed by a computer. However, the role of player B is performed by a man rather than a woman.
+
+<blockquote>Let us fix our attention on one particular digital computer ''C.'' Is it true that by modifying this computer to have an adequate storage, suitably increasing its speed of action, and providing it with an appropriate programme, ''C'' can be made to play satisfactorily the part of A in the imitation game, the part of B being taken by a man?</blockquote>
+
+In this version, both player A (the computer) and player B are trying to trick the interrogator into making an incorrect decision.
+
+The standard interpretation is not included in the original paper, but is both accepted and debated.
+Common understanding has it that the purpose of the Turing test is not specifically to determine whether a computer is able to fool an interrogator into believing that it is a human, but rather whether a computer could ''imitate'' a human. While there is some dispute whether this interpretation was intended by Turing, Sterrett believes that it was and thus conflates the second version with this one, while others, such as Traiger, do not&nbsp;– this has nevertheless led to what can be viewed as the "standard interpretation". In this version, player A is a computer and player B a person of either sex. The role of the interrogator is not to determine which is male and which is female, but which is a computer and which is a human. The fundamental issue with the standard interpretation is that the interrogator cannot differentiate which responder is human, and which is machine. There are issues about duration, but the standard interpretation generally considers this limitation as something that should be reasonable.
+

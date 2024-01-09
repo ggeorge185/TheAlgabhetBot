@@ -1,0 +1,5 @@
+Main|Workplace impact of artificial intelligence#Health and safety applications}}
+AI-enabled chatbots decrease the need for humans to perform basic call center tasks.
+
+Machine learning in sentiment analysis can spot fatigue in order to prevent overwork. For manual workers in material handling, predictive analytics may be used to reduce musculoskeletal injury. Data collected from Wearable technology|wearable sensors can improve workplace health surveillance, Occupational risk assessment|risk assessment, and research. AI-enabled virtual reality systems can enhance safety training for hazard recognition.
+

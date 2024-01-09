@@ -1,0 +1,7 @@
+Main|Turing test}}
+
+Alan Turing reduced the problem of defining intelligence to a simple question about conversation. He suggests that: if a machine can answer ''any'' question posed to it, using the same words that an ordinary person would, then we may call that machine intelligent. A modern version of his experimental design would use an online chat room, where one of the participants is a real person and one of the participants is a computer program. The program passes the test if no one can tell which of the two participants is human. Turing's test extends this polite convention to machines:
+* If a machine acts as intelligently as a human being, then it is as intelligent as a human being.
+
+One criticism of the Turing test is that it only measures the "humanness" of the machine's behavior, rather than the "intelligence" of the behavior. Since human behavior and intelligent behavior are not exactly the same thing, the test fails to measure intelligence. Stuart J. Russell and Peter Norvig write that "aeronautical engineering texts do not define the goal of their field as 'making machines that fly so exactly like pigeons that they can fool other pigeons'".
+

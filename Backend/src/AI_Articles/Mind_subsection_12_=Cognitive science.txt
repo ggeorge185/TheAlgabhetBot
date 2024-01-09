@@ -1,0 +1,9 @@
+Main articles|Cognitive science}}
+Cognitive science examines the mental functions that give rise to Information processing (psychology)|information processing, termed cognition. These include perception, attention, working memory, long-term memory, producing and understanding language, learning, reasoning, problem solving, and decision making. Cognitive science seeks to understand thinking "in terms of representational structures in the mind and computational procedures that operate on those structures".
+
+At the birth of cognitive science in the 1960s and 1970s, the paradigm of the computational theory of mind was widely adopted. This paradigm holds that the mind is essentially a computational system, and its explanation needs to be provided in terms of a computation|''computational description''. More recently, rival paradigms gained ground within cognitive science, namely the Cognitive_neuroscience|''neurophysical description'' and the Intentionality|''intentional description''.
+
+Though the interface between neuroscience and an exact model of cognition is not yet made, progress in biological neuron models help to mathematically quantify cognitive neuroscience; and elaborate a theory of mind that can be provable. However a theoretically fundamental synthesis in psychology, cognitive science, neuroscience, and biophysics must be made; for the problem of mind and its faculties to gain tractable scientific ground. 
+
+Over the past years, research in cognitive sciences has highlighted the importance of the body for cognition. Proponents of the Embodied cognition|embodied cognition theory of mind hold that cognition (and mental phenomena) is the product of active interactions between individuals and their surrounding environment. 
+

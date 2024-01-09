@@ -1,0 +1,12 @@
+Causal AI has gained significant traction in recent years, leading to the development of several open-source GitHub projects that aim to provide tools and frameworks for causal inference and analysis. These projects include:
+
+* '''CausalML''': An extensive Python library developed by Uber for uplift modeling and causal inference using machine learning algorithms. [https://github.com/uber/causalml Source]
+
+* '''DoWhy''': A Python library designed for causal inference, supporting explicit modeling and testing of causal assumptions. In a collaboration between Microsoft and Amazon, DoWhy has since evolved into PyWhy, with an independent open-source governance model. [https://github.com/py-why/dowhy Source]
+
+* '''Salesforce CausalAI Library''': A scalable Python framework for causal analysis of time series and tabular data, offering benchmarking modules for comparing different causal discovery algorithms. [https://github.com/salesforce/causalai Source]
+
+In addition to these projects, the '''CEILS''' methodology (Counterfactual Explanations as Interventions in Latent Space), provides a framework for generating counterfactual explanations that capture the underlying causal relationships in data and provide feasible recommendations for achieving a desired outcome.
+
+These projects represent a growing ecosystem of Causal AI tools and resources, fostering collaboration and innovation in the field. As Causal AI continues to evolve, these open-source contributions will play a crucial role in advancing its capabilities and applications.
+

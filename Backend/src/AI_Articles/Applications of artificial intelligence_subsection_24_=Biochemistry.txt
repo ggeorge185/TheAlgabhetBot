@@ -1,0 +1,2 @@
+AlphaFold 2 can determine the 3D structure of a (Protein folding|folded) protein in hours rather than the months required by earlier automated approaches and was used to provide the likely structures of all proteins in the human body and essentially all proteins known to science (more than 200 million).
+

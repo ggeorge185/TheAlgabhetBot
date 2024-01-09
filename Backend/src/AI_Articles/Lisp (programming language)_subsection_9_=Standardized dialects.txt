@@ -1,0 +1,2 @@
+Lisp has officially standardized dialects: Scheme (programming language)#R6RS|R6RS Scheme, Scheme (programming language)#R7RS|R7RS Scheme, IEEE Scheme, ANSI Common Lisp and ISO ISLISP.
+

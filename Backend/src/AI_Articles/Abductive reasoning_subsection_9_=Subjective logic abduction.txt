@@ -1,0 +1,4 @@
+Subjective logic generalises probabilistic logic by including degrees of epistemic Uncertainty quantification|uncertainty in the input arguments, i.e. instead of probabilities, the analyst can express arguments as Subjective logic|subjective opinions. Abduction in subjective logic is thus a generalization of probabilistic abduction described above.
+
+The advantage of using subjective logic abduction compared to probabilistic abduction is that both aleatoric and epistemic uncertainty about the input argument probabilities can be explicitly expressed and taken into account during the analysis. It is thus possible to perform abductive analysis in the presence of uncertain arguments, which naturally results in degrees of uncertainty in the output conclusions.
+

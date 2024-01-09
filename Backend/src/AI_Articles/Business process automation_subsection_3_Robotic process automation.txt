@@ -1,0 +1,5 @@
+Main|Robotic process automation}}
+The practice of performing robotic process automation (RPA) results in the deployment of attended or unattended software agents into an organization's environment. These software agents, or robots, are deployed to perform pre-defined structured and repetitive sets of business tasks or processes. The goal is for humans to focus on more productive tasks, while the software agents handle the repetitive ones.
+
+BPA providers tend to focus on different industry sectors but the underlying approach tends to be similar in that BPA providers will attempt to provide the shortest route to automation by interacting with the user interface rather than going into the application code or database behind it. BPA providers also simplify their own interface to the extent that these tools can be used directly by non-technical staff. The main advantage of these toolsets is, therefore, their speed of deployment.
+

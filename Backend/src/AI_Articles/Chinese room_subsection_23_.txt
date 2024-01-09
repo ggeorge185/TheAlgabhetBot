@@ -1,0 +1,4 @@
+Suppose that instead of a room, the program was placed into a robot that could wander around and interact with its environment. This would allow a "causality|causal connection" between the symbols and things they represent.}} Hans Moravec comments: "If we could graft a robot to a reasoning program, we wouldn't need a person to provide the meaning anymore: it would come from the physical world."}}
+
+:Searle's reply is to suppose that, unbeknownst to the individual in the Chinese room, some of the inputs came directly from a camera mounted on a robot, and some of the outputs were used to manipulate the arms and legs of the robot. Nevertheless, the person in the room is still just following the rules, and ''does not know what the symbols mean.'' Searle writes "he doesn't ''see'' what comes into the robot's eyes." (See Mary's room for a similar thought experiment.)
+

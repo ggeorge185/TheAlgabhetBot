@@ -1,0 +1,4 @@
+Various researchers cited by Wired (magazine)|''Wired'' have classified adversarial hallucinations as a high-dimensional statistical phenomenon, or have attributed hallucinations to insufficient training data. Some researchers believe that some "incorrect" AI responses classified by humans as "hallucinations" in the case of object detection may in fact be justified by the training data, or even that an AI may be giving the "correct" answer that the human reviewers are failing to see. 
+
+For example, an adversarial image that looks, to a human, like an ordinary image of a dog, may in fact be seen by the AI to contain tiny patterns that (in authentic images) would only appear when viewing a cat. The AI is detecting real-world visual patterns that humans are insensitive to. However, these findings have been challenged by other researchers.
+

@@ -1,0 +1,5 @@
+The challenges in Distributed AI are:
+# How to carry out communication and interaction of agents and which communication language or protocols should be used.
+# How to ensure the coherency of agents.
+# How to synthesise the results among 'intelligent agents' group by formulation, description, decomposition and allocation.
+

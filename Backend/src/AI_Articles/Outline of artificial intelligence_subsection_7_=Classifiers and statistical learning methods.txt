@@ -1,0 +1,8 @@
+Classifier (mathematics) and Statistical classification
+** Alternating decision tree
+** Artificial neural network (see below) 
+** K-nearest neighbor algorithm
+** Kernel methods
+*** Support vector machine
+** Naive Bayes classifier
+

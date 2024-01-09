@@ -1,0 +1,3 @@
+main|Self-propelled particles}}
+Self-propelled particles (SPP), also referred to as the ''Vicsek model'', was introduced in 1995 by Tamás Vicsek|Vicsek ''et al.'' as a special case of the boids model introduced in 1986 by Craig Reynolds (computer graphics)|Reynolds. SPP models predict that swarming animals share certain properties at the group level, regardless of the type of animals in the swarm. Swarming systems give rise to emergent behaviours which occur at many different scales, some of which are turning out to be both universal and robust. It has become a challenge in theoretical physics to find minimal statistical models that capture these behaviours.
+

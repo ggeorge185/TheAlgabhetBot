@@ -1,0 +1,45 @@
+Track listing
+| extra_column = Singer(s)
+| title1 = Gaaju Bomma
+| length1 = 4:25
+| lyrics1 = Anantha Sriram
+| extra1 = Hesham Abdul Wahab
+| title2 = Samayama
+| length2 = 3:24
+| lyrics2 = Anantha Sriram
+| extra2 = Anurag Kulkarni, Sithara Krishnakumar
+| title3 = Asalelaa
+| length3 = 1:04
+| lyrics3 = Anantha Sriram
+| extra3 = Shakthisree Gopalan, Anurag Kulkarni
+| title4 = Ammaadi
+| length4 = 3:39
+| lyrics4 = Krishna Kanth
+| extra4 = Kaala Bhairava, Shakthisree Gopalan
+| title5 = Enno Enno
+| length5 = 1:06
+| lyrics5 = Anantha Sriram
+| extra5 = Bhavana Isvi
+| title6 = Adigaa
+| length6 = 3:30
+| lyrics6 = Krishna Kanth
+| extra6 = Karthik (singer)|Karthik
+| title7 = Idhe Idhe
+| length7 = 3:35
+| lyrics7 = Krishna Kanth
+| extra7 = Hesham Abdul Wahab
+| title8 = Odiyamma
+| length8 = 3:15
+| lyrics8 = Anantha Sriram
+| extra8 = Dhruv Vikram, Shruti Haasan, Chinmayi Sripaada
+| title9 = Chedhu Nijam
+| length9 = 4:17
+| lyrics9 = Krishna Kanth
+| extra9 = Geetha Madhuri, Hesham Abdul Wahab
+| title10 = Needhe Needhe
+| length10 = 3:15
+| lyrics10 = Krishna Kanth
+| extra10 = Aavani Malhar
+| total_length = 31:32
+}}
+

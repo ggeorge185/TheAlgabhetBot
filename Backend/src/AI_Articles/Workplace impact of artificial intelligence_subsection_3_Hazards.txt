@@ -1,0 +1,6 @@
+File:Blackbox3D.png|thumb|320x320px|Some [[machine learning training methods are prone to unpredictabiliy and Inscrutable artificial intelligence|inscrutability in their decision-making, which can lead to hazards if managers or workers cannot predict or understand an AI-based system's behavior.|alt=A drawing showing a back rectangular solid labeled "blackbox", with an arrow entering labeled "input/stimulus", and an arrow exiting labeled "output/response"]]
+
+There are several broad aspects of AI that may give rise to specific hazards.  The risks depend on implementation rather than the mere presence of AI.
+
+The use of AI also increases Computer security|cybersecurity risks relative to platforms that do not use AI,  Many hazards of AI are psychosocial in nature due to its potential to cause changes in work organization, in terms of increasing complexity and interaction between different organizational factors.  However, psychosocial risks are often overlooked by designers of advanced manufacturing systems.
+

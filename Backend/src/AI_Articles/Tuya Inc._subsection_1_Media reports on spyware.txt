@@ -1,0 +1,2 @@
+In 2021, multiple media outlets reported an investigation by cybersecurity firm Dark Cubed, suggesting that Tuya's network-connected devices are subject to China's Data Security Law of the People's Republic of China|Data Security Law, and "are woefully insecure and sending data to China."
+

@@ -1,0 +1,4 @@
+The match was a five-game match with one million US dollars as the grand prize,
+
+The match was played at the Four Seasons Hotel in Seoul, South Korea in March 2016 and was video-streamed live with commentary; the English language commentary was done by Michael Redmond (Go player)|Michael Redmond (9-dan professional) and Chris Garlock. Aja Huang, a DeepMind team member and amateur 6-dan Go player, placed stones on the Go board for AlphaGo, which ran through the Google Cloud Platform with its server located in the United States.
+

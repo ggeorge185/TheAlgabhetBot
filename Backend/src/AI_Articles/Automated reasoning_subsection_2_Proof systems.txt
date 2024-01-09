@@ -1,0 +1,13 @@
+Boyer-Moore Theorem Prover (NQTHM)
+:The design of Nqthm|NQTHM was influenced by John McCarthy and Woody Bledsoe. Started in 1971 at Edinburgh, Scotland, this was a fully automatic theorem prover built using Pure Lisp (programming language)|Lisp. The main aspects of NQTHM were:
+:# the use of Lisp as a working logic.
+:# the reliance on a principle of definition for total recursive functions.
+:# the extensive use of rewriting and "symbolic evaluation".
+:# an induction heuristic based the failure of symbolic evaluation.
+
+;HOL Light
+:Written in OCaml, HOL Light is designed to have a simple and clean logical foundation and an uncluttered implementation. It is essentially another proof assistant for classical higher order logic.
+
+;Coq
+:Developed in France, Coq (software)|Coq is another automated proof assistant, which can automatically extract executable programs from specifications, as either Objective CAML or Haskell (programming language)|Haskell source code. Properties, programs and proofs are formalized in the same language called the Calculus of Inductive Constructions (CIC).
+

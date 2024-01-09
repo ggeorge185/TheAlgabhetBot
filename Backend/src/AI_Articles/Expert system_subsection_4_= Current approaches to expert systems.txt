@@ -1,0 +1,4 @@
+The limitations of the previous type of expert systems have urged researchers to develop new types of approaches. They have developed more efficient, flexible, and powerful approaches in order to simulate the human decision-making process. Some of the approaches that researchers have developed are based on new methods of artificial intelligence (AI), and in particular in machine learning and data mining approaches with a feedback mechanism. Recurrent neural networks often take advantage of such mechanisms.  Related is the discussion on the disadvantages section.  
+
+Modern systems can incorporate new knowledge more easily and thus update themselves easily.  Such systems can generalize from existing knowledge better and deal with vast amounts of complex data.  Related is the subject of big data here. Sometimes these type of expert systems are called "intelligent systems."
+

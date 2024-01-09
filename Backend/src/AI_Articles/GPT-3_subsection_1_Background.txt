@@ -1,0 +1,8 @@
+According to ''The Economist'', improved algorithms, more powerful computers, and a recent increase in the amount of digitized material have fueled a revolution in machine learning. New techniques in the 2010s resulted in "rapid improvements in tasks”, including manipulating language.
+
+Software models are trained to learn by using thousands or millions of examples in a "structure... loosely based on the neural architecture of the brain". There are a number of NLP systems capable of processing, mining, organizing, connecting and contrasting textual input, as well as correctly answering questions.
+
+On June 11, 2018, OpenAI researchers and engineers published a paper introducing the first generative pre-trained transformer (GPT)a type of generative artificial intelligence|generative large language model that is pre-trained with an enormous and diverse text corpus in Dataset (machine learning)|datasets, followed by discriminative fine-tuning (machine learning)|fine-tuning to focus on a specific task. GPT models are transformer-based deep-learning neural network architectures. Previously, the best-performing neural NLP models commonly employed supervised learning from large amounts of manually-labeled data, which made it prohibitively expensive and time-consuming to train extremely large language models. 
+ 
+In February 2020, Microsoft introduced its Turing Natural Language Generation (T-NLG), which they claimed was "largest language model ever published at 17 billion parameters." It performed better than any other language model at a variety of tasks, including Automatic summarization|summarizing texts and question answering|answering questions.
+

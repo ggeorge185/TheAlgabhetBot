@@ -1,0 +1,32 @@
+Larry Page – co-founder of Google
+* Sankar Pal
+* Paritosh Pandya
+* Christos Papadimitriou
+* David Park (computer scientist)|David Park (1935–1990) – first Lisp (programming language)|Lisp implementation, expert in fairness, program schemas, bisimulation in concurrent computing
+* David Parnas – information hiding, modular programming
+* DJ Patil – former Chief Data Scientist of United States
+* Yale Patt – Instruction-level parallelism, speculative architectures
+* David Patterson (computer scientist)|David Patterson – reduced instruction set computer (RISC), RISC-V, redundant arrays of inexpensive disks (RAID), Berkeley Computer cluster|Network of Workstations (NOW)
+* Mike Paterson – algorithms, analysis of algorithms (complexity)
+* Mihai Pătrașcu (computer scientist)|Mihai Pătraşcu – data structures
+* Lawrence Paulson – ML (programming language)|ML
+* Randy Pausch (1960–2008) – human–computer interaction, Carnegie professor, "Really Achieving Your Childhood Dreams|Last Lecture"
+* Juan Pavón – software agents
+* Judea Pearl – artificial intelligence, search algorithms
+* Alan Perlis – ''Programming Pearls''
+* Radia Perlman – spanning tree protocol
+* Pier Giorgio Perotto – computer designer at Olivetti, designer of the Programma 101 programmable calculator
+* Rózsa Péter – recursive function theory
+* Simon Peyton Jones – functional programming, Glasgow Haskell Compiler, C--
+* Kathy Pham – data, artificial intelligence, civic technology, healthcare, ethics
+* Roberto Pieraccini – speech technologist, engineering director at Google
+* Keshav K Pingali|Keshav Pingali – International Parallel and Distributed Processing Symposium#IEEE Computer Society Charles Babbage Award|IEEE Computer Society Charles Babbage Award, List of fellows of the Association for Computing Machinery|ACM Fellow (2012)
+* Gordon Plotkin
+* Amir Pnueli – temporal logic
+* Willem van der Poel – computer graphics, robotics, geographic information systems, imaging, multimedia, virtual environments, games
+* Cicely Popplewell (1920–1995) – British software engineer in 1960s
+* Emil Post – mathematics
+* Jon Postel – Internet
+* Franco Preparata – computer engineering, computational geometry, parallel algorithms, computational biology
+* William H. Press – numerical algorithms
+

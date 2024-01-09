@@ -1,0 +1,14 @@
+ECAI-1992 took place in Vienna, Austria.
+* ECAI-2000 took place in Berlin, Germany.
+* ECAI-2004 took place in Valencia, Spain.
+* ECAI-2006 took place in Riva del Garda, Italy.
+* ECAI-2008 took place in Patras, Greece.
+* ECAI-2010 took place in Lisbon, Portugal.
+* ECAI-2012 took place in Montpellier, France.
+* ECAI-2014 took place in Prague, Czech Republic.
+* ECAI-2016 took place in The Hague, Netherlands.
+* ECAI-2018 took place in Stockholm, Sweden.
+* ECAI-2020 took place in Santiago de Compostela, Spain.
+* ECAI-2022 took place in Vienna, Austria.
+* ECAI-2023 took place in Kraków, Poland.
+

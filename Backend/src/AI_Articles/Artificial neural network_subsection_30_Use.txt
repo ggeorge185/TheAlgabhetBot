@@ -1,0 +1,12 @@
+Unreferenced section|date=November 2020}}
+Using artificial neural networks requires an understanding of their characteristics.
+* Choice of model: This depends on the data representation and the application. Overly complex models are slow learning.
+* Machine learning|Learning algorithm: Numerous trade-offs exist between learning algorithms. Almost any algorithm will work well with the correct hyperparameters for training on a particular data set. However, selecting and tuning an algorithm for training on unseen data requires significant experimentation.
+* Robustness: If the model, cost function and learning algorithm are selected appropriately, the resulting ANN can become robust.
+ANN capabilities fall within the following broad categories:
+
+* Function approximation, or regression analysis, including Time series#Prediction and forecasting|time series prediction, fitness approximation and modeling.
+* Statistical classification|Classification, including Pattern recognition|pattern and sequence recognition, novelty detection and sequential decision making.
+* Data processing, including filtering, clustering, blind source separation and compression.
+* Robotics, including directing manipulators and prosthesis|prostheses.
+

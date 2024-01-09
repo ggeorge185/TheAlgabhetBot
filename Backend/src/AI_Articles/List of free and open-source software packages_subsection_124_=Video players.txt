@@ -1,0 +1,5 @@
+Main|Comparison of video player software}}
+*Media Player Classic
+*VLC media player
+* mpv (media player)|mpv
+

@@ -1,0 +1,10 @@
+Web browser|Browser + Web 2.0 Applications + Connectivity = Full-featured OPAC
+* Harness the library user in both design and implementation of services
+* Library users should be able to craft and modify library provided services
+* Harvest and integrate ideas and products from peripheral fields into library service models
+* Continue to examine and improve services and be willing to replace them at any time with newer and better services.
+
+In 2009, Holmberg et al. identified seven key principles for Library 2.0: "interactivity, users, participation, libraries and library services, web and web 2.0, social aspects, and technology and tools", and offer the following definition for Library 2.0: "Library 2.0 is a change in interaction between users and libraries in a new culture of participation catalysed by social web technologies."
+
+Alex Byrne argues that the use of Web 2.0 strategies in the library context changes the role of librarian into someone who can assist in supporting clients information literacy across the "largely unknown informational universe" rather than helping them navigate the library's own collection.
+

@@ -1,0 +1,2 @@
+In personalised medicine, diagnostic testing is often employed for selecting appropriate and optimal therapies based on the context of a patient's genetic content or other molecular or cellular analysis. The use of genetic information has played a major role in certain aspects of personalized medicine (e.g. pharmacogenomics), and the term was first coined in the context of genetics, though it has since broadened to encompass all sorts of personalization measures, imaging analysis, nanoparticle-based theranostics, among others.
+

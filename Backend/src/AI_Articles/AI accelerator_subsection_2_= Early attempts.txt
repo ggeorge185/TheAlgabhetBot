@@ -1,0 +1,15 @@
+First attempts like Intel's ETANN 80170NX incorporated analog circuits to compute neural functions.
+
+Later all-digital chips like the Nestor/Intel Ni1000 followed. As early as 1993, digital signal processors were used as neural network accelerators to accelerate optical character recognition software.
+
+By 1988, Wei Zhang et al. had discussed fast optical implementations of convolutional neural networks for alphabet recognition.
+
+In the 1990s, there were also attempts to create parallel high-throughput systems for workstations aimed at various applications, including neural network simulations.
+
+This presentation covers a past attempt at neural net accelerators, notes the similarity to the modern SLI GPGPU processor setup, and argues that general purpose vector accelerators are the way forward (in relation to RISC-V hwacha project. Argues that NN's are just dense and sparse matrices, one of several recurring algorithms) 
+
+field-programmable gate array|FPGA-based accelerators were also first explored in the 1990s for both inference  
+and training. 
+
+Smartphones began incorporating AI accelerators starting with the Qualcomm Snapdragon 820 in 2015.
+

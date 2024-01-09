@@ -1,0 +1,4 @@
+Power electronics converters are used in renewable energy, energy storage, electric vehicles and high-voltage direct current transmission. These converters are failure-prone, which can interrupt service and require costly maintenance or catastrophic consequences in mission critical applications. AI can guide the design process for reliable power electronics converters, by calculating exact design parameters that ensure the required lifetime.
+
+Machine learning can be used for energy consumption prediction and scheduling, e.g. to help with 100% renewable energy#Intermittency|renewable energy intermittency management (see also: smart grid and Climate change mitigation#Smart grid and load management|climate change mitigation in the power grid).
+

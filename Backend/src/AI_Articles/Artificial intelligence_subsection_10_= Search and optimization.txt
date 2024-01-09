@@ -1,0 +1,2 @@
+AI can solve many problems by intelligently searching through many possible solutions. There are two very different kinds of search used in AI: state space search and Local search (optimization)|local search.
+

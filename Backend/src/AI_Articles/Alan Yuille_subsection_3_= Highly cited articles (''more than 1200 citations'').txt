@@ -1,0 +1,5 @@
+2017 with LC Chen, G Papandreou, I Kokkinos, K Murphy, ''Deeplab: Semantic image segmentation with deep Convolutional neural network|convolutional nets, atrous convolution, and fully connected crfs'', in: ''IEEE Transactions on Pattern Analysis and Machine Intelligence''. Vol. 40, nº 4; 834-848.
+* 1996 with SC Zhu, ''Region competition: Unifying snakes, region growing, and Bayes/MDL for multiband image segmentation'', in: ''IEEE Transactions on Pattern Analysis and Machine Intelligence''. Vol. 18, nº 9; 884-900.
+* 1992 with PW Hallinan, DS Cohen, ''Feature extraction from faces using deformable templates'', in: ''International Journal of Computer Vision''. Vol. 8, nº 2; 99-111.
+* 2004 with D Kersten, P Mamassian, ''Object perception as Bayesian inference'', in: ''Annual Review of Psychology''. Vol. 55; 271-304.
+

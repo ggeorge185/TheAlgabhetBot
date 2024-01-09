@@ -1,0 +1,12 @@
+The annual AAAI/EAAI Outstanding Educator Award was created in 2016 to honor a person (or group of people) who has made major contributions to AI education that provide long-lasting benefits to the AI community.
+
+Past recipients:
+* Peter Norvig and Stuart J. Russell|Stuart Russell (2016)
+* Sebastian Thrun (2017)
+* Todd W. Neller (2018)
+* Ashok Goel (2019)
+* Marie desJardins (2020)
+* Michael Wooldridge (computer scientist)|Michael Wooldridge (2021)
+* [https://ai4k12.org/ AI4K12.org] team: David S. Touretzky, Christina Gardner-McCune, Fred G. Martin, and Deborah Seehorn (2022)
+* Ayanna Howard (2023)
+

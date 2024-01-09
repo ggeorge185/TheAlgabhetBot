@@ -1,0 +1,7 @@
+https://cyberneticzoo.com/mazesolvers/1951-maze-solver-minsky-edmonds-american/ 1951 – SNARC Maze Solver – Minsky / Edmonds (American)] at ''Cyberneticzoo.com''
+* Minsky interview videos on SNARC: part [http://www.webofstories.com/play/53178?o=MS 1], [http://www.webofstories.com/play/53179?o=MS 2]
+
+Category:History of artificial intelligence
+Category:Artificial neural networks
+
+

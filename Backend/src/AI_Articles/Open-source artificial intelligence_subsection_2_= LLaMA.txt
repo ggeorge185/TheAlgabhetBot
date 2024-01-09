@@ -1,0 +1,4 @@
+Main|LLaMA}}
+LLaMA is a family of Large language model|large language models released by Meta AI starting in February 2023. Meta claims these models are open-source software, but the Open Source Initiative disputes this claim, arguing that "Meta’s license for the LLaMa models and code does not meet this standard; specifically, it puts restrictions on commercial use for some users (paragraph 2) and also restricts the use of the model and software for certain purposes (the Acceptable Use Policy)."
+
+

@@ -1,0 +1,8 @@
+main article|OpenAI Codex}}
+
+Announced in mid-2021, Codex is a descendant of GPT-3 that has additionally been trained on code from 54 million GitHub repositories, and is the AI powering the code autocompletion tool GitHub Copilot. According to OpenAI, the model can create working code in over a dozen programming languages, most effectively in Python.
+
+GitHub Copilot has been accused of emitting copyrighted code, with no author attribution or license.
+
+OpenAI announced that they are going to discontinue support for Codex API starting from March 23, 2023.
+

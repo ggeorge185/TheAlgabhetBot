@@ -1,0 +1,8 @@
+File:Typical cnn.png|thumb|Typical architecture of a Convolutional Neural Network
+
+With the research advances in ANNs and the advent of deep learning algorithms using deep and complex layers, novel Statistical classification|classification models have been developed to cope with fault detection and diagnosis.
+Most of the machine learning|shallow learning models extract a few feature values from signals, causing a dimensionality reduction from the original signal. By using Convolutional neural networks, the continuous wavelet transform scalogram can be directly classified to normal and faulty classes. Such a technique avoids omitting any important fault message and results in a better performance of fault detection and diagnosis.
+In addition, by transforming signals to image constructions, 2D Convolutional neural networks can be implemented to identify faulty signals from vibration image features.
+
+Deep belief networks, Restricted Boltzmann machines and Autoencoders are other deep neural networks architectures which have been successfully used in this field of research. In comparison to machine learning|traditional machine learning, due to their deep architecture, deep learning models are able to learn more complex structures from datasets, however, they need larger samples and longer processing time to achieve higher accuracy.<ref name="ruonan" />
+

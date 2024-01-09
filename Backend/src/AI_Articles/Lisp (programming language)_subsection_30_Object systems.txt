@@ -1,0 +1,8 @@
+Various object systems and models have been built on top of, alongside, or into Lisp, including:
+* The Common Lisp Object System, CLOS, is an integral part of ANSI Common Lisp. CLOS descended from New Flavors and CommonLOOPS. ANSI Common Lisp was the first standardized object-oriented programming language (1994, ANSI X3J13).
+* ObjectLisp or Object Lisp, used by Lisp Machines Incorporated and early versions of Macintosh Common Lisp
+* LOOPS (Lisp Object-Oriented Programming System) and the later CommonLoops
+* Flavors (computer science)|Flavors, built at Massachusetts Institute of Technology|MIT, and its descendant New Flavors (developed by Symbolics).
+* KR (short for Knowledge Representation), a Constraint satisfaction|constraints-based object system developed to aid the writing of Garnet, a GUI library for Common Lisp.
+* Knowledge Engineering Environment (KEE) used an object system named UNITS and integrated it with an inference engine and a Reason maintenance|truth maintenance system (ATMS).
+

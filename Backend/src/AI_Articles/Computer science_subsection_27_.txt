@@ -1,0 +1,5 @@
+main|Computer architecture|Computer organisation|Computer engineering}}
+Computer architecture, or digital computer organization, is the conceptual design and fundamental operational structure of a computer system. It focuses largely on the way by which the central processing unit performs internally and accesses addresses in memory. Computer engineers study computational logic and design of computer hardware, from individual Processor (computing)|processor components, microcontrollers, personal computers to supercomputers and embedded systems. The term "architecture" in computer literature can be traced to the work of Lyle R. Johnson and Fred Brooks|Frederick P. Brooks Jr., members of the Machine Organization department in IBM's main research center in 1959.
+
+
+

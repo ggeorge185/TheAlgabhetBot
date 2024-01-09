@@ -1,0 +1,28 @@
+Lisp provides many built-in procedures for accessing and controlling lists. Lists can be created directly with the  procedure, which takes any number of arguments, and returns the list of these arguments.
+<syntaxhighlight lang="Lisp">
+ (list 1 2 'a 3)
+ ;Output: (1 2 a 3)
+</syntaxhighlight>
+<syntaxhighlight lang="Lisp">
+ (list 1 '(2 3) 4)
+ ;Output: (1 (2 3) 4)
+</syntaxhighlight>
+Because of the way that lists are constructed from cons pairs, the  procedure can be used to add an element to the front of a list. Note that the  procedure is asymmetric in how it handles list arguments, because of how lists are constructed.
+<syntaxhighlight lang="Lisp">
+ (cons 1 '(2 3))
+ ;Output: (1 2 3)
+</syntaxhighlight>
+<syntaxhighlight lang="Lisp">
+ (cons '(1 2) '(3 4))
+ ;Output: ((1 2) 3 4)
+</syntaxhighlight>
+The  procedure appends two (or more) lists to one another. Because Lisp lists are linked lists, appending two lists has Big O notation|asymptotic time complexity <math>O(n)</math>
+<syntaxhighlight lang="Lisp">
+ (append '(1 2) '(3 4))
+ ;Output: (1 2 3 4)
+</syntaxhighlight>
+<syntaxhighlight lang="Lisp">
+ (append '(1 2 3) '() '(a) '(5 6))
+ ;Output: (1 2 3 a 5 6)
+</syntaxhighlight>
+

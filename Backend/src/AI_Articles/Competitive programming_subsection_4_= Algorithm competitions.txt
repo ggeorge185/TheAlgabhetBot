@@ -1,0 +1,46 @@
+class="wikitable"
+|+
+!Name of the competition
+!Organizers
+!Audience
+!Description
+!Number of participants
+!Website
+|-
+|Google Code Jam (GCJ)
+|Google
+|open
+|Annual competition organized and sponsored by Google from 2003 until its cancellation in 2023.
+|32,702 (2022)
+|https://codingcompetitions.withgoogle.com/codejam 
+|-
+|International Collegiate Programming Contest (ICPC)
+|ICPC Foundation
+|university students
+|Team competition for university students, the contest consists of many regional rounds that conclude in a world final organized yearly. Teams consist of three students from the same university and they are allowed to use only one computer.
+|50,000+ (2022)
+|https://icpc.global/
+|-
+|International Olympiad in Informatics (IOI)
+|IOI
+|secondary school students
+|International competition for secondary school students. Organized yearly since 1989. Each country can send at most 4 participants to compete.
+|349 from 88 countries (2022)
+|https://ioinformatics.org/
+|-
+|Facebook Hacker Cup|Meta Hacker Cup (formerly ''Facebook Hacker Cup'')
+|Meta Platforms
+|open
+|Annual competition held since 2011. Organized and sponsored by Meta Platforms|Meta (formerly Facebook).
+|27,604 (2022)
+|https://www.facebook.com/codingcompetitions/hacker-cup
+|-
+|Topcoder Open (TCO)
+|Topcoder
+|open
+|Annual algorithm competition held from 2001 until its cancellation in 2023
+|
+|https://www.topcoder.com/community/member-programs/topcoder-open/
+|}
+In most of the above competitions, competitions are usually organized in several rounds. They usually start with online rounds, which conclude in the onsite final round. The top performers at IOI and ICPC receive gold, silver and bronze medals. In the other contests, cash prizes are awarded to the top finishers. The competitions also attract the interest of recruiters from multiple software and Internet companies, which often reach out to competitors with potential job offers.
+

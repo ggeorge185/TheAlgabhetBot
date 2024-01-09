@@ -1,0 +1,7 @@
+Two types of DAI has emerged: 
+* In Multi-agent systems agents coordinate their knowledge and activities and reason about the processes of coordination. Agents are physical or virtual entities that can act, perceive its environment and communicate with other agents. The agent is autonomous and has skills to achieve goals. The agents change the state of their environment by their actions. There are a number of different coordination techniques.
+* In distributed problem solving the work is divided among nodes and the knowledge is shared. The main concerns are task decomposition and synthesis of the knowledge and solutions.
+
+DAI can apply a bottom-up approach to AI, similar to the subsumption architecture as well as the traditional top-down
+approach of AI. In addition, DAI can also be a vehicle for emergence.
+

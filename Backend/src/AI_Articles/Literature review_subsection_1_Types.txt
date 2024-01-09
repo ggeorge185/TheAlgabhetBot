@@ -1,0 +1,6 @@
+The main types of literature reviews are: ''evaluative'', ''exploratory'', and ''instrumental''.
+
+A fourth type, the systematic review|''systematic'' review, is often classified separately, but is essentially a literature review focused on a research question, trying to identify, appraise, select and synthesize all high-quality research evidence and arguments relevant to that question. A ''meta-analysis'' is typically a systematic review using statistical methods to effectively combine the data used on all selected studies to produce a more reliable result.
+
+Torraco (2016) describes an integrative literature review. The purpose of an integrative literature review is to generate new knowledge on a topic through the process of review, critique, and then synthesis of the literature under investigation.
+

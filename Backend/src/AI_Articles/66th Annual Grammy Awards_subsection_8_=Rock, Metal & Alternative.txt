@@ -1,0 +1,43 @@
+class="wikitable"
+|+
+|-
+| style="vertical-align:top;" width="50%" | 
+* "Sculptures of Anything Goes" – Arctic Monkeys
+* "More than a Love Song" – Black Pumas
+* "Not Strong Enough (Boygenius song)|Not Strong Enough" – Boygenius
+* "Rescued" – Foo Fighters
+* "Lux Æterna (Metallica song)|Lux Æterna" – Metallica
+| style="vertical-align:top;" width="50%" | 
+* "Bad Man" – Disturbed (band)|Disturbed
+* "Phantom of the Opera" – Ghost (Swedish band)|Ghost
+* "72 Seasons" – Metallica
+* "Hive Mind" – Slipknot (band)|Slipknot
+* "Jaded" – Spiritbox
+|-
+| style="vertical-align:top;" width="50%" | 
+* "Angry (The Rolling Stones song)|Angry" – Mick Jagger, Keith Richards & Andrew Watt (record producer)|Andrew Watt, songwriters (The Rolling Stones)
+* "Ballad of a Homeschooled Girl" – Dan Nigro & Olivia Rodrigo, songwriters (Olivia Rodrigo)
+* "Emotion Sickness" – Dean Fertita, Joshua Homme, Michael Shuman, Jon Theodore & Troy Van Leeuwen, songwriters (Queens of the Stone Age)
+* "Not Strong Enough (Boygenius song)|Not Strong Enough" – Julien Baker, Phoebe Bridgers & Lucy Dacus, songwriters (Boygenius)
+* "Rescued" – Dave Grohl, Rami Jaffee, Nate Mendel, Chris Shiflett & Pat Smear, songwriters (Foo Fighters)
+| style="vertical-align:top;" width="50%" | 
+*''But Here We Are'' – Foo Fighters
+*''Starcatcher (album)|Starcatcher'' – Greta Van Fleet
+*''72 Seasons'' – Metallica
+*''This Is Why'' – Paramore
+*''In Times New Roman...'' – Queens of the Stone Age
+|-
+| style="vertical-align:top;" width="50%" | 
+* "Belinda Says" – Alvvays
+* "Body Paint (song)|Body Paint" – Arctic Monkeys
+* "Cool About It (Boygenius song)|Cool About It" – Boygenius
+* "A&W (song)|A&W" – Lana Del Rey
+* "This Is Why (song)|This Is Why" – Paramore
+| style="vertical-align:top;" width="50%" | 
+* ''The Car (album)|The Car'' – Arctic Monkeys
+* ''The Record (Boygenius album)|The Record'' – Boygenius
+* ''Did You Know That There's a Tunnel Under Ocean Blvd'' – Lana Del Rey
+* ''Cracker Island'' – Gorillaz
+* ''I Inside the Old Year Dying'' – PJ Harvey
+|}
+

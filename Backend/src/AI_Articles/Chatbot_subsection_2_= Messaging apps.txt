@@ -1,0 +1,12 @@
+Many companies' chatbots run on messaging apps or simply via SMS. They are used for B2C customer service, sales and marketing.
+
+In 2016, Facebook Messenger allowed developers to place chatbots on their platform. There were 30,000 bots created for Messenger in the first six months, rising to 100,000 by September 2017.
+
+Since September 2017, this has also been as part of a pilot program on WhatsApp. Airlines KLM and Aeroméxico both announced their participation in the testing; both airlines had previously launched customer services on the Facebook Messenger platform. 
+
+The bots usually appear as one of the user's contacts, but can sometimes act as participants in a Chat room|group chat.
+
+Many banks, insurers, media companies, e-commerce companies, airlines, hotel chains, retailers, health care providers, government entities and restaurant chains have used chatbots to question answering|answer simple questions, increase customer engagement, for promotion, and to offer additional ways to order from them. Chatbots are also used in market research to collect short survey responses.
+
+A 2017 study showed 4% of companies used chatbots. According to a 2016 study, 80% of businesses said they intended to have one by 2020.
+

@@ -1,0 +1,12 @@
+Main|Cons}}
+File:Cons-cells.svg|thumb|right|300px|Box-and-[[pointer (computer programming)|pointer diagram for the list (42 69 613)]]
+A Lisp list is implemented as a singly linked list. Each cell of this list is called a ''cons'' (in Scheme, a ''pair'') and is composed of two pointer (computer programming)|pointers, called the ''car'' and ''cdr''. These are respectively equivalent to the  and  fields discussed in the article ''linked list''.
+
+Of the many data structures that can be built out of cons cells, one of the most basic is called a ''proper list''. A proper list is either the special  (empty list) symbol, or a cons in which the  points to a datum (which may be another cons structure, such as a list), and the  points to another proper list.
+
+If a given cons is taken to be the head of a linked list, then its car points to the first element of the list, and its cdr points to the rest of the list. For this reason, the  and  functions are also called  and  when referring to conses which are part of a linked list (rather than, say, a tree).
+
+Thus, a Lisp list is not an atomic object, as an instance of a container class in C++ or Java would be. A list is nothing more than an aggregate of linked conses. A variable that refers to a given list is simply a pointer to the first cons in the list. Traversal of a list can be done by ''cdring down'' the list; that is, taking successive cdrs to visit each cons of the list; or by using any of several higher-order functions to map a function over a list.
+
+Because conses and lists are so universal in Lisp systems, it is a common misconception that they are Lisp's only data structures. In fact, all but the most simplistic Lisps have other data structures, such as vectors (Array data type|arrays), hash tables, structures, and so forth.
+

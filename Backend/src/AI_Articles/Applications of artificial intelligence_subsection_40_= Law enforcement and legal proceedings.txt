@@ -1,0 +1,4 @@
+COMPAS (software)|COMPAS is a commercial system used by U.S. courts to assess the likelihood of recidivist|recidivism.
+
+One concern relates to algorithmic bias, AI programs may become biased after processing data that exhibits bias. ProPublica claims that the average COMPAS-assigned recidivism risk level of black defendants is significantly higher than that of white defendants. Parties appear before the court via videoconference and AI evaluates the evidence presented and applies relevant legal standards.
+

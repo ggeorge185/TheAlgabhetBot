@@ -1,0 +1,3 @@
+File:Homebrew reaction diffusion example 512iter.jpg|thumb|right|Pattern resembling a [[reaction–diffusion model, produced using sharpen and blur.]]
+It is generally possible for humans, and in some instances, for computers, to distinguish natural from artificial environments. The artificial environment tends to have more physical regularity both spatially and over time, with natural environments tending to have both irregular structures and structures that change over time. However, on close observation it is possible to discern some mathematical structures and Patterns in nature|patterns in natural environments, which can then be replicated to create an artificial environment with a more natural appearance.
+

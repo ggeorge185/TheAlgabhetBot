@@ -1,0 +1,4 @@
+Main|Wikipedia:Large language models}}
+
+In 2022, the public release of ChatGPT inspired more experimentation with AI and writing Wikipedia articles. A debate was sparked about whether and to what extent such large language models are suitable for such purposes in light of their tendency to Hallucination (artificial intelligence)|generate plausible-sounding misinformation, including fake references; to generate prose that is not encyclopedic in tone; and to Algorithmic bias|reproduce biases.
+

@@ -1,0 +1,2 @@
+Sales forecasting “is the process of estimating future events with the goal of providing benchmarks for monitoring actual performance and reducing uncertainty". Artificial intelligence techniques have emerged to facilitate the process of forecasting through increasing accuracy in the areas of demand for products, distribution, employee turnover, performance measurement, and inventory control.
+

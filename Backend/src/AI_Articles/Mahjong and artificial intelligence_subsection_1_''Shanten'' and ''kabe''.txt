@@ -1,0 +1,2 @@
+Researchers noticed that the current AI models that existed purely to calculate the ''Japanese mahjong#Tile Acceptance|shanten'' of a hand did not account for the discarded tiles. These researchers developed the ''Block Deficiency Model'', an AI that would calculate the ''shanten'' of the hand taking ''Kabe'', tiles that are all used or discarded, into account.
+

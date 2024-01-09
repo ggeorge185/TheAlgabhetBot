@@ -1,0 +1,11 @@
+main|21st century skills}}
+Digital literacy requires certain skill sets that are interdisciplinary in nature. Warschauer and Matuchniak (2010) list three skill sets, or 21st century skills, that individuals need to master in order to be digitally literate: information, media, and technology; learning and innovation skills; and life and career skills..  Aviram ''et al.'' assert that order to be competent in Life and Career Skills, it is also necessary to be able to exercise flexibility and adaptability, initiative and self-direction, social and cross-cultural skills, productivity and accountability, leadership and responsibility. Digital literacy is composed of different literacies, because of this fact, there is no need to search for similarities and differences.  Some of these literacies are media literacy and information literacy.
+
+Aviram & Eshet-Alkalai contend that five types of literacies are encompassed in the umbrella term that is digital literacy.
+File:Times Square April 2022 by Don Ramey Logan.jpg|thumb|Photo-visual literacy skills can be put into practice by analyzing the visual elements of the images and billboards, understand the context in which they are presented, evaluate their credibility and reliability, and make decisions based on this information.
+# '''Reproduction literacy''': the ability to use digital technology to create a new piece of work or combine existing pieces of work to make it your own.
+# '''Photo-visual literacy''': the ability to read and deduce information from visuals. 
+# ''' Branching literacy''': the ability to successfully navigate in the non-linear medium of digital space.
+# '''Information literacy''': the ability to search, locate, assess and critically evaluate information found on the web and on-shelf in libraries.
+# '''Socio-emotional literacy''': the social and emotional aspects of being present online, whether it may be through socializing, and collaborating, or simply consuming content.
+

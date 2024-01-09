@@ -1,0 +1,6 @@
+The American Psychological Association's report ''Intelligence: Knowns and Unknowns'' states that wherever it has been studied, children with high scores on tests of intelligence tend to learn more of what is taught in school than their lower-scoring peers. The correlation between IQ scores and grades is about .50. This means that the explained variance is 25%. Achieving good grades depends on many factors other than IQ, such as "persistence, interest in school, and willingness to study" (p.&nbsp;81).
+
+It has been found that the correlation of IQ scores with school performance depends on the IQ measurement used. For undergraduate students, the Verbal IQ as measured by WAIS-R has been found to correlate significantly (0.53) with the grade point average (GPA) of the last 60 hours (credits). In contrast, Performance IQ correlation with the same GPA was only 0.22 in the same study.
+
+Some measures of educational aptitude correlate highly with IQ tests for instance,  reported a correlation of 0.82 between ''g'' (general intelligence factor) and SAT scores; another research found a correlation of 0.81 between ''g'' and General Certificate of Secondary Education|GCSE scores, with the explained variance ranging "from 58.6% in Mathematics and 48% in English to 18.1% in Art and Design".
+

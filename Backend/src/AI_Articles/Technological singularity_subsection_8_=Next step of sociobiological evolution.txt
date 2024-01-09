@@ -1,0 +1,8 @@
+Further|Sociocultural evolution}}
+
+File:Major Evolutionary Transitions digital.jpg|thumb|upright=1.7|Schematic Timeline of Information and Replicators in the Biosphere: Gillings et al.'s "[[The Major Transitions in Evolution|major evolutionary transitions" in information processing.
+
+In biological terms, there are 7.2&nbsp;billion humans on the planet, each having a genome of 6.2&nbsp;billion nucleotides. Since one byte can encode four nucleotide pairs, the individual genomes of every human on the planet could be encoded by approximately 1 bytes. The digital realm stored 500 times more information than this in 2014 (see figure). The total amount of DNA contained in all of the cells on Earth is estimated to be about 5.3 base pairs, equivalent to 1.325 bytes of information.
+
+If growth in digital storage continues at its current rate of 30–38% compound annual growth per year,
+

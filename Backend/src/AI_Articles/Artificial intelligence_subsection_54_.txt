@@ -1,0 +1,3 @@
+Main|Soft computing}}
+Finding a provably correct or optimal solution is Intractability (complexity)|intractable for many important problems.
+

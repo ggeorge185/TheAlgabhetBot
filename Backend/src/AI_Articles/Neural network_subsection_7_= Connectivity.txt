@@ -1,0 +1,2 @@
+In August 2020 scientists reported that bi-directional connections, or added appropriate feedback connections, can accelerate and improve communication between and in modular Neural circuit|neural networks of the brain's cerebral cortex and lower the threshold for their successful communication. They showed that adding feedback connections between a resonance pair can support successful propagation of a single pulse packet throughout the entire network.
+

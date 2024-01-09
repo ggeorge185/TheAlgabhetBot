@@ -1,0 +1,18 @@
+The Cyc project has been described as "one of the most controversial endeavors of the artificial intelligence history". Catherine Havasi, CEO of Luminoso, says that Cyc is the predecessor project to Watson (computer)|IBM's Watson.  Machine-learning scientist Pedro Domingos refers to the project as a "catastrophic failure" for several reasons, including the unending amount of data required to produce any viable results and the inability for Cyc to evolve on its own.
+
+Robin Hanson, a professor of economics at George Mason University, gives a more balanced analysis:
+
+
+
+A similar sentiment was expressed by Marvin Minsky: "Unfortunately, the strategies most popular among AI researchers in the 1980s have come to a dead end," said Minsky. So-called “expert systems,” which emulated human expertise within tightly defined subject areas like law and medicine, could match users’ queries to relevant diagnoses, papers and abstracts, yet they could not learn concepts that most children know by the time they are 3 years old.  “For each different kind of problem,” said Minsky, “the construction of expert systems had to start all over again, because they didn’t accumulate common-sense knowledge.”  Only one researcher has committed himself to the colossal task of building a comprehensive common-sense reasoning system, according to Minsky. Douglas Lenat, through his Cyc project, has directed the line-by-line entry of more than 1 million rules into a commonsense knowledge base.
+
+Gary Marcus, a professor of psychology and neural science at New York University and the cofounder of an AI company called Geometric Intelligence, says "it represents an approach that is very different from all the deep-learning stuff that has been in the news.”  This is consistent with Doug Lenat's position that "Sometimes the ''veneer'' of intelligence is not enough".
+
+Stephen Wolfram writes:
+
+
+
+Marcus writes: 
+
+Every few years since it began publishing (1993), there is a new Wired (magazine)|Wired Magazine article about Cyc, some positive and some negative (including one issue which contained one of each).
+

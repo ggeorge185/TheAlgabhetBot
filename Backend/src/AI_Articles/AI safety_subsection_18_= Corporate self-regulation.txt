@@ -1,0 +1,4 @@
+AI labs and companies generally abide by safety practices and norms that fall outside of formal legislation. One aim of governance researchers is to shape these norms. Examples of safety recommendations found in the literature include performing third-party auditing, offering bounties for finding failures, following guidelines to determine whether to publish research or models,
+
+Companies have also made commitments. Cohere, OpenAI, and AI21 proposed and agreed on “best practices for deploying language models,” focusing on mitigating misuse. To avoid contributing to racing-dynamics, OpenAI has also stated in their charter that “if a value-aligned, safety-conscious project comes close to building AGI before we do, we commit to stop competing with and start assisting this project” Also, industry leaders such as CEO of DeepMind Demis Hassabis, director of Facebook AI Yann LeCun have signed open letters such as the Asilomar Principles
+

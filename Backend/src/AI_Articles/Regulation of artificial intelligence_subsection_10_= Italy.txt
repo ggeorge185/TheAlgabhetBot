@@ -1,0 +1,2 @@
+In October 2023, the Italian privacy authority approved a regulation that provides three principles for therapeutic decisions taken by automated systems: transparency of decision-making processes, human supervision of automated decisions and algorithmic non-discrimination.
+

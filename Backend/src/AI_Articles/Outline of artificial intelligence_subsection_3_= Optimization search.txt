@@ -1,0 +1,16 @@
+Optimization (mathematics) algorithms
+** Hill climbing
+** Simulated annealing
+** Beam search 
+** Random optimization
+* Evolutionary computation
+** Genetic algorithms
+** Gene expression programming
+** Genetic programming
+** Differential evolution
+* Society based learning algorithms.
+** Swarm intelligence 
+** Particle swarm optimization
+** Ant colony optimization
+** Metaheuristic
+

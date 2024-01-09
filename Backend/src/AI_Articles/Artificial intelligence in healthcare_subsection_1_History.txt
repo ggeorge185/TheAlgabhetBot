@@ -1,0 +1,14 @@
+Research in the 1960s and 1970s produced the first problem-solving program, or expert system, known as Dendral. While it was designed for applications in organic chemistry, it provided the basis for a subsequent system MYCIN, considered one of the most significant early uses of artificial intelligence in medicine. MYCIN and other systems such as INTERNIST-1 and CASNET did not achieve routine use by practitioners, however.
+
+The 1980s and 1990s brought the proliferation of the microcomputer and new levels of network connectivity. During this time, there was a recognition by researchers and developers that AI systems in healthcare must be designed to accommodate the absence of perfect data and build on the expertise of physicians. Approaches involving fuzzy set theory, Bayesian networks, and artificial neural networks, have been applied to intelligent computing systems in healthcare.
+
+Medical and technological advancements occurring over this half-century period that have enabled the growth of healthcare-related applications of AI to include: 
+* Improvements in computer performance|computing power resulting in faster data collection and data processing
+* Growth of genomics|genomic sequencing databases
+* Widespread implementation of electronic health record systems
+* Improvements in natural language processing and computer vision, enabling machines to replicate human perceptual processes
+* Enhanced the precision of robot-assisted surgery
+* Increased Decision tree learning|tree-based machine learning models that allow flexibility in establishing health predictors
+* Improvements in deep learning techniques and data logs in rare diseases
+AI algorithms can also be used to analyze large amounts of data through electronic health records for disease prevention and diagnosis. Medical institutions such as The Mayo Clinic, Memorial Sloan Kettering Cancer Center, and the British National Health Service, have developed AI algorithms for their departments. Large technology companies such as IBM and Google, Currently, the United States government is investing billions of dollars to progress the development of AI in healthcare.
+

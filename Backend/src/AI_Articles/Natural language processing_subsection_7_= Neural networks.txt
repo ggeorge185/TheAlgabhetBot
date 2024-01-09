@@ -1,0 +1,7 @@
+Further|Artificial neural network}}
+A major drawback of statistical methods is that they require elaborate feature engineering. Since 2015, the statistical approach was replaced by neural networks approach, using word embeddings to capture semantic properties of words. 
+
+Intermediate tasks (e.g., part-of-speech tagging and dependency parsing) have not been needed anymore. 
+
+Neural machine translation, based on then-newly-invented Seq2seq|sequence-to-sequence transformations, made obsolete the intermediate steps, such as word alignment, previously necessary for statistical machine translation.
+

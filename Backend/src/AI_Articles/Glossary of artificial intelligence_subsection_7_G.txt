@@ -1,0 +1,41 @@
+glossary}}
+
+
+
+
+
+
+
+ systems. Two neural networks contest with each other in a zero-sum game framework.}}
+
+
+
+
+
+}}
+
+
+
+
+
+ Mathematical optimization|optimization  based on the behaviour of glowworms (also known as fireflies or lightning bugs).}}
+
+
+.}}
+
+
+, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called ''Vertex (graph theory)|vertices'' (also called ''nodes'' or ''points'') and each of the related pairs of vertices is called an ''edge'' (also called an ''arc'' or ''line'').}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

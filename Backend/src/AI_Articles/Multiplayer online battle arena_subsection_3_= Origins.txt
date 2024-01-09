@@ -1,0 +1,10 @@
+The 1989 Sega Genesis|Mega Drive/Genesis game ''Herzog Zwei'' has variously been cited either as a precursor to, or an early example of,
+the MOBA genre. It uses a similar formula, where each player controls a single command unit in one of two opposing sides on a battlefield. and ''AirMech'' (2012).
+
+1998's ''Future Cop: LAPD'' has a strategic "Precinct Assault" mode similar to ''Herzog Zwei'' in which players can actively fight alongside generated non-player units.
+This could be regarded as the first example of MOBA gameplay, depending on the definition of the genre, The Windows version of ''Future Cop: LAPD'' allows online competitive play.<!-- Aeon of Strife (AoS) -->
+
+In the same year, Blizzard Entertainment released its best-selling real-time strategy game ''StarCraft'' (1998) with a suite of game editing tools called ''StarEdit''. These tools allowed players to design and create custom maps with non-standard rules and gameplay. A modder known as Aeon64 made a custom map named ''Aeon of Strife'' (''AoS'') that became popular. Some of the key features introduced in ''AoS'' became the foundation of the newborn genre.
+In the ''Aeon of Strife'' map, players controlled a single powerful hero unit fighting along three lanes which were protected by defensive towers. The terrain outside these lanes was nearly vacant. In early versions of the game, hero units did not have any particular special abilities. Instead, players spent gold on weapon and armor upgrades.
+It was rumored that the modder was attempting to create gameplay similar to that of ''Future Cop: LAPD''s Precinct Assault mode.
+

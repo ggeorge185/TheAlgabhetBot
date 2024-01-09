@@ -1,0 +1,3 @@
+In the 1970s, AI was subject to critiques and financial setbacks. AI researchers had failed to appreciate the difficulty of the problems they faced. Their tremendous optimism had raised public expectations impossibly high, and when the promised results failed to materialize, funding targeted at AI nearly disappeared. At the same time, the exploration of simple, single-layer artificial neural networks was shut down almost completely for a decade partially due to Marvin Minsky's  Perceptrons (book)|book emphasizing the limits of what  perceptrons can do.
+Despite the difficulties with public perception of AI in the late 70s, new ideas were explored in logic programming, commonsense reasoning and many other areas.
+

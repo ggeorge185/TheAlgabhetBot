@@ -1,0 +1,4 @@
+From experiments with anti-aircraft systems that interpreted radar images to detect enemy planes, Norbert Wiener coined the term cybernetics from the Greek word for "steersman." He published "Cybernetics" in 1948, which influenced artificial intelligence. Wiener also compared computation, computing machinery, computer memory|memory devices, and other cognitive similarities with his analysis of brain waves.
+
+File:JohnvonNeumann-LosAlamos.jpg|left|thumb|259x259px|[[John von Neumann (1903–1957) introduced the computer architecture known as Von Neumann architecture]]
+

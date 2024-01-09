@@ -1,0 +1,17 @@
+glossary}}
+
+ as well as the administrator/service or maintenance technician. In contrast to a mere "cookbook" User guide|manual, technical documentation aims at providing enough information for a user to understand inner and outer dependencies of the product at hand.}}
+
+
+
+
+
+
+
+
+ (ADT) that simulates a hierarchical tree structure, with a root value and subtrees of children with a , represented as a set of linked .}}
+
+
+
+
+

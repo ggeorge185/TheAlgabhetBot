@@ -1,0 +1,14 @@
+There are several basic types:
+* medical diagnosis|Diagnostic equipment includes medical imaging machines, used to aid in diagnosis. Examples are Medical ultrasonography|ultrasound and MRI machines, positron emission tomography|PET and computed tomography|CT scanners, and x-ray machines.
+* Treatment equipment includes infusion pumps, medical lasers and LASIK surgical machines.
+* Life support equipment is used to ''maintain'' a patient's bodily function. This includes medical ventilators, incubator (neonatal)|incubators, anaesthetic machines, heart-lung machines, ECMO, and dialysis machines.
+* Medical monitors allow medical staff to measure a patient's medical state. Monitors may measure patient vital signs and other parameters including ECG, Electroencephalography|EEG, and blood pressure.
+* Medical laboratory equipment automates or helps analyze blood, urine, genes, and blood gas monitor|dissolved gases in the blood.
+* Diagnostic medical equipment may also be used in the home for certain purposes, e.g. for the control of diabetes mellitus, such as in the case of Continuous glucose monitor|continuous glucose monitoring.
+* Therapeutic: physical therapy machines like Continuous passive motion|continuous passive range of motion (CPM) machines
+* Air purifying equipment may be used in the periphery of the operating room or at point sources including near the surgical site for the removal of surgical plume.
+
+The identification of medical devices has been recently improved by the introduction of Unique Device Identification (UDI) and standardised naming using the Global Medical Device Nomenclature (GMDN) which have been endorsed by the International Medical Device Regulatory Forum (IMDRF).
+
+A biomedical equipment technician (BMET) is a vital component of the healthcare delivery system. Employed primarily by hospitals, BMETs are the people responsible for maintaining a facility's medical equipment. BMET mainly act as an interface between doctor and equipment.
+

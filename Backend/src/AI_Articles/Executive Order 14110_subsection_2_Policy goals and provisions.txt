@@ -1,0 +1,10 @@
+File:WH-AI.jpg|thumb|White House graphic listing the provisions of the executive order
+The order has been characterized as an effort for the United States to capture potential benefits from AI while mitigating risks associated with AI technologies. Upon signing the order, Biden stated that AI technologies were being developed at "warp speed", and argued that to "realize the promise of AI and avoid the risk, we need to govern this technology". 
+
+Policy goals outlined by the order include the following:
+* Promoting competition and innovation in the AI industry
+* Upholding civil and labor rights and protecting consumers and their privacy from AI-enabled harms
+* Specifying federal policies governing procurement and use of AI
+* Developing Digital_watermarking|watermarking systems for AI-generated content and warding off intellectual property theft stemming from the use of generative models
+* Maintaining the nation's place as a global leader in AI
+

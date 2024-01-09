@@ -1,0 +1,10 @@
+The ''knowledge discovery in databases (KDD) process'' is commonly defined with the stages:
+
+# Selection
+# Pre-processing
+# Transformation
+# ''Data mining''
+# Interpretation/evaluation.
+
+The only other data mining standard named in these polls was SEMMA. However, 3–4 times as many people reported using CRISP-DM. Several teams of researchers have published reviews of data mining process models, and Azevedo and Santos conducted a comparison of CRISP-DM and SEMMA in 2008.
+

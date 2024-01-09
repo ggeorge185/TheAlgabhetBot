@@ -1,0 +1,5 @@
+Main|Programming languages for artificial intelligence|Hardware for artificial intelligence}}
+
+In the late 2010s, graphics processing units (GPUs) that were increasingly designed with AI-specific enhancements and used with specialized TensorFlow software, had replaced previously used central processing unit (CPUs) as the dominant means for large-scale (commercial and academic) machine learning models' training.
+Historically, specialized languages, such as Lisp (programming language)|Lisp, Prolog, Python (programming language)|Python and others, had been used.
+

@@ -1,0 +1,2 @@
+Citation|last1=Horvitz|first1=E.|title=Computation and Action Under Bounded Resources|url=http://erichorvitz.com/horvitzdiss.pdf|type=Dissertation|location=Stanford, CA|publisher=Stanford University|date=December 1990}}
+

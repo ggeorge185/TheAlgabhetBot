@@ -1,0 +1,2 @@
+Released in 2020, Microscope is a collection of visualizations of every significant layer and neuron of eight neural network models which are often studied in interpretability. Microscope was created to analyze the features that form inside these neural networks easily. The models included are AlexNet, VGG 19, different versions of Inceptionv3|Inception, and different versions of CLIP Residual neural network|Resnet.
+

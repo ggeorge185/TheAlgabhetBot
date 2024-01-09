@@ -1,0 +1,3 @@
+When IBM's chess-playing computer Deep Blue Deep Blue versus Kasparov, 1997, Game 6|succeeded in defeating Garry Kasparov in 1997, people complained that it had only used "brute force methods" and it wasn't real intelligence. Fred A. Reed writes: <blockquote>"A problem that proponents of AI regularly face is this: When we know how a machine does something 'intelligent,' it ceases to be regarded as intelligent. If I beat the world's chess champion, I'd be regarded as highly bright."</blockquote> On the contrary, John McCarthy (computer scientist)|John McCarthy was disappointed by Deep Blue.</blockquote>
+but merely did not feel that Deep Blue was a good example.
+

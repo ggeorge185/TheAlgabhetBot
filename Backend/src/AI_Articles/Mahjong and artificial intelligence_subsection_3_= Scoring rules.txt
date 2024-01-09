@@ -1,0 +1,2 @@
+Japanese mahjong has Japanese mahjong scoring rules|complex scoring rules; in general, the number of points a hand is worth will be calculated from the ''fu'' and ''han'' of the hand. ''Han'' is gained from ''dora'' and ''Japanese mahjong yaku|yaku''. ''Honba'' must also be considered; each ''honba'' adds 300 points to the next winning hand. AI is being developed to do these calculations.
+

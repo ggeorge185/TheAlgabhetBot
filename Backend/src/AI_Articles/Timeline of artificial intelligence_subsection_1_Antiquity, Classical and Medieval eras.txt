@@ -1,0 +1,46 @@
+class="wikitable"
+|-
+! Date 
+! Development
+|-
+! rowspan=2 | Antiquity
+|Greek myths of Hephaestus and Pygmalion (mythology)|Pygmalion incorporated the idea of intelligent automata (such as Talos) and artificial beings (such as Galatea (mythology)|Galatea and Pandora).
+|-
+| Cult image|Sacred mechanical statues built in ancient Egypt|Egypt and ancient Greece|Greece were believed to be capable of wisdom and emotion. Hermes Trismegistus would write "they have ''sensus'' and ''spiritus'' ... by discovering the true nature of the gods, man has been able to reproduce it."
+|-
+! 10th century BC
+| Yan Shi presented King Mu of Zhou with mechanical men which were capable of moving their bodies independently.
+|-
+! 384 BC–322 BC
+| Aristotle described the syllogism, a method of formal, mechanical thought in the ''Organon''. Aristotle also described means-ends analysis (an algorithm for automated planning and scheduling|planning) in ''Nicomachean Ethics'', the same algorithm used by Allen Newell|Newell and Herbert A. Simon|Simon's General Problem Solver (1959).
+|-
+!3rd century BC
+|Ctesibius invents a mechanical water clock with an alarm. This was the first example of a feedback mechanism.
+|-
+! 1st century
+| Hero of Alexandria created mechanical men and other automatons. He produced what may have been "the world's first practical programmable machine:" an automatic theatre.
+|-
+! 260
+| Porphyry (philosopher)|Porphyry wrote ''Isagogê'' which categorized knowledge and logic, including a drawing of what would later be called a "semantic net".
+|-
+! ~800
+| Jabir ibn Hayyan developed the Alchemy and chemistry in Islam|Arabic alchemical theory of ''Takwin'', the artificial creation of life in the laboratory, up to and including human life.
+|-
+! rowspan = 2 | 9th Century 
+| The Banū Mūsā brothers created a Computer program|programmable music automaton described in their ''Book of Ingenious Devices:'' a steam-driven flute controlled by a program represented by pins on a revolving cylinder. This was "perhaps the first machine with a stored program".
+|-
+| al-Khwārizmī wrote textbooks with precise step-by-step methods for arithmetic and algebra, used in Islam, India and Europe until the 16th century. The word "algorithm" is derived from his name. 
+|-
+! 1206
+| Ismail al-Jazari created a Computer program|programmable orchestra of mechanical human beings.
+|-
+! 1275
+| Ramon Llull, Mallorcan theology|theologian, invents the ''Ars Magna (Ramon Llull)|Ars Magna'', a tool for combining concepts mechanically based on an Islamic astrology|Arabic astrological tool, the Zairja. Llull described his machines as mechanical entities that could combine basic truth and facts to produce advanced knowledge. The method would be developed further by Gottfried Leibniz in the 17th century.
+|-
+! ~1500
+| Paracelsus claimed to have created an artificial man out of magnetism, sperm and alchemy.
+|-
+!  ~1580
+| Rabbi Judah Loew ben Bezalel of Prague is said to have invented the Golem, a clay man brought to life.
+|}
+

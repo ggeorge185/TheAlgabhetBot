@@ -1,0 +1,6 @@
+Facebook, and other similar social media platforms, have been able to figure out how to use artificial intelligence and machine learning, or more specifically narrow AI, to predict how people will react to being show certain images. Narrow artificial intelligence systems have been able to identify what users will engage with, based on what they post, following the patterns or trends.
+
+Twitter has started to have more advanced AI systems figure out how to identify narrower AI forms and detect if bots may have been used for biased propaganda, or even potentially malicious intentions. These AI systems do this through filtering words and creating different layers of conditions based on what AI has had implications for in the past, and then detecting if that account may be a bot or not.
+
+TikTok uses its "For You" algorithm to determine a user's interests very quickly through analyzing patterns in what videos the user initially chooses to watch. This narrow AI system uses patterns found between videos to determine what video should be shown next including the duration, who has shared or commented on it already, and music played in the videos. The "For You" algorithm on TikTok is so accurate, that it can figure out exactly what a user has an interest in or even really loves, in less than an hour.
+

@@ -1,0 +1,15 @@
+File:John Napier.JPG|left|thumb|[[John Napier (1550–1617), the inventor of logarithms]]
+The earliest known tool for use in computation was the abacus, developed in the period between 2700 and 2300 BCE in Sumer. The Sumerians' abacus consisted of a table of successive columns which delimited the successive order of magnitude|orders of magnitude of their sexagesimal number system. Its original style of usage was by lines drawn in sand with pebbles. Abaci of a more modern design are still used as calculation tools today, such as the Chinese abacus.
+
+In the 5th century BC in History of India|ancient India, the Philologist|grammarian Pāṇini formulated the grammar of Sanskrit in 3959 rules known as the Ashtadhyayi which was highly systematized and technical. Panini used metarules, Transformational grammar|transformations and recursions.
+
+The Antikythera mechanism is believed to be an early mechanical analog computer.  It was designed to calculate astronomical positions. It was discovered in 1901 in the Antikythera wreck off the Greek island of Antikythera, between Kythira|Kythera and Crete, and has been dated to ''circa'' 100 BC. and the torquetum by Jabir ibn Aflah. According to Simon Singh, Islamic mathematics|Muslim mathematicians also made important advances in cryptography, such as the development of cryptanalysis and frequency analysis by Al-Kindi|Alkindus. Program (machine)|Programmable machines were also invented by Inventions in medieval Islam|Muslim engineers, such as the automatic flute player by the Banū Mūsā brothers, 
+
+Technological artifacts of similar complexity appeared in 14th century Europe, with mechanical astronomical clocks.
+
+When John Napier discovered logarithms for computational purposes in the early 17th century, there followed a period of considerable progress by inventors and scientists in making calculating tools. In 1623 Wilhelm Schickard designed a calculating machine, but abandoned the project, when the prototype he had started building was destroyed by a fire in 1624. Around 1640, Blaise Pascal, a leading French mathematician, constructed a mechanical adding device based on a design described by Ancient Greece|Greek mathematician Hero of Alexandria. Then in 1672 Gottfried Wilhelm Leibniz invented the Stepped Reckoner which he completed in 1694.
+
+In 1837 Charles Babbage first described his Analytical Engine which is accepted as the first design for a modern computer. The analytical engine had expandable memory, an arithmetic unit, and logic processing capabilities able to interpret a programming language with loops and conditional branching. Although never built, the design has been studied extensively and is understood to be Turing complete|Turing equivalent. The analytical engine would have had a memory capacity of less than 1 kilobyte of memory and a Clock rate|clock speed of less than 10 Hertz.
+
+Considerable advancement in mathematics and electronics theory was required before the first modern computers could be designed.
+

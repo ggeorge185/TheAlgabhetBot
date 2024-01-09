@@ -1,0 +1,5 @@
+main|The Journeyman Project (video game)}}
+In 1993, ''The Journeyman Project'' was one of the first PC games to use high quality rendered graphics. However, it suffered from performance problems and slow animations due to its early reliance on Macromedia Director. These problems were mostly overcome with the version 2.0 release that was retitled ''The Journeyman Project Turbo!'' and published by Sanctuary Woods in 1994.
+
+The story begins with an alien ambassador arriving to finalize Earth's admission into the Symbiotry of Peaceful Beings. However, when Agent 5 is on duty a temporal rip is detected, and Human history|Earth's history is changed. The result of the new timestream is that humanity is passed over for admission into the alien organization.
+

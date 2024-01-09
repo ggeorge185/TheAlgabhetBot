@@ -1,0 +1,4 @@
+KnightCap
+*Leela Chess Zero – Universal Chess Interface chess engine
+*Stockfish (chess)|Stockfish – Universal Chess Interface chess engine
+

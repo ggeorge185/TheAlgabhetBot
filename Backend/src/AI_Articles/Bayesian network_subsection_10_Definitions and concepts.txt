@@ -1,0 +1,2 @@
+Several equivalent definitions of a Bayesian network have been offered. For the following, let ''G'' = (''V'',''E'') be a directed acyclic graph (DAG) and let ''X'' = (''X''<sub>''v''</sub>), ''v'' ∈ ''V'' be a set of random variables indexed by ''V''.
+

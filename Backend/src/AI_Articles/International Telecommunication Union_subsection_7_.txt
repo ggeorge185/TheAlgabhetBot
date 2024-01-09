@@ -1,0 +1,58 @@
+class="wikitable" style="width:90%;"
+|- valign=top
+! colspan="4" | Directors of ITU
+|-
+!Name
+!Beginning of term
+!End of term
+!Country
+|-
+| Louis Curchod
+| 1 January 1869
+| 24 May 1872
+| 
+|-
+| Charles Lendi
+| 24 May 1872
+| 12 January 1873
+| 
+|-
+| Louis Curchod
+| 23 February 1873
+| 18 October 1889
+| 
+|-
+| August Frey
+| 25 February 1890
+| 28 June 1890
+| 
+|-
+| Timotheus Rothen
+| 25 November 1890
+| 11 February 1897
+| 
+|-
+| Emil Frey
+| 11 March 1897
+| 1 August 1921
+| 
+|-
+| Henri Étienne (International Telegraph Union)|Henri Étienne
+| 2 August 1921
+| 16 December 1927
+| 
+|-
+| Joseph Raber
+| 1 February 1928
+| 30 October 1934
+| 
+|-
+| Franz von Ernst
+| 1 January 1935
+| 31 December 1949
+| 
+|- valign=top
+! colspan="4" | Secretaries general The most recent member state to join the ITU is South Sudan, which became a member on 14 July 2011. State of Palestine|Palestine was admitted as a United Nations General Assembly observers|United Nations General Assembly observer in 2010.
+
+Pursuant to UN General Assembly United Nations General Assembly Resolution 2758|Resolution 2758 (XXVI) of 25 October 1971—which recognized the China|People's Republic of China (PRC) as "the only legitimate representative of China to the United Nations"—on 16 June 1972 the ITU Council adopted Resolution No. 693 which "decided to restore all its rights to the People's Republic of China in ITU and recognize the representatives of its Government as the only representatives of China to the ITU ". Taiwan and the territories controlled by the Taiwan|Republic of China (ROC), received a country code, being listed as "Taiwan, China."
+

@@ -1,0 +1,4 @@
+In parallel to the 2008 Loebner Prize held at the University of Reading,
+the Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB), hosted a one-day symposium to discuss the Turing test, organised by John Barnden, Mark Bishop, Huma Shah and Kevin Warwick.
+The speakers included the Royal Institution's Director Susan Greenfield, Baroness Greenfield|Baroness Susan Greenfield, Selmer Bringsjord, Turing's biographer Andrew Hodges, and consciousness scientist Owen Holland (academic)|Owen Holland. No agreement emerged for a canonical Turing test, though Bringsjord expressed that a sizeable prize would result in the Turing test being passed sooner.
+

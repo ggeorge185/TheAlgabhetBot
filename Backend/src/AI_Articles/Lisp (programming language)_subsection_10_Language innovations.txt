@@ -1,0 +1,24 @@
+Paul Graham (programmer)|Paul Graham identifies nine important aspects of Lisp that distinguished it from existing languages like Fortran:
+* Conditional (computer programming)|Conditionals not limited to goto
+* First-class functions
+* Recursion
+* Treating variables uniformly as Pointer (computer programming)|pointers, leaving types to values
+* Garbage collection (computer science)|Garbage collection
+* Programs made entirely of Expression (computer science)|expressions with no Statement (computer science)|statements
+* The Symbol (programming)|symbol data type, distinct from the String (computer science)|string data type
+* Notation for code made of trees of symbols (using many parentheses)
+* Full language available at load time, compile time, and Runtime (program lifecycle phase)|run time
+
+Lisp was the first language where the structure of program code is represented faithfully and directly in a standard data structure—a quality much later dubbed "homoiconicity". Thus, Lisp functions can be manipulated, altered or even created within a Lisp program without lower-level manipulations. This is generally considered one of the main advantages of the language with regard to its expressive power, and makes the language suitable for syntactic macros and meta-circular evaluator|meta-circular evaluation.
+
+A conditional using an ''if–then–else'' syntax was invented by McCarthy for a chess program written in Fortran. He proposed its inclusion in ALGOL, but it was not made part of the Algol 58 specification. For Lisp, McCarthy used the more general ''cond''-structure. Algol 60 took up ''if–then–else'' and popularized it.
+
+Lisp deeply influenced Alan Kay, the leader of the research team that developed Smalltalk at Xerox PARC; and in turn Lisp was influenced by Smalltalk, with later dialects adopting object-oriented programming features (inheritance classes, encapsulating instances, message passing, etc.) in the 1970s. The Flavors (programming language)|Flavors object system introduced the concept of multiple inheritance and the mixin. The Common Lisp Object System provides multiple inheritance, multimethods with multiple dispatch, and first-class generic functions, yielding a flexible and powerful form of dynamic dispatch. It has served as the template for many subsequent Lisp (including Scheme (programming language)|Scheme) object systems, which are often implemented via a Metaobject#Metaobject Protocol|metaobject protocol, a Reflection (computer science)|reflective meta-circular evaluator|meta-circular design in which the object system is defined in terms of itself: Lisp was only the second language after Smalltalk (and is still one of the very few languages) to possess such a metaobject system. Many years later, Alan Kay suggested that as a result of the confluence of these features, only Smalltalk and Lisp could be regarded as properly conceived object-oriented programming systems.
+
+Lisp introduced the concept of Garbage collection (computer science)|automatic garbage collection, in which the system walks the Heap (memory management)|heap looking for unused memory. Progress in modern sophisticated garbage collection algorithms such as generational garbage collection was stimulated by its use in Lisp.
+
+Edsger W. Dijkstra in his 1972 Turing Award lecture said,
+
+
+Largely because of its resource requirements with respect to early computing hardware (including early microprocessors), Lisp did not become as popular outside of the AI community as Fortran and the ALGOL-descended C (programming language)|C language. Because of its suitability to complex and dynamic applications, Lisp enjoyed some resurgence of popular interest in the 2010s.
+

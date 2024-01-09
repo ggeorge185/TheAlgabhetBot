@@ -1,0 +1,2 @@
+Many telecommunications companies make use of Search algorithm|heuristic search to manage their workforces. For example, BT Group deployed heuristic search in an application that schedules 20,000 engineers. Machine learning is also used for speech recognition (SR), including of voice-controlled devices, and SR-related transcription, including of videos.
+

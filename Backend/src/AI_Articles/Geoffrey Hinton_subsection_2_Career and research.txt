@@ -1,0 +1,25 @@
+After his PhD, Hinton worked at the University of Sussex and, after difficulty finding funding in Britain, a professor in the computer science department at the University of Toronto. 
+
+He holds a Canada Research Chair in Machine Learning and is currently an advisor for the ''Learning in Machines & Brains'' program at the Canadian Institute for Advanced Research. Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012. He joined Google in March 2013 when his company, DNNresearch Inc., was acquired, and was at that time planning to "divide his time between his university research and his work at Google".
+
+Hinton's research concerns ways of using neural networks for machine learning, memory, perception, and symbol processing. He has written or co-written more than 200 peer reviewed publications. At the Conference on Neural Information Processing Systems (NeurIPS) he introduced a new learning algorithm for neural networks that he calls the "Forward-Forward" algorithm. The idea of the new algorithm is to replace the traditional forward-backward passes of backpropagation with two forward passes, one with positive (i.e. real) data and the other with negative data that could be generated solely by the network.
+
+While Hinton was a postdoc at UC San Diego, David E. Rumelhart and Hinton and Ronald J. Williams applied the Backpropagation|backpropagation algorithm to multi-layer neural networks. Their experiments showed that such networks can learn useful Knowledge representation|internal representations of data. In a 2018 interview, Hinton said that "David E. Rumelhart came up with the basic idea of backpropagation, so it's his invention". Although this work was important in popularising backpropagation, it was not the first to suggest the approach. Reverse-mode automatic differentiation, of which backpropagation is a special case, was proposed by Seppo Linnainmaa in 1970, and Paul Werbos proposed to use it to train neural networks in 1974. His other contributions to neural network research include distributed representations, time delay neural network, mixtures of experts, Helmholtz machines and Product of Experts. In 2007, Hinton coauthored an unsupervised learning paper titled ''Unsupervised learning of image transformations''. An accessible introduction to Geoffrey Hinton's research can be found in his articles in ''Scientific American'' in September 1992 and October 1993.
+
+In October and November 2017 respectively, Hinton published two open access research papers on the theme of capsule neural networks, which according to Hinton, are "finally something that works well".
+
+In May 2023, Hinton publicly announced his resignation from Google. He explained his decision by saying that he wanted to "freely speak out about the risks of A.I." and added that a part of him now regrets his life's work.
+
+Notable former PhD students and postdoctoral researchers from his group include Peter Dayan, Sam Roweis, Alex Graves (computer scientist)|Alex Graves, His certificate of election for the Royal Society reads: 
+
+In 2001, Hinton was awarded an honorary doctorate from the University of Edinburgh. He was the 2005 recipient of the IJCAI Award for Research Excellence lifetime-achievement award. He was awarded the 2011 Gerhard Herzberg Canada Gold Medal for Science and Engineering|Herzberg Canada Gold Medal for Science and Engineering. In 2013, Hinton was awarded an honorary doctorate from the Université de Sherbrooke.
+
+In 2016, he was elected a foreign member of National Academy of Engineering "for contributions to the theory and practice of artificial neural networks and their application to speech recognition and computer vision". He received the 2016 IEEE/RSE Wolfson James Clerk Maxwell Award.
+
+He won the BBVA Foundation Frontiers of Knowledge Award (2016) in the Information and Communication Technologies category, "for his pioneering and highly influential work" to endow machines with the ability to learn.
+
+Together with Yann LeCun, and Yoshua Bengio, Hinton won the 2018 Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+
+In 2018, he became a Companion of the Order of Canada. 
+In 2021, he received the Dickson Prize in Science from the Carnegie Mellon University and in 2022 the Princess of Asturias Awards|Princess of Asturias Award in the Scientific Research category, along with Yann LeCun, Yoshua Bengio, and Demis Hassabis.
+

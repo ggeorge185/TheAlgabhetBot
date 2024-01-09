@@ -1,0 +1,10 @@
+In order to address the fifth issue, ''function approximation methods'' are used. ''Linear function approximation'' starts with a mapping <math>\phi</math> that assigns a finite-dimensional vector to each state-action pair. Then, the action values of a state-action pair <math>(s,a)</math> are obtained by linearly combining the components of <math>\phi(s,a)</math> with some ''weights'' <math>\theta</math>:
+
+:<math>Q(s,a) = \sum_^d \theta_i \phi_i(s,a).</math>
+
+The algorithms then adjust the weights, instead of adjusting the values associated with the individual state-action pairs. Methods based on ideas from nonparametric statistics (which can be seen to construct their own features) have been explored.
+
+Value iteration can also be used as a starting point, giving rise to the Q-learning algorithm and its many variants. Including Deep Q-learning methods when a neural network is used to represent Q, with various applications in stochastic search problems.
+
+The problem with using action-values is that they may need highly precise estimates of the competing action values that can be hard to obtain when the returns are noisy, though this problem is mitigated to some extent by temporal difference methods. Using the so-called compatible function approximation method compromises generality and efficiency.
+

@@ -1,0 +1,10 @@
+Helie and Sun proposed a framework for understanding creative problem-solving|creativity in problem solving, namely the Explicit–Implicit Interaction (EII) theory of creativity. This theory attempts to provide a more unified explanation of relevant phenomena (in part by reinterpreting/integrating various fragmentary existing theories of Incubation (psychology)|incubation and insight).
+
+The EII theory relies mainly on five basic principles:
+# the co-existence of and the difference between explicit and implicit knowledge
+# simultaneous involvement of implicit and explicit processes in most tasks
+# redundant representation of explicit and implicit knowledge
+# integration of the results of explicit and implicit processing
+# iterative (and possibly bidirectional) processing
+A computational implementation of the theory was developed based on the CLARION (cognitive architecture)|CLARION cognitive architecture and used to simulate relevant human data. This work is an initial step in the development of process-based theories of creativity encompassing incubation, insight, and various other related phenomena.
+

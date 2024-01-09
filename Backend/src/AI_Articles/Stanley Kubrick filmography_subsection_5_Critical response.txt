@@ -1,0 +1,74 @@
+class="wikitable plainrowheaders"
+|+ 
+|-
+!scope="col" | Year
+!scope="col" | Title
+!scope="col" | Rotten Tomatoes
+!scope="col" | Metacritic
+|-
+| 1953
+! scope="row" | ''Fear and Desire''
+| 75% (16 reviews)
+| 
+|-
+| 1955
+! scope="row" | ''Killer's Kiss''
+| 86% (21 reviews)
+| 
+|-
+| 1956
+! scope="row" | 
+| 98% (41 reviews)
+| 91 (15 reviews)
+|-
+| 1957
+! scope="row" | ''Paths of Glory''
+| 95% (60 reviews)
+| 90 (18 reviews)
+|-
+| 1960
+! scope="row" | ''Spartacus (film)|Spartacus''
+| 93% (61 reviews)
+| 87 (17 reviews)
+|-
+| 1962
+! scope="row" | ''Lolita (1962 film)|Lolita''
+| 91% (43 reviews)
+| 79 (14 reviews)
+|-
+| 1964
+! scope="row" | ''Dr. Strangelove''
+| 98% (91 reviews)
+| 97 (32 reviews)
+|-
+| 1968
+! scope="row" | 
+| 92% (113 reviews)
+| 84 (25 reviews)
+|-
+| 1971
+! scope="row" | 
+| 86% (71 reviews)
+| 77 (21 reviews)
+|-
+| 1975
+! scope="row" | ''Barry Lyndon''
+| 91% (74 reviews)
+| 89 (21 reviews)
+|-
+| 1980
+! scope="row" | 
+| 84% (95 reviews)
+| 66 (26 reviews)
+|-
+| 1987
+! scope="row" | ''Full Metal Jacket''
+| 92% (83 reviews)
+| 76 (19 reviews)
+|-
+| 1999
+! scope="row" | ''Eyes Wide Shut''
+| 75% (158 reviews)
+| 68 (34 reviews)
+|}
+

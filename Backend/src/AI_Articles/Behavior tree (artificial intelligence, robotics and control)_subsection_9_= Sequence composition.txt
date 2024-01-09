@@ -1,0 +1,22 @@
+Two behavior trees <math>T_i</math> and <math>T_j</math> can be composed into a more complex behavior tree <math>T_0</math> using a Sequence operator.
+
+<math>T_0=\mbox(T_i,T_j).</math>
+
+Then return status <math>r_0</math> and the vector field <math>f_0</math> associated with <math>T_0</math> are defined (for <math>\mathcal_1</math>) as follows:
+
+<math>
+r_0(x_k) = 
+\begin
+r_j(x_k) & \text x_k \in \mathcal_1\\
+r_i(x_k) & \text.
+\end
+</math>
+
+<math>
+f_0(x_k) = 
+\begin
+f_j(x_k) & \text x_k \in \mathcal_1\\
+f_i(x_k) & \text.
+\end
+</math>
+

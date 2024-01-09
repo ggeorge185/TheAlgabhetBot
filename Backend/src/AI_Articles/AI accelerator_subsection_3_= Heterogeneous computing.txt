@@ -1,0 +1,5 @@
+Main|Heterogeneous computing}}
+Heterogeneous computing incorporates many specialized processors in a single system, or a single chip, each optimized for a specific type of task. Architectures such as the Cell (microprocessor)|Cell microprocessor have features significantly overlapping with AI accelerators including: support for packed low precision arithmetic, dataflow architecture, and prioritizing throughput over latency. The Cell microprocessor has been applied to a number of tasks including AI.
+
+In the 2000s, central processing unit|CPUs also gained increasingly wide SIMD units, driven by video and gaming workloads; as well as support for packed low-precision data types. Due to the increasing performance of CPUs, they are also used for running AI workloads. CPUs are superior for deep neural network|DNNs with small or medium-scale parallelism, for sparse DNNs and in low-batch-size scenarios.
+

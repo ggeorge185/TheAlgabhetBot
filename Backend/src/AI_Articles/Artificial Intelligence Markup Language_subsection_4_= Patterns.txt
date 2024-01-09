@@ -1,0 +1,15 @@
+A pattern is a string of characters intended to match one or more user inputs. A literal pattern like
+
+ WHAT IS YOUR NAME
+
+will match only one input, ignoring case: "what is your name". But patterns may also contain wildcards, which match one or more words. A pattern like
+
+ WHAT IS YOUR *
+
+will match an infinite number of inputs, including "what is your name", "what is your shoe size", "what is your purpose in life", etc.
+
+The AIML pattern syntax is a very simple pattern language, substantially less complex than regular expressions and as such less than level 3 in the Chomsky hierarchy. 
+To compensate for the simple pattern matching capabilities, AIML interpreters can provide preprocessing functions to expand abbreviations, remove misspellings, etc.
+
+The AIML syntax itself is at least as complex as finite state machines and as such at least of level 3 in the Chomsky hierarchy. This is because a state correlates to one topic (linguistics)|topic. To implement that behavior, the topic should have a "*" Pattern to make sure, that the state is not left accidentally. A state transit is implemented with the  Tag. This way, the bot will be able to "remember" the topic talked about or even user privileges, which are gained during the chat.
+

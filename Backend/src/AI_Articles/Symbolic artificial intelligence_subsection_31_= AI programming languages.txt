@@ -1,0 +1,22 @@
+The key AI programming language in the US during the last symbolic AI boom period was LISP (programming language)|LISP. LISP (programming language)|LISP is the second oldest programming language after FORTRAN and was created in 1958 by John McCarthy (computer scientist)|John McCarthy. LISP provided the first read-eval-print loop to support rapid program development. Compiled functions could be freely mixed with interpreted functions. Program tracing, stepping, and breakpoints were also provided, along with the ability to change values or functions and continue from breakpoints or errors. It had the first Self-hosting (compilers)|self-hosting compiler, meaning that the compiler itself was originally written in LISP and then ran interpretively to compile the compiler code.
+
+Other key innovations pioneered by LISP that have spread to other programming languages include:
+* Garbage collection (computer science)|Garbage collection
+* Dynamic typing
+* Higher-order functions
+* Recursion
+* Conditional (computer programming)|Conditionals
+Programs were themselves data structures that other programs could operate on, allowing the easy definition of higher-level languages.
+
+In contrast to the US, in Europe the key AI programming language during that same period was Prolog. Prolog provided a built-in store of facts and clauses that could be queried by a read-eval-print loop. The store could act as a knowledge base and the clauses could act as rules or a restricted form of logic. As a subset of first-order logic Prolog was based on Horn clauses with a closed-world assumption—any facts not known were considered false—and a unique name assumption for primitive terms—e.g., the identifier barack_obama was considered to refer to exactly one object. Backtracking and Unification (computer science)|unification are built-in to Prolog.
+
+Alain Colmerauer and Philippe Roussel are credited as the inventors of Prolog. Prolog is a form of logic programming, which was invented by Robert Kowalski. Its history was also influenced by Carl Hewitt's PLANNER, an assertional database with pattern-directed invocation of methods. For more detail see the Planner (programming language)#The genesis of Prolog|section on the origins of Prolog in the PLANNER article.
+
+Prolog is also a kind of declarative programming. The logic clauses that describe programs are directly interpreted to run the programs specified. No explicit series of actions is required, as is the case with imperative programming languages.
+
+Japan championed Prolog for its Fifth Generation Project, intending to build special hardware for high performance. Similarly, LISP machines were built to run LISP, but as the second AI boom turned to bust these companies could not compete with new workstations that could now run LISP or Prolog natively at comparable speeds. See the #A short history|history section for more detail.
+
+Smalltalk was another influential AI programming language. For example, it introduced metaclasses and, along with Flavors (programming language)|Flavors and CommonLoops, influenced the Common Lisp Object System, or (CLOS), that is now part of Common Lisp, the current standard Lisp dialect. CLOS is a Lisp-based object-oriented system that allows multiple inheritance, in addition to incremental extensions to both classes and metaclasses, thus providing a run-time meta-object protocol.
+
+For other AI programming languages see this list of programming languages for artificial intelligence. Currently, Python (programming language)|Python, a multi-paradigm programming language, is the most popular programming language, partly due to its extensive package library that supports data science, natural language processing, and deep learning. Python (programming language)|Python includes a read-eval-print loop, functional elements such as higher-order functions, and object-oriented programming that includes metaclasses.
+

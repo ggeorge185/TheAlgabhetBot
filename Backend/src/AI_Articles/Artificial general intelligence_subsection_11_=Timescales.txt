@@ -1,0 +1,16 @@
+In the introduction to his 2006 book, Goertzel says that estimates of the time needed before a truly flexible AGI is built vary from 10 years to over a century. , the consensus in the AGI research community seemed to be that the timeline discussed by Ray Kurzweil in 2005 in ''The Singularity is Near'' (i.e. between 2015 and 2045) was plausible. Mainstream AI researchers have given a wide range of opinions on whether progress will be this rapid. A 2012 meta-analysis of 95 such opinions found a bias towards predicting that the onset of AGI would occur within 16–26 years for modern and historical predictions alike. That paper has been criticized for how it categorized opinions as expert or non-expert.
+
+In 2012, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton developed a neural network called AlexNet, which won the ImageNet competition with a top-5 test error rate of 15.3%, significantly better than the second-best entry's rate of 26.3% (the traditional approach used a weighted sum of scores from different pre-defined classifiers). AlexNet was regarded as the initial ground-breaker of the current deep learning wave.
+
+In 2020, OpenAI developed GPT-3, a language model capable of performing many diverse tasks without specific training. According to Gary Grossman in a VentureBeat article, while there is consensus that GPT-3 is not an example of AGI, it is considered by some to be too advanced to be classified as a narrow AI system.
+
+In the same year, Jason Rohrer used his GPT-3 account to develop a chatbot, and provided a chatbot-developing platform called "Project December". OpenAI asked for changes to the chatbot to comply with their safety guidelines; Rohrer disconnected Project December from the GPT-3 API.
+
+In 2022, DeepMind developed Gato (DeepMind)|Gato, a "general-purpose" system capable of performing more than 600 different tasks.
+
+In 2023, Microsoft Research published a study on an early version of OpenAI's GPT-4, contending that it exhibited more general intelligence than previous AI models and demonstrated human-level performance in tasks spanning multiple domains, such as mathematics, coding, and law. This research sparked a debate on whether GPT-4 could be considered an early, incomplete version of artificial general intelligence, emphasizing the need for further exploration and evaluation of such systems.
+
+In 2023, the AI researcher Geoffrey Hinton stated that:
+
+
+

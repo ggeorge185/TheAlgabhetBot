@@ -1,0 +1,6 @@
+File:Three Surveillance cameras.jpg|thumb|Facial recognition software used in conjunction with surveillance cameras was found to display bias in recognizing Asian and black faces over white faces.
+
+In 1990, an example of emergent bias was identified in the software used to place US medical students into residencies, the National Residency Match Program (NRMP).
+
+Additional emergent biases include:
+

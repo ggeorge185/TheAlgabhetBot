@@ -1,0 +1,13 @@
+Braina, an intelligent personal assistant application with a voice interface for Windows OS.
+* Cyc, an attempt to assemble an ontology (information science)|ontology and database of everyday knowledge, enabling commonsense reasoning|human-like reasoning.
+* Eurisko, a language by Douglas Lenat for solving problems which consists of heuristic algorithm|heuristics, including some for how to use and change its heuristics.
+* Google Now, an intelligent personal assistant with a voice interface in Google's Android (operating system)|Android and Apple Inc.'s iOS, as well as Google Chrome web browser on personal computers.
+* Holmes (computer)|Holmes a new AI created by Wipro.
+* Microsoft Cortana, an intelligent personal assistant with a voice interface in Microsoft's various Windows 10 editions.
+* Mycin, an early medical expert system.
+* Open Mind Common Sense, a project based at the MIT Media Lab to build a large common sense knowledge base from online contributions.
+* Siri, an intelligent personal assistant and Knowledge Navigator|knowledge navigator with a voice-interface in Apple Inc.'s iOS and macOS.
+* SNePS, simultaneously a logic-based, frame language|frame-based, and semantic network|network-based knowledge representation, reasoning, and acting system.
+* Viv (software), a new AI by the creators of Siri.
+* Wolfram Alpha, an online service that answers queries by computing the answer from structured data.
+

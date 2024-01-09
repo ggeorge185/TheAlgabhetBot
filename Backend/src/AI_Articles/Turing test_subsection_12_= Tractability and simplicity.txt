@@ -1,0 +1,2 @@
+The power and appeal of the Turing test derives from its simplicity. The philosophy of mind, psychology, and modern neuroscience have been unable to provide definitions of "intelligence" and "thinking" that are sufficiently precise and general to be applied to machines. Without such definitions, the central questions of the philosophy of artificial intelligence cannot be answered. The Turing test, even if imperfect, at least provides something that can actually be measured. As such, it is a pragmatic attempt to answer a difficult philosophical question.
+

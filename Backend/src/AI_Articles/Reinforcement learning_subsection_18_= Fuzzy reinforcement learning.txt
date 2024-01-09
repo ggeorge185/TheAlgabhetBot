@@ -1,0 +1,2 @@
+By introducing Fuzzy control system|fuzzy inference in reinforcement learning, approximating the state-action value function with fuzzy rules in continuous space becomes possible. The IF - THEN form of fuzzy rules make this approach suitable for expressing the results in a form close to natural language. Extending FRL with Fuzzy Rule Interpolation  allows the use of reduced size sparse fuzzy rule-bases to emphasize cardinal rules (most important state-action values).
+

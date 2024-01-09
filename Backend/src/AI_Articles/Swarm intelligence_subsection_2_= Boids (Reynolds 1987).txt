@@ -1,0 +1,12 @@
+main|Boids}}
+Boids is an artificial life program, developed by Craig Reynolds (computer graphics)|Craig Reynolds in 1986, which simulates Flocking (behavior)|flocking. It was published in 1987 in the proceedings of the Association for Computing Machinery|ACM SIGGRAPH conference.
+The name "boid" corresponds to a shortened version of "bird-oid object", which refers to a bird-like object.
+
+As with most artificial life simulations, Boids is an example of emergence|emergent behavior; that is, the complexity of Boids arises from the interaction of individual agents (the boids, in this case) adhering to a set of simple rules.  The rules applied in the simplest Boids world are as follows:
+
+* '''separation''': wikt:steer#Verb|steer to avoid crowding local flockmates
+* '''alignment''': steer towards the average heading of local flockmates
+* '''cohesion''': steer to move toward the average position (center of mass) of local flockmates
+
+More complex rules can be added, such as obstacle avoidance and goal seeking.
+

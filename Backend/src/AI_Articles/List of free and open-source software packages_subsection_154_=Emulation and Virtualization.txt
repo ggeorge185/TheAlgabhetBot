@@ -1,0 +1,10 @@
+Main category|Free emulation software}}
+
+*AppleWin
+*DOSBox – DOS programs emulator (including PC games)
+*GNOME Boxes
+*Hercules (emulator)
+*Kernel-based Virtual Machine
+*QEMU
+*VirtualBox – Hypervisor#Classification|hosted hypervisor for x86 virtualization
+

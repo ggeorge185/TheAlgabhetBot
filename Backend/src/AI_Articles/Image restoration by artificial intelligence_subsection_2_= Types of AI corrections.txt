@@ -1,0 +1,10 @@
+1. Geometric correction
+
+2. Radiometric correction 
+
+3. Noise reduction|Denoising 
+
+Image restoration techniques aim to reverse the effects of degradation and restore the image as closely as possible to its original or desired state. The process involves analysing the image and applying algorithms and filters to remove or reduce the degradations. The ultimate goal is to enhance the visual quality, improve the interpretability, and extract relevant information from the image.[https://rememorie.com/photo-restoration/what-is-old-photo-restoration-and-how-does-it-work/]
+
+Image restoration can be broadly categorized into two main types: spatial domain and frequency domain methods. Spatial domain techniques operate directly on the image pixels, while frequency domain methods transform the image into the frequency domain using techniques such as the Fourier transform, where restoration operations are performed. Both approaches have their advantages and are suitable for different types of image degradation.
+

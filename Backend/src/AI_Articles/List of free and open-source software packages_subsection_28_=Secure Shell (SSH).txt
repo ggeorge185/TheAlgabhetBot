@@ -1,0 +1,5 @@
+Cyberduck – macOS and Windows client (since version 4.0)
+*Lsh – Server and client, with support for Secure remote password protocol|SRP and Kerberos (protocol)|Kerberos authentication
+*OpenSSH – Client and server
+*PuTTY – Client-only
+

@@ -1,0 +1,12 @@
+Suleyman is one of the three co-founders of the artificial intelligence / machine learning company DeepMind Technologies, and started out as its chief product officer. The company quickly established itself as one of the leaders in the AI sector and was backed by Founders Fund, Elon Musk and Scott Banister amongst others.
+
+In 2014 DeepMind was acquired by Google for a reported £400 million — the company's largest acquisition in Europe at that time. Following the acquisition, Suleyman became head of applied AI at DeepMind, taking on responsibility for integrating the company's technology across a wide range of Google products.
+
+In February 2016 Suleyman launched DeepMind Health at the Royal Society of Medicine. DeepMind Health builds clinician-led technology for the NHS and other partners to improve frontline healthcare services. Under Suleyman, DeepMind also developed research collaborations with healthcare organizations in the United Kingdom, including Moorfields Eye Hospital NHS Foundation Trust,
+
+In 2016, Suleyman led an effort to apply DeepMind's machine learning algorithms to help reduce the energy required to cool Google's data centres. The system evaluated the billions of possible combinations of actions that the data centre operators could take, and came up with recommendations based on the predicted power usage. The system discovered novel methods of cooling, leading to a reduction of up to 40% of the amount of energy used for cooling, and a 15% improvement in the buildings' overall energy efficiency.
+
+In August 2019, Suleyman was placed on administrative leave following allegations of bullying employees. The company hired an external lawyer to investigate, and shortly thereafter Suleyman left to take a VP role at parent company Google. An email circulated by DeepMind's leadership to staff after the story broke, as well as additional details published by Business Insider, said Suleyman's "management style fell short" of expected standards.
+
+In December 2019, Suleyman announced he would be leaving DeepMind to join Google, working in a policy role.
+

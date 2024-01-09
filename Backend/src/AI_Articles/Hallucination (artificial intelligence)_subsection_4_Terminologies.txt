@@ -1,0 +1,3 @@
+In ''Salon (magazine)|Salon'', statistician Gary N. Smith argues that LLMs "do not understand what words mean" and consequently that the term "hallucination" unreasonably anthropomorphizes the machine. Journalist Benj Edwards, in ''Ars Technica'', writes that the term "hallucination" is controversial, but that some form of metaphor remains necessary; Edwards suggests "confabulation" as an analogy for processes that involve "creative gap-filling".
+* "a model's logical mistakes" (OpenAI, May 2023)
+

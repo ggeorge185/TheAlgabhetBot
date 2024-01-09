@@ -1,0 +1,69 @@
+class="wikitable sortable"
+|-
+! SN !! City !! Country or US State
+|-
+| 1. || Ann Arbor || 
+|-
+| 2. || Atlanta || 
+|-
+| 3. || Austin, Texas|Austin || 
+|-
+| 4. || Boulder, Colorado|Boulder || 
+|-
+| 5. || Boulder – Pearl Place || 
+|-
+| 6. || Boulder – Walnut || 
+|-
+| 7. || Cambridge ||
+|-
+| 8. || Chapel Hill, North Carolina|Chapel Hill || 
+|-
+| 9. || Chicago – Carpenter ||
+|-
+| 10.|| Chicago – Fulton Market ||
+|-
+| 11.|| Detroit ||
+|-
+| 12.|| Irvine, California|Irvine ||
+|-
+| 13.|| Kirkland, Washington|Kirkland ||
+|-
+| 14.|| Kitchener, Ontario|Kitchener ||
+|-
+| 15.|| Los Angeles ||
+|-
+| 16.|| Madison, Wisconsin|Madison ||
+|-
+| 17.|| Miami || 
+|-
+| 18.|| Montreal ||
+|-
+| 19.|| Mountain View, California|Mountain View ||
+|-
+| 20.|| New York City|New York ||
+|-
+| 21.|| Pittsburgh ||
+|-
+| 22.|| Playa Vista ||
+|-
+| 23.|| Portland, Oregon|Portland ||
+|-
+| 24.|| Redwood City ||
+|-
+| 25.|| Reston, Virginia|Reston ||
+|-
+| 26.|| San Bruno ||
+|-
+| 27.|| San Diego ||
+|-
+| 28.|| Mountain View, California|San Francisco – '''Googleplex|HQ''' || 
+|-
+| 29.|| Seattle  ||
+|-
+| 30.|| Sunnyvale ||
+|-
+| 31.|| Toronto || 
+|-
+| 32.|| Washington DC ||
+|}
+

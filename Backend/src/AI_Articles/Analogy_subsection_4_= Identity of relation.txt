@@ -1,0 +1,8 @@
+In ancient Greek language|Greek the word ''αναλογια'' (''analogia'') originally meant Proportionality (mathematics)|proportionality, in the mathematical sense, and it was indeed sometimes translated to Latin as ''proportio''. Analogy was understood as identity of relation between any two ordered pairs, whether of mathematical nature or not. 
+
+Analogy and abstraction are different cognitive processes, and analogy is often an easier one. This analogy is not comparing ''all'' the properties between a hand and a foot, but rather comparing the ''relationship'' between a hand and its palm to a foot and its sole. While a hand and a foot have many dissimilarities, the analogy focuses on their similarity in having an inner surface.
+
+The same notion of analogy was used in the United States|US-based SAT college admission tests, that included "analogy questions" in the form "A is to B as C is to ''what''?" For example, "Hand is to palm as foot is to ____?" These questions were usually given in the Aristotle|Aristotelian format: HAND : PALM : : FOOT : ____ While most competent English language|English speakers will immediately give the right answer to the analogy question (''sole''), it is more difficult to identify and describe the exact relation that holds both between pairs such as ''hand'' and ''palm'', and between ''foot'' and ''sole''. This relation is not apparent in some lexical definitions of ''palm'' and ''sole'', where the former is defined as ''the inner surface of the hand'', and the latter as ''the underside of the foot''. 
+
+Immanuel Kant|Kant's ''Critique of Judgment'' held to this notion of analogy, arguing that there can be exactly the same Logic of relatives|relation between two completely different objects.
+

@@ -1,0 +1,6 @@
+During rollout of 5G, China banned Ericsson in favour of Chinese suppliers, primarily Huawei and ZTE. Huawei and ZTE were banned in many Western countries over concerns of spying. This creates a risk of 6G network fragmentation. Many power struggles are expected during the development of common standards.
+
+6G is considered a key technology for economic competitiveness, national security, and the functioning of society. It is a national priority in many countries and is named as priority in the Fourteenth five-year plan (China).
+
+Many countries are favouring Open RAN approach, where different suppliers can be integrated together, where hardware and software are independent of supplier.
+

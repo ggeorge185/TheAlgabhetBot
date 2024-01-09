@@ -1,0 +1,2 @@
+In recent years, due to growing computational power, which allows for training in large ensemble learning in a reasonable time frame, the number of ensemble learning applications has grown increasingly. Some of the applications of ensemble classifiers include:
+

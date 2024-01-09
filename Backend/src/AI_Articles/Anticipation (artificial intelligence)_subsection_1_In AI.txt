@@ -1,0 +1,18 @@
+An agent employing anticipation would try to predict the future state of the environment (weather in this case) and make use of the  predictions in the decision making. For example,
+
+ If the sky is cloudy and the air pressure is low,
+   it will probably rain soon
+      so take the umbrella with you.
+ Otherwise
+   leave the umbrella home.
+
+These rules explicitly take into account possible future events.
+
+In 1985, Robert Rosen (theoretical biologist)|Robert Rosen defined an anticipatory system as follows:
+
+:A system containing a predictive model of itself and/or its environment,
+:which allows it to change state at an instant in accord
+:with the model's predictions pertaining to a later instant.
+
+To some extent, Rosen's definition of anticipation applies to any system incorporating machine learning.  At issue is how much of a system's behaviour should or indeed can be determined by reasoning over dedicated representations, how much by on-line Automated planning and scheduling|planning, and how much must be provided by the system's designers.
+

@@ -1,0 +1,2 @@
+Q-learning has been proposed in the multi-agent setting (see Section 4.1.2 in ). One approach consists in pretending the environment is passive. Littman proposes the minimax Q learning algorithm.
+

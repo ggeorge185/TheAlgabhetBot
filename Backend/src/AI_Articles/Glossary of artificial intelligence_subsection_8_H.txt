@@ -1,0 +1,17 @@
+glossary}}
+
+
+
+
+ at each branching step based on available information to decide which branch to follow. For example, it may approximate the exact solution.}}
+
+
+, not dedicated to input or output.}}
+
+
+.}}
+
+
+ search method that seeks to automate the process of selecting, combining, generating, or adapting several simpler heuristics (or components of such heuristics) to efficiently solve computational search problems, often by the incorporation of  techniques. One of the motivations for studying hyper-heuristics is to build systems which can handle classes of problems rather than solving just one problem.}}
+
+

@@ -1,0 +1,2 @@
+A major limitation for the validation of existing fraud detection methods is the lack of public datasets. One of the few examples is the Credit Card Fraud Detection dataset made available by the ULB Machine Learning Group.
+

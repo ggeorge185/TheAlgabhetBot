@@ -1,0 +1,6 @@
+The basic variable types in SAIL are Integer (computer science)|integers, Floating-point arithmetic|reals (floating point), Boolean data type|booleans, and String (computer science)|strings. Type conversions were automatic, so  would convert the value 5 to a double as that is what SQRT requires, and then cast the result to an integer. Any of these types can be turned into an array by adding the  qualifier and placing the array bounds in brackets, for instance, . SAIL supported 1-d and 2-d arrays.
+
+The language used the left-arrow for assignment, , or the underscore on platforms that did not have Stanford ASCII. It included a number of standard functions like square root, all of the common math operators, and was otherwise similar to most ALGOL derivatives for normal programming.
+
+Strings were manipulated using array slicing, with  returning the substring with characters from i to j, or  which returned the substring starting at i and running for j characters. The (inity) keyword represented the end of the string, so one could  to return everything from i on. String functions and operators included  for testing if two strings were equal, the ampersand for concatenation, , and  which removes the first character from the string. There was no way to compare strings other than , operators like  were defined only for numbers.
+

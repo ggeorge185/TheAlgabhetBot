@@ -1,0 +1,6 @@
+forward chaining state space search, possibly enhanced with Heuristic (computer science)|heuristics
+* backward chaining search, possibly enhanced by the use of state constraints (see Stanford Research Institute Problem Solver|STRIPS, graphplan)
+* partial-order planning
+
+
+

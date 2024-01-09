@@ -1,0 +1,11 @@
+Applications range from tasks such as industrial machine vision systems which, say, inspect bottles speeding by on a production line, to research into artificial intelligence and computers or robots that can comprehend the world around them. The computer vision and machine vision fields have significant overlap. Computer vision covers the core technology of automated image analysis which is used in many fields. Machine vision usually refers to a process of combining automated image analysis with other methods and technologies to provide automated inspection and robot guidance in industrial applications. In many computer-vision applications, computers are pre-programmed to solve a particular task, but methods based on learning are now becoming increasingly common. Examples of applications of computer vision include systems for:
+
+File:Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes With Deep Generative Networks.png|thumb|Learning 3D shapes has been a challenging task in computer vision. Recent advances in [[deep learning have enabled researchers to build models that are able to generate and reconstruct 3D shapes from single or multi-view depth maps or silhouettes seamlessly and efficiently.
+* Controlling processes, ''e.g.'', an industrial robots|industrial robot;
+* Activity recognition|Detecting events, ''e.g.'', for artificial intelligence for video surveillance|visual surveillance or people counter|people counting, e.g., in the Presto (restaurant technology platform)|restaurant industry;
+* Interaction, ''e.g.'', as the input to a device for computer-human interaction;
+* Modeling objects or environments, ''e.g.'', medical image analysis or topographical modeling;
+* Navigation, ''e.g.'', by an autonomous vehicle or mobile robot;
+* Organizing information, ''e.g.'', for Search engine indexing|indexing databases of images and image sequences.
+*Tracking surfaces or planes in 3D coordinates for allowing Augmented Reality experiences.
+

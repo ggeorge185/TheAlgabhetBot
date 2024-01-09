@@ -1,0 +1,9 @@
+This section is linked to from Turing test -->
+<!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not move it out of the section heading, even though it disrupts edit summary generation (you can manually fix the edit summary before you save your changes). Please do not modify it, even if you modify the section title. It is always best to anchor an old section header that has been changed so that links to it won't be broken. See Template:Anchor for details. (This text: Template:Anchor comment) -->
+This is a philosophical question, related to the problem of other minds and the hard problem of consciousness. The question revolves around a position defined by John Searle as "strong AI":
+* A physical symbol system can have a mind and mental states. Stuart J. Russell|Russell and Norvig agree: "Most AI researchers take the weak AI hypothesis for granted, and don't care about the strong AI hypothesis."
+
+There are a few researchers who believe that consciousness is an essential element in intelligence, such as Igor Aleksander, Stan Franklin, Ron Sun, and Artificial consciousness#Haikonen's cognitive architecture|Pentti Haikonen, although their definition of "consciousness" strays very close to "intelligence". (See artificial consciousness.)
+
+Before we can answer this question, we must be clear what we mean by "minds", "mental states" and "consciousness".
+

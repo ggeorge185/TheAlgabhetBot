@@ -1,0 +1,9 @@
+Pei Wang's definition of artificial intelligence
+* Dartmouth workshop|Dartmouth proposal ("Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it")
+* Turing test
+** Computing Machinery and Intelligence
+* Intelligent agent and rational agent 
+** Action selection
+* AI effect
+* Synthetic intelligence
+

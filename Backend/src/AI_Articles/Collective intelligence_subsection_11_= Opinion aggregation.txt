@@ -1,0 +1,4 @@
+In this situation, opinions are gathered from the crowd regarding an idea, issue or product. For example, trying to get a rating (on some scale) of a product sold online (such as Amazon's star rating system). Here, the emphasis is to collect and simply aggregate the ratings provided by customers/users. 
+
+A similar approach is used in political science, where the opinions collected from different media such as Facebook, Twitter, Twitter Sentiment, YouTube, Google are aggregated via simple averaging or factor analysis to study or predict elections such as Obama's in 2012 or Trump's in 2016. Opinion aggregation is also the basis of other election prediction studies, which adopt this approach to assess the forecasting accuracy of groups consisting of political scientists, journalists, citizens, and the wider public.
+

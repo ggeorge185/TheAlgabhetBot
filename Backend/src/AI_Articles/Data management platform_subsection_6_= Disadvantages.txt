@@ -1,0 +1,6 @@
+Data management platforms rely heavily on Cookie technology to identify behaviours. Recent moves from Apple and now Google are moving towards blocking third party advertising cookies which places the Data management platform value proposition at risk.
+
+Moreover, the adoption of such a platform may be difficult in an organization's current environment. This is because data aggregation technology is complex and requires the correct technical knowledge for implementation.
+
+Another area of concern is the quality of the imported data: if it is of low quality, then the DMP will fail to provide meaningful results.<ref name="Matuszewska 2018" />
+

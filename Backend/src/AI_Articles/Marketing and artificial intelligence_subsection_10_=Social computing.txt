@@ -1,0 +1,2 @@
+Social computing is the branch of technology that can be used by marketers to analyze social behaviors within networks and also allows for the creation of artificial social agents. Social computing provides the platform to create social-based software; some earlier examples of social computing are such systems that allow a user to extract social information such as contact information from email accounts e.g. addresses and companies titles from one's email using Conditional Random Field (CRFs) technology.
+

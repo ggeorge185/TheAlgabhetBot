@@ -1,0 +1,6 @@
+Machine learning and statistics are closely related fields in terms of methods, but distinct in their principal goal: statistics draws population Statistical inference|inferences from a Sample (statistics)|sample, while machine learning finds generalizable predictive patterns. According to Michael I. Jordan, the ideas of machine learning, from methodological principles to theoretical tools, have had a long pre-history in statistics. He also suggested the term data science as a placeholder to call the overall field.
+
+Leo Breiman distinguished two statistical modeling paradigms: data model and algorithmic model, wherein "algorithmic model" means more or less the machine learning algorithms like Random forest|Random Forest.
+
+Some statisticians have adopted methods from machine learning, leading to a combined field that they call ''statistical learning''.
+

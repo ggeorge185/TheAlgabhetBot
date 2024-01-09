@@ -1,0 +1,20 @@
+Formal Logic is used for automatic reasoning|reasoning and knowledge representation.
+Formal logic comes in two main forms: propositional logic (which operates on statements that are true or false and uses logical connectives such as "and", "or", "not" and "implies")
+and predicate logic (which also operates on objects, predicates and relations and uses Quantifier (logic)|quantifiers such as "''Every'' ''X'' is a ''Y''" and "There are ''some'' ''X''s that are ''Y''s").
+
+Logical inference (or Deductive reasoning|deduction) is the process of logical proof|proving a new statement (Logical consequence|conclusion) from other statements that are already known to be true (the premises).
+A logical knowledge base also handles queries and assertions as a special case of inference.
+An inference rule describes what is a validity (logic)|valid step in a proof. The most general inference rule is resolution (logic)|resolution.
+Inference can be reduced to performing a search to find a path that leads from premises to conclusions, where each step is the application of an inference rule.
+Inference performed this way is Intractable problem|intractable except for short proofs in restricted domains. No efficient, powerful and general method has been discovered.
+
+Fuzzy logic assigns a "degree of truth" between 0 and 1. It can therefore handle propositions that are vague and partially true.
+Non-monotonic logics are designed to handle default reasoning.
+
+Bayesian networks
+are a very general tool that can be used for many problems, including automated reasoning|reasoning (using the Bayesian inference algorithm),
+}} Machine learning|learning (using the expectation-maximization algorithm),}} Automated planning and scheduling|planning (using decision networks)
+and Machine perception|perception (using dynamic Bayesian networks).
+
+Precise mathematical tools have been developed that analyze how an agent can make choices and plan, using decision theory, decision analysis, and information value theory. These tools include models such as Markov decision processes, dynamic decision networks,File:EM_Clustering_of_Old_Faithful_data.gif|thumb|upright=1.2|[[Expectation-maximization Cluster analysis|clustering of Old Faithful eruption data starts from a random guess but then successfully converges on an accurate clustering of the two physically distinct modes of eruption.]]
+

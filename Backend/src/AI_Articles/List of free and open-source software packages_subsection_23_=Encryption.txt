@@ -1,0 +1,14 @@
+Advanced Encryption Standard|AES
+*Bouncy Castle (cryptography)|Bouncy Castle
+*GnuPG
+*GnuTLS
+*KGPG
+*NaCl (software)|NaCl
+*OpenSSL
+*Seahorse (software)|Seahorse
+*Signal (software)|Signal
+*stunnel
+*TextSecure
+*wolfCrypt
+*7-Zip
+

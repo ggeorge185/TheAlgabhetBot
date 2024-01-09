@@ -1,0 +1,4 @@
+Ramco Systems’ HR and payroll software includes artificial intelligence-based solutions for HR and payroll, such as its Self Explaining Payslip (SEP) system launched in 2021, which handles employee payroll queries using automated responses. SEP makes use of Deep learning|Deep Learning and Natural language processing|Natural Language Processing to improve HR & payroll transactions.
+
+In 2021, Ramco Systems signed a partnership with the two largest HCM providers, Oracle Corporation|Oracle and Workday, Inc.|Workday. The partnership allowed Ramco to provide multi-country payroll to Workday's MNC client base. This marketplace serves as a centralized hub for enterprise applications provided by Oracle and its partners.<sup> In the same year, it  also began implementing its payroll and HR solutions at Kudu Company for Food and Catering, a Saudi Arabian restaurant chain.
+

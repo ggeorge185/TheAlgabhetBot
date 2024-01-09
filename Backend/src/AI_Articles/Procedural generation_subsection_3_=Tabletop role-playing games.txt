@@ -1,0 +1,4 @@
+Using procedural generation in games had origins in the tabletop role playing game (RPG) venue. The leading tabletop system, ''Advanced Dungeons & Dragons'', provided ways for the "dungeon master" to generate dungeons and terrain using random die rolls, expanded in later editions with complex branching procedural tables. Strategic Simulations under license from TSR (company)|TSR released the ''Dungeon Master's Assistant'', a computer program that generated dungeons based on these published tables. ''Tunnels & Trolls'', published by Flying Buffalo, was designed primarily around solitary play and used similar procedural generation for its dungeons. Other tabletop RPGs borrowed similar concepts in procedural generation for various world elements.
+
+Many online tools for Dungeon Masters now use procedural generation to varying degrees.
+

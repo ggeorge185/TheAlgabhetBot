@@ -1,0 +1,5 @@
+Halim, S., Halim, F. (2013). ''Competitive Programming 3: The New Lower Bound of Programming Contests''. Lulu.
+* Laaksonen, A. (2017). ''Guide to Competitive Programming'' (Undergraduate Topics in Computer Science). Cham: Springer International Publishing.
+* Xu, X. (2020) ''The development, prosperity and decline of Olympic in Informatics''. Published online.
+* Kostka, B. (2021). ''Sports programming in practice.'' University of Wrocław.
+

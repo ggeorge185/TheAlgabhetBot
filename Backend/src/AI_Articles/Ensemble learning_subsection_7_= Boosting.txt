@@ -1,0 +1,5 @@
+main|Boosting (meta-algorithm)}}
+Boosting involves training successive models by emphasizing training data mis-classified by previously learned models. Initially, all data (D1) has equal weight and is used to learn a base model M1. The examples mis-classified by M1 are assigned a weight greater than correctly classified examples. This boosted data (D2) is used to train a second base model M2, and so on. Inference is done by voting.
+
+In some cases, boosting has yielded better accuracy than bagging, but tends to over-fit more. The most common implementation of boosting is Adaboost, but some newer algorithms are reported to achieve better results.
+

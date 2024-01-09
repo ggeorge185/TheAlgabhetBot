@@ -1,0 +1,7 @@
+AI Companies of India
+* Alphabet Inc.
+** DeepMind
+** Google X
+*** Meka Robotics (acquired by Google X)
+*** Redwood Robotics (acquired by Google X Google co-founder Larry Page and Kurzweil agreed on a one-sentence job description: "to bring natural language understanding to Google".
+

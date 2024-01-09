@@ -1,0 +1,33 @@
+glossary}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ or  to process a Stream (computing)|stream, producing another stream. While a single filter can be used individually, they are frequently strung together to form a Pipeline (software)|pipeline.}}
+
+
+.</math>}}
+
+
+ 
+  for specifying iteration, which allows code to be execution (computers)|executed repeatedly. Various keywords are used to specify this statement: descendants of ALGOL use "for", while descendants of Fortran use "do". There are also other possibilities, e.g. COBOL uses "PERFORM VARYING".}}
+
+
+ and computer hardware|hardware systems. The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.}}
+
+
+ of intended  underlying a system with respect to a certain formal specification or property, using  of mathematics.}}
+
+
+—a style of building the structure and elements of –that treats  as the evaluation of function (mathematics)|mathematical functions and avoids changing-program state|state and Immutable object|mutable data. It is a declarative programming paradigm in that programming is done with  or  instead of .}}
+
+

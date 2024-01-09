@@ -1,0 +1,6 @@
+In 1981, the Ministry of International Trade and Industry|Japanese Ministry of International Trade and Industry set aside $850 million for the Fifth generation computer project. Their objectives were to write programs and build machines that could carry on conversations, translate languages, interpret pictures, and reason like human beings. Much to the chagrin of neats vs. scruffies|scruffies, they chose Prolog as the primary computer language for the project.
+
+Other countries responded with new programs of their own. The UK began the £350 million Alvey project. A consortium of American companies formed the Microelectronics and Computer Technology Corporation (or "MCC") to fund large scale projects in AI and information technology.
+
+File:Hopfield-net-vector.svg|thumb|left|A Hopfield net with four nodes
+

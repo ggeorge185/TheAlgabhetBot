@@ -1,0 +1,7 @@
+The widespread introduction of cloud computing provides several benefits in delivering legal services. Legal service providers can use the Software as a Service model to earn a profit by charging customers a per-use or subscription fee. This model has several benefits over traditional bespoke services.
+* Software as a service is much more scalable. Traditional bespoke models require an attorney to spend more of a limited resource (their time) on each additional client. Using Software as a Service, a legal service provider can put in effort once to develop the product and then use a much less limited resource (cloud computing power) to provide service to each additional customer.
+* Software as a service can be used to complement traditional bespoke services by handling routine tasks, leaving an attorney free to concentrate on bespoke work.
+* Software as a service can be delivered more conveniently because it does not require the legal service provider to be available at the same time as the customer.
+
+Software as a service also complicates the attorney-client relationship in a way that may have implications for attorney–client privilege.  The traditional delivery model makes it easy to create delineations of when attorney-client privilege attaches and when it does not. But in more complex models of legal service delivery other actors or automated processes may moderate the relationship between a client and their attorney making it difficult to tell which communications should be Privilege (evidence)|legally privileged.
+

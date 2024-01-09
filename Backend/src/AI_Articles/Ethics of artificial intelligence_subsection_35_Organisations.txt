@@ -1,0 +1,16 @@
+columns-list|colwidth=30em|
+*Alan Turing Institute
+*Center for Human-Compatible Artificial Intelligence
+*Center for Security and Emerging Technology
+*Centre for the Study of Existential Risk
+*Future of Humanity Institute
+*Future of Life Institute
+*Machine Intelligence Research Institute
+*Responsible AI Institute
+*Partnership on AI
+*Leverhulme Centre for the Future of Intelligence
+*Institute for Ethics and Emerging Technologies
+*Oxford Internet Institute
+*[https://ai.ethics.pt/ Ai.Ethics Portugal]
+}}
+

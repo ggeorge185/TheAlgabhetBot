@@ -1,0 +1,2 @@
+Computational psychiatry is a new emerging field that brings together experts in machine learning, neuroscience, neurology, psychiatry, psychology to provide an understanding of psychiatric disorders.
+

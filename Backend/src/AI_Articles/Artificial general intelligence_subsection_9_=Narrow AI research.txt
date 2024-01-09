@@ -1,0 +1,8 @@
+Main|Artificial intelligence}}
+
+In the 1990s and early 21st century, mainstream AI achieved commercial success and academic respectability by focusing on specific sub-problems where AI can produce verifiable results and commercial applications, such as speech recognition and recommendation algorithms. These "applied AI" systems are now used extensively throughout the technology industry, and research in this vein is heavily funded in both academia and industry. , development in this field was considered an emerging trend, and a mature stage was expected to be reached in more than 10 years.
+
+At the turn of the century, many mainstream AI researchers</blockquote>
+
+However, even at the time, this was disputed. For example, Stevan Harnad of Princeton University concluded his 1990 paper on the Symbol grounding problem|Symbol Grounding Hypothesis by stating: <blockquote>The expectation has often been voiced that "top-down" (symbolic) approaches to modeling cognition will somehow meet "bottom-up" (sensory) approaches somewhere in between. If the grounding considerations in this paper are valid, then this expectation is hopelessly modular and there is really only one viable route from sense to symbols: from the ground up. A free-floating symbolic level like the software level of a computer will never be reached by this route (or vice versa) – nor is it clear why we should even try to reach such a level, since it looks as if getting there would just amount to uprooting our symbols from their intrinsic meanings (thereby merely reducing ourselves to the functional equivalent of a programmable computer).</blockquote>
+

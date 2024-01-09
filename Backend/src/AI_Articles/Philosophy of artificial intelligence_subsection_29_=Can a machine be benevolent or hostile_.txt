@@ -1,0 +1,12 @@
+Main|Ethics of artificial intelligence}}
+
+This question (like many others in the philosophy of artificial intelligence) can be presented in two forms. "Hostility" can be defined in terms functionalism (philosophy)|function or behaviorism|behavior, in which case "hostile" becomes synonymous with "dangerous". Or it can be defined in terms of intent: can a machine "deliberately" set out to do harm? The latter is the question "can a machine have conscious states?" (such as intentions) in another form. This is discussed by a philosophy called Singularitarianism.
+
+In 2009, academics and technical experts attended a conference to discuss the potential impact of robots and computers and the impact of the hypothetical possibility that they could become self-sufficient and able to automated decision-making|make their own decisions. They discussed the possibility and the extent to which computers and robots might be able to acquire any level of autonomy, and to what degree they could use such abilities to possibly pose any threat or hazard. They noted that some machines have acquired various forms of semi-autonomy, including being able to find power sources on their own and being able to independently choose targets to attack with weapons. They also noted that some computer viruses can evade elimination and have achieved "cockroach intelligence". They noted that self-awareness as depicted in science-fiction is probably unlikely, but that there were other potential hazards and pitfalls.
+
+Some experts and academics have questioned the use of robots for military combat, especially when such robots are given some degree of autonomous functions. The US Navy has funded a report which indicates that as military robots become more complex, there should be greater attention to implications of their ability to make autonomous decisions.
+
+The President of the Association for the Advancement of Artificial Intelligence has commissioned a study to look at this issue. They point to programs like the Language Acquisition Device which can emulate human interaction.
+
+Some have suggested a need to build "Friendly AI", meaning that the advances which are already occurring with AI should also include an effort to make AI intrinsically friendly and humane.
+

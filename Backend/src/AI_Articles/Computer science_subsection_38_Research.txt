@@ -1,0 +1,3 @@
+further|List of computer science conferences|Category:Computer science journals}}
+Conferences are important events for computer science research. During these conferences, researchers from the public and private sectors present their recent work and meet. Unlike in most other academic fields, in computer science, the prestige of proceedings|conference papers is greater than that of journal publications. One proposed explanation for this is the quick development of this relatively new field requires rapid review and distribution of results, a task better handled by conferences than by journals.
+

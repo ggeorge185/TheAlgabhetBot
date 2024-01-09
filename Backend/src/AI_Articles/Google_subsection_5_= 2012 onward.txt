@@ -1,0 +1,41 @@
+In June 2013, Google acquired Waze, a $966 million deal. While Waze would remain an independent entity, its social features, such as its crowdsourced location platform, were reportedly valuable integrations between Waze and Google Maps, Google's own mapping service.
+
+Google announced the launch of a new company, called Calico (company)|Calico, on September 19, 2013, to be led by Apple Inc. chairman Arthur D. Levinson|Arthur Levinson. In the official public statement, Page explained that the "health and well-being" company would focus on "the challenge of ageing and associated diseases".
+
+File:Google-Deep Mind headquarters in London, 6 Pancras Square.jpg|thumb|upright|Entrance of building where Google and its subsidiary Deep Mind are located at 6 Pancras Square, London|alt=
+On January 26, 2014, Google announced it had agreed to acquire DeepMind Technologies, a privately held artificial intelligence company from London. Technology news website ''Recode'' reported that the company was purchased for $400 million, yet the source of the information was not disclosed. A Google spokesperson declined to comment on the price. The purchase of DeepMind aids in Google's recent growth in the artificial intelligence and robotics community. In 2015, DeepMind's AlphaGo became the first computer program to AlphaGo versus Lee Sedol|defeat a top human pro at the game of Go.
+
+According to Interbrand's annual Best Global Brands report, Google has been the second most valuable brand in the world (behind Apple Inc.) in 2013, 2014, 2015, and 2016, with a valuation of $133 billion.
+
+On August 10, 2015, Google announced plans to reorganize its various interests as a Conglomerate (company)|conglomerate named Alphabet Inc.|Alphabet Inc. Google became Alphabet's largest subsidiary and the umbrella company for Alphabet's Internet interests. Upon completion of the restructuring, Sundar Pichai became Chief executive officer|CEO of Google, replacing Larry Page, who became CEO of Alphabet.
+File:The CEO of Google, Mr. Sundar Pichai calls on the Prime Minister, Shri Narendra Modi, in New Delhi on December 17, 2015 (1).jpg|thumb|Current Google CEO, [[Sundar Pichai, with Prime Minister of India, Narendra Modi]]
+On August 8, 2017, Google fired employee James Damore after he distributed a memo throughout the company that argued bias and "Google's Ideological Echo Chamber" clouded their thinking about diversity and inclusion, and that it is also biological factors, not discrimination alone, that cause the average woman to be less interested than men in technical positions. Google CEO Sundar Pichai accused Damore of violating company policy by "advancing harmful gender stereotypes in our workplace", and he was fired on the same day.
+
+Between 2018 and 2019, Google worker organization|tensions between the company's leadership and its workers escalated as staff protested company decisions on internal sexual harassment, Dragonfly (search engine)|Dragonfly, a censored Chinese search engine, and Project Maven, a military drone artificial intelligence, which had been seen as areas of revenue growth for the company. On October 25, 2018, ''The New York Times'' published the ''exposé'', "How Google Protected Andy Rubin, the 'Father of Android'". The company subsequently announced that "48 employees have been fired over the last two years" for sexual misconduct. On November 1, 2018, more than 20,000 Google employees and contractors staged a global walk-out to protest the company's handling of sexual harassment complaints. CEO Sundar Pichai was reported to be in support of the protests. Later in 2019, some workers accused the company of retaliating against internal activists.
+
+On March 19, 2019, Google announced that it would enter the video game market, launching a cloud gaming platform called Google Stadia. This led to the filing of an antitrust lawsuit in October 2020, on the grounds the company had abused a monopoly position in the Web search engine|search and search advertising markets.
+
+In December 2019, former PayPal chief operating officer Bill Ready became Google's new commerce chief. Ready's role will not be directly involved with Google Pay (2018–2022)|Google Pay.
+
+In April 2020, due to the COVID-19 pandemic, Google announced several cost-cutting measures. Such measures included slowing down hiring for the remainder of 2020, except for a small number of strategic areas, recalibrating the focus and pace of investments in areas like data centers and machines, and non-business essential marketing and travel. Most employees were also working from home due to the COVID-19 pandemic and the success of it even led to Google announcing that they would be permanently converting some of their jobs to work from home 
+
+The 2020 Google services outages disrupted Google services: one in August that affected Google Drive among others, another in November affecting YouTube, and a third in December affecting the entire suite of Google applications. All three outages were resolved within hours.
+
+In 2021, the Alphabet Workers Union was founded, composed mostly of Google employees.
+
+In January 2021, the Australian Government proposed legislation that would require Google and Facebook to pay media companies for the right to use their content. In response, Google threatened to close off access to its search engine in Australia.
+
+In March 2021, Google reportedly paid $20 million for Ubisoft ports on Google Stadia. Google spent "tens of millions of dollars" on getting major publishers such as Ubisoft and Take-Two to bring some of their biggest games to Stadia.
+
+In April 2021, ''The Wall Street Journal'' reported that Google ran a years-long program called "Project Bernanke" that used data from past advertising bids to gain an advantage over competing for ad services. This was revealed in documents concerning the antitrust lawsuit filed by ten US states against Google in December.
+
+In September 2021, the Australian government announced plans to curb Google's capability to sell targeted ads, claiming that the company has a monopoly on the market harming publishers, advertisers, and consumers.
+
+In 2022, Google began accepting requests for the removal of phone numbers, physical addresses and email addresses from its search results. It had previously accepted requests for removing confidential data only, such as Social Security numbers, bank account and credit card numbers, personal signatures, and medical records. Even with the new policy, Google may remove information from only certain but not all search queries. It would not remove content that is "broadly useful", such as news articles, or already part of the public record.
+
+In May 2022, Google announced that the company had acquired California based, MicroLED display technology development and manufacturing Start-up Raxium. Raxium is set to join Google's Devices and Services team to aid in the development of micro-optics, monolithic integration, and system integration.
+
+In early 2023, following the success of ChatGPT and concerns that Google was falling behind in the AI race, Google's senior management issued a "code red" and a "directive that all of its most important products—those with more than a billion users—must incorporate generative AI within months".
+
+In early May 2023, Google announced its plans to build two additional data centers in Ohio. These centers, which will be built in Columbus and Lancaster, will power up the company's tools, including AI technology. The said data hub will add to the already operational center near Columbus, bringing Google's total investment in Ohio to over $2 billion.
+

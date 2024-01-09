@@ -1,0 +1,5 @@
+ASIMO, Honda's humanoid robot, and QRIO, Sony's version of a humanoid robot.
+*MIT Cog project|Cog, M.I.T. humanoid robot project under the direction of Rodney Brooks.
+*AIBO, Sony's robot dog, integrates vision, hearing and motorskills.
+*TOPIO, TOSY's humanoid robot can play ping-pong with human
+

@@ -1,0 +1,10 @@
+Mistral 7B is a 7.3B parameter language model using the transformers architecture. Officially released on September 27, 2023 via a BitTorrent magnet link, and HuggingFace|Hugging Face. The model was released under the Apache 2.0 license. The release blog post claimed the model outperforms LLaMA#LLaMA-2|LLaMA 2 13B on all benchmarks tested, and is on par with LLaMA 34B on many benchmarks tested.
+
+Mistral 7B uses a similar architecture to LLaMA, but with some changes to the attention mechanism. In particular it uses Grouped-query attention (GQA) intended for faster inference and Sliding Window Attention (SWA) intended to handle longer sequences.
+
+Sliding Window Attention (SWA) reduces the computational cost and memory requirement for longer sequences. In sliding window attention, each token can only attend to a fixed number of tokens from the previous layer in a "sliding window" of 4096 tokens, with a total context length of 32768 tokens. At inference time, this reduces the cache availability, leading to higher latency and smaller throughput. To alleviate this issue, Mistral 7B uses a rolling buffer cache.
+
+Mistral 7B uses grouped-query attention (GQA), which is a variant of the standard attention mechanism. Instead of computing attention over all the hidden states, it computes attention over groups of hidden states.
+
+Both a base model and "instruct" model were released with the later receiving additional tuning to follow chat-style prompts. The fine-tuned model is only intended for demonstration purposes, and does not have guardrails or moderation built-in. Each single token can only use 12.9B parameters, therefore giving the speed and cost that a 12.9B parameter model would incur.
+

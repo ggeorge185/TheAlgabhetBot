@@ -1,0 +1,8 @@
+Several Project MAC alumni went on to further revolutionize the computer industry. --><!-- One isn't "several". -->
+* Robert Metcalfe, who later invented Ethernet at PARC (company)|Xerox PARC and later founded 3Com
+* Marc Raibert, who created the robot company Boston Dynamics 
+* Drew Houston, co-founder of Dropbox
+* Colin Angle and Helen Greiner who, with previous CSAIL director Rodney Brooks, founded iRobot
+* Jeremy Wertheimer, who developed ITA Software used by travel websites like Kayak (company)|Kayak and Orbitz
+* Max Krohn, co-founder of OkCupid 
+

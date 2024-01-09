@@ -1,0 +1,4 @@
+It is often important for human operators to gauge how much they should trust an AI system, especially in high-stakes settings such as medical diagnosis. ML models generally express confidence by outputting probabilities; however, they are often overconfident, especially in situations that differ from those that they were trained to handle. Calibration research aims to make model probabilities correspond as closely as possible to the true proportion that the model is correct.
+
+Similarly, anomaly detection or out-of-distribution (OOD) detection aims to identify when an AI system is in an unusual situation. For example, if a sensor on an autonomous vehicle is malfunctioning, or it encounters challenging terrain, it should alert the driver to take control or pull over. Anomaly detection has been implemented by simply training a classifier to distinguish anomalous and non-anomalous inputs, though a range of additional techniques are in use.
+

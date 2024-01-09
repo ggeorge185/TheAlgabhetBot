@@ -1,0 +1,10 @@
+cite book|url=https://archive.org/details/reasoningaboutra0000wool|title=Reasoning about Rational Agents|last=Wooldridge|first=Michael|date=2000|publisher=MIT Press|isbn=978-0262515566|location=|url-access=registration}}
+* 
+* 
+* 
+* 
+* 
+* 
+*
+*Wooldridge, Michael (19 January 2020). ''A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going''. New York: Flatiron Books. .
+

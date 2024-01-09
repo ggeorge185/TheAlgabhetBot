@@ -1,0 +1,4 @@
+Cailloux and Endriss present a method for explaining voting rules using the axioms that characterize them. They exemplify their method on the Borda voting|Borda voting rule .
+
+Peters, Procaccia, Psomas and Zhou present an algorithm for explaining the outcomes of the Borda rule using O(''m''<sup>2</sup>) explanations, and prove that this is tight in the worst case.
+

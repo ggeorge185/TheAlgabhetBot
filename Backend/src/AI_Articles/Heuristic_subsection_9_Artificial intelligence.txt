@@ -1,0 +1,2 @@
+A Heuristic (computer science)|heuristic can be used in artificial intelligence systems while searching a solution space. The heuristic is derived by using some function that is put into the system by the designer, or by adjusting the weight of branches based on how likely each branch is to lead to a Goal node (computer science)|goal node.
+

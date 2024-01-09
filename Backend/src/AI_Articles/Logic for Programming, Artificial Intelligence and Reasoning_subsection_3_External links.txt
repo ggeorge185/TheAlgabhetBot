@@ -1,0 +1,12 @@
+Official website}} — accounting for 1st to 15th conference (1990–1994, 1999–2008)
+* [http://www.computational-logic.org/lpar-17/Home.html 17th LPAR's home page (2010)]
+* [http://www.cs.miami.edu/~geoff/Conferences/LPAR-18 18th LPAR's home page (2012)]
+* [http://www.cs.sun.ac.za/lpar-19 19th LPAR's home page (2013)]
+* [https://dblp.org/streams/conf/lpar LPAR page] at DBLP
+
+
+
+Category:Theoretical computer science conferences
+Category:Logic conferences
+
+

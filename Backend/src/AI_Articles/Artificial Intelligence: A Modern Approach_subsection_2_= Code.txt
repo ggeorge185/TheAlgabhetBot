@@ -1,0 +1,2 @@
+The authors provide a GitHub Software_repository|repository with implementations of various exercises and algorithms from the book in different programming languages.  Programs in the book are presented in pseudo code with implementations in Java (programming language)|Java, Python (programming language)|Python, Lisp (programming language)|Lisp, JavaScript and Scala (programming language)|Scala available online.
+

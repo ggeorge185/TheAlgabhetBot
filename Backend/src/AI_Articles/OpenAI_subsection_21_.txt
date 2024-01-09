@@ -1,0 +1,11 @@
+main|GPT-2}}
+
+File:GPT2-talks-about-GPT2.png|right|thumb|An instance of GPT-2 writing a paragraph based on a prompt from its own Wikipedia article in February 2021
+Generative Pre-trained Transformer 2 ("GPT-2") is an Unsupervised learning|unsupervised Transformer (machine learning model)|transformer language model and the successor to OpenAI's original GPT model ("GPT-1"). GPT-2 was announced in February 2019, with only limited demonstrative versions initially released to the public. The full version of GPT-2 was not immediately released due to concern about potential misuse, including applications for writing fake news. Some experts expressed skepticism that GPT-2 posed a significant threat.
+
+In response to GPT-2, the Allen Institute for Artificial Intelligence responded with a tool to detect "neural fake news". Other researchers, such as Jeremy Howard, warned of "the technology to totally fill Twitter, email, and the web up with reasonable-sounding, context-appropriate prose, which would drown out all other speech and be impossible to filter". In November 2019, OpenAI released the complete version of the GPT-2 language model. Several websites host interactive demonstrations of different instances of GPT-2 and other transformer models.
+
+GPT-2's authors argue unsupervised language models to be general-purpose learners, illustrated by GPT-2 achieving state-of-the-art accuracy and perplexity on 7 of 8 Zero-shot learning|zero-shot tasks (i.e. the model was not further trained on any task-specific input-output examples).
+
+The corpus it was trained on, called WebText, contains slightly over 8 million documents for a total of 40 gigabytes of text from URLs shared in Reddit submissions with at least 3 upvotes. It avoids certain issues encoding vocabulary with word tokens by using byte pair encoding. This permits representing any string of characters by encoding both individual characters and multiple-character tokens.
+

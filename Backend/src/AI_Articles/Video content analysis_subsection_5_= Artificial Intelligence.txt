@@ -1,0 +1,4 @@
+main|Artificial intelligence for video surveillance}}
+
+Artificial intelligence for video surveillance utilizes computer software programs that analyze the audio and images from Surveillance cameras|video surveillance cameras in order to recognize humans, vehicles, objects and events. Security contractors program is the software to define restricted areas within the camera's view (such as a fenced off area, a parking lot but not the sidewalk or public street outside the lot) and program for times of day (such as after the close of business) for the property being protected by the camera surveillance. The artificial intelligence ("A.I.") sends an alert if it detects a trespasser breaking the "rule" set that no person is allowed in that area during that time of day.
+

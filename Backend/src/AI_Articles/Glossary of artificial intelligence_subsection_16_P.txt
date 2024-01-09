@@ -1,0 +1,53 @@
+glossary}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, that analyze current and historical facts to make predictions about future or otherwise unknown events.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, which comprises a Instruction set|set of instructions that produce various kinds of Input/output|output. Programming languages are used in computer programming to implement .}}
+
+
+ language associated with artificial intelligence and computational linguistics.  Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is intended primarily as a declarative programming|declarative programming language: the program logic is expressed in terms of relations, represented as facts and Rule of inference|rules.  A computation is initiated by running a ''query'' over these relations.}}
+
+
+
+
+
+
+ created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with its notable use of Off-side rule|significant whitespace. Its language constructs and object-oriented programming|object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.}}
+
+
+
+

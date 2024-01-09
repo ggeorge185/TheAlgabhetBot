@@ -1,0 +1,14 @@
+While initially research had been concerned mostly with the electrical characteristics of neurons, a particularly important part of the investigation in recent years has been the exploration of the role of neuromodulators such as dopamine, acetylcholine, and serotonin on behaviour and learning.
+
+Biophysics|Biophysical models, such as BCM theory, has been important in understanding mechanisms for synaptic plasticity, and have had applications in both computer science and neuroscience.
+
+Computational devices have been created in CMOS for both biophysical simulation and neuromorphic computing. More recent efforts show promise for creating nanodevices for very large scale principal components analyses and convolution. If successful, these efforts could usher in a new era of neural computing that is a step beyond digital computing, because it depends on learning rather than programming language|programming and because it is fundamentally Analog signal|analog rather than Digital data|digital even though the first instantiations may in fact be with CMOS digital devices.
+
+Between 2009 and 2012, the recurrent neural networks and deep feedforward neural networks developed in the research group of Jürgen Schmidhuber at the IDSIA|Swiss AI Lab IDSIA have won eight international competitions in pattern recognition and machine learning. For example, multi-dimensional long short term memory (LSTM) won three competitions in connected handwriting recognition at the 2009 International Conference on Document Analysis and Recognition (ICDAR), without any prior knowledge about the three different languages to be learned.
+
+Variants of the back-propagation algorithm, as well as unsupervised methods by Geoff Hinton and colleagues at the University of Toronto, can be used to train deep, highly nonlinear neural architectures, similar to the 1980 Neocognitron by Kunihiko Fukushima, and the "standard architecture of vision", inspired by the simple and complex cells identified by David H. Hubel and Torsten Wiesel in the primary visual cortex.
+
+Radial basis function and wavelet networks have also been introduced. These can be shown to offer best approximation properties and have been applied in nonlinear system identification and classification applications. and the  ISBI 2012 Segmentation of Neuronal Structures in Electron Microscopy Stacks challenge. Such neural networks also were the first artificial pattern recognizers to achieve human-competitive or even superhuman performance on benchmarks such as traffic sign recognition (IJCNN 2012), or the MNIST handwritten digits problem of Yann LeCun and colleagues at NYU.
+
+Analytical and computational techniques derived from statistical physics of disordered systems, can be extended to large-scale problems, including machine learning, e.g., to analyze the weight space of deep neural networks.
+

@@ -1,0 +1,34 @@
+Track listing
+| extra_column = Artist(s)
+| title1 = Polygon Window
+| extra1 = Aphex Twin|The Dice Man
+| length1 = 5:12
+| title2 = Telefone 529
+| extra2 = B12 (band)|Musicology
+| length2 = 4:11
+| title3 = Crystel
+| extra3 = Autechre
+| length3 = 4:38
+| title4 = The Clan
+| extra4 = The Black Dog (band)|I.A.O
+| length4 = 5:08
+| title5 = De-Orbit
+| extra5 = Speedy J
+| length5 = 6:13
+| title6 = 
+| extra6 = B12 (band)|Musicology
+| length6 = 4:04
+| title7 = Spiritual High
+| extra7 = Richie Hawtin|UP!
+| length7 = 7:43
+| title8 = The Egg
+| extra8 = Autechre
+| length8 = 7:32
+| title9 = Fill 3
+| extra9 = Speedy J
+| length9 = 3:42
+| title10 = Loving You Live
+| extra10 = Alex Paterson|Dr Alex Paterson
+| length10 = 4:01
+}}
+

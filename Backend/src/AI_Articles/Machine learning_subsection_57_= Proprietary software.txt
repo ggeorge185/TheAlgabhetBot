@@ -1,0 +1,24 @@
+Div col|colwidth=18em}}
+* Amazon Machine Learning
+* Angoss KnowledgeSTUDIO
+* Azure Machine Learning
+* IBM Watson Studio
+* Google Cloud Platform#Cloud AI|Google Cloud Vertex AI
+* Google APIs|Google Prediction API
+* SPSS Modeler|IBM SPSS Modeler
+* KXEN Inc.|KXEN Modeler
+* LIONsolver
+* Mathematica
+* MATLAB
+* Neural Designer
+* NeuroSolutions
+* Oracle Data Mining
+* Oracle Cloud#Platform as a Service (PaaS)|Oracle AI Platform Cloud Service
+* PolyAnalyst
+* RCASE
+* SAS (software)#Components|SAS Enterprise Miner
+* SequenceL
+* Splunk
+* STATISTICA Data Miner
+
+

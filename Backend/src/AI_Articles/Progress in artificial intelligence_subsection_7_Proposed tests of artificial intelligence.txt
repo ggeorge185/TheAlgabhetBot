@@ -1,0 +1,6 @@
+In his famous Turing test, Alan Turing picked language, Animal language#Aspects of human language|the defining feature of human beings, for its basis. The Turing test is now considered too exploitable to be a meaningful benchmark.
+
+The Feigenbaum test, proposed by the inventor of expert systems, tests a machine's knowledge and expertise about a specific subject. A paper by Jim Gray (computer scientist)|Jim Gray of Microsoft in 2003 suggested extending the Turing test to Speech recognition|speech understanding, Speech synthesis|speaking and Outline of object recognition|recognizing objects and behavior.
+
+Proposed "universal intelligence" tests aim to compare how well machines, humans, and even non-human animals perform on problem sets that are generic as possible. At an extreme, the test suite can contain every possible problem, weighted by Kolmogorov complexity; however, these problem sets tend to be dominated by impoverished pattern-matching exercises where a tuned AI can easily exceed human performance levels.
+

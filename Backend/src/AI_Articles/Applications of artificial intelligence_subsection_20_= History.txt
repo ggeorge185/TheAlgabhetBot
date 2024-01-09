@@ -1,0 +1,8 @@
+In the 1980s, AI started to become prominent in finance as expert systems were commercialized. For example, Dupont created 100 expert systems, which helped them to save almost $10 million per year. One of the first systems was the Protrader expert system that predicted the 87-point drop in the Dow Jones Industrial Average in 1986. "The major junctions of the system were to monitor premiums in the market, determine the optimum investment strategy, execute transactions when appropriate and modify the knowledge base through a learning mechanism."
+
+One of the first expert systems to help with financial plans was PlanPowerm and Client Profiling System, created by Applied Expert Systems (APEX). It was launched in 1986. It helped create personal financial plans for people.
+
+In the 1990s AI was applied to Artificial intelligence in fraud detection|fraud detection. In 1993 FinCEN Artificial Intelligence System (FAIS) launched. It was able to review over 200,000 transactions per week and over two years it helped identify 400 potential cases of money laundering equal to $1 billion. These expert systems were later replaced by machine learning systems.
+
+AI can enhance entrepreneurial activity and AI is one of the most dynamic areas for start-ups, with significant venture capital flowing into AI.
+

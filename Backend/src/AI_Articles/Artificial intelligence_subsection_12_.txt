@@ -1,0 +1,6 @@
+State space search searches through a tree of possible states to try to find a goal state. For example, Automated planning and scheduling|planning algorithms search through trees of goals and subgoals, attempting to find a path to a target goal, a process called means-ends analysis.
+
+Brute force search|Simple exhaustive searches are rarely sufficient for most real-world problems: the Search algorithm|search space (the number of places to search) quickly grows to Astronomically large|astronomical numbers. The result is a search that is Computation time|too slow or never completes.
+
+Adversarial search is used for game AI|game-playing programs, such as chess or Go. It searches through a Game tree|tree of possible moves and counter-moves, looking for a winning position.
+

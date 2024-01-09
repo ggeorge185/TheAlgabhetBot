@@ -1,0 +1,3 @@
+Main|Genetic algorithm}}
+A genetic algorithm (GA) is a search algorithm and heuristic (computer science)|heuristic technique that mimics the process of natural selection, using methods such as Mutation (genetic algorithm)|mutation and Crossover (genetic algorithm)|crossover to generate new Chromosome (genetic algorithm)|genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s. Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.
+

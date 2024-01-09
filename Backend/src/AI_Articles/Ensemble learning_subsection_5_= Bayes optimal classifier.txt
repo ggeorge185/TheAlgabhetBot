@@ -1,0 +1,16 @@
+Main article|Bayes classifier}}
+
+The Bayes optimal classifier is a classification technique. It is an ensemble of all the hypotheses in the hypothesis space. On average, no other ensemble can outperform it. The Naive Bayes classifier is a version of this that assumes that the data is conditionally independent on the class and makes the computation more feasible. Each hypothesis is given a vote proportional to the likelihood that the training dataset would be sampled from a system if that hypothesis were true. To facilitate training data of finite size, the vote of each hypothesis is also multiplied by the prior probability of that hypothesis. The Bayes optimal classifier can be expressed with the following equation:
+
+:<math>y=\underset} \sum_</math>
+
+where <math>y</math> is the predicted class, <math>C</math> is the set of all possible classes, <math>H</math> is the hypothesis space, <math>P</math> refers to a ''probability'', and <math>T</math> is the training data. As an ensemble, the Bayes optimal classifier represents a hypothesis that is not necessarily in <math>H</math>. The hypothesis represented by the Bayes optimal classifier, however, is the optimal hypothesis in ''ensemble space'' (the space of all possible ensembles consisting only of hypotheses in <math>H</math>).
+
+This formula can be restated using Bayes' theorem, which says that the posterior is proportional to the likelihood times the prior:
+
+:<math>P(h_i|T) \propto P(T|h_i)P(h_i)</math>
+
+hence,
+
+:<math>y=\underset} \sum_</math>
+

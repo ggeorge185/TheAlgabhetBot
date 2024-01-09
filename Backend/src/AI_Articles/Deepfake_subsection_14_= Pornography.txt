@@ -1,0 +1,6 @@
+main|Deepfake pornography}}
+In 2017, Deepfake pornography prominently surfaced on the Internet, particularly on Reddit. As of 2019, many deepfakes on the internet feature pornography of female celebrities whose likeness is typically used without their consent. A report published in October 2019 by Dutch cybersecurity startup Deeptrace estimated that 96% of all deepfakes online were pornographic. 
+As of 2018, a Daisy Ridley deepfake first captured attention, As of October 2019, most of the deepfake subjects on the internet were British and American actresses.
+
+In June 2019, a downloadable Windows and Linux application called DeepNude was released that used neural networks, specifically generative adversarial networks, to remove clothing from images of women. The app had both a paid and unpaid version, the paid version costing $50. On 27 June the creators removed the application and refunded consumers.
+

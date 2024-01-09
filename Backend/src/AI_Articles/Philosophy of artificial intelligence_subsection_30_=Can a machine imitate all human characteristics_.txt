@@ -1,0 +1,10 @@
+Turing said "It is customary&nbsp;... to offer a grain of comfort, in the form of a statement that some peculiarly human characteristic could never be imitated by a machine. ... I cannot offer any such comfort, for I believe that no such bounds can be set."
+
+Turing noted that there are many arguments of the form "a machine will never do X", where X can be many things, such as:
+<blockquote>Be kind, resourceful, beautiful, friendly, have initiative, have a sense of humor, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behaviour as a man, do something really new.</blockquote>
+Turing argues that these objections are often based on naive assumptions about the versatility of machines or are "disguised forms of the argument from consciousness". Writing a program that exhibits one of these behaviors "will not make much of an impression."</blockquote>The discussion on the topic has been reignited as a result of recent claims made by Google's LaMDA artificial Artificial intelligence|intelligence system that it is sentient and had a "soul".
+
+LaMDA (Language model|Language Model for Dialogue Applications) is an Artificial intelligence|artificial intelligence system that creates Chatbot|chatbots—AI robots designed to communicate with humans—by gathering vast amounts of text from the internet and using Algorithm|algorithms to respond to queries in the most fluid and natural way possible. 
+
+The transcripts of conversations between scientists and LaMDA reveal that the AI system excels at this, providing answers to challenging topics about the nature of Emotion|emotions, generating Aesop's Fables|Aesop-style fables on the moment, and even describing its alleged fears. Pretty much all philosophers doubt LaMDA's sentience.
+

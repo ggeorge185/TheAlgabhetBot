@@ -1,0 +1,4 @@
+Computer scientists such as Deep Blue developer Campbell believed that playing chess was a good measurement for the effectiveness of artificial intelligence, and by beating a world champion chess player, IBM showed that they had made significant progress. Deep Blue is also responsible for the popularity of using games as a display medium for artificial intelligence, as in the cases of IBM Watson or AlphaGo.
+
+While Deep Blue, with its capability of evaluating 200&nbsp;million positions per second, was the first computer to face a world chess champion in a formal match,
+

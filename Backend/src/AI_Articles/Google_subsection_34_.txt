@@ -1,0 +1,15 @@
+class="wikitable sortable"
+|-
+! SN !! City !! Country
+|-
+| 1.|| Dubai || 
+|-
+| 2.|| Haifa || 
+|-
+| 3.|| Istanbul || 
+|-
+| 4.|| Johannesburg || 
+|-
+| 5.|| Tel Aviv || 
+|}
+

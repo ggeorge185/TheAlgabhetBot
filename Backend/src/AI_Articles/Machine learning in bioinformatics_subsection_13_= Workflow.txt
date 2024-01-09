@@ -1,0 +1,5 @@
+Typically, a workflow for applying machine learning to biological data goes through four steps:
+* Errors during experimentation. For example, machine learning methods can be trained to identify specific visual features such as splice sites.
+
+Support-vector machine|Support vector machines have been extensively used in cancer genomic studies. In addition, deep learning has been incorporated into bioinformatic algorithms. Deep learning applications have been used for regulatory genomics and cellular imaging. Other applications include medical image classification, genomic sequence analysis, as well as protein structure classification and prediction. Deep learning has been applied to regulatory genomics, variant calling and pathogenicity scores. Natural language processing and text mining have helped to understand phenomena including protein-protein interaction, gene-disease relation as well as predicting biomolecule structures and functions.
+

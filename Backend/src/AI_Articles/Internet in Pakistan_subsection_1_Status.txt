@@ -1,0 +1,16 @@
+File:TWA-1-route.png|thumb|right|alt=A map showing the route of the TWA-1 telecommunication cable.|[[TWA-1 (cable system)|TWA-1 telecommunications cable linking the United Arab Emirates, Oman, and Pakistan.]]
+
+* List of countries by number of Internet users|Internet users:130 Million broadband subscribers as of September 2023, 8th in the world; 54% of the population.
+* List of countries by number of broadband Internet subscriptions|Fixed broadband: 2,374,355 subscribers as of September 2023, 	
+* List of countries by number of broadband Internet subscriptions|Mobile broadband: 126,930,301 subscriptions as of September 2023,
+* Top level domain: .pk
+* Domains registered under the .pk domain: ~30,000 (2012).
+* List of countries by IPv4 address allocation|IPv4: 5.2 million addresses allocated, 0.1% of the world total, 27.2 addresses per 1000 people (2012).
+* International bandwidth: ~78 Tbit/s combined from PTCL and TWA-1 (cable system)|TWA (2017).
+* List of international submarine communications cables|Undersea telecommunications cables: Six, SEA-ME-WE 3, SEA-ME-WE 4, I-ME-WE|IMEWE and AAE-1 operated by PTCL and TWA-1 (cable system)|TWA-1 and SEA-ME-WE 5 operated by Transworld Associates (2012).
+* Operational ISPs: ~50 (2012).
+
+Pakistan's getting its submarine optic fiber in 2000 also helped the ISP market flourish like never before. and announced the launch of 'Project Ittehad.' The blueprint of the project suggested that the company would lay down 4,500-km of fiber optic cables, which would link 77 cities of the country. The project was estimated to be completed in 14 months and resulted in a highly accessible, fully redundant and resilient DWDM backbone with 20 gigabytes per second operational capacity and 48 cores of dark fiber. Multinet has a 12,000&nbsp;km long self-healing and scalable optical fiber network covering over 120 cities of Pakistan.
+
+Broadband access is available in major cities, wireless broadband Internet has been introduced by the Wireless local loop (WLL) networks in many major cities, and WiMAX|Worldwide Interoperability for Microwave Access (WiMAX) networks are being deployed. Most Pakistani companies, educational institutes, and government departments maintain web sites, which has further increased the demand for Internet access.
+

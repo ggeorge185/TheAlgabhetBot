@@ -1,0 +1,8 @@
+Heuristics refers to the cognitive shortcuts that individuals use to simplify decision-making processes in economic situations. Behavioral economics is a field that integrates insights from psychology and economics to better understand how people make decisions.
+
+Anchoring and adjustment is one of the most extensively researched heuristics in behavioural economics. Anchoring is the tendency of people to make future judgements or conclusions based too heavily on the original information supplied to them. This initial knowledge functions as an anchor, and it can influence future judgements even if the anchor is entirely unrelated to the decisions at hand. Adjustment, on the other hand, is the process through which individuals make gradual changes to their initial judgements or conclusions.
+
+Anchoring and adjustment has been observed in a wide range of decision-making contexts, including financial decision-making, consumer behavior, and negotiation. Researchers have identified a number of strategies that can be used to mitigate the effects of anchoring and adjustment, including providing multiple anchors, encouraging individuals to generate alternative anchors, and providing cognitive prompts to encourage more deliberative decision-making.
+
+Other heuristics studied in behavioral economics include the representativeness heuristic, which refers to the tendency of individuals to categorize objects or events based on how similar they are to typical examples, and the availability heuristic, which refers to the tendency of individuals to judge the likelihood of an event based on how easily it comes to mind.
+

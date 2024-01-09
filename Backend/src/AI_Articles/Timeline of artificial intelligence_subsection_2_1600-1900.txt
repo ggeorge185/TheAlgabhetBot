@@ -1,0 +1,72 @@
+class="wikitable"
+|-
+! Date 
+! Development
+|-
+! 1620
+| Francis Bacon developed empirical theory of knowledge and introduced inductive logic in his work Novum Organum, a play on Aristotle's title Organon.
+|-
+! 1623
+| Wilhelm Schickard drew a calculating clock on a letter to Kepler. This will be the first of five unsuccessful attempts at designing a ''direct entry'' calculating clock in the 17th century (including the designs of Tito Livio Burattini|Tito Burattini, Samuel Morland and René Grillet de Roven|René Grillet).
+|-
+! 1641
+| Thomas Hobbes published ''Leviathan (Hobbes book)|Leviathan'' and presented a mechanical, combinatorial theory of cognition. He wrote "...for reason is nothing but reckoning".
+|-
+! 1642
+| Blaise Pascal invented a mechanical calculator, the first Digital data|digital Pascal's calculator|calculating machine.
+|-
+! 1647
+| René Descartes proposed that bodies of animals are nothing more than complex machines (but that mental phenomena are of a different "substance").
+|-
+! 1654
+| Blaise Pascal described how to find expected values in probability, in 1662 Antoine Arnauld published a formula to find the maximum expected value, and in 1663, Gerolamo Cardano's solution to the same problems is published 116 years after it was written. The theory of probability is further developed by Jacob Bernoulli and Pierre Laplace in the 18th century. Probability theory would become central to AI and machine learning from the 1990s onward. 
+|-
+! 1672
+| Gottfried Wilhelm Leibniz improved the earlier machines, making the Stepped Reckoner to do multiplication and Division (mathematics)|division. 
+|-
+! 1676
+| Gottfried Wilhelm Leibniz|Leibniz derived the chain rule. The rule is used by AI to train neural networks, for example the backpropagation algorithm uses the chain rule.
+|-
+! 1679
+|  Gottfried Wilhelm Leibniz|Leibniz developed a universal calculus of reasoning (alphabet of human thought) by which arguments could be decided mechanically. It assigned a specific number to each and every object in the world, as a prelude to an algebraic solution to all possible problems.
+|-
+! 1726
+| Jonathan Swift published ''Gulliver's Travels'', which includes this description of the Engine, a machine on the island of Laputa: "a Project for improving speculative Knowledge by practical and mechanical Operations" by using this "Contrivance", "the most ignorant Person at a reasonable Charge, and with a little bodily Labour, may write Books in Philosophy, Poetry, Politicks, Law, Mathematicks, and Theology, with the least Assistance from Genius or study." The machine is a parody of ''Ars Magna (Ramon Llull)|Ars Magna'', one of the inspirations of Gottfried Wilhelm Leibniz' mechanism.
+|-
+! 1738
+| Daniel Bernoulli introduces the concept of "utility (economics)|utility", a generalization of probability, the basis of economics and decision theory, and the mathematical foundation for the way AI represents the "goals" of intelligent agents.
+|-
+! 1739
+| David Hume described Inductive reasoning|induction, the logical method of learning generalities from examples.
+|-
+! 1750
+| Julien Offray de La Mettrie published ''L'Homme Machine'', which argued that human thought is strictly mechanical.
+|-
+!1763
+|Thomas Bayes's work ''An Essay towards solving a Problem in the Doctrine of Chances'', published two years after his death, laid the foundations of Bayes' theorem and used in modern AI in Bayesian networks.
+|-
+! 1769
+| Wolfgang von Kempelen built and toured with his chess-playing automaton, Mechanical Turk|The Turk, which Kempelen claimed could defeat human players. The Turk was later shown to be a hoax, involving a human chess player.
+|-
+! 1795-1805
+| The simplest kind of artificial neural network is the linear network. It has been known for over two centuries as the method of least squares or linear regression. It was used as a means of finding a good rough linear fit to a set of points by Adrien-Marie Legendre (1805) and Carl Friedrich Gauss (1795) for the prediction of planetary movement. 
+|-
+!1800
+|Joseph Marie Jacquard created a Computer program|programmable loom, based on earlier inventions by Basile Bouchon (1725), Jean-Baptiste Falcon (1728) and Jacques Vaucanson (1740). Replaceable punched cards controlled sequences of operations in the process of manufacturing textiles.  This may have been the first industrial software for commercial enterprises.
+|-
+! 1818
+| Mary Shelley published the story of ''Frankenstein|Frankenstein; or the Modern Prometheus'', a fictional consideration of the ethics of creating sentience|sentient beings.
+|-
+! 1822–1859
+| Charles Babbage & Ada Lovelace worked on Difference engine|programmable mechanical calculating machines.
+|-
+! 1837
+|The mathematician Bernard Bolzano made the first modern attempt to formalize semantics.
+|-
+! 1854
+| George Boole set out to "investigate the fundamental laws of those operations of the mind by which reasoning is performed, to give expression to them in the Symbolic language (mathematics)|symbolic language of a calculus", inventing Boolean algebra (logic)|Boolean algebra.
+|-
+! 1863
+| Samuel Butler (novelist)|Samuel Butler suggested that Charles Darwin|Darwinian evolution also applies to machines, and speculates that they will one day become conscious and eventually supplant humanity.
+|}
+

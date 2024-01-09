@@ -1,0 +1,5 @@
+Relationship extraction: Given a chunk of text, identify the relationships among named entities (e.g. who is married to whom).
+; Semantic parsing: Given a piece of text (typically a sentence), produce a formal representation of its semantics, either as a graph (e.g., in Abstract Meaning Representation|AMR parsing) or in accordance with a logical formalism (e.g., in Discourse representation theory|DRT parsing). This challenge typically includes aspects of several more elementary NLP tasks from semantics (e.g., semantic role labelling, word-sense disambiguation) and can be extended to include full-fledged discourse analysis (e.g., discourse analysis, coreference; see #Natural language understanding|Natural language understanding below).
+; Semantic role labeling|Semantic role labelling (see also implicit semantic role labelling below)
+:Given a single sentence, identify and disambiguate semantic predicates (e.g., verbal Frame semantics (linguistics)|frames), then identify and classify the frame elements (semantic roles).
+

@@ -1,0 +1,7 @@
+Main|3D computer graphics}}
+3D graphics are created via the process of designing imagery from geometry|geometric shapes, polygons, or Nonuniform rational B-spline|NURBS curves to create three-dimensional objects and scenes for use in various media such as film, television, print, rapid prototyping, games/simulations, and special visual effects.
+
+There are many software programs for doing this. The technology can enable collaboration, lending itself to sharing and augmenting by a creative effort similar to the Open-source model|open source movement and the creative commons in which users can collaborate on a project to create art.
+
+Pop surrealist artist Ray Caesar works in Maya (a 3D modeling software used for digital animation), using it to create his figures as well as the virtual realms in which they exist.
+

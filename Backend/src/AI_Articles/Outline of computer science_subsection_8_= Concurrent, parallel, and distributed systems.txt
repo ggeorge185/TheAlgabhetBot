@@ -1,0 +1,4 @@
+Parallel computing - The theory and practice of simultaneous computation; data safety in any multitasking or multithreaded environment.
+* Concurrency (computer science) – Computing using multiple concurrent threads of execution, devising algorithms for solving problems on multiple processors to achieve maximal speed-up compared to sequential execution.
+* Distributed computing – Computing using multiple computing devices over a network to accomplish a common objective or task and thereby reducing the latency involved in single processor contributions for any task.
+

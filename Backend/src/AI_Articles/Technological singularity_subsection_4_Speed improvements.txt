@@ -1,0 +1,12 @@
+Both for human and artificial intelligence, hardware improvements increase the rate of future hardware improvements. An analogy to Moore's Law suggests that if the first doubling of speed took 18 months, the second would take 18 subjective months; or 9 external months, whereafter, four months, two months, and so on towards a speed singularity. that the exponential growth curve could be extended back through earlier computing technologies prior to the integrated circuit.
+
+Ray Kurzweil postulates a law of accelerating returns in which the speed of technological change (and more generally, all evolutionary processes On the other hand, it has been argued that the global acceleration pattern having the 21st century singularity as its parameter should be characterized as Hyperbolic growth|hyperbolic rather than exponential.
+
+Kurzweil reserves the term "singularity" for a rapid increase in artificial intelligence (as opposed to other technologies), writing for example that "The Singularity will allow us to transcend these limitations of our biological bodies and brains ... There will be no distinction, post-Singularity, between human and machine". Kurzweil believes that the singularity will occur by approximately 2045.
+
+There are substantial dangers associated with an intelligence explosion singularity originating from a recursively self-improving set of algorithms. First, the goal structure of the AI might self-modify, potentially causing the AI to optimise for something other than what was originally intended.
+
+Secondly, AIs could compete for the same scarce resources humankind uses to survive. While not actively malicious, AIs would promote the goals of their programming, not necessarily broader human goals, and thus might crowd out humans completely.
+
+Carl Shulman and Anders Sandberg suggest that algorithm improvements may be the limiting factor for a singularity; while hardware efficiency tends to improve at a steady pace, software innovations are more unpredictable and may be bottlenecked by serial, cumulative research. They suggest that in the case of a software-limited singularity, intelligence explosion would actually become more likely than with a hardware-limited singularity, because in the software-limited case, once human-level AI is developed, it could run serially on very fast hardware, and the abundance of cheap hardware would make AI research less constrained. An abundance of accumulated hardware that can be unleashed once the software figures out how to use it has been called "computing overhang".
+

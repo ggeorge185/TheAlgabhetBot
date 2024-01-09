@@ -1,0 +1,6 @@
+The first generation of AI researchers made these predictions about their work:
+* 1958, H. A. Simon and Allen Newell: "within ten years a digital computer will be the world's chess champion" and "within ten years a digital computer will discover and prove an important new mathematical theorem."
+* 1965, H. A. Simon: "machines will be capable, within twenty years, of doing any work a man can do."
+* 1967, Marvin Minsky: "Within a generation ... the problem of creating 'artificial intelligence' will substantially be solved."
+* 1970, Marvin Minsky (in Life magazine|''Life'' Magazine): "In from three to eight years we will have a machine with the general intelligence of an average human being."
+

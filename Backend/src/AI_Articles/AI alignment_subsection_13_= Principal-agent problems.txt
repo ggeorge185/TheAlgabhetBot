@@ -1,0 +1,10 @@
+The alignment problem has many parallels with the principal-agent problem in organizational economics. In a principal-agent problem, a principal, e.g. a firm, hires an agent to perform some task. In the context of AI safety, a human would typically take the principal role and the AI would take the agent role.
+
+As with the alignment problem, the principal and the agent differ in their utility functions. But in contrast to the alignment problem, the principal cannot coerce the agent into changing its utility, e.g. through training, but rather must use exogenous factors, such as incentive schemes, to bring about outcomes compatible with the principal's utility function. Some researchers argue that principal-agent problems are more realistic representations of AI safety problems likely to be encountered in the real world.
+
+That same month, the People's Republic of China|PRC published ethical guidelines for AI in China. According to the guidelines, researchers must ensure that AI abides by shared human values, is always under human control, and does not endanger public safety.
+
+Also in September 2021, the UK published its 10-year National AI Strategy, which says the British government "takes the long term risk of non-aligned Artificial General Intelligence, and the unforeseeable changes that it would mean for... the world, seriously". The strategy describes actions to assess long-term AI risks, including catastrophic risks.
+
+In March 2021, the US National Security Commission on Artificial Intelligence said: "Advances in AI... could lead to inflection points or leaps in capabilities. Such advances may also introduce new concerns and risks and the need for new policies, recommendations, and technical advances to ensure that systems are aligned with goals and values, including safety, robustness and trustworthiness. The US should... ensure that AI systems and their uses align with our goals and values."
+

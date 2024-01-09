@@ -1,0 +1,74 @@
+glossary}}
+
+
+
+
+
+
+
+
+
+
+ that uses  that change a program's . In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of  for the computer to perform. Imperative programming focuses on describing ''how'' a program operates.}}
+
+
+ with the iterative philosophy of software prototyping|prototyping.}}
+
+
+, for locating and assessing  for team-centric efforts.}}
+
+
+
+
+
+, the mechanism of basing an  or  upon another object (Prototype-based programming|prototype-based inheritance) or class (Class-based programming|class-based inheritance), retaining similar implementation. Also defined as deriving new classes (#Subclasses and superclasses|sub classes) from existing ones (super class or Fragile base class|base class) and forming them into a hierarchy of classes.}}
+
+
+ 
+, and the outside world, possibly a human or another information processing system. Information|Inputs are the signals or data received by the system and outputs are the signals or Data (computing)|data sent from it. The term can also be used as part of an action; to "perform I/O" is to perform an I/O scheduling|input or output operation.}}
+
+
+
+
+
+
+ (CPU) follows from  until the computer has shut down in order to process instructions. It is composed of three main stages: the fetch stage, the decode stage, and the execute stage.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, computer hardware, peripheral devices, User interface|humans, and combinations of these. Some computer hardware devices, such as a touchscreen, can both send and receive data through the interface, while others such as a mouse or microphone may only provide an interface to send data to a given system.}}
+
+
+ is said to have Internal Documentation if the notes on how and why various parts of code operate is included within the  as comments.  It is often combined with meaningful variable (programming)|variable names with the intention of providing potential future programmers a means of understanding the workings of the code. This contrasts with external documentation, where programmers keep their notes and explanations in a separate document.}}
+
+
+
+
+
+
+ that runs automated tasks (scripts) over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone. The largest use of bots is in web crawler|web spidering (''web crawler''), in which an automated script fetches, analyzes and files information from web servers at many times the speed of a human.}}
+
+
+ that directly  instructions written in a  or scripting language, without requiring them to have been previously  into a machine language program.}}
+
+
+
+
+
+
+
+

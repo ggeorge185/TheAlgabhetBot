@@ -1,0 +1,17 @@
+A third approach focuses on regulating the use of autonomous weapon systems in lieu of a ban. Military AI arms control will likely require the institutionalization of new international norms embodied in effective technical specifications combined with active monitoring and informal ('Track II') diplomacy by communities of experts, together with a legal and political verification process. In 2021, the United States Department of Defense requested a dialogue with the Chinese People's Liberation Army on AI-enabled autonomous weapons but was refused.
+
+On 22 December 2023, a United Nations General Assembly resolution was adopted to support international discussion regarding concerns about LAWs. The vote was 152 in favor, four against, and 11 abstentions. In January 2024, Human Rights Watch called upon the countries who voted in favor of that resolution to support talks toward a new international treaty.". 24.2.2023, Josh Toussaint-Strauss Ali Assaf Joseph Pierce Ryan Baxter.
+* Heyns, Christof (2013), [https://idsn.org/wp-content/uploads/2015/02/SR_executions1.pdf ‘Report of the Special Rapporteur on extrajudicial, summary or arbitrary executions’], UN General Assembly, Human Rights Council, 23 (3), A/HRC/23/47.
+* Krishnan, Armin (2009), [https://books.google.com/books?id=UNkFDAAAQBAJ Killer robots: Legality and ethicality of autonomous weapons] (Aldershot: Ashgate)
+* Müller, Vincent C. (2016), [http://philpapers.org/rec/MLLAKR ‘Autonomous killer robots are probably good news’], in Ezio Di Nucci and Filippo Santoni de Sio (eds.), Drones and responsibility: Legal, philosophical and socio-technical perspectives on the use of remotely controlled weapons, 67-81 (London: Ashgate).
+* 
+* Sharkey, Noel E (2012), ‘[https://search.informit.org/doi/abs/10.3316/ielapa.034548084727579 Automating Warfare: lessons learned from the drones]’, ''Journal of Law, Information & Science'', 21 (2).
+* Simpson, Thomas W and Müller, Vincent C. (2016), [http://philpapers.org/rec/SIMJWA ‘Just war and robots’ killings’], ''The Philosophical Quarterly'' 66 (263), 302–22.
+* Singer, Peter (2009), Wired for war: The robotics revolution and conflict in the 21st Century (New York: Penguin)
+* US Department of Defense (2012), ‘[https://www.hsdl.org/?abstract&did=726163#:~:text=Department%20of%20Defense%20Directive%203000.09,%5Bopen%20pdf%20%2D%20191%20KB%20%5D&text=Establishes%20guidelines%20designed%20to%20minimize,could%20lead%20to%20unintended%20engagements.%22 Directive 3000.09, Autonomy in weapon systems]’. <2014 Killer Robots Policy Paper Final.docx>.
+* US Department of Defense (2013), ‘Unmanned Systems Integrated Road Map FY2013-2038’. <[https://web.archive.org/web/20140102102556/http://www.defense.gov/pubs/DOD-USRM-2013.pdf].
+* The Ethics of Autonomous Weapons Systems (2014) [https://www.law.upenn.edu/institutes/cerl/conferences/ethicsofweapons/schedule-required-readings.php Seminar at UPenn] 
+*
+
+Category:Uncrewed vehicles
+Category:Military robots

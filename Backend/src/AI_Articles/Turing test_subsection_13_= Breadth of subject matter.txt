@@ -1,0 +1,6 @@
+The format of the test allows the interrogator to give the machine a wide variety of intellectual tasks. Turing wrote that "the question and answer method seems to be suitable for introducing almost any one of the fields of human endeavour that we wish to include." John Haugeland adds that "understanding the words is not enough; you have to understand the ''topic'' as well."
+
+To pass a well-designed Turing test, the machine must use natural language processing|natural language, commonsense reasoning|reason, have knowledge representation|knowledge and machine learning|learn. The test can be extended to include video input, as well as a "hatch" through which objects can be passed: this would force the machine to demonstrate skilled use of well designed computer vision|vision and robotics as well. Together, these represent almost all of the major problems that artificial intelligence research would like to solve.
+
+The Feigenbaum test is designed to take advantage of the broad range of topics available to a Turing test. It is a limited form of Turing's question-answer game which compares the machine against the abilities of experts in specific fields such as literature or chemistry.
+

@@ -1,0 +1,10 @@
+Darktable – Digital image workflow management, including RAW photo processing
+* digiKam – Integrated photography toolkit including editing abilities
+* GIMP – Raster graphics editor aimed at image retouching/editing
+* Inkscape – Vector graphics editor
+* Karbon (software)|Karbon – Scalable vector drawing application in KDE
+* Krita – Digital painting, sketching and 2D animation application, with a variety of brush engines
+* LazPaint – Lightweight raster and vector graphics editor, aimed at being simpler to use than GIMP
+* LightZone – Free, open-source digital photo editor software application.
+* RawTherapee – Digital image workflow management aimed at RAW photo processing
+

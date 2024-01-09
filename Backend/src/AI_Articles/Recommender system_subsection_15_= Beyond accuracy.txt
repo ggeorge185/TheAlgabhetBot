@@ -1,0 +1,13 @@
+Typically, research on recommender systems is concerned with finding the most accurate recommendation algorithms. However, there are a number of factors that are also important.
+
+*'''Diversity''' – Users tend to be more satisfied with recommendations when there is a higher intra-list diversity, e.g. items from different artists.
+
+*'''Recommender persistence''' – In some situations, it is more effective to re-show recommendations, or let users re-rate items, than showing new items. There are several reasons for this. Users may ignore items when they are shown for the first time, for instance, because they had no time to inspect the recommendations carefully.
+*'''Privacy''' – Recommender systems usually have to deal with privacy concerns because users have to reveal sensitive information. Building user profiles using collaborative filtering can be problematic from a privacy point of view. Many European countries have a strong culture of information privacy|data privacy, and every attempt to introduce any level of user Profiling (information science)|profiling can result in a negative customer response. Much research has been conducted on ongoing privacy issues in this space. The Netflix Prize is particularly notable for the detailed personal information released in its dataset. Ramakrishnan et al. have conducted an extensive overview of the trade-offs between personalization and privacy and found that the combination of weak ties (an unexpected connection that provides serendipitous recommendations) and other data sources can be used to uncover identities of users in an anonymized dataset.
+
+*'''User demographics''' – Beel et al. found that user demographics may influence how satisfied users are with recommendations. In their paper they show that elderly users tend to be more interested in recommendations than younger users.
+*'''Robustness''' – When users can participate in the recommender system, the issue of fraud must be addressed.
+*'''Serendipity''' – Serendipity is a measure of "how surprising the recommendations are".
+*'''Trust''' – A recommender system is of little value for a user if the user does not trust the system. Trust can be built by a recommender system by explaining how it generates recommendations, and why it recommends an item.
+*'''Labelling''' – User satisfaction with recommendations may be influenced by the labeling of the recommendations. For instance, in the cited study click-through rate (CTR) for recommendations labeled as "Sponsored" were lower (CTR=5.93%) than CTR for identical recommendations labeled as "Organic" (CTR=8.86%). Recommendations with no label performed best (CTR=9.87%) in that study.
+

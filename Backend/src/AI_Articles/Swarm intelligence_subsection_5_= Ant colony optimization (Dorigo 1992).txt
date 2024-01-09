@@ -1,0 +1,3 @@
+main|Ant colony optimization}}
+Ant colony optimization (ACO), introduced by Dorigo in his doctoral dissertation, is a class of Optimization (mathematics)|optimization algorithms modeled on the actions of an ant colony. ACO is a Probabilistic algorithm|probabilistic technique useful in problems that deal with finding better paths through graphs. Artificial 'ants'—simulation agents—locate optimal solutions by moving through a parameter space representing all possible solutions. Natural ants lay down pheromones directing each other to resources while exploring their environment. The simulated 'ants' similarly record their positions and the quality of their solutions, so that in later simulation iterations more ants locate for better solutions.
+

@@ -1,0 +1,4 @@
+File:Sam Altman CropEdit James Tamim.jpg|thumb|OpenAI CEO [[Sam Altman]]
+
+In March 2023, a Software bug|bug allowed some users to see the titles of other users' conversations. OpenAI CEO Sam Altman said that users were unable to see the contents of the conversations. Shortly after the bug was fixed, users could not see their conversation history. Later reports showed the bug was much more severe than initially believed, with OpenAI reporting that it had leaked users' "first and last name, email address, payment address, the last four digits (only) of a credit card number, and credit card expiration date".
+

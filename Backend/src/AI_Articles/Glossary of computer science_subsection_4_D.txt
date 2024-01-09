@@ -1,0 +1,45 @@
+glossary}}
+
+ or ) is a computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter ''d'', for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example,  is a daemon that implements system logging facility, and  is a daemon that serves incoming Secure Shell|SSH connections.}}
+
+
+
+
+
+ and associated components, such as telecommunications and computer data storage|data storage systems. It generally includes Redundancy (engineering)|redundant or backup components and infrastructure for power supply, data communications connections, environmental controls (e.g. air conditioning and fire suppression) and various security devices.}}
+
+
+
+
+
+. Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and .}}
+
+
+
+
+
+
+ or  how the programmer intends to use the data. Most  support common data types of Real number|real, integer (computer science)|integer, and Boolean data type|Boolean. A data type constrains the values that an , such as a  or a , might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A type of value from which an expression may take its value.}}
+
+
+ that prevent correct operation of  or the system as a whole. Debugging tactics can involve interactive debugging,  analysis, unit testing, integration testing, Logfile|log file analysis, monitoring at the Application monitoring|application or system monitoring|system level, memory dumps, and Profiling (computer programming)|profiling.}}
+
+
+, a language construct that specifies properties of an : it declares what a word (identifier) "means". Declarations are most commonly used for subroutine|functions, Variable (computer science)|variables, Constant (computer programming)|constants, and Class (computer programming)|classes, but can also be used for other entities such as enumerations and type definitions. The term "declaration" is frequently contrasted with the term "definition", Between consecutive events, no change in the system is assumed to occur; thus the simulation can directly jump in time from one event to the next.}}
+
+
+
+
+
+ that studies distributed systems. A ''distributed system'' is a system whose components are located on different computer network|networked computers, which communicate and coordinate their actions by message passing|passing messages to one another. The components interact with one another in order to achieve a common goal. Three significant characteristics of distributed systems are: concurrency of components, clock synchronization|lack of a global clock, and independent failure of components.}}
+
+
+ or to a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying communication protocol|network protocols. By providing a worldwide, Distributed computing|distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.}}
+
+
+ point.}}
+
+
+, where data is sent ''to'' a remote server. A ''download'' is a computer file|file offered for downloading or that has been downloaded, or the process of receiving such a file.}}
+
+

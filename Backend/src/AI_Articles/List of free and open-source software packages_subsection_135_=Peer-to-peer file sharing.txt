@@ -1,0 +1,6 @@
+Main category|Free file sharing software}}
+
+*Popcorn Time – Multi-platform, free, and open-source media player
+*qBittorrent – Alternative to popular clients such as μTorrent
+*Transmission (BitTorrent client)|Transmission – BitTorrent client
+

@@ -1,0 +1,5 @@
+This is linked to in the introduction -->
+Natural language processing (NLP) allows programs to read, write and communicate in human languages such as English (language)|English. Specific problems include speech recognition, speech synthesis, machine translation, information extraction, information retrieval and question answering.
+
+Early work, based on Noam Chomsky's generative grammar and semantic networks, had difficulty with word-sense disambiguation}} unless restricted to small domains called "blocks world|micro-worlds" (due to the common sense knowledge problem In 2019, generative pre-trained transformer (or "GPT") language models began to generate coherent text, and by 2023 these models were able to get human-level scores on the bar exam, scholastic aptitude test|SAT test, Graduate Record Examinations|GRE test, and many other real-world applications.
+

@@ -1,0 +1,7 @@
+main | Theory of computation}}
+* Automata theory – Different logical structures for solving problems.
+* Computability theory (computer science)|Computability theory – What is calculable with the current models of computers. Proofs developed by Alan Turing and others provide insight into the possibilities of what may be computed and what may not.
+** List of unsolved problems in computer science
+* Computational complexity theory – Fundamental bounds (especially time and storage space) on classes of computations.
+* Quantum computing theory – Explores computational models involving quantum superposition of bits.
+

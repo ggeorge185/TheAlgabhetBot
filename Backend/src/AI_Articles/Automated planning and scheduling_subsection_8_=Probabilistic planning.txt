@@ -1,0 +1,4 @@
+main|Markov decision process|Partially observable Markov decision process}}
+Probabilistic planning can be solved with iterative methods such as value iteration and policy iteration, when the state space is sufficiently small.
+With partial observability, probabilistic planning is similarly solved with iterative methods, but using a representation of the value functions defined for the space of beliefs instead of states.
+

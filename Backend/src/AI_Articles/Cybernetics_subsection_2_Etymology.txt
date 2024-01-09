@@ -1,0 +1,7 @@
+File:Ideal feedback model.svg|thumb|Simple feedback model. AB < 0 for [[negative feedback.]]
+The Ancient Greek term κυβερνητικός (kubernētikos, '(good at) steering') appears in Plato's ''Republic (Plato)|Republic'' and ''First Alcibiades|''Alcibiades'''', where the metaphor of a helmsman|steersman is used to signify the governance of people. The French word ''cybernétique'' was also used in 1834 by the physicist André-Marie Ampère to denote the sciences of government in his classification system of human knowledge.
+
+According to Norbert Wiener, the word ''cybernetics'' was coined by a research group involving himself and Arturo Rosenblueth in the summer of 1947. and Wiener refers to cybernetics as a "field" when defining it. but became accepted from the mid to late 1950s.
+
+By the 1960s and 1970s, however, cybernetics' transdisciplinarity fragmented, with technical focuses separating into separate fields. Artificial intelligence (AI) was founded as a distinct discipline at the Dartmouth workshop in 1956, differentiating itself from the broader cybernetics field. After some uneasy coexistence, AI gained funding and prominence. Consequently, cybernetic sciences such as the study of artificial neural networks were downplayed. Similarly, computer science became defined as a distinct academic discipline in the 1950s and early 1960s.
+

@@ -1,0 +1,2 @@
+DFKI conducts contract research in virtually all fields of modern AI, including image recognition|image and pattern recognition, knowledge management, intelligent Visualization (graphic)|visualization and simulation, Deductive reasoning|deduction and multi-agent systems, speech- and language technology, intelligent user interfaces, business informatics and robotics. DFKI led the national project Verbmobil, a project with the aim to translate spontaneous speech robustly and bidirectionally for German/English and German/Japanese.
+

@@ -1,0 +1,10 @@
+Data structure
+* Datatype|Data type
+* Associative array and Hash table
+* Array data structure|Array
+* List (computing)|List
+* Tree (data structure)|Tree
+* String (computer science)|String
+* Matrix (computer science)
+* Databases|Database
+

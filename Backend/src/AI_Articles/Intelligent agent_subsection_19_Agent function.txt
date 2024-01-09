@@ -1,0 +1,8 @@
+A simple agent program can be defined mathematically as a function (mathematics)|function f (called the "agent function") which maps every possible percepts sequence to a possible action the agent can perform or to a coefficient, feedback element, function or constant that affects eventual actions:
+:<math>f : P^\ast \rightarrow A</math>
+Agent function is an abstract concept as it could incorporate various principles of decision making like calculation of utility of individual options, deduction over logic rules, fuzzy logic, etc.
+
+The program agent, instead, maps every possible percept to an action.
+
+We use the term percept to refer to the agent's perceptional inputs at any given instant. In the following figures, an agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.
+

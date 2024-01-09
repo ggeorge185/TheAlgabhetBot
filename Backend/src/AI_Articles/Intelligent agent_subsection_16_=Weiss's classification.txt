@@ -1,0 +1,7 @@
+Harvtxt|Weiss|2013}} defines four classes of agents:
+* Logic-based agents – in which the decision about what action to perform is made via logical deduction.
+* Reactive agents – in which decision making is implemented in some form of direct mapping from situation to action.
+* Belief-desire-intention agents – in which decision making depends upon the manipulation of data structures representing the beliefs, desires, and intentions of the agent; and finally,
+* Layered architectures – in which decision making is realized via various software layers, each of which is more or less explicitly reasoning about the environment at different levels of abstraction.
+
+

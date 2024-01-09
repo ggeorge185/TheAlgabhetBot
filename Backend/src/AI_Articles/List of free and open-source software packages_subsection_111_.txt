@@ -1,0 +1,6 @@
+Blender (software)|Blender – Computer graphics software featuring modeling, sculpting, texturing, rigging, simulation, rendering, camera tracking, video editing, and compositing
+*MakeHuman
+*OpenFX (software)|OpenFX – Modeling and animation software with a variety of built-in post processing effects
+*Seamless3d – Node-driven 3D modeling software
+*Wings 3D – Subdivision surface|subdivision modeler inspired by N-World|Nendo and Mirai (software)|Mirai from Izware.
+

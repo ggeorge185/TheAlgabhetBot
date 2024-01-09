@@ -1,0 +1,2 @@
+The business community's fascination with AI rose and fell in the 1980s in the classic pattern of an economic bubble. As dozens of companies failed, the perception was that the technology was not viable. However, the field continued to make advances despite the criticism. Numerous researchers, including robotics developers Rodney Brooks and Hans Moravec, argued for an entirely new approach to artificial intelligence.
+

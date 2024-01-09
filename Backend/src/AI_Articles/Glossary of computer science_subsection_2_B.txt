@@ -1,0 +1,65 @@
+glossary}}
+
+
+
+
+
+
+
+, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it. The term ''benchmark'' is also commonly utilized for the purposes of elaborately designed benchmarking programs themselves.}}
+
+
+ usage is ''at least'', ''at most'', and ''on average'', respectively, for a given . Usually the resource being considered is running time, i.e. time complexity, but it could also be memory or some other resource. ''Best case'' is the function which performs the minimum number of steps on input data of ''n'' elements; ''worst case'' is the function which performs the maximum number of steps on input data of size ''n''; ''average case'' is the function which performs an average number of steps on input data of ''n'' elements.}}
+
+
+ to adequately deal with. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.}}
+
+
+
+
+
+
+
+
+ or '''binary chop'''.}}
+ that finds the position of a target value within a sorted array.}}
+
+
+ in which each node has at most two child node|children, which are referred to as the '''' and the ''''. A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (''L'', ''S'', ''R''), where ''L'' and ''R'' are binary trees or the empty set and ''S'' is a singleton set. Some authors allow the binary tree to be the empty set as well.}}
+
+
+, Information engineering (field)|information engineering, mathematics, and statistics to develop methods and software tools for analyzing and interpreting biological data. Bioinformatics is widely used for ''in silico'' analyses of biological queries using mathematical and statistical techniques.}}
+
+
+ and digital communications; a portmanteau of ''binary digit''. A  digit can have one of two possible , and may be physically represented with a two-state device. These state values are most commonly represented as either a .}}
+
+
+
+
+
+, the number of  that are conveyed or processed per unit of time.}}
+
+
+
+, a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file MD5 Hash|hashes, etc.), except those explicitly mentioned in a list of prohibited elements. Those items on the list are denied access. The opposite is a , which means only items on the list are allowed through whatever gate is being used while all other elements are blocked. A Greylisting (email)|greylist contains items that are temporarily blocked (or temporarily allowed) until an additional step is performed.}}
+
+
+
+
+
+
+
+
+
+ used in a  that returns a Boolean value when evaluated, that is one of ''true'' or ''false''. A Boolean expression may be composed of a combination of the Boolean constants ''true'' or ''false'', Boolean data type|Boolean-typed variables, Boolean-valued operators, and Boolean-valued functions.}}
+
+
+
+
+
+, representing a . Historically, the byte was the number of bits used to encode a single character (computing)|character of text in a computer and for this reason it is the smallest address space|addressable unit of  in many .}}
+
+
+. There, a small program is stored called firmware. It does power-on self-tests and, most importantly, allows access to other types of memory like a hard disk and main memory. The firmware loads bigger computer program|programs into the computer's random-access memory|main memory and runs it.}}
+
+

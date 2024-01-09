@@ -1,0 +1,13 @@
+Algorithms originally developed by AI researchers began to appear as parts of larger systems. AI had solved a lot of very difficult problems
+and their solutions proved to be useful throughout the technology industry, such as
+data mining,
+industrial robots|industrial robotics,
+logistics,
+speech recognition,
+banking software,
+medical diagnosis
+
+The field of AI received little or no credit for these successes in the 1990s and early 2000s. Many of AI's greatest innovations have been reduced to the status of just another item in the tool chest of computer science. Nick Bostrom explains "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+
+Many researchers in AI in the 1990s deliberately called their work by other names, such as Informatics (academic field)|informatics, knowledge-based systems, cognitive systems or computational intelligence. In part, this may have been because they considered their field to be fundamentally different from AI, but also the new names help to procure funding. In the commercial world at least, the failed promises of the AI Winter continued to haunt AI research into the 2000s, as the ''New York Times'' reported in 2005: "Computer scientists and software engineers avoided the term artificial intelligence for fear of being viewed as wild-eyed dreamers."
+

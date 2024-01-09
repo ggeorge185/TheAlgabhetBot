@@ -1,0 +1,11 @@
+Main|Bayesian statistics|Multilevel model}}
+Given data <math>x\,\!</math> and parameter <math>\theta</math>, a simple Bayesian statistics|Bayesian analysis starts with a prior probability (''prior'') <math>p(\theta)</math> and likelihood function|likelihood <math>p(x\mid\theta)</math> to compute a posterior probability <math>p(\theta\mid x) \propto p(x\mid\theta)p(\theta)</math>.
+
+Often the prior on <math>\theta</math> depends in turn on other parameters <math>\varphi</math> that are not mentioned in the likelihood. So, the prior <math>p(\theta)</math> must be replaced by a likelihood <math>p(\theta\mid \varphi)</math>, and a prior <math>p(\varphi)</math> on the newly introduced parameters <math>\varphi</math> is required, resulting in a posterior probability
+
+: <math>p(\theta,\varphi\mid x) \propto p(x\mid\theta)p(\theta\mid\varphi)p(\varphi).</math>
+
+This is the simplest example of a Bayesian hierarchical modeling|''hierarchical Bayes model''.
+
+The process may be repeated; for example, the parameters <math>\varphi</math> may depend in turn on additional parameters <math>\psi\,\!</math>, which require their own prior. Eventually the process must terminate, with priors that do not depend on unmentioned parameters.
+

@@ -1,0 +1,4 @@
+Main|Combinatorial search}}
+
+Search arises in many kinds of problem solving, including automated planning|planning, constraint satisfaction, and playing games such as checkers, chess, and go (game)|go. The best known AI-search tree search algorithms are breadth-first search, depth-first search, A* search algorithm|A*, and Monte Carlo tree search|Monte Carlo Search. Key search algorithms for Boolean satisfiability are WalkSAT, conflict-driven clause learning, and the DPLL algorithm. For adversarial search when playing games, alpha-beta pruning, branch and bound, and minimax were early contributions.
+

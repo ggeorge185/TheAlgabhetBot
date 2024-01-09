@@ -1,0 +1,16 @@
+X'' is a Bayesian network with respect to ''G'' if its joint probability density function (with respect to a product measure) can be written as a product of the individual density functions, conditional on their parent variables:
+
+: <math> p (x) = \prod_ p \left(x_v \,\big|\,  x_(v)} \right) </math>
+
+where pa(''v'') is the set of parents of ''v'' (i.e. those vertices pointing directly to ''v'' via a single edge).
+
+For any set of random variables, the probability of any member of a joint distribution can be calculated from conditional probabilities using the chain rule (probability)|chain rule (given a topological ordering of ''X'') as follows:
+
+: <math>\operatorname P(X_1=x_1, \ldots, X_n=x_n) = \prod_^n \operatorname P \left(X_v=x_v \mid X_=x_, \ldots, X_n=x_n \right)</math>
+
+Using the definition above, this can be written as:
+
+: <math>\operatorname P(X_1=x_1, \ldots, X_n=x_n) = \prod_^n \operatorname P (X_v=x_v \mid X_j=x_j \text X_j\, \text X_v\, )</math>
+
+The difference between the two expressions is the conditional independence of the variables from any of their non-descendants, given the values of their parent variables.
+

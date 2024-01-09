@@ -1,0 +1,4 @@
+Systems Artificial Intelligence (Kristian Kersting)
+* Systems AI for Robot Learning (Jan Peters (computer scientist)|Jan Peters)
+* Systems AI for Decision Support (Carsten Binnig)
+

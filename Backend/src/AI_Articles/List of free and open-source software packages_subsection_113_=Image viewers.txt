@@ -1,0 +1,9 @@
+Eye of GNOME
+*F-spot
+*feh (image viewer)|feh
+*Geeqie
+*Gthumb
+*Gwenview
+*KPhotoAlbum
+*Opticks (software)|Opticks
+

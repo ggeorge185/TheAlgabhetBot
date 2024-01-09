@@ -1,0 +1,4 @@
+The term is credited to Allen Newell, one of the founders of artificial intelligence, who used it in his 1974 tutorial on speech recognition, published in . The term is by analogy with ablation in biology. The motivation was that, while individual components are engineered, the contribution of an individual component to the overall system performance is not clear; removing components allows this analysis. 
+
+Newell compared the human brain to artificial computers. With this in thought, Newell saw both as knowledge systems whereas procedures such as ablation can be performed on both to test certain hypotheses.
+

@@ -1,0 +1,6 @@
+Main|Blockchain|Smart contracts}}
+
+Distributed ledger or blockchain technology provides a transparent and immutable list of transactions. A wide range of uses has been proposed for where an open, decentralised database is required, ranging from supply chains to cryptocurrencies.
+
+Smart contracts are self-executing transactions which occur when pre-defined conditions are met. The aim is to provide security that is superior to traditional contract law, and to reduce transaction costs and delays. The original idea was conceived by Nick Szabo in 1994, but remained unrealised until the development of blockchains.
+

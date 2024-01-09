@@ -1,0 +1,2 @@
+Ramco Systems has partnered with Microsoft on products such as Ramco Global Payroll Software, which is integrated with Microsoft Dynamics 365 for Talent. It has also used Microsoft's cloud platform for its cloud computing and Microsoft's Cloud AI platform for artificial intelligence, such as Chia, Ramco Systems’ chatbot which uses Microsoft Luis.
+

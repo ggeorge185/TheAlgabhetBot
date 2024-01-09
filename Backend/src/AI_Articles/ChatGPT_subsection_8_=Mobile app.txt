@@ -1,0 +1,4 @@
+In May 2023, OpenAI launched an iOS app for ChatGPT. The app supports chat history syncing and voice input (using Whisper, OpenAI's speech recognition model).
+
+In July 2023, OpenAI unveiled an Android (operating system)|Android app, initially rolling it out in Bangladesh, Brazil, India, and the United States|U.S. The app later became available worldwide. OpenAI is working on integrating ChatGPT with Android's assistant APIs.
+

@@ -1,0 +1,6 @@
+Algorithmic processes are Complex system|complex, often exceeding the understanding of the people who use them. Large-scale operations may not be understood even by those involved in creating them. The methods and processes of contemporary programs are often obscured by the inability to know every permutation of a code's input or output. Others have critiqued the black box metaphor, suggesting that current algorithms are not one black box, but a network of interconnected ones.
+
+An example of this complexity can be found in the range of inputs into customizing feedback. The social media site Facebook factored in at least 100,000 data points to determine the layout of a user's social media feed in 2013. Furthermore, large teams of programmers may operate in relative isolation from one another, and be unaware of the cumulative effects of small decisions within connected, elaborate algorithms.
+
+Additional complexity occurs through machine learning and the personalization of algorithms based on user interactions such as clicks, time spent on site, and other metrics. These personal adjustments can confuse general attempts to understand algorithms.
+

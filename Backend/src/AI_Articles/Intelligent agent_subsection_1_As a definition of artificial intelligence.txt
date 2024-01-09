@@ -1,0 +1,4 @@
+Artificial Intelligence: A Modern Approach''
+
+Andreas Kaplan|Kaplan and Haenlein define artificial intelligence as "A system's ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation." This definition is closely related to that of an intelligent agent.
+

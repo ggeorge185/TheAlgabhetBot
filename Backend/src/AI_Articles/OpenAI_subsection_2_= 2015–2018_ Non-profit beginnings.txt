@@ -1,0 +1,10 @@
+In December 2015, Sam Altman, Greg Brockman, Reid Hoffman, Jessica Livingston, Peter Thiel, Elon Musk, Amazon Web Services (AWS), Infosys, and YC research|YC Research announced the formation of OpenAI and pledged over $1 billion to the venture. The actual collected total amount of contributions was only $130 million until 2019. The organization stated it would "freely collaborate" with other institutions and researchers by making its patents and research open to the public. OpenAI is headquartered at the Pioneer Building (San Francisco)|Pioneer Building in Mission District, San Francisco.
+
+According to ''Wired (magazine)|Wired'', Brockman met with Yoshua Bengio, one of the "founding fathers" of deep learning, and drew up a list of the "best researchers in the field". Brockman was able to hire nine of them as the first employees in December 2015. In December 2016, OpenAI released "Universe", a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites, and other applications<!--AI training ground that spans any software running on any machine, from games to web browsers to protein folders-->.
+
+In 2017 OpenAI spent $7.9&nbsp;million, or a quarter of its functional expenses, on cloud computing alone. In comparison, DeepMind's total expenses in 2017 were $442&nbsp;million. In the summer of 2018, simply training OpenAI's ''Dota 2'' bots required renting 128,000 CPUs and 256 GPUs from Google for multiple weeks.
+
+In 2018, Musk resigned from his board seat, citing "a potential future Conflict of interest|conflict [of interest]" with his role as CEO of Tesla, Inc.|Tesla due to Tesla's Tesla Autopilot|AI development for self-driving cars. Sam Altman claims that Musk believed OpenAI had fallen behind other players like Google and Musk proposed instead to take over OpenAI himself, which the board rejected. Musk subsequently left OpenAI but claimed to remain a donor, yet made no donations after his departure.
+
+In February 2019, GPT-2 was announced, which got a lot of attention for its ability to generate human-like text.
+

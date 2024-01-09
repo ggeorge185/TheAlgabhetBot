@@ -1,0 +1,2 @@
+Individual modules are added to a creature.  These modules modify the creature's behaviors and characteristics either directly, by hard coding into the simulation (leg type A increases speed and metabolism), or indirectly, through the emergent interactions between a creature's modules (leg type A moves up and down with a frequency of X, which interacts with other legs to create motion).  Generally, these are simulators that emphasize user creation and accessibility over mutation and evolution.
+

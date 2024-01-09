@@ -1,0 +1,4 @@
+Marcus is a notable critic of the "hype" surrounding artificial intelligence. He has also argued that AI is currently being deployed prematurely, particularly in situations that involve a risk of real-world harm resulting from Algorithmic bias|bias, as with Facial recognition system|facial recognition or résumé parsing, since current deep learning|deep-learning  techniques are not amenable to formal verification for Correctness (computer science)|correctness.
+
+Marcus has described current large language models as "approximations to [...] language use rather than language understanding". primarily citing the short-term risks of "mediocre AI that is unreliable [...] but widely deployed".
+

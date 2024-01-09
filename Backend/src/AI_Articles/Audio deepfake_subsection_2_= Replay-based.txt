@@ -1,0 +1,4 @@
+Replay-based deepfakes are malicious works that aim to reproduce a recording of the interlocutor's voice.
+
+There are two types: ''far-field'' detection and ''cut-and-paste'' detection. In far-field detection, a microphone recording of the victim is played as a test segment on a hands-free phone. On the other hand, cut-and-paste involves faking the requested sentence from a text-dependent system. A current technique that detects end-to-end replay attacks is the use of Convolutional neural network|deep convolutional neural networks.
+

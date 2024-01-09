@@ -1,0 +1,2 @@
+Swarm grammars are swarms of stochastic grammars that can be evolved to describe complex properties such as found in art and architecture. These grammars interact as agents behaving according to rules of swarm intelligence. Such behavior can also suggest deep learning algorithms, in particular when mapping of such swarms to neural circuits is considered.
+

@@ -1,0 +1,4 @@
+The quality of the data that is available and able to be used in ADM systems is fundamental to the outcomes and is often highly problematic for many reasons. Datasets are often highly variable, large-scale data may be controlled by corporations or governments, restricted for privacy or security reasons, incomplete, biased, limited in terms of time or coverage, measuring and describing terms in different ways, and many other issues.
+
+For machines to learn from data, large corpuses are often required which can be difficult to obtain or compute, however where available, have provided significant breakthroughs, for example in diagnosing chest x-rays.
+

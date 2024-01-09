@@ -1,0 +1,11 @@
+Image:Necker cube.svg|thumb|150px|[[The Necker cube, an example of an optical illusion]]
+File:Checker shadow illusion.svg|thumb|right|An optical illusion. The square A is exactly the same shade of gray as square B. See [[checker shadow illusion.]]
+
+
+
+Perception is the ability to take in information via the senses, and process it in some way. Visual perception|Vision and Hearing (sense)|hearing are two dominant senses that allow us to perceive the environment. Some questions in the study of visual perception, for example, include: (1) How are we able to recognize objects?, (2) Why do we perceive a continuous visual environment, even though we only see small bits of it at any one time? One tool for studying visual perception is by looking at how people process optical illusions. The image on the right of a Necker cube is an example of a bistable percept, that is, the cube can be interpreted as being oriented in two different directions.
+
+The study of Haptic perception|haptic (Touch|tactile), olfactory, and gustatory stimuli also fall into the domain of perception.
+
+Action is taken to refer to the output of a system. In humans, this is accomplished through motor responses. Spatial planning and movement, speech production, and complex motor movements are all aspects of action.
+

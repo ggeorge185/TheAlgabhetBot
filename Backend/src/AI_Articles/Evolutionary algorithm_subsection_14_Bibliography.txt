@@ -1,0 +1,24 @@
+Ashlock, D. (2006), ''Evolutionary Computation for Modeling and Optimization'', Springer, New York, doi:10.1007/0-387-31909-3  .
+* Bäck, T. (1996), ''[https://books.google.com/books?id=htJHI1UrL7IC Evolutionary Algorithms in Theory and Practice: Evolution Strategies, Evolutionary Programming, Genetic Algorithms]'', Oxford Univ. Press, New York, . 
+* Bäck, T., Fogel, D., Michalewicz, Z. (1999), ''Evolutionary Computation 1: Basic Algorithms and Operators'', CRC Press, Boca Raton, USA, .
+* Bäck, T., Fogel, D., Michalewicz, Z. (2000), ''Evolutionary Computation 2: Advanced Algorithms and Operators'', CRC Press, Boca Raton, USA, doi:10.1201/9781420034349 .
+* Banzhaf, W., Nordin, P., Keller, R., Francone, F. (1998), ''Genetic Programming - An Introduction'', Morgan Kaufmann, San Francisco, .
+* Eiben, A.E., Smith, J.E. (2003), ''Introduction to Evolutionary Computing'', Springer, Heidelberg, New York, doi:10.1007/978-3-662-44874-8 .
+* Holland, J. H. (1992), ''[https://books.google.com/books?id=5EgGaBkwvWcC Adaptation in Natural and Artificial Systems]'', MIT Press, Cambridge, MA, .
+* Michalewicz, Z.; Fogel, D.B. (2004), ''How To Solve It: Modern Heuristics''. Springer, Berlin, Heidelberg, , doi:10.1007/978-3-662-07807-5.
+* 
+* 
+* Price, K., Storn, R.M., Lampinen, J.A., (2005). [https://books.google.com/books?id=hakXI-dEhTkC ''Differential Evolution: A Practical Approach to Global Optimization''], Springer, Berlin, Heidelberg, , doi:10.1007/3-540-31306-0.
+* Ingo Rechenberg (1971), ''Evolutionsstrategie - Optimierung technischer Systeme nach Prinzipien der biologischen Evolution'' (PhD thesis). Reprinted by Fromman-Holzboog (1973). 
+* Hans-Paul Schwefel (1974), ''Numerische Optimierung von Computer-Modellen'' (PhD thesis). Reprinted by Birkhäuser (1977).
+* Hans-Paul Schwefel (1995), ''Evolution and Optimum Seeking''. Wiley & Sons, New York.  
+* Simon, D. (2013), [http://academic.csuohio.edu/simond/EvolutionaryOptimization ''Evolutionary Optimization Algorithms''], Wiley & Sons, 
+* Kruse, Rudolf; Borgelt, Christian; Klawonn, Frank; Moewes, Christian; Steinbrecher, Matthias; Held, Pascal (2013), [https://books.google.com/books?id=yQVGAAAAQBAJ ''Computational Intelligence: A Methodological Introduction'']. Springer, London. , doi:10.1007/978-1-4471-5013-8.
+* 
+
+
+
+Category:Cybernetics
+Category:Evolution
+Category:Evolutionary algorithms| 
+Category:Optimization algorithms and methods

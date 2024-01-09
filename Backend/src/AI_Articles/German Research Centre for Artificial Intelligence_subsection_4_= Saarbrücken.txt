@@ -1,0 +1,7 @@
+Cognitive Assistants (Antonio Krüger)
+* Institute for Information Systems (Peter Loos)
+* Agents and Simulated Reality (Philipp Slusallek)
+* Multilinguality and Language Technology (Josef van Genabith)
+* Smart Service Engineering (Wolfgang Maaß)
+* Neuro-Mechanistic Modeling (Verena Wolf)
+

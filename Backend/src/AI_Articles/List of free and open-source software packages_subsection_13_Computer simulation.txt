@@ -1,0 +1,7 @@
+main|List of free and open-source computer simulation software}}
+* Blender (software)|Blender – 3D computer graphics software toolset used for creating Animation|animated films, visual effects, art, 3D printing|3D printed models, and motion graphics.
+* OpenFOAM - open-source software used for computational fluid dynamics (or CFD).
+* FlightGear ''-'' atmospheric and orbital flight simulator with a flight dynamics engine (JSBSim) that is used in a 2015 NASA benchmark to judge new simulation code to space industry standards.
+* SimPy – Queue-theoretic event-based simulator written in Python (programming language)|Python
+* Salome (software)|Salome - a generic platform for Pre- and Post-Processing for numerical simulation
+

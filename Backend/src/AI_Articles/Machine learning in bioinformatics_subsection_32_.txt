@@ -1,0 +1,4 @@
+MIBiG, the minimum information about a biosynthetic gene cluster specification, provides a standard for annotations and metadata on biosynthetic gene clusters and their molecular products. MIBiG is a Genomic Standards Consortium project that builds on the minimum information about any sequence (MIxS) framework.
+
+MIBiG facilitates the standardized deposition and retrieval of biosynthetic gene cluster data as well as the development of comprehensive comparative analysis tools. It empowers next-generation research on the biosynthesis, chemistry and ecology of broad classes of societally relevant bioactive secondary metabolites, guided by robust experimental evidence and rich metadata components.
+

@@ -1,0 +1,4 @@
+The frequency bands for 6G are undetermined. The Institute of Electrical and Electronics Engineers states that "Frequencies from 100&nbsp;GHz to 3&nbsp;THz are promising bands for the next generation of wireless communication systems because of the wide swaths of unused and unexplored Electromagnetic spectrum|spectrum."
+
+One of the challenges in supporting the required high transmission speeds will be the limitation of energy consumption and associated thermal protection in the electronic circuits.
+

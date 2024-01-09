@@ -1,0 +1,4 @@
+On January 13, 2023, three artists&nbsp;&ndash;&nbsp;Sarah Andersen, Kelly McKernan, and Karla Ortiz&nbsp;&ndash;&nbsp;filed a copyright infringement lawsuit against Stability AI, Midjourney, and DeviantArt, claiming that these companies have infringed the rights of millions of artists, by training AI tools on five billion images scraped from the web, without the consent of the original artists.
+
+The legal action was initiated in San Francisco by attorney Matthew Butterick in partnership with the Joseph Saveri Law Firm, the same team challenging Microsoft, GitHub, and OpenAI (developer of ChatGPT and DALL-E) in court. In July 2023, U.S. District Judge William Orrick III|William Orrick inclined to dismiss most of the lawsuit filed by Andersen, McKernan, and Ortiz but allowed them to file a new complaint.
+

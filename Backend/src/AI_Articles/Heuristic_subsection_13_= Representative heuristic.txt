@@ -1,0 +1,4 @@
+The representativeness heuristic refers to the cognitive bias where people rely on their preconceived mental image/prototype of a particular category or concept rather than actual probabilities and statistical data for making judgments. This behavior often leads to stereotyping/generalization with limited information causing errors as well as distorted views about reality.
+
+For instance, when trying to guess someone's occupation based on their appearance, a representative heuristic might be used by assuming that an individual in a suit must be either a lawyer or businessperson while assuming that someone in uniform fits the police officer or soldier category. This shortcut could sometimes be useful but may also result in stereotypes and overgeneralizations.
+

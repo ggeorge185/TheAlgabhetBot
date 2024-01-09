@@ -1,0 +1,4 @@
+Payoff matrix |Name=The prisoner's dilemma | 2L=Cooperate |2R=Defect |1U=Cooperate |UL=-1, -1 |UR=-10, 0 |1D=Defect |DL=0, -10 |DR=-5, -5}}
+Some scholars see game theory not as a predictive tool for the behavior of human beings, but as a suggestion for how people ought to behave. Since a strategy, corresponding to a Nash equilibrium of a game constitutes one's best response to the actions of the other players – provided they are in (the same) Nash equilibrium – playing a strategy that is part of a Nash equilibrium seems appropriate. This normative use of game theory has also come under criticism.
+
+

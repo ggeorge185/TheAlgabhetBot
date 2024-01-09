@@ -1,0 +1,19 @@
+The following applications are available under free/open-source licenses. Public access to application source code is also available.
+* Carrot2: Text and search results clustering framework.
+* Chemicalize.org: A chemical structure miner and web search engine.
+* ELKI: A university research project with advanced cluster analysis and anomaly detection|outlier detection methods written in the Java (programming language)|Java language.
+* General Architecture for Text Engineering|GATE: a natural language processing and language engineering tool.
+* KNIME: The Konstanz Information Miner, a user-friendly and comprehensive data analytics framework.
+* MOA (Massive Online Analysis)|Massive Online Analysis (MOA): a real-time big data stream mining with concept drift tool in the Java (programming language)|Java programming language.
+* Multi expression programming|MEPX: cross-platform tool for regression and classification problems based on a Genetic Programming variant.
+* mlpack: a collection of ready-to-use machine learning algorithms written in the C++ language.
+* NLTK (Natural Language Toolkit): A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for the Python (programming language)|Python language.
+* OpenNN: Open neural networks library.
+* Orange (software)|Orange: A component-based data mining and machine learning software suite written in the Python (programming language)|Python language.
+*PSPP: Data mining and statistics software under the GNU Project similar to SPSS 
+* R (programming language)|R: A programming language and software environment for statistics|statistical computing, data mining, and graphics. It is part of the GNU Project.
+* scikit-learn: An open-source machine learning library for the Python programming language;
+* Torch (machine learning)|Torch: An open source model|open-source deep learning library for the Lua (programming language)|Lua programming language and scientific computing framework with wide support for machine learning algorithms.
+* UIMA: The UIMA (Unstructured Information Management Architecture) is a component framework for analyzing unstructured content such as text, audio and video – originally developed by IBM.
+* Weka (machine learning)|Weka: A suite of machine learning software applications written in the Java (programming language)|Java programming language.
+

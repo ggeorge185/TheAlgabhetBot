@@ -1,0 +1,2 @@
+In June 2017, Genpact announced Genpact Cora, an artificial intelligence (AI)-based platform for enterprises. The platform has an Application programming interface|application program interface (API) design and open architecture that includes Genpact’s own intellectual property as well as other providers. The platform's claimed benefits include deciphering large chunks of data, seamless customer service, faster financial reporting, and increasing speed to market.
+

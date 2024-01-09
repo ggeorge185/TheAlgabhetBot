@@ -1,0 +1,2 @@
+Classically, a software entity is defined as a simulated element, able to act on itself and on its environment, and which has an internal representation of itself and of the outside world. An entity can communicate with other entities, and its behavior is the consequence of its perceptions, its representations, and its interactions with the other entities.
+

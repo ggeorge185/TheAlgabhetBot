@@ -1,0 +1,6 @@
+Computational complexity theory deals with the relative computational difficulty of computable functions.  By definition, it does not cover problems whose solution is unknown or has not been characterised formally.  Since many AI problems have no formalisation yet, conventional complexity theory does not allow the definition of AI-completeness.
+
+To address this problem, a complexity theory for AI has been proposed. It is based on a model of computation that splits the computational burden between a computer and a human: one part is solved by computer and the other part solved by human.  This is formalised by a '''human-assisted Turing machine'''.  The formalisation defines algorithm complexity, problem complexity and reducibility which in turn allows equivalence classes to be defined.
+
+The complexity of executing an algorithm with a human-assisted Turing machine is given by a pair <math>\langle\Phi_,\Phi_\rangle</math>, where the first element represents the complexity of the human's part and the second element is the complexity of the machine's part.
+

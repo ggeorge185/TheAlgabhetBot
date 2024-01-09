@@ -1,0 +1,27 @@
+glossary}}
+
+, often for software development. These may include configuration data, documentation, help data, message templates, Code reuse|pre-written code and , , , or  specifications.}}
+
+
+
+. It sequentially checks each element of the list until a match is found or the whole list has been searched.}}
+
+
+
+
+
+ or an assembler (computing)|assembler and combines them into a single executable file, Library (computing)|library file, or another 'object' file.  A simpler version that writes its output directly to memory is called the ''loader'', though loader (computing)|loading is typically considered a separate process.}}
+
+
+, where the same value may occur more than once. An instance of a list is a computer representation of the mathematical concept of a finite sequence (mathematics)|sequence; the (potentially) infinite analog of a list is a . Lists are a basic example of , as they contain other values. If the same value occurs multiple times, each occurrence is considered a distinct item.}}
+
+
+
+
+
+, a Software bug|bug in a program that causes it to operate incorrectly, but not to terminate abnormally (or crash (computing)|crash). A logic error produces unintended or undesired output or other behaviour, although it may not immediately be recognized as such.}}
+
+
+ which is largely based on formal logic. Any program written in a logic  is a set of sentences in logical form, expressing facts and rules about some problem domain.  Major logic programming language families include Prolog, answer set programming (ASP), and Datalog.}}
+
+

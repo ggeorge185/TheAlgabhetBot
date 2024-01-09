@@ -1,0 +1,33 @@
+Rapelang Rabana
+* Grzegorz Rozenberg – natural computing, automata theory, Graph rewriting|graph transformations and Petri nets|concurrent systems
+* Michael O. Rabin – nondeterministic machine
+* Dragomir R. Radev – natural language processing, information retrieval
+* T. V. Raman – accessibility, Emacspeak
+* Brian Randell – ALGOL 60, software fault tolerance, dependability, pre-1950 history of computing hardware
+* Anders P. Ravn – Duration Calculus
+* Raj Reddy – artificial intelligence
+* David P. Reed
+* Trygve Reenskaug – model–view–controller (MVC) software architecture pattern
+* John C. Reynolds – continuations, definitional interpreters, defunctionalization, Forsythe, Gedanken language, intersection types, System F|polymorphic lambda calculus, relational parametricity, separation logic, ALGOL
+* Joyce K. Reynolds – Internet
+* Reinder van de Riet – Editor: ''Europe of Data and Knowledge Engineering'', COLOR-X event modeling language
+* Bernard Richards – medical informatics
+* Martin Richards (computer scientist)|Martin Richards – BCPL
+* Adam Riese
+* C. J. van Rijsbergen
+* Dennis Ritchie – C (programming language), Unix
+* Ron Rivest – RSA (cryptosystem)|RSA, MD5, RC4
+* Ken Robinson (computer scientist)|Ken Robinson – formal methods
+* Colette Rolland – REMORA methodology, meta modelling
+* John Romero – codeveloped Doom (1993 video game)|Doom
+* Azriel Rosenfeld
+* Douglas T. Ross – Automatically Programmed Tools (APT (programming language)|APT), Computer-aided design, structured analysis and design technique, ALGOL X
+* Guido van Rossum – Python (programming language)
+* M. A. Rothman – UEFI
+* Winston W. Royce – waterfall model
+* Rudy Rucker – mathematician, writer, educator
+* Steven Rudich – complexity theory, cryptography
+* Jeff Rulifson
+* James Rumbaugh – Unified Modeling Language, Object Management Group
+* Peter Ružička – Slovak computer scientist and mathematician
+

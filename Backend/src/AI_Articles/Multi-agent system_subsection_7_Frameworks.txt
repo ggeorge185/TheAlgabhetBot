@@ -1,0 +1,4 @@
+Frameworks have emerged that implement common standards (such as the Foundation for Intelligent Physical Agents|FIPA and Object Management Group|OMG MASIF standards). These frameworks e.g. Java Agent Development Framework|JADE, save time and aid in the standardization of MAS development.
+
+Currently though, no standard is actively maintained from FIPA or OMG. Efforts for further development of software agents in industrial context are carried out in IEEE IES technical committee on Industrial Agents.
+

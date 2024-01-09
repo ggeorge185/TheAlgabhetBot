@@ -1,0 +1,8 @@
+Imperative programming/Procedural programming
+* Functional programming
+* Logic programming
+* Object oriented programming
+** Class (computer science)|Class
+** Inheritance (object-oriented programming)|Inheritance
+** Object (computer science)|Object
+

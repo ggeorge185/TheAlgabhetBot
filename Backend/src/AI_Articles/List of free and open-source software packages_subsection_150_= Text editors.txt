@@ -1,0 +1,28 @@
+class="wikitable sortable"
+|+ Caption text
+|-
+! Software !! Platform !! Formats
+|-
+| AbiWord || Linux, Windows || .txt
+|-
+| Atom (text editor) || macOS 10.9 or later, Windows 7 and later, and Linux || .txt
+|-
+| gedit || 	Linux, MacOS || .txt
+|-
+| GNOME Text Editor || Linux || .txt
+|-
+| Kate (text editor) || 25 Linux distributions, Microsoft Windows, macOS || .txt
+|-
+| Leafpad || Linux, BSD, Maemo || .txt
+|-
+| Metapad || Windows || .txt
+|-
+| Mousepad (software)|Mousepad || Linux, BSD, Maemo || .txt
+|-
+| PyRoom || Unix-like (Linux included) || .txt
+|-
+|Visual Studio Code
+|Linux, Windows, MacOS
+|.txt
+|}
+

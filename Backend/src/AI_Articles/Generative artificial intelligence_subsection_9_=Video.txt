@@ -1,0 +1,2 @@
+File:Gen2-Example-Dog-Podium.webm|thumb|upright=1.2|Runway Gen2, prompt <code>A golden retriever in a suit sitting at a podium giving a speech to the white house press corps</code>Generative AI trained on annotated video can generate temporally-coherent video clips. Examples include Gen-1 and Gen-2 by Runway (company)|Runway and Make-A-Video by Meta Platforms.
+

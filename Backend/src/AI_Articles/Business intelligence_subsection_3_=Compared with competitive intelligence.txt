@@ -1,0 +1,2 @@
+Though the term business intelligence is sometimes a synonym for competitive intelligence (because they both support decision making), BI uses technologies, processes, and applications to analyze mostly internal, structured data and business processes while competitive intelligence gathers, analyzes, and disseminates information with a topical focus on company competitors. If understood broadly, competitive intelligence can be considered as a subset of business intelligence.
+

@@ -1,0 +1,5 @@
+glossary}}
+
+. Semi-supervised learning has also been described and is a hybridization of supervised and unsupervised techniques.}}
+
+

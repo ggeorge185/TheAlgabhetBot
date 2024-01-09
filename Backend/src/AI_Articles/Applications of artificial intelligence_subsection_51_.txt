@@ -1,0 +1,6 @@
+In 2010, artificial intelligence used baseball statistics to automatically generate news articles. This was launched by Big Ten Network|The Big Ten Network using a software from Narrative Science.
+
+After being unable to cover every Minor League Baseball game with a large team of people, Associated Press collaborated with Automated Insights in 2016 to create game recaps that were automated by artificial intelligence.
+
+[https://www.uol.com.br/ UOL] in Brazil expanded the use of AI in their writing. Rather than just generating news stories, they programmed the AI to include commonly searched words on Google Insights for Search|Google.
+

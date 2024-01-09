@@ -1,0 +1,6 @@
+In 2012, Chollet graduated with a Master of Engineering from ENSTA Paris, a school of the Polytechnic Institute of Paris.
+
+In 2015, Chollet started working at Google. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition (CVPR), the Conference on Neural Information Processing Systems (NeurIPS), and the International Conference on Learning Representations (ICLR).
+
+Chollet is the author of ''Xception: Deep Learning with Depthwise Separable Convolutions'', which is among the top ten most cited papers in CVPR proceedings.
+

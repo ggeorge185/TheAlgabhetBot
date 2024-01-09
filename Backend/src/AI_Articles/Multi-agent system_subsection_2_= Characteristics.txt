@@ -1,0 +1,6 @@
+The agents in a multi-agent system have several important characteristics:
+
+* Autonomy: agents at least partially independent, self-aware, Autonomous agent|autonomous
+* Local views: no agent has a full global view, or the system is too complex for an agent to exploit such knowledge
+* Decentralization: no agent is designated as controlling (or the system is effectively reduced to a monolithic system)
+

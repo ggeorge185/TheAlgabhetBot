@@ -1,0 +1,13 @@
+main|Cooperative game theory}}
+In games that possess removable utility, separate rewards are not given; rather, the characteristic function decides the payoff of each unity. The idea is that the unity that is 'empty', so to speak, does not receive a reward at all.
+
+The origin of this form is to be found in John von Neumann and Oskar Morgenstern's book; when looking at these instances, they guessed that when a union <math>\mathbf</math> appears, it works against the fraction
+<math>
+\left(\frac}}\right)
+</math>
+as if two individuals were playing a normal game. The balanced payoff of C is a basic function. Although there are differing examples that help determine coalitional amounts from normal games, not all appear that in their function form can be derived from such.
+
+Formally, a characteristic function is seen as: (N,v), where N represents the group of people and <math>v:2^N \to \mathbf</math> is a normal utility.
+
+Such characteristic functions have expanded to describe games where there is no removable utility.
+

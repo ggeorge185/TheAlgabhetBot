@@ -1,0 +1,52 @@
+glossary}}
+
+
+
+
+
+ methods which learn by Bootstrapping (statistics)|bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.}}
+
+
+
+
+
+ Library (computing)|software library for dataflow programming|dataflow and differentiable programming|differentiable programming across a range of tasks. It is a symbolic math library, and is also used for  applications such as .}}
+
+
+
+
+
+. The field is divided into three major branches: automata theory and languages, computability theory, and , which are linked by the question: ''"What are the fundamental capabilities and limitations of computers?".''}}
+
+
+ for choosing actions that addresses the exploration-exploitation dilemma in the multi-armed bandit problem. It consists in choosing the action that maximizes the expected reward with respect to a randomly drawn belief.}}
+
+
+. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform. Thus, the amount of time taken and the number of elementary operations performed by the algorithm are taken to differ by at most a constant factor.}}
+
+
+
+
+
+
+. It consists of state (computer science)|states and transitions between states, which may be labeled with labels chosen from a set; the same label may appear on more than one transition. If the label set is a Singleton (mathematics)|singleton, the system is essentially unlabeled, and a simpler definition that omits the labels is possible.}}
+
+
+
+
+
+
+, the language TQBF is a  consisting of the true quantified Boolean formulas.  A (fully) quantified Boolean formula is a formula in Quantification (logic)|quantified propositional logic where every variable is quantified (or Bound variable|bound), using either existential quantification|existential or universal quantification|universal quantifiers, at the beginning of the sentence. Such a formula is equivalent to either true or false (since there are no Bound variable|free variables). If such a formula evaluates to true, then that formula is in the language TQBF. It is also known as QSAT (Quantified ).}}
+
+
+
+
+
+
+
+
+, a set of rules that assigns a property called type (computer science)|type to the various constructs of a computer program, such as variable (computer science)|variables, expression (computer science)|expressions, function (computer science)|functions, or modular programming|modules. These types formalize and enforce the otherwise implicit categories the programmer uses for algebraic data types, data structures, or other components (e.g. "string", "array of float", "function returning boolean"). The main purpose of a type system is to reduce possibilities for bug (computer programming)|bugs in computer programs by defining Interface (computer science)|interfaces between different parts of a computer program, and then checking that the parts have been connected in a consistent way. This checking can happen statically (at compile time), dynamically (at run time (program lifecycle phase)|run time), or as a combination of static and dynamic checking. Type systems have other purposes as well, such as expressing business rules, enabling certain compiler optimizations, allowing for multiple dispatch, providing a form of documentation, etc.}}
+
+
+
+

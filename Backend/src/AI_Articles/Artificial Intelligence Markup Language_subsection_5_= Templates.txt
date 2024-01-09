@@ -1,0 +1,34 @@
+A template specifies the response to a matched pattern. A template may be as simple as some literal text, like
+
+ My name is John.
+
+A template may use variables, such as the example
+
+ My name is <bot name="name"/>.
+
+which will substitute the bot's name into the sentence, or
+
+ You told me you are <get name="user-age"/> years old.
+
+which will substitute the user's age (if known) into the sentence.
+
+Template elements include basic text formatting, conditional response (if-then/else), and random responses.
+
+Templates may also redirect to other patterns, using an element called '''''' (Symbolic Reduction in Artificial Intelligence). This can be used to implement synonymy, as in this example (where CDATA is used to avoid the need for XML#Escaping|XML escaping):
+<syntaxhighlight lang="xml">
+<category>
+  <pattern>WHAT IS YOUR NAME</pattern>
+  <template><![CDATA[My name is <bot name="name"/>.]]></template>
+</category>
+<category>
+  <pattern>WHAT ARE YOU CALLED</pattern>
+  <template>
+    <srai>what is your name</srai>
+  </template>
+</category>
+</syntaxhighlight>
+
+The first category simply answers an input "what is your name" with a statement of the bot's name. The second category, however, says that the input "what are you called" should be redirected to the category that matches the input "what is your name"—in other words, it is saying that the two phrases are equivalent.
+
+Templates can contain other types of content, which may be processed by whatever user interface the bot is talking through. So, for example, a template may use HTML tags for formatting, which can be ignored by clients that don't support HTML.
+

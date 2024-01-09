@@ -1,0 +1,2 @@
+The concept names in Cyc are CycL ''terms'' or ''constants''.  It also performs inductive reasoning, statistical machine learning and symbolic machine learning, and abductive reasoning (but of course sparingly and using the existing knowledge base as a filter and guide).
+

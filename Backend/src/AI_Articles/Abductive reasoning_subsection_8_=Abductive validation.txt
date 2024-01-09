@@ -1,0 +1,6 @@
+Abductive validation is the process of validating a given hypothesis through abductive reasoning. This can also be called reasoning through successive approximation. Under this principle, an explanation is valid if it is the best possible explanation of a set of known data. The best possible explanation is often defined in terms of simplicity and elegance (see Occam's razor). Abductive validation is common practice in hypothesis formation in science; moreover, Peirce claims that it is a ubiquitous aspect of thought:
+
+
+
+It was Peirce's own maxim that "Facts cannot be explained by a hypothesis more extraordinary than these facts themselves; and of various hypotheses the least extraordinary must be adopted." After obtaining possible hypotheses that may explain the facts, abductive validation is a method for identifying the most likely hypothesis that should be adopted.
+

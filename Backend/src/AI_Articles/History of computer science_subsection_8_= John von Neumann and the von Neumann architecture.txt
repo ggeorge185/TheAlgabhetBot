@@ -1,0 +1,17 @@
+Main|John von Neumann|Von Neumann architecture}}
+In 1946, a model for computer architecture was introduced and became known as ''Von Neumann architecture''. Since 1950, the von Neumann model provided uniformity in subsequent computer designs. The von Neumann architecture was considered innovative as it introduced an idea of allowing machine instructions and data to share memory space.  The von Neumann model is composed of three major parts, the arithmetic logic unit (ALU), the memory, and the instruction processing unit (IPU). In von Neumann machine design, the IPU passes addresses to memory, and memory, in turn, is routed either back to the IPU if an instruction is being fetched or to the ALU if data is being fetched. On August 31, 1955, a research project was proposed consisting of John McCarthy, Marvin L. Minsky, Nathaniel Rochester (computer scientist)|Nathaniel Rochester, and Claude Shannon|Claude E. Shannon. The official project began in 1956 that consisted of several significant parts they felt would help them better understand artificial intelligence's makeup.
+
+McCarthy and his colleagues' ideas behind automatic computers was while a machine is capable of completing a task, then the same should be confirmed with a computer by compiling a Computer program|program to perform the desired results. They also discovered that the human brain was too complex to replicate, not by the machine itself but by the program. The knowledge to produce a program that sophisticated was not there yet.
+
+The concept behind this was looking at how humans understand our own language and structure of how we form sentences, giving different meaning and rule sets and comparing them to a machine process. The way computers can understand is at a hardware level. This language is written in Binary number|binary (1s and 0's). This has to be written in a specific format that gives the computer the ruleset to run a particular hardware piece.
+
+Minsky's process determined how these Artificial neural network|artificial neural networks could be arranged to have similar qualities to the human brain. However, he could only produce partial results and needed to further the research into this idea.
+
+McCarthy and Shannon's idea behind this theory was to develop a way to use complex problems to determine and measure the machine's efficiency through A Mathematical Theory of Communication|mathematical theory and Computational complexity theory|computations. However, they were only to receive partial test results.
+
+The idea behind self-improvement is how a machine would use self-modifying code to make itself smarter. This would allow for a machine to grow in intelligence and increase calculation speeds. The group believed they could study this if a machine could improve upon the process of completing a task in the abstractions part of their research.
+
+The group thought that research in this category could be broken down into smaller groups. This would consist of sensory and other forms of information about artificial intelligence. Abstraction (computer science)|Abstractions in computer science can refer to mathematics and programming language.
+
+Their idea of computational creativity is how the program or a machine can be seen in having similar ways of human thinking. They wanted to see if a machine could take a piece of incomplete information and improve upon it to fill in the missing details as the human mind can do. If this machine could do this; they needed to think of how did the machine determine the outcome.
+

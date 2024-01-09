@@ -1,0 +1,2 @@
+Programmers have developed browser extensions and Scripting language|scripts designed to simplify the process of completing jobs. Amazon has stated that they disapprove of scripts that completely automate the process and preclude the human element. This is because of the concern that the task completion process—e.g. answering a survey—could be gamed with random responses, and the resultant collected data could be worthless. Accounts using so-called automated bots have been banned. 
+

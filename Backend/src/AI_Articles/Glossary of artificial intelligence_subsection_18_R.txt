@@ -1,0 +1,51 @@
+glossary}}
+
+ and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
+R Foundation
+
+The R Core Team asks authors who use R in their data analysis to cite the software using:
+R Core Team (2016). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://R-project.org/.
+}} The R language is widely used among statisticians and Data mining|data miners for developing statistical software
+
+}} and data analysis.}}
+
+
+ that uses radial basis functions as activation functions. The output of the network is a linear combination of radial basis functions of the inputs and neuron parameters. Radial basis function networks have many uses, including function approximation, time series prediction, Statistical classification|classification, and system Control theory|control. They were first formulated in a 1988 paper by Broomhead and Lowe, both researchers at the Royal Signals and Radar Establishment.}}
+
+
+
+
+
+
+
+
+
+ where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition.}}
+
+
+
+
+
+ concerned with how software agents ought to take Action selection|actions in an environment so as to maximize some notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.  It differs from supervised learning in that labelled input/output pairs need not be presented, and sub-optimal actions need not be explicitly corrected. Instead the focus is finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).}}
+
+
+. Typically an input signal is fed into a fixed (random) dynamical system called a ''reservoir'' and the dynamics of the reservoir map the input to a higher dimension. Then a simple ''readout'' mechanism is trained to read the state of the reservoir and map it to the desired output. The main benefit is that training is performed only at the readout stage and the reservoir is fixed. Liquid-state machines and echo state networks are two major types of reservoir computing.}}
+
+
+
+
+
+ that can learn a probability distribution over its set of inputs.}}
+
+
+ for implementing rule-based systems. The algorithm was developed to efficiently apply many Rule of inference|rules or patterns to many objects, or facts, in a knowledge base. It is used to determine which of the system's rules should fire based on its data store, its facts.}}
+
+
+
+
+
+
+
+
+
+

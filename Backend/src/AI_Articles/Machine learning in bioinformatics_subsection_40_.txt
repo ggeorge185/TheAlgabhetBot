@@ -1,0 +1,2 @@
+Ribosomal Database Project (RDP) is a database that provides RNA ribosomal (rRNA) sequences of small subunits of domain bacterial and archaeal (16S ribosomal RNA|16S); and fungal rRNA sequences of large subunits (28S).
+

@@ -1,0 +1,4 @@
+In psychiatry, AI applications are still in a phase of proof-of-concept. Areas where the evidence is widening quickly include predictive modelling of diagnosis and treatment outcomes, chatbots, conversational agents that imitate human behaviour and which have been studied for anxiety and depression.
+
+Challenges include the fact that many applications in the field are developed and proposed by private corporations, such as the screening for suicidal ideation implemented by Facebook in 2017. Such applications outside the healthcare system raise various professional, ethical and regulatory questions. Another issue is often with the validity and interpretability of the models. Small training datasets contain bias that is inherited by the models, and compromises the generalizability and stability of these models. Such models may also have the potential to be discriminatory against minority groups that are underrepresented in samples.
+

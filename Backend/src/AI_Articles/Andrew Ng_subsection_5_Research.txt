@@ -1,0 +1,9 @@
+elaborate more on research -->
+Ng researches primarily in machine learning, deep learning, machine perception, computer vision, and natural language processing; and is one of the world's most famous and influential computer scientists. He's frequently won best paper awards at academic conferences and has had a huge impact on the field of AI, computer vision, and robotics.
+
+During graduate school, together with David M. Blei and Michael I. Jordan, Ng coauthored the influential paper that introduced latent Dirichlet allocation (LDA) for his thesis on reinforcement learning for drones.
+
+His early work includes the Stanford Autonomous Helicopter project, which developed one of the most capable autonomous helicopters in the world. He was the leading scientist and principal investigator on the STAIR (Stanford Artificial Intelligence Robot) project, which resulted in Robot Operating System (ROS), a widely used open source software robotics platform. His vision to build an AI robot and put a robot in every home inspired Scott Hassan to back him and create Willow Garage. He is also one of the founding team members for the Stanford WordNet project, which uses machine learning to expand the Princeton University|Princeton WordNet database created by Christiane Fellbaum.
+
+In 2011, Ng founded the Google Brain project at Google, which developed large-scale artificial neural networks using Google's distributed computing infrastructure. Among its notable results was a neural network trained using deep learning algorithms on 16,000 CPU cores, which learned to recognize cats after watching only YouTube videos, and without ever having been told what a "cat" is. The project's technology is also currently used in the Android (operating system)|Android operating system's speech recognition system.
+

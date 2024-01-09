@@ -1,0 +1,12 @@
+The organisers of the Hutter Prize believe that compressing natural language text is a hard AI problem, equivalent to passing the Turing test.
+
+The data compression test has some advantages over most versions and variations of a Turing test, including:
+
+* It gives a single number that can be directly used to compare which of two machines is "more intelligent."
+* It does not require the computer to lie to the judge
+
+The main disadvantages of using data compression as a test are:
+
+* It is not possible to test humans this way.
+* It is unknown what particular "score" on this test—if any—is equivalent to passing a human-level Turing test.
+

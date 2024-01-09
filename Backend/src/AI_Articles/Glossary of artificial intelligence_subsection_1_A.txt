@@ -1,0 +1,152 @@
+glossary}}
+
+. It extends normal  by allowing some predicates to be incompletely defined, declared as abducible predicates.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ and robotics domains, where they describe how actions affect the states of systems over time, and may be used for automated planning.}}
+
+
+
+
+
+
+
+
+, the activation function of a node defines the output of that node given an input or set of inputs.}}
+
+
+
+
+
+
+ that is based on Takagi–Sugeno fuzzy inference system. The technique was developed in the early 1990s. Since it integrates both neural networks and  principles, it has potential to capture the benefits of both in a single :wikt:framework|framework. Its inference system corresponds to a set of fuzzy Conditional (programming)|IF–THEN rules that have learning capability to approximate nonlinear functions. Hence, ANFIS is considered to be a universal estimator. For using the ANFIS in a more efficient and optimal way, one can use the best parameters obtained by genetic algorithm.}}
+
+
+ related to , a heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path.}}
+
+
+
+
+
+
+ systems, depicting the arrangement of components. The architectures implemented by  are referred to as cognitive architectures.}}
+
+
+ applications, especially , , and .}}
+
+
+. To call a problem AI-complete reflects an attitude that it would not be solved by a simple specific algorithm.}}
+
+
+
+
+
+ which relates to the number of computational resources used by the algorithm. An algorithm must be analysis of algorithms|analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ that can return a valid solution to a problem even if it is interrupted before it ends.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".}}
+
+
+
+
+
+
+
+
+
+. AAAI also aims to increase public understanding of artificial intelligence (AI), improve the teaching and training of AI practitioners, and provide guidance for research planners and funders concerning the importance and potential of current AI developments and future directions.}}
+
+
+, asymptotic computational complexity is the usage of asymptotic analysis for the estimation of computational complexity of  and computational problems, commonly associated with the usage of the big O notation.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ which aims to automatically configure a machine learning system to maximize its performance (e.g, classification accuracy).}}
+
+
+
+ that concerns the realization of strategy|strategies or action sequences, typically for execution by , autonomous robots and unmanned vehicles. Unlike classical control system|control and Statistical classification|classification problems, the solutions are complex and must be discovered and optimized in multidimensional space. Planning is also related to decision theory.}}
+
+
+, it also has connections with theoretical computer science, and even philosophy.}}
+
+
+
+
+
+
+
+
+
+, robotics, and Information engineering (field)|information engineering.}}
+
+
+
+

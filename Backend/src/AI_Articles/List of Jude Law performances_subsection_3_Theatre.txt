@@ -1,0 +1,112 @@
+class="wikitable plainrowheaders sortable" style="margin-right: 0;"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" | Venue
+! scope="col" class="unsortable" | 
+|-
+! scope="row" | 1987
+| ''Bodywork''
+| Adrenalin
+| National Youth Music Theatre production<br />Northcott Theatre, Exeter (The Exeter Festival)<br />Edinburgh Festival Fringe
+| style="text-align: center;" | 
+|-
+! scope="row" | 1988
+| ''The Ragged Child''
+| Various roles
+| National Youth Music Theatre production<br />Sadler's Wells Theatre<br />Northcott Theatre, Exeter
+| style="text-align: center;" | 
+|-
+! scope="row" | 1992
+| ''Pygmalion (play)|Pygmalion''
+| Freddie
+| Tour through Italy
+| style="text-align: center;" | 
+|-
+! scope="row" | 1993
+| ''The Snow Orchid''
+| Blaise
+| Gate Theatre (London)|Gate Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 1993
+| ''Live Like Pigs''
+| Col
+| Royal Court Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 1993
+| ''Death of a Salesman''
+| Happy
+| West Yorkshire Playhouse, Leeds
+| style="text-align: center;" | 
+|-
+! scope="row" | 1994
+| ''Les Parents terribles''
+| Michael
+| Royal National Theatre|Lyttelton Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 1995
+| ''Les Parents terribles|Indiscretions''
+| Michael
+| Ethel Barrymore Theatre, Broadway theatre|Broadway
+| style="text-align: center;" | 
+|-
+! scope="row" | 1995
+| ''Ion (play)|Ion''
+| Ion
+| Royal Shakespeare Company production<br />The Pit at Barbican Arts Centre
+| style="text-align: center;" | 
+|-
+! scope="row" | 1999
+| '''Tis Pity She's a Whore''
+| Giovanni
+| Young Vic|Young Vic Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 2002
+| ''Doctor Faustus (play)|Doctor Faustus''
+| Faust|Doctor Faustus
+| Young Vic|Young Vic Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 2006
+| ''Samuel Beckett|Beckett at Reading, Berkshire|Reading, Gala Evening''
+|
+| Concert Hall, Reading, Berkshire|Reading
+| style="text-align: center;" | 
+|-
+! scope="row" | 2009
+| ''Hamlet''
+| Prince Hamlet|Hamlet
+| Donmar Warehouse|Donmar at Wyndham's Theatre<br />Kronborg Castle, Helsingør|Elsinore<br />Broadhurst Theatre on Broadway theatre|Broadway
+| style="text-align: center;" | 
+|-
+! scope="row" | 2011
+| ''Anna Christie''
+| Mat Burke
+| Donmar Warehouse
+| style="text-align: center;" | 
+|-
+! scope="row" | 2013–2014
+| ''Henry V (play)|Henry V''
+| Henry V of England|Henry V
+| Noël Coward Theatre
+| style="text-align: center;" | 
+|-
+! scope="row" | 2015
+| ''The Vote (play)|The Vote''
+|
+| Donmar Warehouse
+| style="text-align: center;" | 
+|-
+! scope="row" | 2017
+| ''Ossessione|Obsession''
+| Gino
+| Barbican Centre|Barbican Theatre<br />Vienna Festival|Wiener Festwochen<br />Carré Theatre|Koninklijk Theater Carre<br />Grand Théâtre de Luxembourg
+| style="text-align: center;" | 
+|-
+|}
+

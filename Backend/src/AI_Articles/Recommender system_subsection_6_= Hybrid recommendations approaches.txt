@@ -1,0 +1,11 @@
+Most recommender systems now use a hybrid approach, combining collaborative filtering, content-based filtering, and other approaches. There is no reason why several different techniques of the same type could not be hybridized. Hybrid approaches can be implemented in several ways: by making content-based and collaborative-based predictions separately and then combining them; by adding content-based capabilities to a collaborative-based approach (and vice versa); or by unifying the approaches into one model (see
+
+Netflix is a good example of the use of hybrid recommender systems. The website makes recommendations by comparing the watching and searching habits of similar users (i.e., collaborative filtering) as well as by offering movies that share characteristics with films that a user has rated highly (content-based filtering).
+
+Some hybridization techniques include:
+*'''Weighted''': Combining the score of different recommendation components numerically.
+*'''Switching''': Choosing among recommendation components and applying the selected one.
+*'''Mixed''': Recommendations from different recommenders are presented together to give the recommendation.
+*'''Feature Combination''': Features derived from different knowledge sources are combined together and given to a single recommendation algorithm.
+*'''Feature Augmentation''': Computing a feature or set of features, which is then part of the input to the next technique.
+

@@ -1,0 +1,4 @@
+Online lender Upstart (company)|Upstart uses machine learning for underwriting.
+
+ZestFinance's Zest Automated Machine Learning (ZAML) platform is used for credit underwriting. This platform uses machine learning to analyze data including purchase transactions and how a customer fills out a form to score borrowers. The platform is particularly useful to assign credit scores to those with limited credit histories.
+

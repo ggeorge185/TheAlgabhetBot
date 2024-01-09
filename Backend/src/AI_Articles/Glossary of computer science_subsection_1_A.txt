@@ -1,0 +1,66 @@
+glossary}}
+
+ in which a data type is defined by its behavior () from the point of view of a  of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This contrasts with , which are concrete representations of data from the point of view of an implementer rather than a user.}}
+
+
+ in some computer languages.}}
+
+
+, the process of removing physical, spatial, or temporal details or  in the study of objects or systems in order to more closely attend to other details of interest; it is also very similar in nature to the process of generalization.}}
+
+
+
+ for computer simulation|simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) with a view to assessing their effects on the system as a whole. It combines elements of game theory, complex systems, emergence, computational sociology, multi-agent systems, and evolutionary programming. Monte Carlo methods are used to introduce randomness.}}
+
+
+ in which the values of multiple rows are grouped together to form a single value of more significant meaning or measurement, such as a sum, count, or max.}}
+
+
+
+
+
+
+
+
+. The design of algorithms is part of many solution theories of operation research, such as dynamic programming and Divide and conquer algorithm|divide-and-conquer. Techniques for designing and implementing algorithm designs are also called algorithm design patterns, such as the template method pattern and decorator pattern.}}
+
+
+ which relates to the number of computational resources used by the algorithm. An algorithm must be analysis of algorithms|analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.}}
+
+
+
+
+
+ definitions, communication protocols, and tools for building . In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a  by providing all the building blocks, which are then put together by the programmer.}}
+
+
+
+ designed to perform a group of coordinated functions, tasks, or activities for the benefit of the . Common examples of applications include word processors, spreadsheets, accounting software|accounting applications, web browsers, media player (software)|media players, aeronautical flight simulators, console games, and Raster graphics editor|photo editors. This contrasts with , which is mainly involved with managing the computer's most basic running operations, often without direct input from the user. The collective noun ''application software'' refers to all applications collectively.}}
+
+
+
+ consisting of a collection of ''elements'' ( or ), each identified by at least one ''array index'' or ''key''. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula. The simplest type of data structure is a linear array, also called a one-dimensional array.}}
+
+
+. Some artifacts (e.g. use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements, and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself—such as project plans, business cases, and risk assessments.}}
+
+
+
+, AI research is defined as the study of "intelligent agents": devices capable of perceiving their environment and taking actions that maximize the chance of successfully achieving their goals. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".}}
+
+
+''.}}
+
+
+, a  that a Predicate (mathematical logic)|predicate (Boolean-valued function, i.e. a true–false ) is always true at that point in code execution. It can help a programmer read the code, help a  compile it, or help the program detect its own defects. For the latter, some programs check assertions by actually evaluating the predicate as they run and if it is not in fact true – an assertion failure – the program considers itself to be broken and typically deliberately  or throws an assertion failure exception handling|exception.}}
+
+
+
+
+
+ and discrete mathematics (a subject of study in both mathematics and ).}}
+
+
+ and mathematical logic dedicated to understanding different aspects of reasoning. The study of automated reasoning helps produce computer programs that allow computers to reason completely, or nearly completely, automatically. Although automated reasoning is considered a sub-field of , it also has connections with , and even philosophy.}}
+
+

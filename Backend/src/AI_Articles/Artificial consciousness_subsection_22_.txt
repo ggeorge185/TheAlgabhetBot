@@ -1,0 +1,2 @@
+Murray Shanahan describes a cognitive architecture that combines Baars's idea of a global workspace with a mechanism for internal simulation ("imagination").
+

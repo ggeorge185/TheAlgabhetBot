@@ -1,0 +1,9 @@
+A second application area in computer vision is in industry, sometimes called machine vision, where information is extracted for the purpose of supporting a production process. One example is quality control where details or final products are being automatically inspected in order to find defects. One of the most prevalent fields for such inspection is the Wafer (electronics)|Wafer industry in which every single Wafer is being measured and inspected for inaccuracies or defects to prevent a Integrated circuit|computer chip from coming to market in an unusable manner. Another example is a measurement of the position and orientation of details to be picked up by a robot arm. Machine vision is also heavily used in the agricultural processes to remove undesirable food stuff from bulk material, a process called optical sorting. Another variation of this finger mold sensor are sensors that contain a camera suspended in silicon. The silicon forms a dome around the outside of the camera and embedded in the silicon are point markers that are equally spaced. These cameras can then be placed on devices such as robotic hands in order to allow the computer to receive highly accurate tactile data.
+
+Other application areas include:
+
+* Support of visual effects creation for cinema and broadcast, ''e.g.'', camera tracking (match moving).
+* Surveillance.
+* Driver drowsiness detection
+* Tracking and counting organisms in the biological sciences
+

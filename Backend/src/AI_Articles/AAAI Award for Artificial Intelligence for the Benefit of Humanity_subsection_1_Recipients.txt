@@ -1,0 +1,18 @@
+class="wikitable"
+! Year
+! colspan=2|Recipient
+! Rationale
+|-
+! 2021
+| || Regina Barzilay || For her work developing machine learning models to address drug synthesis and early-stage breast cancer diagnosis.
+|-
+! 2023
+| || Tuomas Sandholm || For outstanding scientific and software contributions to the design and implementation of organ exchanges, and their direct impact on both practice and policy.
+|-
+!2024
+|
+|Milind Tambe
+|For ground-breaking applications of novel AI techniques to public safety and security, conservation, and public health, benefiting humanity on an international scale.
+|-
+|}
+

@@ -1,0 +1,2 @@
+Predictive computational neuroscience is a recent field that combines signal processing, neuroscience, clinical data and machine learning to predict the brain during coma  or anesthesia. For example, it is possible to anticipate deep brain states using the EEG signal. These states can be used to anticipate hypnotic concentration to administrate to the patient.
+

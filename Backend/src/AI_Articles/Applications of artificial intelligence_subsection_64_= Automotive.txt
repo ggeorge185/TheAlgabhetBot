@@ -1,0 +1,18 @@
+Main|Vehicular automation|Self-driving car}}
+File:Waymo self-driving car side view.gk.jpg|thumb|Side view of a [[Waymo-branded self-driving car]]
+AI in transport is expected to provide safe, efficient, and reliable transportation while minimizing the impact on the environment and communities. The major development challenge is the complexity of transportation systems that involves independent components and parties, with potentially conflicting objectives.
+
+AI-based fuzzy logic controllers operate Transmission (mechanics)|gearboxes. For example, the 2006 Audi TT, Volkswagen Touareg|VW Touareg  and Volkswagen Transporter (T5)|VW Caravell feature the DSP transmission. A number of Škoda variants (Škoda Fabia) include a fuzzy logic-based controller. Cars have AI-based Advanced driver-assistance systems|driver-assist features such as Automatic parking|self-parking and adaptive cruise control.
+
+There are also prototypes of autonomous automotive public transport vehicles such as electric mini-buses as well as Automatic train operation|autonomous rail transport in List of automated train systems|operation.
+
+There also are prototypes of autonomous delivery vehicles, sometimes including delivery robots.
+
+Transportation's complexity means that in most cases training an AI in a real-world driving environment is impractical. Simulator-based testing can reduce the risks of on-road training.
+
+AI underpins self-driving vehicles. Companies involved with AI include Tesla Motors|Tesla, Waymo, and General Motors. AI-based systems control functions such as braking, lane changing, collision prevention, navigation and mapping.
+
+Autonomous trucks are in the testing phase. The UK government passed legislation to begin testing of autonomous truck platoons in 2018. A group of autonomous trucks follow closely behind each other. German corporation Daimler AG|Daimler is testing its Freightliner Inspiration.
+
+Autonomous vehicles require accurate maps to be able to navigate between destinations. Some autonomous vehicles do not allow human drivers (they have no steering wheels or pedals).
+

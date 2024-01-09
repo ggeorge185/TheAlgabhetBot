@@ -1,0 +1,35 @@
+File:Baidu headquarters at Shangdi (20220509112439).jpg|thumb|Baidu headquarters building completed in 2009
+In 1994, Robin Li (Li Yanhong, 李彦宏) joined IDD Information Services, a New Jersey division of Dow Jones and Company, where he helped develop software for the online edition of ''The Wall Street Journal''. He also worked on developing better algorithms for search engines and remained at IDD Information Services from May 1994 to June 1997.
+
+In 1996, while at IDD, Li developed the RankDex site-scoring algorithm for search engines results page ranking and received a US patent for the technology. Launched in 1996, Li referred to his search mechanism as "link analysis," which involved ranking the popularity of a web site based on how many other sites had linked to it. It predated the similar PageRank algorithm used by Google two years later in 1998; Google founder Larry Page referenced Li's work as a citation in some of his U.S. patents for PageRank. Li later used his RankDex technology for the Baidu search engine.
+
+Baidu was incorporated on 18 January 2000, by Robin Li and Eric Xu. In 2001, Baidu allowed advertisers to bid for ad space and then pay Baidu every time a customer clicked on an ad, predating Google's approach to advertising.
+
+Baidu went public on Wall Street through a variable interest entity (VIE) based in the Cayman Islands on 5 August 2005.
+
+On 31 July 2012, Baidu announced that it would team up with Sina Corp|Sina to provide mobile search results.
+
+On 18 November 2012, Baidu announced that it would be partnering with Qualcomm to offer free cloud storage to Android (operating system)|Android users with Snapdragon (system on chip)|Snapdragon processors.
+
+On 2 August 2013, Baidu launched its Personal Assistant app, designed to help CEOs, managers and the white-collar workers manage their business relationships.
+
+On 16 May 2014, Baidu appointed Andrew Ng|Dr. Andrew Ng as chief scientist. Dr. Ng will lead Baidu Research in Silicon Valley and Beijing.
+
+On 18 July 2014, the company launched a Brazilian version of the search engine, ''Baidu Busca''.
+
+On 9 October 2014, Baidu announced acquisition of Brazilian local e-commerce site Peixe Urbano.
+
+In April 2017, Baidu announced the launch of its Apolong|Apollo project (Apolong), a self-driving vehicle platform, in a bid to help drive the development of autonomous cars including vehicle platform, hardware platform, open-source software platform and cloud data services. Baidu plans to launch this project in July 2017, before gradually introducing fully autonomous driving capabilities on highways and open city roads by 2020.  In September 2017, Baidu launched a $1.5&nbsp;billion autonomous driving fund to invest in as many as 100 autonomous driving projects over the ensuing three years. At the same time, Apollo open-source software version 1.5 was also launched.
+
+In June 2017, Baidu partnered with Continental AG|Continental and Robert Bosch GmbH|Bosch, auto industry suppliers, on automated driving and connected cars.
+
+In September 2017, Baidu rolled out a new portable talking translator that can listen and speak in several different languages. Smaller than a typical smartphone, the 140-gram translation device can also be used as a portable Wi-Fi router and is able to operate on networks in 80 countries. It is still under development. Baidu will also be inserting artificial intelligence (AI) technology into smartphones, through its deep learning platform. At the same period, it has also led a joint investment of US$12&nbsp;billion with Alibaba Group, Tencent, JD.com and Didi Chuxing, acquiring 35% of China Unicom's stakes.
+
+In October 2017, according to ''The Wall Street Journal'', Baidu would launch Apolong|self-driving buses in China in 2018. In the same month, Baidu announced that its first annual Baidu World technology conference (''Bring AI to Life'') would be held and live-streamed on 16 November 2017, at China World Summit Wing and Kerry Hotel, bringing together Baidu executives, employees, partners, developers, and media to discuss the company's mission and strategy, technology breakthroughs, new product developments, and its open artificial-intelligence (AI) ecosystem.
+
+In August 2021 Baidu revealed a new Robocar concept said to be capable of Level 5 autonomous driving. It also comes with the latest second-generation AI chip that can analyse the internal and external surroundings to provide predictive suggestions to proactively serve the needs of passengers.
+
+In June 2022, Jidu Auto, an intelligent electric vehicle company originally backed by Baidu and Geely unveiled its first concept ROBO-01 in the form of a pre-production vehicle. The ROBO-01 rides on the Sustainable Experience Architecture platform|Sustainable Experience Architecture (SEA) platform, a modular electric vehicle platform developed by Geely Holding Group|Geely Holding.
+
+In August 2023, Baidu unveiled its ChatGPT-equivalent language model Ernie Bot publicly. In October 2023, Baidu released a newer version Ernie 4.0 chatbot. 
+

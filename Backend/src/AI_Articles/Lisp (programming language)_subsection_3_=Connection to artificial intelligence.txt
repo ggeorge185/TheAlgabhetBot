@@ -1,0 +1,2 @@
+Since inception, Lisp was closely connected with the artificial intelligence research community, especially on PDP-10 systems. Lisp was used as the implementation of the language Planner (programming language)|Micro Planner, which was used in the famous AI system SHRDLU. In the 1970s, as AI research spawned commercial offshoots, the performance of existing Lisp systems became a growing issue, as programmers needed to be familiar with the performance ramifications of the various techniques and choices involved in the implementation of Lisp.
+

@@ -1,0 +1,6 @@
+Main category|Free optical disc authoring software}}
+* Brasero (software)
+* cdrtools
+* K3b
+* X-CD-Roast
+

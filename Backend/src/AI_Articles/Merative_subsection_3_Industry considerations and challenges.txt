@@ -1,0 +1,8 @@
+The subsequent motive of large based health companies merging with other health companies, allows for greater health data accessibility. Greater health data may allow for more implementation of AI algorithms.
+
+A large part of industry focus of implementation of AI in the healthcare sector is in the clinical decision support systems. As the amount of data increases, AI decision support systems become more efficient. Numerous companies are exploring the possibilities of  the incorporation of big data in the health care industry.
+
+IBM's IBM Watson|Watson Oncology is in development at Memorial Sloan Kettering Cancer Center and Cleveland Clinic. IBM is also working with CVS Health on AI applications in Chronic condition|chronic disease treatment and with Johnson & Johnson on analysis of scientific papers to find new connections for drug development. In May 2017, IBM and Rensselaer Polytechnic Institute began a joint project entitled Health Empowerment by Analytics, Learning and Semantics (HEALS), to be  explored using AI technology to enhance healthcare.
+
+Some other large companies that have contributed to AI algorithms for use in healthcare include:
+

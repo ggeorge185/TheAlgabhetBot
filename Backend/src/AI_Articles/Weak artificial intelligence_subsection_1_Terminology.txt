@@ -1,0 +1,5 @@
+OR-section|date=October 2021}}
+“Weak AI” is sometimes called “narrow AI”, but the latter is usually interpreted as subfields within the former. Hypothesis testing about minds or part of minds are typically not part of narrow AI, but rather the implementation of some superficial lookalike feature. Many currently existing systems that claim to use “artificial intelligence” are likely operating as a narrow AI focused on a specific problem, and are not weak AI in the traditional sense. 
+
+Siri, Cortana (virtual assistant)|Cortana, and Google Assistant are all examples of narrow AI, but they are not good examples of a weak AI, as they operate within a limited pre-defined range of functions. They do not implement parts of minds, they use natural language processing together with predefined rules. They are in particular not examples of strong AI as there is no genuine intelligence nor self-awareness. AI researcher Ben Goertzel, on his blog in 2010, stated Siri was "VERY narrow and brittle" evidenced by annoying results if you ask questions outside the limits of the application.
+

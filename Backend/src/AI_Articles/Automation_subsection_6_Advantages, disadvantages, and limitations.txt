@@ -1,0 +1,28 @@
+Perhaps the most cited advantage of automation in industry is that it is associated with faster production and cheaper labor costs. Another benefit could be that it replaces hard, physical, or monotonous work. Additionally, tasks that take place in Occupational hazard|hazardous environments or that are otherwise beyond human capabilities can be done by machines, as machines can operate even under extreme temperatures or in atmospheres that are radioactive or toxic. They can also be maintained with simple quality checks. However, at the time being, not all tasks can be automated, and some tasks are more expensive to automate than others. Initial costs of installing the machinery in factory settings are high, and failure to maintain a system could result in the loss of the product itself.
+
+Moreover, some studies seem to indicate that industrial automation could impose ill effects beyond operational concerns, including worker displacement due to systemic loss of employment and compounded environmental damage; however, these findings are both convoluted and controversial in nature, and could potentially be circumvented.
+
+The main '''advantages''' of automation are:
+*Increased throughput or productivity
+*Improved quality
+*Increased predictability
+*Improved robustness (consistency), of processes or product
+*Increased consistency of output
+*Reduced direct human labor costs and expenses
+*Reduced cycle time variation|cycle time
+*Increased accuracy
+*Relieving humans of monotonously repetitive work 
+*Required work in development, deployment, maintenance, and operation of automated processes — often structured as "jobs"
+*Increased human freedom to do other things
+
+Automation primarily describes machines replacing human action, but it is also loosely associated with mechanization, machines replacing human labor. Coupled with mechanization, extending human capabilities in terms of size, strength, speed, endurance, visual range & acuity, hearing frequency & precision, electromagnetic sensing & effecting, etc., advantages include:
+*Relieving humans of dangerous work stresses and occupational injuries (e.g., fewer strained backs from lifting heavy objects)
+*Removing humans from dangerous environments (e.g. fire, space, volcanoes, nuclear facilities, underwater, etc.)
+
+The main '''disadvantages''' of automation are:
+*High initial cost
+*Faster production without human intervention can mean faster unchecked production of defects where automated processes are defective.
+*Scaled-up capacities can mean scaled-up problems when systems fail — releasing dangerous toxins, forces, energies, etc., at scaled-up rates.
+*Human adaptiveness is often poorly understood by automation initiators. It is often difficult to anticipate every contingency and develop fully preplanned automated responses for every situation.  The discoveries inherent in automating processes can require unanticipated iterations to resolve, causing unanticipated costs and delays.
+*People anticipating employment income may be seriously disrupted by others deploying automation where no similar income is readily available.
+

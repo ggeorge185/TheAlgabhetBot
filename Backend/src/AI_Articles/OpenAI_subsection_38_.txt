@@ -1,0 +1,2 @@
+In April 2022, OpenAI announced DALL-E 2, an updated version of the model with more realistic results. In December 2022, OpenAI published on GitHub software for Point-E, a new rudimentary system for converting a text description into a 3-dimensional model.
+

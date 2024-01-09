@@ -1,0 +1,6 @@
+Several studies show that the images in LAION-5B contain problematic images and text pairs of rape, pornography, malign stereotypes, racist and ethnic slurs, and other extremely problematic content.
+
+An investigation by Bayerischer Rundfunk showed that LAION's datasets, hosted on Hugging Face, contain large amounts of private and sensitive data.
+
+In December 2023, the Stanford University|Stanford Internet Observatory released a report on LAION-5B that found 3,226 suspected instances of links to child sexual abuse material with 1,008 of these being externally validated. In response, LAION temporarily removed LAION-5B and LAION-400M citing its "zero tolerance policy for illegal content" and "an abundance of caution".
+

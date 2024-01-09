@@ -1,0 +1,6 @@
+One of the oldest contests known is the International Collegiate Programming Contest (ICPC) which originated in the 1970s and has grown to include 88 countries in its 2011 edition.
+
+From 1990 to 1994, Owen Astrachan, Vivek Khera and David Kotz ran one of the first distributed, internet-based programming contests inspired by the ICPC.
+
+Interest in competitive programming has grown extensively since 2000 to tens of thousands of participants (see #Notable competitions|Notable competitions), and is strongly connected to the growth of the Internet, which facilitates holding international contests online, eliminating geographical problems.
+

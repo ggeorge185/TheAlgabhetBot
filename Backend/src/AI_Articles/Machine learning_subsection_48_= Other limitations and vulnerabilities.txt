@@ -1,0 +1,8 @@
+WHAT IS THE TECHNICAL TERM THAT DESCRIBES THIS LIMITATION? --> 
+Learners can also disappoint by "learning the wrong lesson". A toy example is that an image classifier trained only on pictures of brown horses and black cats might conclude that all brown patches are likely to be horses. A real-world example is that, unlike humans, current image classifiers often do not primarily make judgments from the spatial relationship between components of the picture, and they learn relationships between pixels that humans are oblivious to, but that still correlate with images of certain types of real objects. Modifying these patterns on a legitimate image can result in "adversarial" images that the system misclassifies.
+
+<!-- WHAT IS THE TECHNICAL TERM THAT DESCRIBES THIS LIMITATION?  --> 
+Adversarial vulnerabilities can also result in nonlinear systems, or from non-pattern perturbations. For some systems, it is possible to change the output by only changing a single adversarially chosen pixel. Machine learning models are often vulnerable to manipulation and/or evasion via adversarial machine learning.
+
+Researchers have demonstrated how Backdoor (computing)|backdoors can be placed undetectably into classifying (e.g., for categories "spam" and well-visible "not spam" of posts) machine learning models which are often developed and/or trained by third parties. Parties can change the classification of any input, including in cases for which a type of algorithmic transparency|data/software transparency is provided, possibly including white-box testing|white-box access.
+

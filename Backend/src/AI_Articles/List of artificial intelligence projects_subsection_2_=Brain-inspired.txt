@@ -1,0 +1,4 @@
+Blue Brain Project, an attempt to create a synthetic brain by Reverse engineering|reverse-engineering the mammalian brain down to the molecular level.
+* Google Brain, a deep learning project part of Google X attempting to have intelligence similar or equal to human-level.
+* Human Brain Project, ten-year scientific research project, based on exascale supercomputers.
+

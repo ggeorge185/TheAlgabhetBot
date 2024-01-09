@@ -1,0 +1,12 @@
+Peirce came over the years to Classification of the sciences (Peirce)#Sciences|divide (philosophical) logic into three departments: 
+# Stechiology, or speculative grammar, on the conditions for meaningfulness. Classification of signs (semblances, symptoms, symbols, etc.) and their combinations (as well as their objects and interpretants).
+# Logical critic, or logic proper, on validity or justifiability of inference, the conditions for true representation. Critique of arguments in their various modes (deduction, induction, abduction).
+# Methodeutic, or speculative rhetoric, on the conditions for determination of interpretations. Methodology of inquiry in its interplay of modes.
+Peirce had, from the start, seen the modes of inference as being coordinated together in scientific inquiry and, by the 1900s, held that hypothetical inference in particular is inadequately treated at the level of critique of arguments. Peirce held that:
+
+1. Hypothesis (abductive inference) is inference through an ''icon'' (also called a ''likeness''). <br />
+2. Induction is inference through an ''index'' (a sign by factual connection); a sample is an index of the totality from which it is drawn. <br />
+3. Deduction is inference through a ''symbol'' (a sign by interpretive habit irrespective of resemblance or connection to its object).
+
+In 1902, Peirce wrote that, in abduction: "It is recognized that the phenomena are ''like'', i.e. constitute an Icon of, a replica of a general conception, or Symbol."
+

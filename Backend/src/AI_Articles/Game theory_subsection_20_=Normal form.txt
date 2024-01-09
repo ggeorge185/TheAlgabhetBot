@@ -1,0 +1,31 @@
+align=right border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+ align=bottom |''A normal form game''
+|-
+|
+! scope="col" style="color: #900;width: 90px;" | ''Player 2 chooses left''
+! scope="col" style="color: #900;width: 90px;" | ''Player 2 chooses right''
+|-
+! scope="col" style="color: #009;width: 90px;" | ''Player 1 chooses top''
+| align=center | <span style="color: #009">4</span>, <span style="color: #900">3</span>
+| align=center | <span style="color: #009">-1</span>, <span style="color: #900">-1</span>
+|-
+! scope="col" style="color: #009;width: 100px;" | ''Player 1 chooses bottom''
+| align=center | <span style="color: #009">0</span>, <span style="color: #900">0</span>
+| align=center | <span style="color: #009">3</span>, <span style="color: #900">4</span>
+|} ----->
+
+| 2R = 
+| 1U = 
+| 1D = 
+| UL = , 
+| UR = , 
+| DL = , 
+| DR = , 
+}}
+
+The normal (or strategic form) game is usually represented by a Matrix (mathematics)|matrix which shows the players, strategies, and payoffs (see the example to the right). More generally it can be represented by any function that associates a payoff for each player with every possible combination of actions. In the accompanying example there are two players; one chooses the row and the other chooses the column. Each player has two strategies, which are specified by the number of rows and the number of columns. The payoffs are provided in the interior. The first number is the payoff received by the row player (Player 1 in our example); the second is the payoff for the column player (Player 2 in our example). Suppose that Player 1 plays ''Up'' and that Player 2 plays ''Left''. Then Player 1 gets a payoff of 4, and Player 2 gets 3.
+
+When a game is presented in normal form, it is presumed that each player acts simultaneously or, at least, without knowing the actions of the other. If players have some information about the choices of other players, the game is usually presented in extensive form.
+
+Every extensive-form game has an equivalent normal-form game, however, the transformation to normal form may result in an exponential blowup in the size of the representation, making it computationally impractical.
+

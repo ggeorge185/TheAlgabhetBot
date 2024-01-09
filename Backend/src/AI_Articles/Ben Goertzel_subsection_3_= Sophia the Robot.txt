@@ -1,0 +1,2 @@
+Goertzel was the Chief Scientist of Hanson Robotics, the company that created Sophia (robot)|Sophia the Robot.As of 2018, Sophia's architecture includes scripting software, a chat system, and OpenCog, an AI system designed for general reasoning. ''OpenCog Prime'', primarily the work of Hanson Robotics' former chief scientist Ben Goertzel, is an architecture for robot and virtual embodied cognition that defines a set of interacting components designed to give rise to human-equivalent artificial general intelligence (AGI) as an emergent phenomenon of the whole system.
+

@@ -1,0 +1,7 @@
+Embedded Intelligence (Paul Lukowicz)
+* Augmented Vision (Didier Stricker)
+* Innovative Factory Systems (Martin Ruskowski)
+* Intelligent Networks (Hans Dieter Schotten)
+* Smart Data & Knowledge Services (Andreas Dengel)
+* Data Science & its Applications (Sebastian Vollmer)
+

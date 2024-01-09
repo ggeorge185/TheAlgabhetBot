@@ -1,0 +1,20 @@
+The ITU operates six regional offices, as well as seven area offices. These offices help maintain direct contact with national authorities, regional telecommunication organizations and other stakeholders. They are as follow:
+* Regional Office for Africa, headquartered in Addis Ababa, Ethiopia
+** Area Offices in Dakar, Senegal; Harare, Zimbabwe and Yaoundé, Cameroon
+* Regional Office for the Americas, headquartered in Brasília, Brazil
+** Area Offices in Bridgetown, Barbados; Santiago, Chile and Tegucigalpa, Honduras
+* Regional Office for Arab States, headquarters in Cairo, Egypt
+* Regional Office for Asia and the Pacific, headquartered in Bangkok, Thailand
+** Area Office in Jakarta, Indonesia
+* Regional Office for the Commonwealth of Independent States, headquartered in Moscow, Russia
+* Regional Office for Europe, headquartered in Geneva, Switzerland
+
+Other regional organizations connected to ITU are: 
+*Asia-Pacific Telecommunity (APT)
+*Arab Spectrum Management Group (ASMG)
+*African Telecommunications Union (ATU)
+*Caribbean Telecommunications Union (CTU)
+*European Conference of Postal and Telecommunications Administrations (CEPT)
+*Inter-American Telecommunication Commission (CITEL)
+*Regional Commonwealth in the Field of Communications (RCCrepresenting former Soviet republics)
+

@@ -1,0 +1,10 @@
+There are many organizations concerned with AI ethics and policy, public and governmental as well as corporate and societal.
+
+Amazon.com, Inc.|Amazon, Google, Facebook, IBM, and Microsoft have established a Nonprofit organization|non-profit, The Partnership on AI to Benefit People and Society, to formulate best practices on artificial intelligence technologies, advance the public's understanding, and to serve as a platform about artificial intelligence. Apple joined in January 2017. The corporate members will make financial and research contributions to the group, while engaging with the scientific community to bring academics onto the board.
+
+The IEEE put together a Global Initiative on Ethics of Autonomous and Intelligent Systems which has been creating and revising guidelines with the help of public input, and accepts as members many professionals from within and without its organization. The IEEE's [https://standards.ieee.org/industry-connections/ec/autonomous-systems/ Ethics of Autonomous Systems] initiative aims to address ethical dilemmas related to decision-making and the impact on society while developing guidelines for the development and use of autonomous systems. In particular in domains like artificial intelligence and robotics, the Foundation for Responsible Robotics is dedicated to promoting moral behavior as well as responsible robot design and use, ensuring that robots maintain moral principles and are congruent with human values.
+
+Traditionally, government has been used by societies to ensure ethics are observed through legislation and policing. There are now many efforts by national governments, as well as transnational government and NGO|non-government organizations to ensure AI is ethically applied.
+
+AI ethics work is structured by personal values and professional commitments, and involves constructing contextual meaning through data and algorithms. Therefore, AI ethics work needs to be incentivized.
+

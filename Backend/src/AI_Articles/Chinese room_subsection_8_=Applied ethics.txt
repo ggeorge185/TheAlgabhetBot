@@ -1,0 +1,4 @@
+File:USS Vincennes (CG-49) Aegis large screen displays.jpg|thumb|right|Sitting in the combat information center aboard [[USS Vincennes (CG-49)|a warship—proposed as a real-life analog to the Chinese room]]
+
+Patrick Hew used the Chinese Room argument to deduce requirements from military command and control systems if they are to preserve a commander's moral agency. He drew an analogy between a commander in their command center and the person in the Chinese Room, and analyzed it under a reading of Nicomachean Ethics|Aristotle's notions of "compulsory" and "ignorance". Information could be "down converted" from meaning to symbols, and manipulated symbolically, but moral agency could be undermined if there was inadequate 'up conversion' into meaning. Hew cited examples from the Iran Air Flight 655|USS ''Vincennes'' incident.
+

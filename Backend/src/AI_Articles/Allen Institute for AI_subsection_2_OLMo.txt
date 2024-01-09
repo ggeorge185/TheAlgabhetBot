@@ -1,0 +1,2 @@
+On May 11, 2023, AI2 announced OLMo, an open language model aiming to be comparable to other state-of-the-art language models and expected to be released in 2024.
+

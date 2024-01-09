@@ -1,0 +1,13 @@
+GNU bison|Bison
+*CodeSynthesis XSD – XML Data Binding compiler for C++
+*CodeSynthesis XSD/e – Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems
+*Flex lexical analyser – Generates lexical analyzers
+*Open Scene Graph – 3D graphics application programming interface
+*OpenSCDP – Open Smart Card Development Platform
+*phpCodeGenie
+*SableCC – Parser generator for Java and .NET
+*SWIG – Simplified Wrapper and Interface Generator for several languages
+*^txt2regex$
+*xmlbeansxx – XML Data Binding code generator for C++
+*YAKINDU Statechart Tools – Statechart code generator for C++ and Java
+

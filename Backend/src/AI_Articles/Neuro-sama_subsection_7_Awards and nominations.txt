@@ -1,0 +1,14 @@
+class="wikitable sortable"
+!Year
+!Ceremony
+!Category
+!Result
+!Ref.
+|-
+| align="center"|2023
+|The Vtuber Awards
+|Best Tech VTuber
+|
+| align="center" |
+|}
+

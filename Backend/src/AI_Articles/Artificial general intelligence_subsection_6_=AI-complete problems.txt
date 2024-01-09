@@ -1,0 +1,10 @@
+Main|AI-complete}}
+
+There are many problems that may require general intelligence to solve the problems as well as humans do. For example, even specific straightforward tasks, like machine translation, require that a machine read and write in both languages (#Natural language processing|NLP), follow the author's argument (#Deduction, reasoning, problem solving|reason), know what is being talked about (#Knowledge representation|knowledge), and faithfully reproduce the author's original intent (#Social intelligence|social intelligence). All of these problems need to be solved simultaneously in order to reach human-level machine performance.
+
+A problem is informally called "AI-complete" or "AI-hard" if it is believed that to solve it one would need to implement strong AI, because the solution is beyond the capabilities of a purpose-specific algorithm.
+
+AI-complete problems are hypothesised to include general computer vision, natural-language understanding|natural language understanding, and dealing with unexpected circumstances while solving any real-world problem.
+
+AI-complete problems cannot be solved with current computer technology alone, and require human computation. This limitation could be useful to test for the presence of humans, as CAPTCHAs aim to do; and for computer security to repel brute-force attacks.
+

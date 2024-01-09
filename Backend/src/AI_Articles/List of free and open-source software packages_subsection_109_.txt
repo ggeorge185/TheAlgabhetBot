@@ -1,0 +1,8 @@
+Pencil2D – Simple 2D graphics and animation program
+*Synfig – 2D vector graphics and timeline based animation
+*TupiTube (formerly KTooN) – Application for the design and creation of animation
+*OpenToonz – Part of a family of 2D animation software
+*Krita – Digital painting, sketching and 2D animation application, with a variety of brush engines
+*Blender (software)|Blender – Computer graphics software, Blender's Grease Pencil tools allow for 2D animation within a full 3D pipeline.
+*mtPaint – raster graphics editor for creating Icon (computing)|icons, pixel art
+

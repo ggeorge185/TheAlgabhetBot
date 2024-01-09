@@ -1,0 +1,2 @@
+GPTZero was developed by Edward Tian, a Princeton University undergraduate student, and launched online in January 2023 in response to concerns about AI-generated usage in academic plagiarism. GPTZero has raised over 3.5 million dollars in seed funding. In the first week of its release, the GPTZero experienced 30,000 uses, which led to a crash. It is supported by the web app company Streamlit, who allocated more server resources in response.
+

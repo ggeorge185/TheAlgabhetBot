@@ -1,0 +1,6 @@
+In order to address these issues, another approach to decisional AI, also known as '''situated or behavioral''' AI, has been proposed. It does not attempt to model systems that produce deductive reasoning processes, but rather systems that '''behave realistically in their environment'''. The main characteristics of this approach are the following:
+* It is '''bottom-up''': it relies on elementary behaviors, which can be combined to implement more complex behaviors.
+* It is '''behavior-based''': it does not rely on a symbolic description of the environment, but rather on a model of the interactions of the entities with their environment.
+
+The goal of situated AI is to model entities that are autonomous in their environment. This is achieved thanks to both the intrinsic robustness of the control architecture, and its adaptation capabilities to unforeseen situations.
+

@@ -1,0 +1,22 @@
+class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2017
+| ''On the Fringe''
+| Reuben
+| TV series
+|-
+| 2021
+| ''The Feed Presents: Cancelled!''
+| Various Characters
+| TV special
+|-
+| 2022
+| ''Time to Buy''
+| Virtual Real Estate Agent
+| Special Broadcasting Service|SBS musical comedy
+|}
+

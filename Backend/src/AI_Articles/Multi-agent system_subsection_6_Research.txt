@@ -1,0 +1,16 @@
+The study of multi-agent systems is "concerned with the development and analysis of sophisticated artificial intelligence|AI problem-solving and control architectures for both single-agent and multiple-agent systems." Research topics include:
+* agent-oriented software engineering
+* beliefs, desires, and intentions (BDI software agent|BDI)
+* Consensus dynamics|cooperation and coordination
+* distributed constraint optimization (DCOPs)
+* organization
+* communication
+* negotiation
+* cooperative distributed problem solving|distributed problem solving
+*multi-agent learning
+* agent mining 
+* scientific communities (e.g., on biological flocking, language evolution, and economics)
+* dependability and fault-tolerance
+* robotics, multi-robot systems (MRS), robotic clusters
+* multi-agent systems also present possible applications in microrobotics, where the physical interaction between the agents are exploited to perform complex tasks such as manipulation and assembly of passive components.
+

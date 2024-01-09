@@ -1,0 +1,2 @@
+CHAI's approach to AI safety research focuses on value alignment strategies, particularly Reinforcement learning#Inverse reinforcement learning|inverse reinforcement learning, in which the AI infers human values from observing human behavior.  It has also worked on modeling human-machine interaction in scenarios where intelligent machines have an "off-switch" that they are capable of overriding.
+

@@ -1,0 +1,8 @@
+The term ''separation of concerns'' was probably coined by Edsger W. Dijkstra in his 1974 paper "On the role of scientific thought".
+
+
+Fifteen years later, it was evident the term  was becoming an accepted idea. In 1989, Chris Reade wrote a book titled ''Elements of Functional Programming'' that describes separation of concerns:
+
+Reade continues to say,
+
+

@@ -1,0 +1,6 @@
+IMEC develops wearable devices. Its technologies have gained several approvals by regulatory agencies such as the FDA and PMDA  and have made contributions to at least one published study.
+
+Through its spinoff Bloomlife, IMEC develops pregnancy monitoring technology that tracks fetal health and fetal mobility , with the aim of giving pregnant women and their doctors better access to key details about fetal development.
+
+Other applications include ingestible gut sensors designed to capture mechanical, electrical, and chemical changes that occur during digestion, flagging abnormalities and problems while also delivering personalized nutrition advice.
+

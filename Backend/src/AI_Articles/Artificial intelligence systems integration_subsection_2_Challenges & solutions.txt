@@ -1,0 +1,17 @@
+Image:Ai integration.jpg|thumb|An example of how multiple modules written in miscellaneous programming languages can be utilized on multiple computers in A.I. systems integration|300px
+Collaboration is an integral part of software development as evidenced by the size of software companies and the size of their software departments. Among the tools to ease software collaboration are various procedures and standards that developers can follow to ensure quality, reliability and that their software is compatible with software created by others (such as W3C standards for webpage development). However, collaboration in fields of A.I. has been lacking, for the most part not seen outside the respected schools, departments or research institutes (and sometimes not within them either). This presents practitioners of A.I. systems integration with a substantial problem and often causes A.I. researchers to have to 're-invent the wheel' each time they want a specific functionality to work with their software. Even more damaging is the "not invented here" syndrome, which manifests itself in a strong reluctance of A.I. researchers to build on the work of others.
+
+The outcome of this in A.I. is a large set of "solution islands": A.I. research has produced numerous isolated software components and mechanisms that deal with various parts of intelligence separately. To take some examples:
+
+*Speech synthesis
+**FreeTTS from Carnegie Mellon University|CMU
+*Speech recognition
+**Sphinx from Carnegie Mellon University|CMU
+*Logical reasoning
+**OpenCyc from Cycorp
+**Open Mind Common Sense Net from MIT
+
+With the increased popularity of the free software movement, a lot of the software being created, including A.I. systems, is available for public exploit. The next natural step is to merge these individual software components into coherent, intelligent systems of a broader nature. As a multitude of components (that often serve the same purpose) have already been created by the community, the most accessible way of integration is giving each of these components an easy way to communicate with each other. By doing so, each component by itself becomes a module, which can then be tried in various settings and configurations of larger architectures.
+
+Many online communities for A.I. developers exist where tutorials, examples, and forums aim at helping both beginners and experts build intelligent systems. However, few communities have succeeded in making a certain standard, or a code of conduct popular to allow the large collection of miscellaneous systems to be integrated with any ease.
+

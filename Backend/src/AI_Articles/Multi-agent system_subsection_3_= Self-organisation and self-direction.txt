@@ -1,0 +1,2 @@
+Multi-agent systems can manifest self-organisation as well as self-direction and other control theory|control paradigms and related complex behaviors even when the individual strategies of all their agents are simple. When agents can share knowledge using any agreed language, within the constraints of the system's communication protocol, the approach may lead to a common improvement. Example languages are KQML|Knowledge Query Manipulation Language (KQML) or Agent Communication Language (ACL).
+

@@ -1,0 +1,2 @@
+People often communicate and make decisions based on inferences about each other's internal states (e.g., emotional, cognitive, and physical states) that are in turn based on signals emitted by the person such as facial expression, body gesture, voice, and words. Broadly speaking, artificial empathy focuses on developing non-human models that achieve similar objectives using similar data.
+

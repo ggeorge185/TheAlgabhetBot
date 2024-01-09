@@ -1,0 +1,7 @@
+Source:
+The notion of Computational Intelligence was first used by the IEEE Neural Networks Council in 1990. This council was founded in the 1980s by a group of researchers interested in the development of biological and artificial neural networks. On November 21, 2001, the IEEE Neural Networks Council became the IEEE Neural Networks Society, to become the IEEE Computational Intelligence Society two years later by including new areas of interest such as fuzzy systems and evolutionary computation, which they related to Computational Intelligence in 2011 (Dote and Ovaska).
+
+But the first clear definition of Computational Intelligence was introduced by Bezdek in 1994: Much closer to the way the human brain works by aggregating data to partial truths (Crisp/fuzzy systems), this logic is one of the main exclusive aspects of CI.
+
+Within the same principles of fuzzy and binary ''logics'' follow crispy and fuzzy ''systems''. Crisp logic is a part of artificial intelligence principles and consists of either including an element in a set, or not, whereas fuzzy systems (CI) enable elements to be partially in a set. Following this logic, each element can be given a degree of membership (from 0 to 1) and not exclusively one of these 2 values.
+

@@ -1,0 +1,2 @@
+AI can play a role in various facets of the field of gastroenterology. Endoscopy|Endoscopic exams such as Esophagogastroduodenoscopy|esophagogastroduodenoscopies (EGD) and Colonoscopy|colonoscopies rely on rapid detection of abnormal tissue. By enhancing these endoscopic procedures with AI, clinicians can more rapidly identify diseases, determine their severity, and visualize blind spots. Early trials in using AI detection systems of early gastric cancer have shown Sensitivity and specificity|sensitivity close to expert endoscopists.
+

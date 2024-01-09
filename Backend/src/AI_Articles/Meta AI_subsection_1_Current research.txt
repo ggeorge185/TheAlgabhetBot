@@ -1,0 +1,2 @@
+In the February 23, 2022, live event ''Inside the Lab: Building for the Metaverse with AI,'' the Meta AI team discussed the major advancements in research and development in artificial intelligence. One such tool is the BuilderBot, which allows users to generate virtual worlds by using voice commands. Other tools include the No Language Left Behind, a system capable of automatic translation between written languages, and a Universal Speech Translator, a system capable of instantaneous speech-to-speech translation.
+

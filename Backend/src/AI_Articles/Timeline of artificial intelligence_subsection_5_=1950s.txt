@@ -1,0 +1,39 @@
+class="wikitable"
+|-
+!Date 
+! Development
+|-
+! rowspan=3 | 1950
+| Alan Turing published "Computing Machinery and Intelligence", which proposes the Turing test as a measure of machine intelligence and answered all of the most common objections to the proposal "machines can think".
+|-
+| Claude Shannon published a detailed analysis of chess playing as search algorithm|search.
+|-
+| Isaac Asimov published his Three Laws of Robotics.
+|-
+! 1951 
+| The first working AI programs were written in 1951 to run on the Ferranti Mark 1 machine of the University of Manchester:  a checkers-playing program written by Christopher Strachey and a chess-playing program written by Dietrich Prinz.
+|-
+! 1952–1962 
+| Arthur Samuel (computer scientist)|Arthur Samuel (IBM) wrote the first game-playing program,for checkers (draughts), to achieve sufficient skill to challenge a respectable amateur. His first checkers-playing program was written in 1952, and in 1955 he created a version that machine learning|learned to play.
+|-
+! rowspan=2 | 1956
+| The Dartmouth College Dartmouth workshop|summer AI conference is organized by John McCarthy (computer scientist)|John McCarthy, Marvin Minsky, Nathan Rochester of International Business Machines|IBM and Claude Shannon. McCarthy coins the term ''artificial intelligence'' for the conference.
+|-
+| The first demonstration of the Logic Theorist (LT) written by Allen Newell, Cliff Shaw|J.C. Shaw and Herbert A. Simon (Carnegie Institute of Technology, now Carnegie Mellon University or CMU). This is often called the first AI program, though Samuel's checkers program also has a strong claim. This program has been described as the first deliberately engineered to perform automated reasoning, and would eventually prove 38 of the first 52 theorems in Bertrand Russell|Russell and Alfred North Whitehead|Whitehead's ''Principia Mathematica'', and find new and more elegant proofs for some. Simon said that they had "solved the venerable mind/body problem, explaining how a system composed of matter can have the properties of mind".
+|-
+! rowspan=3 | 1958 
+| John McCarthy (Massachusetts Institute of Technology or MIT) invented the Lisp (programming language)|Lisp programming language.
+|-
+| Herbert Gelernter and Nathan Rochester (IBM) described a Proof assistant|theorem prover in geometry. It exploited a semantic model of the domain in the form of diagrams of "typical" cases.
+|-
+| Teddington Conference on the Mechanization of Thought Processes was held in the UK and among the papers presented were John McCarthy's "Programs with Common Sense" (which proposed the Advice Taker application as a primary research goal) Oliver Selfridge's "Pandemonium", and Marvin Minsky's "Some Methods of Heuristic (computer science)|Heuristic Programming and Artificial Intelligence".
+|-
+! rowspan=2 | 1959 
+| The General Problem Solver (GPS) was created by Newell, Shaw and Simon while at CMU.
+|-
+| John McCarthy (computer scientist)|John McCarthy and Marvin Minsky founded the MIT Computer Science and Artificial Intelligence Laboratory|MIT AI Lab.
+|-
+! Late 1950s, early 1960s 
+| Margaret Masterman and colleagues at University of Cambridge design lexical semantics|semantic nets for machine translation.<!-- especially as to notability. Semantic nets were proposed earlier and developed later. Is this undue weight?-->
+|}
+

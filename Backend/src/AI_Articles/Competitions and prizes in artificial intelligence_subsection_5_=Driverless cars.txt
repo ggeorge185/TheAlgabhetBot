@@ -1,0 +1,5 @@
+Image:desertToCity.jpg|thumb|right|200px|Darpa Grand Challenge
+The DARPA Grand Challenge is a series of competitions to promote driverless car technology, aimed at a congressional mandate stating that by 2015 one-third of the operational ground combat vehicles of the US Armed Forces should be unmanned. While the first race had no winner, the second awarded a $2 million prize for the autonomous navigation of a hundred-mile trail, using GPS, computers and a sophisticated array of sensors. In November 2007, DARPA introduced the DARPA Urban Challenge, a sixty-mile urban area race requiring vehicles to navigate through traffic. In November 2010 the US Armed Forces extended the competition with the $1.6 million prize Multi Autonomous Ground-robotic International Challenge to consider cooperation between multiple vehicles in a simulated-combat situation.
+
+Roborace will be a global motorsport championship with Autonomous car|autonomously driving, Electric vehicle|electrically powered vehicles. The series will be run as a support series during the Formula E championship for electric vehicles. This will be the first global championship for driverless cars.
+

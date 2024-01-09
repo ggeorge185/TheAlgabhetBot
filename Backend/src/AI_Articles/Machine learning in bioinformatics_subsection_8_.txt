@@ -1,0 +1,2 @@
+Unlike supervised methods, self-supervised learning methods learn representations without relying on annotated data. That is well-suited for genomics, where high throughput sequencing techniques can create potentially large amounts of unlabeled data. Some examples of self-supervised learning methods applied on genomics include DNABERT and Self-GenomeNet.
+

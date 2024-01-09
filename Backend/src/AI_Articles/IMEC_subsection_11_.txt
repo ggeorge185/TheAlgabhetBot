@@ -1,0 +1,2 @@
+In 2018, IMEC announced the creation of a research venture together with KU Leuven, UZ Leuven and Vlaams Instituut voor Biotechnologie|VIB, called Mission Lucidity. The venture’s aim is to decode dementia. IMEC is creating human-specific living brain models, so called 'brains-on-chips’ which automate and miniaturize human stem cell manipulations, and developing technology to generate programmable, instrumented 3D brain models with single-cell precision.  The project was supported by a Collaborative Science Award of one million dollars by the Chan Zuckerberg Initiative.
+

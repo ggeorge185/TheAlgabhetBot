@@ -1,0 +1,21 @@
+Machine perception
+* Pattern recognition – 
+* Computer Audition –  
+** Speech recognition – 
+** Speaker recognition – 
+* Computer vision (outline of computer vision|outline) – 
+** Image processing
+** Intelligent word recognition –  
+** Object recognition – 
+** Optical mark recognition – 
+*** Handwriting recognition – 
+*** Optical character recognition – 
+**** Automatic number plate recognition – 
+** Information extraction – 
+*** Image retrieval – 
+**** Automatic image annotation – 
+** Facial recognition systems – 
+*** Silent speech interface – 
+*** Activity recognition –
+* Percept (artificial intelligence)
+

@@ -1,0 +1,287 @@
+class="wikitable plainrowheaders sortable" style="margin-right: 0;"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" class="unsortable" | Notes
+|-
+! scope="row" | 1989
+| ''''
+| Sam, Mayor's Stableboy
+| TV movie
+|-
+! scope="row" | 1992
+| ''''
+| Young Man
+| Short film
+|-
+! scope="row" | 1993
+| ''The Marshal''
+| Bruno
+| TV movie
+|-
+! scope="row" | 1994
+| ''Shopping (1994 film)|Shopping''
+| Billy
+| 
+|-
+! scope="row" | 1996
+| ''I Love You, I Love You Not''
+| Ethan
+| 
+|-
+! scope="row" rowspan="4" | 1997
+| ''Bent (1997 film)|Bent''
+| Stormtrooper
+| 
+|-
+| ''Wilde (film)|Wilde''
+| Lord Alfred Douglas
+|
+|-
+| ''Gattaca''
+| Jerome Eugene Morrow
+| 
+|-
+| ''Midnight in the Garden of Good and Evil (film)|Midnight in the Garden of Good and Evil''
+| Shooting of Danny Hansford|Billy Hanson
+| 
+|-
+! scope="row" rowspan="3" | 1998
+| ''Music from Another Room (film)|Music from Another Room''
+| Danny
+| 
+|-
+| ''Final Cut (1998 film)|Final Cut''
+| Jude
+| 
+|-
+| ''''
+| Steven Grlscz
+|
+|-
+! scope="row" rowspan="4" | 1999
+| ''Existenz''
+| Ted Pikul
+| 
+|-
+| ''Tube Tales''
+| 
+| Director of segment "A Bird in the Hand"
+|-
+| ''Presence of Mind''
+| Secretary
+| 
+|-
+| ''''
+| Dickie Greenleaf
+|
+|-
+! scope="row" rowspan="2" | 2000
+| ''Love, Honour and Obey''
+| Jude
+| 
+|-
+| ''Happy M'Gee''
+| Tony M'Gee
+| Short film
+|-
+! scope="row" rowspan="2" | 2001
+| ''Enemy at the Gates''
+| Vasily Zaitsev (sniper)|Vasily Zaytsev
+| 
+|-
+| ''A.I. Artificial Intelligence''
+| Gigolo Joe
+| 
+|-
+! scope="row" | 2002
+| ''Road to Perdition''
+| Harlen Maguire
+| 
+|-
+! scope="row" | 2003
+| ''Cold Mountain (film)|Cold Mountain''
+| W.P. Inman
+| 
+|-
+! scope="row" rowspan="6" | 2004
+| ''I Heart Huckabees''
+| Brad Stand
+| 
+|-
+| ''Alfie (2004 film)|Alfie''
+| Alfie
+| 
+|-
+| ''Closer (2004 film)|Closer''
+| Dan
+|
+|-
+| ''''
+| Errol Flynn
+|
+|-
+| ''Sky Captain and the World of Tomorrow''
+| Sky Captain / Joseph Sullivan
+| Also producer
+|-
+| ''Lemony Snicket's A Series of Unfortunate Events''
+| Lemony Snicket
+| Voice role
+|-
+! scope="row" rowspan="3" | 2006
+| ''All the King's Men (2006 film)|All the King's Men''
+| Jack Burden
+| 
+|-
+| ''Breaking and Entering (film)|Breaking & Entering''
+| Will Francis
+| 
+|-
+| ''''
+| Graham Simpkins
+| 
+|-
+! scope="row" rowspan="2" | 2007
+| ''My Blueberry Nights''
+| Jeremy
+| 
+|-
+| ''Sleuth (2007 film)|Sleuth''
+| Milo
+| Also producer
+|-
+! scope="row" rowspan="3" | 2009
+| ''Rage (2009 American film)|Rage''
+| Minx
+| 
+|-
+| ''''
+| Imaginarium Tony (2nd transformation)
+| 
+|-
+| ''Sherlock Holmes (2009 film)|Sherlock Holmes''
+| Dr. Watson|Dr. John Watson
+|
+|-
+! scope="row" | 2010
+| ''Repo Men''
+| Remy
+|
+|-
+! scope="row" rowspan="3" | 2011
+| ''Contagion (2011 film)|Contagion''
+| Alan Krumwiede
+| 
+|-
+| ''Hugo (film)|Hugo''
+| Mr. Cabret
+| 
+|-
+| ''Sherlock Holmes: A Game of Shadows''
+| Dr. John Watson
+| 
+|-
+! scope="row" rowspan="3" | 2012
+| ''360 (film)|360''
+| Michael Daly
+| 
+|-
+| ''Anna Karenina (2012 film)|Anna Karenina''
+| Count Alexei Alexandrovich Karenin
+| 
+|-
+| ''Rise of the Guardians''
+| Pitch Black / Bogeyman|The Bogeyman
+| Voice role
+|-
+! scope="row" rowspan="2" | 2013
+| ''Side Effects (2013 film)|Side Effects''
+| Dr. Jonathan Banks
+| 
+|-
+| ''Dom Hemingway''
+| Dom Hemingway
+| 
+|-
+! scope="row" rowspan="2" | 2014
+| ''The Grand Budapest Hotel''
+| Young Author
+|
+|-
+| ''Black Sea (film)|Black Sea''
+| Captain Robinson
+| 
+|-
+! scope="row" | 2015
+| ''Spy (2015 film)|Spy''
+| Bradley Fine
+| 
+|-
+! scope="row" | 2016
+| ''Genius (2016 film)|Genius''
+| Thomas Wolfe
+| 
+|-
+! scope="row" | 2017
+| ''King Arthur: Legend of the Sword''
+| Vortigern
+| 
+|-
+! scope="row" rowspan="2" | 2018
+| ''Vox Lux''
+| The Manager
+| Also executive producer
+|-
+| ''Fantastic Beasts: The Crimes of Grindelwald''
+| Albus Dumbledore
+| 
+|-
+! scope="row" rowspan="3" | 2019
+| ''Captain Marvel (film)|Captain Marvel''
+| Yon-Rogg (Marvel Cinematic Universe)|Yon-Rogg
+|
+|-
+| ''A Rainy Day in New York''
+| Ted Davidoff
+| 
+|-
+| ''Skywatch''
+| The Wiper
+| Short film
+|-
+! scope="row" rowspan="2" | 2020
+|''The Rhythm Section''
+|Iain Boyd
+| 
+|-
+| ''The Nest (2020 film)|The Nest'' 
+| Rory O’Hara
+| 
+|-
+! scope="row" | 2022
+|''Fantastic Beasts: The Secrets of Dumbledore'' 
+| Albus Dumbledore
+|
+|-
+! rowspan="2" scope="row" | 2023
+|''Peter Pan & Wendy''
+| Captain Hook (Disney)|Captain Hook
+|
+|-
+| ''Firebrand (2023 film)|Firebrand''
+| Henry VIII
+| 
+|-
+! scope="row" rowspan="2"| 
+| 
+| 
+| Post-production
+|-
+| 
+| TBA
+| Filming
+|}
+
+

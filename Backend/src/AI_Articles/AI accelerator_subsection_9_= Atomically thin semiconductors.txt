@@ -1,0 +1,5 @@
+In 2020, Marega et al. published experiments with a large-area active channel material for developing logic-in-memory devices and circuits based on floating-gate field-effect transistors (FGFETs). Such atomically thin semiconductors are considered promising for energy-efficient machine learning applications, where the same basic device structure is used for both logic operations and data storage. The authors used two-dimensional materials such as semiconducting molybdenum disulfide. The authors identify two key advantages of integrated photonics over its electronic counterparts: (1) massively parallel data transfer through wavelength division multiplexing in conjunction with frequency combs, and (2) extremely high data modulation speeds.
+as the collective noun for "graphics accelerators", which had taken many forms before settling on an overall graphics pipeline|pipeline implementing a model presented by Direct3D.
+
+All models of Intel Meteor Lake processors have a ''Versatile Processor Unit'' (''VPU'') built-in for accelerating statistical inference|inference for computer vision and deep learning.
+

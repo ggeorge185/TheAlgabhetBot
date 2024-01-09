@@ -1,0 +1,2 @@
+A study of 84 policy guidelines on ethical AI found that fairness and "mitigation of unwanted bias" was a common point of concern, and were addressed through a blend of technical solutions, transparency and monitoring, right to remedy and increased oversight, and diversity and inclusion efforts.
+

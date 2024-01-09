@@ -1,0 +1,7 @@
+gallery>
+File:Two-population EA search (2).gif|A two-population EA search over a constrained Rosenbrock function with bounded global optimum
+File:Two-population EA search (3).gif|A two-population EA search over a constrained Rosenbrock function. Global optimum is not bounded.
+File:Estimation of Distribution Algorithm animation.gif|Estimation of distribution algorithm over Keane's function
+File:Two population EA animation.gif|A two-population EA search of a bounded optima of Test_functions_for_optimization#Test_functions_for_constrained_optimization|Simionescu's function
+</gallery>
+

@@ -1,0 +1,2 @@
+Tests where a human judges whether a computer or an alien is intelligent were an established convention in science fiction by the 1940s, and it is likely that Turing would have been aware of these. Stanley G. Weinbaum's "A Martian Odyssey" (1934) provides an example of how nuanced such tests could be.
+

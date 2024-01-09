@@ -1,0 +1,7 @@
+main|Perfect information}}
+File:PD with outside option.svg|thumb|upright=1.25|right|A game of imperfect information. The dotted line represents ignorance on the part of player 2, formally called an [[Information set (game theory)|information set.]]
+
+An important subset of sequential games consists of games of perfect information. A game with perfect information means that all players, at every move in the game, know the previous history of the game and the moves previously made by all other players. In reality, this can be applied to firms and consumers having information about price and quality of all the available goods in a market. An imperfect information game is played when the players do not know all moves already made by the opponent such as a simultaneous move game.
+
+Many card games are games of imperfect information, such as poker and contract bridge|bridge. Perfect information is often confused with complete information, which is a similar concept pertaining to the common knowledge of each player's sequence, strategies, and payoffs throughout gameplay. Complete information requires that every player know the strategies and payoffs available to the other players but not necessarily the actions taken, whereas perfect information is knowledge of all aspects of the game and players. Games of Information asymmetry|incomplete information can be reduced, however, to games of imperfect information by introducing "Move by nature|moves by nature".
+

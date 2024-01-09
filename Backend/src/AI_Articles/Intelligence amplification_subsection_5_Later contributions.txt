@@ -1,0 +1,13 @@
+Howard Rheingold worked at Xerox PARC in the 1980s and was introduced to both Robert Taylor (computer scientist)|Bob Taylor and Douglas Engelbart; Rheingold wrote about "mind amplifiers" in his 1985 book, ''Tools for Thought''.
+Andrews Samraj mentioned in "Skin-Close Computing and Wearable Technology" 2021, about Human augmentation by two varieties of cyborgs, namely, Hard cyborgs and Soft cyborgs. A humanoid walking machine is an example of the soft cyborg and a pace-maker is an example for augmenting human as a hard cyborg.
+
+Arnav Kapur working at Massachusetts Institute of Technology|MIT wrote about human-AI coalescence: how AI can be integrated into human condition as part of "human self": as a tertiary layer to the human brain to augment human cognition. He demonstrates this using a peripheral nerve-computer interface, AlterEgo, which enables a human user to silently and internally converse with a personal AI.
+
+In 2014 the technology of Artificial Swarm Intelligence was developed to amplify the intelligence of networked human groups using AI algorithms modeled on biological swarms. The technology enables small teams to make predictions, estimations and medical diagnoses at accuracy levels that significantly exceed natural human intelligence.
+
+Shan Carter and Michael Nielsen introduce the concept of artificial intelligence augmentation (AIA): the use of AI systems to help develop new methods for intelligence augmentation. They contrast cognitive outsourcing (''AI as an oracle, able to solve some large class of problems with better-than-human performance'') with cognitive transformation (''changing the operations and representations we use to think''). A calculator is an example of the former; a spreadsheet of the latter.
+
+Ron Fulbright describes human cognitive augmentation in human/cog ensembles involving humans working in collaborative partnership with cognitive systems (called cogs). By working together, human/cog ensembles achieve results superior to those obtained by the humans working alone or the cognitive systems working alone. The human component of the ensemble is therefore cognitively augmented. The degree of augmentation depends on the proportion of the total amount of cognition done by the human and that done by the cog. Six Levels of Cognitive Augmentation have been identified: 
+
+
+

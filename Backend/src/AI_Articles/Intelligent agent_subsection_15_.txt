@@ -1,0 +1,7 @@
+Image:IntelligentAgent-Learning.png|thumb|right|408px|A general learning agent
+Learning has the advantage that it allows the agents to initially operate in unknown environments and to become more competent than its initial knowledge alone might allow. The most important distinction is between the "learning element", which is responsible for making improvements, and the "performance element", which is responsible for selecting external actions.
+
+The learning element uses feedback from the "critic" on how the agent is doing and determines how the performance element, or "actor", should be modified to do better in the future.  The performance element is what we have previously considered to be the entire agent: it takes in percepts and decides on actions.
+
+The last component of the learning agent is the "problem generator". It is responsible for suggesting actions that will lead to new and informative experiences.
+

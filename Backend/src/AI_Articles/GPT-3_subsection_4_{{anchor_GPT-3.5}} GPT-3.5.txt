@@ -1,0 +1,8 @@
+Infobox software
+| name = Generative Pre-trained Transformer 3.5 (GPT-3.5)
+| logo = 
+| screenshot = 
+| screenshot size = 
+| caption = 
+| author = OpenAI These models were described as more capable than previous versions and were trained on data up to June 2021. On November 28, 2022, OpenAI introduced text-davinci-003. On November 30, 2022, OpenAI began referring to these models as belonging to the "GPT-3.5" series, OpenAI does not include GPT-3.5 in GPT-3.
+

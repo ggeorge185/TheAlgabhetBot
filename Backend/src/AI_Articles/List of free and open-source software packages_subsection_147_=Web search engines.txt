@@ -1,0 +1,3 @@
+Searx – Self-hostable metasearch engine
+*YaCy – P2P-based search engine
+

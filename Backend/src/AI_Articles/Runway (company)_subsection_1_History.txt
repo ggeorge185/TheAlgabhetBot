@@ -1,0 +1,14 @@
+The company was founded in 2018 by the Chileans Cristóbal Valenzuela, Alejandro Matamala, and the Greek Anastasis Germanidis after they met at New York University Tisch School of the Arts|New York University Tisch School of the Arts ITP. The company raised US$2 million in 2018 to build a platform to deploy machine learning models at scale inside multimedia applications.
+
+In December 2020, Runway raised US$8.5 million in a Series A round|Series A funding round.
+
+On December, 2021, the company raised US$35 million in a Series B funding round.
+
+In August 2022, the company co-released an improved version of their Latent Diffusion model called Stable Diffusion together with the CompVis Group at Ludwig Maximilian University of Munich and a compute donation by Stability AI.
+
+On December 21, 2022 Runway raised U$50 million in a Series C round. Followed by a $141 million Series C extension round in June 2023 at a $1.5 billion valuation from Google, Nvidia, and Salesforce to build foundational multimodal AI models for content generation to be used in films and video production.
+
+In February 2023 Runway released Gen-1 and Gen-2 the first commercial and publicly available foundational video-to-video and text-to-video generation model accessible via a simple web interface.
+
+In June 2023 Runway was selected as one of the 100 Most Influential Companies in the world by Time (magazine)|TIME magazine.
+

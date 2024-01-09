@@ -1,0 +1,6 @@
+Grammar induction
+: Generate a formal grammar that describes a language's syntax.
+; Sentence breaking (also known as "sentence boundary disambiguation")
+: Given a chunk of text, find the sentence boundaries. Sentence boundaries are often marked by Full stop|periods or other punctuation marks, but these same characters can serve other purposes (e.g., marking abbreviations).
+; Parsing: Determine the parse tree (grammatical analysis) of a given sentence. The grammar for natural languages is ambiguous and typical sentences have multiple possible analyses: perhaps surprisingly, for a typical sentence there may be thousands of potential parses (most of which will seem completely nonsensical to a human). There are two primary types of parsing: ''dependency parsing'' and ''constituency parsing''. Dependency parsing focuses on the relationships between words in a sentence (marking things like primary objects and predicates), whereas constituency parsing focuses on building out the parse tree using a probabilistic context-free grammar (PCFG) (see also ''stochastic grammar'').
+

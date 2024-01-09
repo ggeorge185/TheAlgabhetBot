@@ -1,0 +1,2 @@
+GPTZero uses qualities it terms perplexity and burstiness to determine if a passage was written by a bot.
+

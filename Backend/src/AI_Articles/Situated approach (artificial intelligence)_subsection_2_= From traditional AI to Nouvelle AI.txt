@@ -1,0 +1,2 @@
+During the late 1980s, the approach now known as '''Nouvelle AI''' (''Nouvelle'' means new in French) was pioneered at the MIT Artificial Intelligence Laboratory by Rodney Brooks. As opposed to classical or traditional artificial intelligence, Nouvelle AI purposely avoided the traditional goal of modeling human-level performance, but rather tries to create systems with intelligence at the level of insects, closer to real-world robots. But eventually, at least at MIT new AI did lead to an attempt for humanoid AI in Cog (project)|the Cog Project.
+

@@ -1,0 +1,2 @@
+Parenthesized S-expressions represent linked list structures. There are several ways to represent the same list as an S-expression. A cons can be written in ''dotted-pair notation'' as , where  is the car and  the cdr. A longer proper list might be written  in dotted-pair notation. This is conventionally abbreviated as  in ''list notation''. An improper list may be written in a combination of the two – as  for the list of three conses whose last cdr is  (i.e., the list  in fully specified form).
+

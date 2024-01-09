@@ -1,0 +1,3 @@
+main|AIVA}}
+Created in February 2016, in Luxembourg, AIVA is a program that produces soundtracks for any type of media. The algorithms behind AIVA are based on deep learning architectures AIVA has also been used to compose a Rock track called ''On the Edge'', as well as a pop tune ''Love Sick'' in collaboration with singer Taryn Southern, for the creation of her 2018 album "I am AI".
+

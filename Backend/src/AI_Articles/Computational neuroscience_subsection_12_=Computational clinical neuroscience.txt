@@ -1,0 +1,2 @@
+Computational clinical neuroscience is a field that brings together experts in neuroscience, neurology, psychiatry, decision sciences and computational modeling to quantitatively define and investigate problems in neurological disorders|neurological and mental disorders|psychiatric diseases, and to train scientists and clinicians that wish to apply these models to diagnosis and treatment.
+

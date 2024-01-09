@@ -1,0 +1,2 @@
+He founded and chairs the Aether Committee at Microsoft, Microsoft's internal committee on the responsible development and fielding of AI technologies. He reported that the Aether Committee had made recommendations on and guided decisions that have influenced Microsoft's commercial AI efforts. In April 2020, Microsoft published content on principles, guidelines, and tools developed by the Aether Committee and its working groups, including teams focused on AI reliability and safety, bias and fairness, intelligibility and explanation, and human-AI collaboration.
+

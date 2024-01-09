@@ -1,0 +1,11 @@
+In 1982, physicist John Hopfield was able to prove that a form of neural network (now called a "Hopfield net") could learn and process information, and provably converges after enough time under any fixed condition. It was a breakthrough, as it was previously thought that nonlinear networks would, in general, evolve chaotically.
+
+Around the same time, Geoffrey Hinton and David Rumelhart popularized a method for training neural networks called "backpropagation", also known as the reverse mode of automatic differentiation published by Seppo Linnainmaa (1970) and applied to neural networks by Paul Werbos. These two discoveries helped to revive the exploration of artificial neural networks.
+
+Starting with the 1986 publication of the ''Parallel Distributed Processing'', a two volume collection of papers edited by David Rumelhart|Rumelhart and psychologist James McClelland (psychologist)|James McClelland, neural networks research gained new momentum and would become commercially successful in the 1990s, applied to optical character recognition and speech recognition.
+
+The development of metal–oxide–semiconductor (MOS) very-large-scale integration (VLSI), in the form of complementary MOS (CMOS) technology, enabled the development of practical artificial neural network technology in the 1980s.
+
+A landmark publication in the field was the 1989 book ''Analog VLSI Implementation of Neural Systems'' by Carver A. Mead and Mohammed Ismail.
+
+

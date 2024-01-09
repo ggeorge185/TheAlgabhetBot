@@ -1,0 +1,4 @@
+Main|Artificial intelligence in government}}AI facial recognition systems are used for mass surveillance, notably in China.
+
+In 2019, Bangalore|Bengaluru, India deployed AI-managed traffic signals. This system uses cameras to monitor traffic density and adjust signal timing based on the interval needed to clear traffic.
+

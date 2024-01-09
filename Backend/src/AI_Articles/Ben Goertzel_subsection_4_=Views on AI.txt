@@ -1,0 +1,9 @@
+Goertzel is a leading developer of the OpenCog framework for artificial general intelligence.
+
+File:Ben Goertzel -.jpg|thumb|262px|Ben Goertzel at Brain Bar
+In May 2007, Goertzel spoke at a Google tech talk about his approach to creating artificial general intelligence. He defines intelligence as the ability to detect patterns in the world and in the agent itself, measurable in terms of emergent behavior of "achieving complex goals in complex environments". A "baby-like" artificial intelligence is initialized, then trained as an agent in a simulated or virtual world such as Second Life to produce a more powerful intelligence. Knowledge is represented in a network whose nodes and links carry probabilistic truth values as well as "attention values", with the attention values resembling the weights in a neural network. Several algorithms operate on this network, the central one being a combination of a probabilistic inference engine and a custom version of evolutionary programming.
+
+The 2012 documentary ''The Singularity (film)|The Singularity'' by independent filmmaker Doug Wolens discussed Goertzel's views on AGI.
+
+In 2023 Goertzel postulated that artificial intelligence could replace up to 80 percent of human jobs in the coming years "without having an AGI, by my guess. Not with ChatGPT exactly as a product. But with systems of that nature". At the recent Web Summit 2023 in Rio de Janeiro, Goertzel spoke out against efforts to curb AI research and that AGI is only a few years away (see Technological singularity & Artificial general intelligence). Goertzel's belief is that AGI will be a net positive for humanity by assisting with societal problems such as but not limited to climate change.
+

@@ -1,0 +1,3 @@
+Main|Minimum intelligent signal test}}
+The minimum intelligent signal test was proposed by Chris McKinstry as "the maximum abstraction of the Turing test", in which only binary responses (true/false or yes/no) are permitted, to focus only on the capacity for thought. It eliminates text chat problems like #Naïveté of interrogators|anthropomorphism bias, and does not require emulation of #Human intelligence vs. intelligence in general|unintelligent human behaviour, allowing for systems that exceed human intelligence. The questions must each stand on their own, however, making it more like an IQ test than an interrogation. It is typically used to gather statistical data against which the performance of artificial intelligence programs may be measured.
+

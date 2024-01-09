@@ -1,0 +1,2 @@
+Wine (software)|WINE – Allows Microsoft Windows|Windows applications to be run on Unix-like operating systems
+

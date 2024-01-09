@@ -1,0 +1,34 @@
+Parisa Tabriz – Google Director of Engineering, also known as the Security Princess
+* Roberto Tamassia – computational geometry, computer security
+* Andrew S. Tanenbaum – operating systems, MINIX
+* Austin Tate – Artificial Intelligence Applications, Automated planning and scheduling|AI Planning, Virtual Worlds
+* Bernhard Thalheim – conceptual modelling foundation
+* Éva Tardos
+* Gábor Tardos
+* Robert Tarjan – splay tree
+* Valerie Taylor (computer scientist)|Valerie Taylor
+* Mario Tchou – Italian engineer, of Chinese descent, leader of Olivetti Elea project
+* Jaime Teevan
+* Shang-Hua Teng – analysis of algorithms
+* Larry Tesler – human–computer interaction, graphical user interface, Apple Macintosh
+* Avie Tevanian – Mach kernel team, NeXT, Mac OS X
+* Charles P. Thacker – Xerox Alto, Microsoft Research
+* Daniel Thalmann – computer graphics, virtual actor
+* Ken Thompson – mainly designed and authored Unix, Plan 9 from Bell Labs|Plan 9 and Inferno (operating system)|Inferno operating systems, B (programming language)|B and Bon languages (precursors of C (programming language)|C), created UTF-8 character encoding, introduced regular expressions in QED (text editor)|QED, co-authored Go (programming language)|Go language
+* Simon Thompson (professor)|Simon Thompson – functional programming research, textbooks; Cardano (blockchain platform)|Cardano domain-specific languages: Cardano (blockchain platform)#Decentralized finance|Marlowe
+* Sebastian Thrun – AI researcher, pioneered autonomous driving
+* Walter F. Tichy – RCS
+* Seinosuke Toda – computation complexity, recipient of 1998 Gödel Prize
+* Chai Keong Toh - mobile ad hoc networks pioneer
+* Linus Torvalds – Linux kernel, Git
+* Leonardo Torres Quevedo (1852–1936) – invented El Ajedrecista (''the chess player'') in 1912, a true automaton built to play chess without human guidance. In his work ''Essays on Automatics'' (1913), introduced the idea of floating-point arithmetic. In 1920, built an early electromechanical device of the Analytical Engine.
+* Godfried Toussaint – computational geometry, computational music theory
+* Gloria Townsend
+* Edwin E. Tozer – business information systems
+* Joseph F Traub – computational complexity of scientific problems
+* John V. Tucker – computability theory
+* John Tukey – founder of FFT algorithm, box plot, exploratory data analysis and Coining the term 'bit'
+* Alan Turing (1912–1954) – British computing pioneer, Turing machine, algorithms, cryptology, computer architecture
+* David Turner (computer scientist)|David Turner – SASL (programming language)|SASL, Kent Recursive Calculator, Miranda (programming language)|Miranda, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Murray Turoff – computer-mediated communication
+

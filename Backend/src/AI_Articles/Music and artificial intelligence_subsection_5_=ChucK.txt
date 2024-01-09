@@ -1,0 +1,4 @@
+main|ChucK}}
+
+Developed at Princeton University by Ge Wang and Perry Cook, ChucK is a text-based, cross-platform language that allows real-time synthesis, composition, performance, and analysis of music. It is used by SLOrk (Stanford Laptop Orchestra) and PLOrk (Princeton Laptop Orchestra).
+

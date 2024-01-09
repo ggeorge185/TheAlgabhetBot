@@ -1,0 +1,11 @@
+Mistral AI was co-founded in April 2023 by Arthur Mensch, Guillaume Lample and Timothée Lacroix.
+Prior to co-founding Mistral AI, Arthur Mensch worked at Google DeepMind|DeepMind, Google's artificial intelligence laboratory, while Guillaume Lample and Timothée Lacroix worked at Meta Platforms|Meta.
+
+In June 2023, the start-up carried out a first fundraising of 105 million euros (117 million US$) with investors including the American fund Lightspeed Venture Partners, Eric Schmidt, Xavier Niel and JCDecaux. The valuation is then estimated by the ''Financial Times'' at 240 million € (267 million US$).
+
+On September 27, 2023, the company made its language processing model “Mistral 7B” available under the free Apache License|Apache 2.0 license. This model has 7 billion parameters, a small size compared to its competitors.
+
+On December 10, 2023, Mistral AI announced that it had raised 385 million € (428 million US$) as part of its second fundraising. This round of financing notably involves the Californian fund Andreessen Horowitz, BNP Paribas and the software publisher Salesforce.
+
+On December 11, 2023, the company released the “Mixtral 8x7B” model with 46.7 billion parameters but using only 12.9 billion per token thanks to the mixture of experts architecture. The model masters 5 languages (French, Spanish, Italian, English and German) and outperforms, according to its developers' tests, the "LLama 2 70B" model from Meta Platforms|Meta. A version trained to follow instructions and called “Mixtral 8x7B Instruct” is also offered.
+

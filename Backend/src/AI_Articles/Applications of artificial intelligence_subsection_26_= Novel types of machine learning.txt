@@ -1,0 +1,9 @@
+File:Semi-automated testing of reproducibility and robustness of the cancer biology literature by robot.jpg|thumb|Schema of the process of a semi-automated robot scientist process that includes Web statement extraction and biological laboratory testing
+There are also Laboratory robotics#Applications|prototype robot scientists, including robot-embodied ones like the two Robot Scientists, which show a form of "machine learning" not commonly associated with the term.
+
+Similarly, there is research and development of biological "wetware computers" that can learn (e.g. for use as biosensors) and/or implantation into an organism's body (e.g. for use to control prosthetics). Polymer-based artificial neurons operate directly in biological environments and define biohybrid neurons made of artificial and living components.
+
+Moreover, if whole brain emulation is possible via both scanning and replicating the, at least, bio-chemical brain – as premised in the form of digital replication in ''The Age of Em'', possibly using physical neural networks – that may have applications as or more extensive than e.g. valued human activities and may imply that society would face substantial moral choices, societal risks and ethical problems such as whether (and how) such are built, Mind uploading#Space exploration|sent through space and used compared to potentially competing e.g. potentially more synthetic and/or less human and/or non/less-sentient types of artificial/semi-artificial intelligence. An alternative or additive approach to scanning are types of reverse engineering of the brain.
+
+A subcategory of artificial intelligence is embodied, some of which are mobile robotic systems that each consist of one or multiple robots that are able to learn in the physical world.
+

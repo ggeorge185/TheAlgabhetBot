@@ -1,0 +1,6 @@
+Research methods borrowed directly from neuroscience and neuropsychology can also help us to understand aspects of intelligence. These methods allow us to understand how intelligent behavior is implemented in a physical system.
+* Single-unit recording
+* Transcranial direct current stimulation|Direct brain stimulation
+* Animal models
+* Postmortem studies
+

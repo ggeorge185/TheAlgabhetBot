@@ -1,0 +1,45 @@
+Track listing
+| extra_column = Singer(s)
+| title1 = Konjathe Konjathe
+| length1 = 4:25
+| lyrics1 = Kaithapram Damodaran Namboothiri
+| extra1 = Hesham Abdul Wahab
+| title2 = Hridayame
+| length2 = 3:24
+| lyrics2 = Arun Alat
+| extra2 = Anurag Kulkarni, Sithara Krishnakumar
+| title3 = Vaaname
+| length3 = 1:04
+| lyrics3 = Arun Alat
+| extra3 = Anurag Kulkarni, Sithara Krishnakumar
+| title4 = Melle Ishtam
+| length4 = 3:39
+| lyrics4 = Arun Alat
+| extra4 = Aavani Malhar, Hesham Abdul Wahab
+| title5 = Mele Mevum
+| length5 = 1:06
+| lyrics5 = Arun Alat
+| extra5 = Aruna Mary George
+| title6 = Ithale Nee
+| length6 = 3:30
+| lyrics6 = Arun Alat
+| extra6 = Nazim
+| title7 = Penne Penne
+| length7 = 3:35
+| lyrics7 = Arun Alat
+| extra7 = Hesham Abdul Wahab
+| title8 = Odiyamma
+| length8 = 3:15
+| lyrics8 = Arun Alat
+| extra8 = Yazin Nizar, Divya S. Menon, Chinmayi Sripaada
+| title9 = Raathaarakaye
+| length9 = 4:17
+| lyrics9 = B. K. Harinarayanan
+| extra9 = Bhadra Rajin, Vineeth Sreenivasan
+| title10 = Theeraa Mohame
+| length10 = 3:15
+| lyrics10 = Arun Alat
+| extra10 = Aavani Malhar
+| total_length = 31:32
+}}
+

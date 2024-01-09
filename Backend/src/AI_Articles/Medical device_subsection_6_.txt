@@ -1,0 +1,19 @@
+Based on the ''New Approach'', rules that relate to safety and performance of medical devices were harmonised in the EU in the 1990s. The ''New Approach'', defined in a European Council Resolution of May 1985, represents an innovative way of technical harmonisation. It aims to remove technical barriers to trade and dispel the consequent uncertainty for economic operators, to facilitate free movement of goods inside the EU.
+
+The previous core legal framework consisted of three directives:
+* Directive 90/385/EEC regarding active implantable medical devices
+* Directive 93/42/EEC regarding medical devices
+* Directive 98/79/EC regarding ''in vitro'' diagnostic medical devices (Until 2022, the Regulation (EU) 2017/746|In Vitro Diagnosis Regulation (IVDR) will replace the EU's current Directive on In-Vitro Diagnostic (98/79/EC)).
+
+They aim at ensuring a high level of protection of human health and safety and the good functioning of the Single Market. These three main directives have been supplemented over time by several modifying and implementing directives, including the last technical revision brought about by Directive 2007/47 EC.
+
+The government of each Member State must appoint a ''competent authority'' responsible for medical devices. The competent authority (CA) is a body with authority to act on behalf of the member state to ensure that member state government transposes requirements of medical device directives into national law and applies them. The CA reports to the minister of health in the member state. The CA in one Member State has no jurisdiction in any other member state, but exchanges information and tries to reach common positions.
+
+In the UK, for example, the Medicines and Healthcare products Regulatory Agency (MHRA) acted as a CA. In Italy it is the Ministero Salute (Ministry of Health) Medical devices must not be mistaken with medicinal products. In the EU, all medical devices must be identified with the CE mark. The conformity of a medium or high risk medical device with relevant regulations is also assessed by an external entity, the Notified Body, before it can be placed on the market.
+
+In September 2012, the European Commission proposed new legislation aimed at enhancing safety, traceability, and transparency. The regulation was adopted in 2017.
+
+The future core legal framework consists of two regulations, replacing the previous three directives:
+* The EU medical device regulation|Medical Devices Regulation (MDR (EU) 2017/745)
+* The Regulation (EU) 2017/746|In Vitro Diagnostic medical devices regulation (IVDR (EU) 2017/746)
+

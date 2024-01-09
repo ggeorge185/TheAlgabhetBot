@@ -1,0 +1,6 @@
+JXplorer – Lightweight Directory Access Protocol|LDAP client
+*Nextcloud – A fork of ownCloud
+*OpenLDAP – Lightweight Directory Access Protocol|LDAP server
+*ownCloud – File share and sync server
+*Wireshark – Network monitor
+

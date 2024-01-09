@@ -1,0 +1,10 @@
+In May 2019, Appian released Appian AI, enabling artificial intelligence capabilities on its platform.  In March 2020, the company updated the platform's Artificial intelligence and robotic process automation capabilities. In 2021, the company was named a leader in Digital Process Automation software by Forrester.
+
+In 2022, Appian started highlighting the importance of low-code tools in improving environmental, social & corporate governance (ESG). The company stressed that embedding these tools within operational processes makes it easier for companies to integrate ESG data sources, adapt to regulations, and remain in control of auditability.
+
+In February, the company secured provisional authorization from the Defense Information Systems Agency to allow its low-code platform-as-a-service “to handle Impact Level 5 controlled unclassified information and national security systems”. This lets defense customers use Appian Government Cloud as well as the Appian Low-Code Platform.
+
+April 2022, process mining, first available in January, was fully integrated into all Appian products. This resulted in process mining, low-code/no-code workflows, and automation working as a single solution. Participants complete a low-code curriculum and the Appian Certified Associate Developer exam, receive access to hiring recruiters through Appian's partner network, and get job search skills support. The program targeted undergraduate and graduate students, students who had paused their education, unemployed, career-changers, and military veterans.
+
+In May 2022, Appian was awarded $2.04 billion in damages against Pegasystems|Pegasystems Inc. Pegasystems was found guilty of hiring a developer to spy on Appian, stealing trade secrets in an operation Pegasystems referred to as "Project Crush." Pega is appealing the verdict and the company will not be required to begin paying the judgment until all avenues of appeal have been exhausted. In February 2023, Pega filed an appeal asking the court to overturn the previous judgement and either rule in Pega's favor or order a new trial. March 29, 2023, Appian filed a rebuttal and 8K, mostly refuting Pega's points.
+

@@ -1,0 +1,8 @@
+The minimum payment that Amazon allows for a task is one cent. Because tasks are typically simple and repetitive the majority of tasks pay only a few cents, but there are also well-paying tasks on the site.
+
+Many criticisms of MTurk stem from the fact that a majority of tasks offer low wages. In addition, workers are considered Independent contracting in the United States|independent contractors rather than employees. Independent contractors are not protected by the Fair Labor Standards Act of 1938|Fair Labor Standards Act or other legislation that protects workers’ rights. Workers on MTurk must compete with others for good HIT opportunities as well as spend time searching for tasks and other actions that they are not compensated for. 
+
+The low payment offered for many tasks has fueled criticism of Mechanical Turk for exploiting and not compensating workers for the true value of the task they complete. One study of 3.8 million tasks completed by 2,767 workers showed that "workers earned a median hourly wage of about $2 an hour" with 4% of workers earning more than $7.25 per hour.
+
+The Pew Research Center and the International Labour Office published data indicating people made around $5.00 per hour in 2015. A study focused on workers in the U.S. indicated average wages of at least $5.70 an hour, and data from the CloudResearch study found average wages of about $6.61 per hour.
+

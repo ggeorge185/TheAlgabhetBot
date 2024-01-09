@@ -1,0 +1,11 @@
+List of artificial intelligence projects
+* Automated Mathematician (1977) –
+* Allen (robot) (late 1980s) –
+* Open Mind Common Sense (1999– ) –
+* Mindpixel (2000–2005) –
+* CALO|Cognitive Assistant that Learns and Organizes (2003–2008) –
+* Blue Brain Project (2005–present) &ndash; attempt to create a synthetic brain by reverse-engineering the mammalian brain down to the molecular level.
+* Google DeepMind (2011) –
+* Human Brain Project (2013–present) &ndash;
+* IBM Watson Group (2014–present) &ndash; business unit created around Watson (computer)|Watson, to further its development and deploy marketable applications or services based on it.
+

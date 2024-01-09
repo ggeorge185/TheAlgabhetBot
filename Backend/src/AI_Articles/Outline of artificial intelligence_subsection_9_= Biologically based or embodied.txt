@@ -1,0 +1,10 @@
+Behavior based AI 
+* Subsumption architecture
+* Nouvelle AI
+* Developmental robotics
+* Situated AI
+* Bio-inspired computing 
+* Artificial immune systems
+* Embodied cognitive science
+* Embodied cognition
+

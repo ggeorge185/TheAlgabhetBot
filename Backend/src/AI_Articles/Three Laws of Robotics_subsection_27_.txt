@@ -1,0 +1,2 @@
+As noted in "The Fifth Law of Robotics" by Nikola Kesarovski, "A robot must know it is a robot": it is presumed that a robot has a definition of the term or a means to apply it to its own actions. Kesarovski played with this idea in writing about a robot that could kill a human being because it did not understand that it was a robot, and therefore did not apply the Laws of Robotics to its actions.
+

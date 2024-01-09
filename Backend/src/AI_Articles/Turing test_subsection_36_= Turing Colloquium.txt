@@ -1,0 +1,4 @@
+1990 marked the fortieth anniversary of the first publication of Turing's "Computing Machinery and Intelligence" paper, and saw renewed interest in the test. Two significant events occurred in that year: the first was the Turing Colloquium, which was held at the University of Sussex in April, and brought together academics and researchers from a wide variety of disciplines to discuss the Turing test in terms of its past, present, and future; the second was the formation of the annual Loebner Prize competition.
+
+Blay Whitby lists four major turning points in the history of the Turing test&nbsp;– the publication of "Computing Machinery and Intelligence" in 1950, the announcement of Joseph Weizenbaum's ELIZA in 1966, Kenneth Colby's creation of PARRY, which was first described in 1972, and the Turing Colloquium in 1990.
+

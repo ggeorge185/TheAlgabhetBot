@@ -1,0 +1,3 @@
+Main|Deepfake}}
+Deepfakes (a portmanteau of "deep learning" and "fake") are AI-generated media that take a person in an existing image or video and replace them with someone else's likeness using artificial neural networks. Deepfakes have garnered widespread attention and concerns for their uses in Deepfake pornography|deepfake celebrity pornographic videos, revenge porn, fake news, hoaxes, and Accounting scandals|financial fraud. This has elicited responses from both industry and government to detect and limit their use.
+

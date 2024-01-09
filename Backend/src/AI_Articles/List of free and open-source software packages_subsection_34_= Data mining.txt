@@ -1,0 +1,10 @@
+Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) – Data mining software framework written in Java (programming language)|Java with a focus on clustering and outlier detection methods
+*FrontlineSMS – Information distribution and collecting via text messaging (Short Message Service|SMS)
+*KNIME|Konstanz Information Miner (KNIME)
+*OpenNN – Open-source neural networks software library written in C++
+*Orange (software) – Data visualization and data mining for novice and experts, through visual programming or Python scripting. Extensions for bioinformatics and text mining
+*RapidMiner – Data mining software written in Java, fully integrating Weka, featuring 350+ operators for preprocessing, machine learning, visualization, etc. – the ''prior'' version is available as open-source
+*Scriptella ETL – Extract transform load|ETL (Extract-Transform-Load) and script execution tool. Supports integration with J2EE and Spring. Provides connectors to CSV, LDAP, XML, JDBC/ODBC, and other data sources
+*Weka (machine learning)|Weka – Data mining software written in Java featuring machine learning operators for classification, regression, and clustering
+*JasperSoft – Data mining with programmable abstraction layer
+

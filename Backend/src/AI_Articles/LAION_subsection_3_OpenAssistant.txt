@@ -1,0 +1,15 @@
+Infobox software
+| title = OpenAssistant
+| screenshot = Open Assistant Dashboard.png
+| logo = Open-Assistant-logo.svg
+| logo caption = 
+| caption = Screenshot of the data collection web portal
+| developer = LAION and contributors
+| released = 
+| genre = 
+| license = Apache License 2.0
+| website = 
+}}
+
+OpenAssistant is an artificial intelligence (AI) open source chat-based assistant that understands tasks, can interact with third-party systems and retrieve information dynamically to do so. The project is developed by a group of volunteers in collaboration with LAION. One of the goals for development includes free access to large language models that can be run locally on consumer hardware. The project is backed by a worldwide crowdsourcing effort involving over 13,500 volunteers who have created 600k human-generated data points.
+

@@ -1,0 +1,4 @@
+In 2003 a Dryden Flight Research Center project created software that could enable a damaged aircraft to continue flight until a safe landing can be achieved. The software compensated for damaged components by relying on the remaining undamaged components.
+
+The 2016 Intelligent Autopilot System combined apprenticeship learning and behavioral cloning whereby the autopilot observed low-level actions required to maneuver the airplane and high-level strategy used to apply those actions.
+

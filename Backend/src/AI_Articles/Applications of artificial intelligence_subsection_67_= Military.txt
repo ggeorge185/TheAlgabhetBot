@@ -1,0 +1,13 @@
+More citations needed section|date=November 2016}}
+The Royal Australian Air Force|Royal Australian Air Force (RAAF) Air and Space Operations Center|Air Operations Division (AOD) uses AI for expert systems. AIs operate as surrogate operators for combat and training simulators, mission management aids, support systems for tactical decision making, and post processing of the simulator data into symbolic summaries.
+
+Aircraft simulators use AI for training aviators. Flight conditions can be simulated that allow pilots to make mistakes without risking themselves or expensive aircraft. Air combat can also be simulated.
+
+AI can also be used to operate planes analogously to their control of ground vehicles. Autonomous drones can fly independently or in Swarm robotics|swarms.
+
+AOD uses the Interactive Fault Diagnosis and Isolation System, or IFDIS, which is a rule-based expert system using information from TF-30 documents and expert advice from mechanics that work on the TF-30. This system was designed to be used for the development of the TF-30 for the F-111C. The system replaced specialized workers. The system allowed regular workers to communicate with the system and avoid mistakes, miscalculations, or having to speak to one of the specialized workers.
+
+Speech recognition allows traffic controllers to give verbal directions to drones.
+
+Artificial intelligence supported design of aircraft, or AIDA, is used to help designers in the process of creating conceptual designs of aircraft. This program allows the designers to focus more on the design itself and less on the design process. The software also allows the user to focus less on the software tools. The AIDA uses rule-based systems to compute its data. This is a diagram of the arrangement of the AIDA modules. Although simple, the program is proving effective.
+

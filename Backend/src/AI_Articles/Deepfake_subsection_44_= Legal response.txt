@@ -1,0 +1,9 @@
+Globalize |section|date=November 2021}}
+In the United States, there have been some responses to the problems posed by deepfakes. In 2018, the Malicious Deep Fake Prohibition Act was introduced to the United States Senate|US Senate, and in 2019 the DEEPFAKES Accountability Act was introduced in the United States House of Representatives|House of Representatives. Several states have also introduced legislation regarding deepfakes, including Virginia, Texas, California, and New York. On 3 October 2019, California governor Gavin Newsom signed into law Assembly Bills No. 602 and No. 730. Assembly Bill No. 602 provides individuals targeted by sexually explicit deepfake content made without their consent with a cause of action against the content's creator. The Chinese government seems to be reserving the right to prosecute both users and online video platforms failing to abide by the rules.
+
+In the United Kingdom, producers of deepfake material can be prosecuted for harassment, but there are calls to make deepfake a specific crime; in the United States, where charges as varied as identity theft, cyberstalking, and revenge porn have been pursued, the notion of a more comprehensive statute has also been discussed.
+
+In Canada, the Communications Security Establishment released a report which said that deepfakes could be used to interfere in Canadian politics, particularly to discredit politicians and influence voters. As a result, there are multiple ways for citizens in Canada to deal with deepfakes if they are targeted by them.
+
+In India, there are no direct laws or regulation on AI or deepfakes, but there are provisions under the Indian Penal Code and Information Technology Act 2000/2008, which can be looked at for legal remedies, and the new proposed Digital India Act will have a chapter on AI and deepfakes in particular, as per the MoS Rajeev Chandrasekhar.
+

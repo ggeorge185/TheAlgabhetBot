@@ -1,0 +1,2 @@
+An example of diagnosis is the process of a garage mechanic with an automobile.  The mechanic will first try to detect any abnormal behavior based on the observations on the car and his knowledge of this type of vehicle.  If he finds out that the behavior is abnormal, the mechanic will try to refine his diagnosis by using new observations and possibly testing the system, until he discovers the faulty component; the mechanic plays an important role in the vehicle diagnosis.
+

@@ -1,0 +1,2 @@
+Here, the goal is to get an estimate (in a single value) of something. For example, estimating the weight of an object, or the release date of a product or probability of success of a project etc. as seen in prediction markets like Intrade, HSX or InklingMarkets and also in several implementations of crowdsourced estimation of a numeric outcome such as the Delphi method. Essentially, we try to get the average value of the estimates provided by the members in the crowd.
+

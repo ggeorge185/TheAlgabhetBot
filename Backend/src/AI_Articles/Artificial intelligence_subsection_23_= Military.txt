@@ -1,0 +1,3 @@
+Main|Military artificial intelligence}}
+Various countries are deploying AI military applications. The main applications enhance command and control, communications, sensors, integration and interoperability. Research is targeting intelligence collection and analysis, logistics, cyber operations, information operations, and semiautonomous and Vehicular automation|autonomous vehicles. AI technologies enable coordination of sensors and effectors, threat detection and identification, marking of enemy positions, target acquisition, coordination and deconfliction of distributed Forward observers in the U.S. military|Joint Fires between networked combat vehicles involving manned and unmanned teams. AI was incorporated into military operations in Iraq and Syria.
+

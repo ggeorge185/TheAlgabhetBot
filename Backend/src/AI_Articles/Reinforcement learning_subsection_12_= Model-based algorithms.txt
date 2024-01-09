@@ -1,0 +1,6 @@
+Finally, all of the above methods can be combined with algorithms that first learn a model of the Markov decision process|Markov Decision Process, the probability of each next state given an action taken from an existing state. For instance, the Dyna algorithm learns a model from experience, and uses that to provide more modelled transitions for a value function, in addition to the real transitions.  Such methods can sometimes be extended to use of non-parametric models, such as when the transitions are simply stored and 'replayed' to the learning algorithm.
+
+Model-based methods can be more computationally intensive than model-free approaches, and their utility can be limited by the extent to which the Markov Decision Process can be learnt.
+
+There are other ways to use models than to update a value function. For instance, in model predictive control the model is used to update the behavior directly.
+

@@ -1,0 +1,17 @@
+Symbolic approach, i.e., the hand-coding of a set of rules for manipulating symbols, coupled with a dictionary lookup, was historically the first approach used both by AI in general and by NLP in particular: such as by writing grammars or devising heuristic rules for stemming.
+
+Machine learning approaches, which include both statistical and neural networks, on the other hand, have many advantages over the symbolic approach: 
+
+* both statistical and neural networks methods can focus more on the most common cases extracted from a corpus of texts, whereas the rule-based approach needs to provide rules for both rare cases and common ones equally.
+
+* language models, produced by either statistical or neural networks methods, are more robust to both unfamiliar (e.g. containing words or structures that have not been seen before) and erroneous input (e.g. with misspelled words or words accidentally omitted) in comparison to the rule-based systems, which are also more costly to produce.
+
+* the larger such a (probabilistic) language model is, the more accurate it becomes, in contrast to rule-based systems that can gain accuracy only by increasing the amount and complexity of the rules leading to intractable problem|intractability problems.
+
+Although rule-based systems for manipulating symbols were still in use in 2020, they have become mostly obsolete with the advance of Large language model|LLMs in 2023. 
+
+Before that they were commonly used:
+* when the amount of training data is insufficient to successfully apply machine learning methods, e.g., for the machine translation of low-resource languages such as provided by the Apertium system,
+* for preprocessing in NLP pipelines, e.g., Tokenization (lexical analysis)|tokenization, or
+* for postprocessing and transforming the output of NLP pipelines, e.g., for knowledge extraction from syntactic parses.
+

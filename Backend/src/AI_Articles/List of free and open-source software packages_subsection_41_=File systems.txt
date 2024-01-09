@@ -1,0 +1,4 @@
+OpenAFS – Distributed file system supporting a very wide variety of operating systems
+*Tahoe-LAFS – Distributed file system/Cloud storage system with integrated privacy and security features
+*CephFS – Distributed file system included in the Ceph storage platform.
+

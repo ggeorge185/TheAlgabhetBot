@@ -1,0 +1,44 @@
+Pino Caballero Gil – cryptography
+* Tracy Camp – wireless computing
+* Martin Campbell-Kelly – history of computing
+* Rosemary Candlin
+* Rod Canion - cofounder of Compaq Computer Corporation
+* Bryan Cantrill – invented DTrace
+* Luca Cardelli – 
+* John Carmack – codeveloped Doom (1993 video game)|Doom
+* Michael E. Caspersen|Michael Caspersen - programming methodology, education in object-oriented programming|OO programming, leadership in developing informatics education
+* Edwin Catmull – computer graphics
+* Vint Cerf – Internet, TCP/IP
+* Gregory Chaitin
+* Robert Cailliau – Belgian computer scientist
+* Zhou Chaochen – duration calculus
+* Peter Chen – entity-relationship model, data modeling, conceptual model
+* Leonardo Chiariglione – founder of MPEG
+* Tracy Chou – computer scientist and activist
+* Alonzo Church – mathematics of combinators, lambda calculus
+* Alberto Ciaramella – speech recognition, patent informatics
+* Edmund M. Clarke – model checking
+* John Cocke (computer scientist)|John Cocke – RISC
+* Edgar F. Codd (1923&ndash;2003) – formulated the database relational model
+* Jacques Cohen (computer scientist)|Jacques Cohen – computer science professor
+* Ian Coldwater – computer security
+* Simon Colton – computational creativity
+* Alain Colmerauer – Prolog
+* Douglas Comer – Xinu
+* Paul Justin Compton – Ripple Down Rules
+* Richard W. Conway – CORC, Cornell University Programming Language|CUPL, and PL/C languages and dialects; programming textbooks
+* Gordon Cormack – co-invented dynamic Markov compression
+* Stephen Cook – NP-completeness
+* James Cooley – Fast Fourier transform (FFT)
+* Danese Cooper – open-source software
+* Fernando J. Corbató – Compatible Time-Sharing System (CTSS), Multics
+* Kit Cosper – open-source software
+* Patrick Cousot – abstract interpretation
+* Ingemar Cox – digital watermarking
+* Seymour Cray – Cray Research, supercomputer
+* Nello Cristianini – machine learning, pattern analysis, artificial intelligence
+* Jon Crowcroft – networking
+* W. Bruce Croft
+* Glen Culler – interactive computing, computer graphics, high performance computing
+* Haskell Curry
+

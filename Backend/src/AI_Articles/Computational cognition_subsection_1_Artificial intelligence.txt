@@ -1,0 +1,28 @@
+Main|Artificial intelligence}}
+There are two main purposes for the productions of artificial intelligence: to produce intelligent behaviors regardless of the quality of the results, and to model after intelligent behaviors found in nature.) of implementing emotion in AI, was seen to be a stumbling block on the path to achieving human-like cognition with computers. Researchers began to take a “sub-symbolic” approach to create intelligence without specifically representing that knowledge. This movement led to the emerging discipline of computational modeling, connectionism, and computational intelligence.
+
+When computational models attempt to mimic human cognitive functioning, all the details of the function must be known for them to transfer and display properly through the models, allowing researchers to thoroughly understand and test an existing theory because no variables are vague and all variables are modifiable. Consider a Atkinson–Shiffrin memory model|model of memory built by Atkinson and Shiffrin in 1968, it showed how rehearsal leads to long-term memory, where the information being rehearsed would be stored. Despite the advancement it made in revealing the function of memory, this model fails to provide answers to crucial questions like: how much information can be rehearsed at a time? How long does it take for information to transfer from rehearsal to long-term memory? Similarly, other computational models raise more questions about cognition than they answer, making their contributions much less significant for the understanding of human cognition than other cognitive approaches.
+
+John Robert Anderson (psychologist)|John Anderson in his Adaptive Control of Thought-Rational (ACT-R) model uses the functions of computational models and the findings of cognitive science. The ACT-R model is based on the theory that the brain consists of several modules which perform specialized functions separate of each other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}}
+

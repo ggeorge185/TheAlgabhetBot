@@ -1,0 +1,4 @@
+Intuitionism is a position advanced by L. E. J. Brouwer in philosophy of mathematics derived from Kant's claim that all mathematics|mathematical knowledge is knowledge of the pure forms of the intuition—that is, intuition that is not empirical.
+
+Intuitionistic logic was devised by Arend Heyting to accommodate this position (it has also been adopted by other forms of constructivism (mathematics)|constructivism). It is characterized by rejecting the law of excluded middle: as a consequence it does not in general accept rules such as double negation elimination and the use of  to prove the existence of something.
+

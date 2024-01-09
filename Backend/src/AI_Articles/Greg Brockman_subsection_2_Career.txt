@@ -1,0 +1,12 @@
+In 2010, he dropped out of MIT to join Stripe, Inc., a company founded by Patrick Collison, an MIT classmate, and his brother, John Collison. In 2013, he became Stripe's first-ever CTO, and grew the company from 5 to 205 employees. Brockman left Stripe in May 2015, and co-founded OpenAI in December 2015 with Sam Altman and Ilya Sutskever.
+
+Brockman helped create the OpenAI founding team, and led various prominent projects early on at OpenAI, including OpenAI Gym and OpenAI Five, a ''Dota 2'' bot.
+
+On February 14, 2019, OpenAI announced that they had developed a new large language model called GPT-2, but kept it private due to their concern for its potential misuse. They finally released the model to a limited group of beta testers in May 2019.
+
+On March 14, 2023, in a live video demo, Brockman unveiled GPT-4, the fourth iteration in the GPT series, and the newest language model created by OpenAI.
+
+On November 17, 2023, along with the firing of Sam Altman from OpenAI, Greg Brockman was told he was being removed from the board, but was vital to the company and would remain in his role at the company, reporting to the CEO. He later in the day announced on X (formerly known as Twitter) he had quit the company.
+
+On November 20, 2023, Microsoft CEO Satya Nadella announced that Brockman and former OpenAI CEO Sam Altman would join Microsoft to lead a new advanced AI research team. The following day, after a deal was reached to reinstate Altman as CEO, Brockman returned to OpenAI.
+

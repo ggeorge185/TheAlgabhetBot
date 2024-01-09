@@ -1,0 +1,4 @@
+AI is a mainstay of law-related professions. Algorithms and machine learning do some tasks previously done by entry-level lawyers. While its use is common, it is not expected to replace most work done by lawyers in the near future.
+
+The electronic discovery industry uses machine learning to reduce manual searching.
+

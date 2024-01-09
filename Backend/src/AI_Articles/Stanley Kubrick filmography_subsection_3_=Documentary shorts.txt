@@ -1,0 +1,38 @@
+class="wikitable plainrowheaders"
+|+ 
+|-
+!scope="col" | Year 
+!scope="col" | Title
+!scope="col" width=65 | Director 
+!scope="col" width=65 | Writer 
+!scope="col" width=65 | Producer 
+!scope="col" | 
+|-
+|rowspan=2| 1951
+! scope="row" | ''Day of the Fight''
+| 
+| 
+| 
+|style="text-align:center;"|
+|-
+! scope="row" | ''Flying Padre''
+| 
+| 
+| 
+|style="text-align:center;"|
+|-
+|1952
+!scope="row"|''World Assembly of Youth (film)|World Assembly of Youth''
+| ?
+| 
+| 
+|
+|-
+| 1953
+! scope="row" | ''''
+| 
+| 
+| 
+|style="text-align:center;"|
+|}
+

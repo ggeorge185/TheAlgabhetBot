@@ -1,0 +1,4 @@
+1 the Road, the first novel marketed by an AI.
+* Otter.ai is a speech-to-text synthesis and summary platform, which allows users to record online meetings as text. It additionally creates live captions during meetings.
+* Synthetic Environment for Analysis and Simulations (SEAS), a model of the real world used by Homeland security and the United States Department of Defense that uses simulation and AI to predict and evaluate future events and courses of action.
+

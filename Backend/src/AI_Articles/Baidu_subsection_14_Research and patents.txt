@@ -1,0 +1,12 @@
+Baidu has started to invest in deep learning research and is integrating new deep learning technology into some of its apps and products, including Phoenix Nest. Phoenix Nest is Baidu's ad-bidding platform.
+
+In April 2012 Baidu JDC long live applied for a patent for its "DNA copyright recognition" technology. This technology automatically scans files that are uploaded by Internet users, and recognizes and filters out content that may violate copyright law. This allows Baidu to offer an infringement-free platform.
+
+Baidu has applied for a utility patent in the United Kingdom|UK, for its proprietary site-wise search technology which is currently available in China.
+
+Baidu has more than 7,000 published AI patent applications in China, the highest in the country. The AI open platform Baidu Brain has made available more than 250 core AI capabilities to over 1.9&nbsp;million developers, while PaddlePaddle, the largest open-source deep learning platform in China, services 84,000 enterprises. Industries throughout China are using the PaddlePaddle platform to create specialized applications for their sectors, from the automotive industry's acceleration of autonomous vehicles to the health-care industry's applications for fighting COVID-19.
+
+In April 2022, Baidu announced they gained permits from China to provide the first driverless taxis. The company aim to provide driverless ride-hailing services to the public and have 10 autonomous cars set to begin offering rides to passengers within a 23-square-mile area in suburban begin beginning 28 April 2022.
+
+In July 2022, Baidu unveiled the Apollo RT6, a driverless vehicle that is planned to join Baidu's driverless fleet in 2023.
+

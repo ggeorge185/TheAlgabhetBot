@@ -1,0 +1,8 @@
+Main|Commonsense reasoning}}
+
+Marvin Minsky first proposed frames as a way of interpreting common visual situations, such as an office, and Roger Schank extended this idea to Script theory|scripts for common routines, such as dining out. Cyc has attempted to capture useful common-sense knowledge and has "micro-theories" to handle particular kinds of domain-specific reasoning.
+
+Qualitative simulation, such as Benjamin Kuipers's QSIM, approximates human reasoning about naive physics, such as what happens when we heat a liquid in a pot on the stove. We expect it to heat and possibly boil over, even though we may not know its temperature, its boiling point, or other details, such as atmospheric pressure.
+
+Similarly, James F. Allen (computer scientist)|Allen's Allen's interval algebra|temporal interval algebra is a simplification of reasoning about time and Region Connection Calculus is a simplification of reasoning about spatial relationships. Both can be solved with constraint programming|constraint solvers.
+

@@ -1,0 +1,6 @@
+An energy function is a macroscopic measure of a network's activation state.  In Boltzmann machines, it plays the role of the Cost function.  This analogy with physics is inspired by Ludwig Boltzmann's analysis of a gas' macroscopic energy from the microscopic probabilities of particle motion <math>p \propto e^</math>, where k is the Boltzmann constant and T is temperature. In the Restricted_Boltzmann_machine|RBM network the relation is <math> p = e^ / Z </math>, the stochastic binary neuron outputs a probability that its state is 0 or 1. The data input is normally not considered a layer, but in the Helmholtz machine generation mode, the data layer receives input from the middle layer and has separate weights for this purpose, so it is considered a layer. Hence this network has 3 layers.}}
+
+
+
+
+

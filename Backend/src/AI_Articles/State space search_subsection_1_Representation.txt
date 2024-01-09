@@ -1,0 +1,7 @@
+In state space search, a state space is formally represented as a tuple <math> S: \langle S, A, Action(s), Result(s,a), Cost(s,a) \rangle </math>, in which:
+*<math>S</math> is the Set (mathematics)|set of all possible states;
+*<math>A</math> is the set of possible actions, not related to a particular state but regarding all the state space;
+*<math>Action(s)</math> is the function that establish which action is possible to perform in a certain state;
+*<math>Result(s,a)</math> is the function that returns the state reached performing action <math>a</math> in state <math>s</math>
+*<math>Cost(s,a)</math> is the cost of performing an action <math>a</math> in state <math>s</math>. In many state spaces a is a constant, but this is not always true.
+

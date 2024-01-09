@@ -1,0 +1,8 @@
+The time complexity can be expressed as <math>O(|V|+|E|)</math>, since every vertex and every edge will be explored in the worst case. <math>|V|</math> is the number of vertices and <math>|E|</math> is the number of edges in the graph.
+Note that <math>O(|E|)</math> may vary between <math>O(1)</math> and <math> O(|V|^2)</math>, depending on how sparse the input graph is.
+
+When the number of vertices in the graph is known ahead of time, and additional data structures are used to determine which vertices have already been added to the queue, the space complexity can be expressed as <math>O(|V|)</math>, where <math>|V|</math> is the number of vertices. This is in addition to the space
+required for the graph itself, which may vary depending on the Graph (abstract data type)|graph representation used by an implementation of the algorithm.
+
+When working with graphs that are too large to store explicitly (or infinite), it is more practical to describe the complexity of breadth-first search in different terms: to find the nodes that are at distance  from the start node (measured in number of edge traversals), BFS takes  time and memory, where  is the "branching factor" of the graph (the average out-degree).
+

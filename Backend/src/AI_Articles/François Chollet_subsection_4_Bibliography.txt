@@ -1,0 +1,5 @@
+Cite book|last=Chollet|first=François|title=Deep Learning with Python|publisher=Manning Publications|year=2017|isbn=9781617294433|location=}}
+* 
+* 
+* 
+

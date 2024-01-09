@@ -1,0 +1,8 @@
+The company has a fleet of Lincoln MKZs, an Audi A4 and Nissan NV200s for its testing in California.
+
+In February 2017, Drive.ai released the first video footage of its technology, featuring one of its self-driving Lincoln MKZ cars navigating the streets of Mountain View, CA in the rain after dark. This marked an early recording of a self-driving vehicle operating on a fully autonomous ride at night, or in inclement weather.
+
+In May 2018, Drive.ai released a video featuring an orange Nissan NV200 driverless vehicle navigating Frisco streets. The video featured private streets as well as busy intersections and a traffic circle. It also featured a display showing the car's sensors and cameras dealing with objects on the road and highlighted operation through low-angle sunlight that would obscure typical sensors. The car's object recognition systems identify and route around other vehicles, pedestrians and cyclists safely. Drive.ai's cars include screens on the outside of the car, one on the hood, one on the back, and one on each side, to communicate with pedestrians. The screens feature prompts such as "Passengers Entering/Exiting' or "Waiting for You to Cross."
+
+Drive.ai collects data along the routes it will be using to create three-dimensional High-definition map|high-definition maps to support the self-driving technology.<Ref></ref>
+

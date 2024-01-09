@@ -1,0 +1,9 @@
+GPT-3, specifically the OpenAI Codex|Codex model, is the basis for GitHub Copilot, a code completion and generation software that can be used in various code editors and IDEs.
+* GPT-3 is used in certain Microsoft products to translate conventional language into formal computer code.
+* GPT-3 has been used in CodexDB to generate query-specific code for SQL processing.
+* GPT-3 has been used by Jason Rohrer in a retro-themed chatbot project named "Project December", which is accessible online and allows users to converse with several AIs using GPT-3 technology.
+* GPT-3 was used by ''The Guardian'' to write an article about AI being harmless to human beings. It was fed some ideas and produced eight different essays, which were ultimately merged into one article.
+* GPT-3 was used in ''AI Dungeon'', which generates text-based adventure games. Later it was replaced by a competing model after OpenAI changed their policy regarding generated content.
+* GPT-3 is used to aid in writing Copy (publishing)|copy and other marketing materials.
+* A 2022 study from Drexel University suggested that GPT-3-based systems could be used to screen for early signs of Alzheimer's disease.
+

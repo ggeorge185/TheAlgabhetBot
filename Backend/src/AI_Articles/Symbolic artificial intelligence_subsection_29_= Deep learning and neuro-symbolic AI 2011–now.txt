@@ -1,0 +1,9 @@
+With the rise of deep learning, the symbolic AI approach has been compared to deep learning as complementary "...with parallels having been drawn many times by AI researchers between Daniel Kahneman|Kahneman's research on human reasoning and decision making – reflected in his book ''Thinking, Fast and Slow'' – and the so-called "AI systems 1 and 2", which would in principle be modelled by deep learning and symbolic reasoning, respectively." In this view, symbolic reasoning is more apt for deliberative reasoning, planning, and explanation while deep learning is more apt for fast pattern recognition in perceptual applications with noisy data. which constructs a neural network from an And–or tree|AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
+* Neural[Symbolic]—allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
+
+Many key research questions remain, such as:
+* What is the best way to integrate neural and symbolic architectures?
+* How should symbolic structures be represented within neural networks and extracted from them?
+* How should common-sense knowledge be learned and reasoned about?
+* How can abstract knowledge that is hard to encode logically be handled?
+

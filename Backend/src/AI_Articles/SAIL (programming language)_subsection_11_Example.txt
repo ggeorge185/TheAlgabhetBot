@@ -1,0 +1,17 @@
+The following code, found in the Tutorial, converts an input string to upper case.
+
+<syntaxhighlight lang=Pascal>
+STRING PROCEDURE upper(STRING rawstring);
+  BEGIN "upper"
+   STRING tmp;
+   INTEGER char;
+   tmp←NULL;
+   WHILE LENGTH(rawstring) DO
+     BEGIN
+       char←LOP(rawstring); COMMENT LOP returns the first character and moves the pointer past it
+       tmp←tmp&(IF "a" LEQ char LEQ "z" THEN char-'40 ELSE char);
+     END;
+   RETURN(tmp);
+  END "upper";
+</syntaxhighlight>
+

@@ -1,0 +1,9 @@
+Entries in this list should be "notable" with a sourced Wikipedia article. See WP:GNG and WP:WTAF. -->
+Notable software for Bayesian networks include:
+* Just another Gibbs sampler (JAGS) – Open-source alternative to WinBUGS. Uses Gibbs sampling.
+* OpenBUGS – Open-source development of WinBUGS.
+* SPSS Modeler – Commercial software that includes an implementation for Bayesian networks.
+* Stan (software) – Stan is an open-source package for obtaining Bayesian inference using the No-U-Turn sampler (NUTS), a variant of Hamiltonian Monte Carlo.
+* PyMC3 – A Python library implementing an embedded domain specific language to represent bayesian networks, and a variety of samplers (including NUTS)
+* WinBUGS – One of the first computational implementations of MCMC samplers. No longer maintained.
+

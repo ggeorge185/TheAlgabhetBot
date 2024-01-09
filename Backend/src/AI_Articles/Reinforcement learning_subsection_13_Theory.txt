@@ -1,0 +1,22 @@
+Both the asymptotic and finite-sample behaviors of most algorithms are well understood. Algorithms with provably good online performance (addressing the exploration issue) are known.
+
+Efficient exploration of Markov decision processes is given in  Burnetas and Katehakis (1997).
+* continuous learning
+* combinations with logic-based frameworks
+* exploration in large Markov decision processes
+* reinforcement learning from human feedback|human feedback
+* interaction between implicit and explicit learning in skill acquisition
+* Intrinsic motivation (artificial intelligence)|intrinsic motivation which differentiates information-seeking, curiosity-type behaviours from task-dependent goal-directed behaviours large-scale empirical evaluations
+* large (or continuous) action spaces
+* modular and hierarchical reinforcement learning
+* multiagent/distributed reinforcement learning is a topic of interest. Applications are expanding.
+* occupant-centric control
+* optimization of computing resources
+*Partially observable Markov decision process|partial information (e.g., using predictive state representation)
+* reward function based on maximising novel information
+* sample-based planning (e.g., based on Monte Carlo tree search).
+*securities trading
+* transfer learning
+* TD learning modeling dopamine-based learning in the brain. Dopaminergic projections from the substantia nigra to the basal ganglia function are the prediction error.
+* value-function and policy search methods
+

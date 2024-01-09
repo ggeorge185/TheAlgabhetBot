@@ -1,0 +1,2 @@
+The Lisp family splits over the use of dynamic scoping|dynamic or static scoping|static (a.k.a. lexical) scope (programming)|scope. Clojure, Common Lisp and Scheme make use of static scoping by default, while newLISP, Picolisp and the embedded languages in Emacs and AutoCAD use dynamic scoping. Since version 24.1, Emacs uses both dynamic and lexical scoping.
+

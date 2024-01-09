@@ -1,0 +1,6 @@
+Further|Machine ethics}}
+
+Some near-term concerns relate to autonomous vehicles, from civilian drones and self-driving cars. For example, a self-driving car may, in an emergency, have to decide between a small risk of a major accident and a large probability of a small accident. Other concerns relate to lethal intelligent autonomous weapons: Should they be banned? If so, how should 'autonomy' be precisely defined? If not, how should culpability for any misuse or malfunction be apportioned?
+
+Other issues include privacy concerns as AI becomes increasingly able to interpret large surveillance datasets, and how to best manage the economic impact of jobs displaced by AI. and other AI experts, robot makers, programmers, and ethicists. The original signatory count was over 150 people, including academics from Cambridge, Oxford, Stanford, Harvard, and MIT.
+

@@ -1,0 +1,2 @@
+Detox is a project to prevent users from posting unkind comments in Wikimedia community discussions. Among other parts of the Detox project, the Wikimedia Foundation and Jigsaw (company)|Jigsaw collaborated to use artificial intelligence for basic research and to develop technical solutions to address the problem. In October 2016 those organizations published "Ex Machina: Personal Attacks Seen at Scale" describing their findings. Various popular media outlets reported on the publication of this paper and described the social context of the research.
+

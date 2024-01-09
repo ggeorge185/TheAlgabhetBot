@@ -1,0 +1,19 @@
+Key expert systems were:
+
+* DENDRAL, which found the structure of organic molecules from their chemical formula and mass spectrometer readings.
+* MYCIN, which diagnosed bacteremia – and suggested further lab tests, when necessary – by interpreting lab results, patient history, and doctor observations. "With about 450 rules, MYCIN was able to perform as well as some experts, and considerably better than junior doctors."
+* Internist-I|INTERNIST and CADUCEUS (expert system)|CADUCEUS which tackled internal medicine diagnosis. Internist attempted to capture the expertise of the chairman of internal medicine at the University of Pittsburgh School of Medicine while CADUCEUS could eventually diagnose up to 1000 different diseases.
+* GUIDON, which showed how a knowledge base built for expert problem solving could be repurposed for teaching.
+* XCON, to configure VAX computers, a then laborious process that could take up to 90 days. XCON reduced the time to about 90 minutes.
+
+DENDRAL is considered the first expert system that relied on knowledge-intensive problem-solving. It is described below, by Ed Feigenbaum, from a Communications of the ACM interview, [https://cacm.acm.org/magazines/2010/6/92472-an-interview-with-ed-feigenbaum/fulltext|An Interview with Ed Feigenbaum]:
+
+
+
+The other expert systems mentioned above came after DENDRAL. MYCIN exemplifies the classic expert system architecture of a knowledge-base of rules coupled to a symbolic reasoning mechanism, including the use of certainty factors to handle uncertainty. GUIDON shows how an explicit knowledge base can be repurposed for a second application, tutoring, and is an example of an intelligent tutoring system, a particular kind of knowledge-based application. Clancey showed that it was not sufficient simply to use MYCIN's rules for instruction, but that he also needed to add rules for dialogue management and student modeling. XCON is significant because of the millions of dollars it saved Digital Equipment Corporation|DEC, which triggered the expert system boom where most all major corporations in the US had expert systems groups, to capture corporate expertise, preserve it, and automate it:
+
+
+}}
+
+Chess expert knowledge was encoded in Deep Blue (chess computer)|Deep Blue. In 1996, this allowed IBM's Deep Blue (chess computer)|Deep Blue, with the help of symbolic AI, to win in a game of chess against the world champion at that time, Garry Kasparov.
+

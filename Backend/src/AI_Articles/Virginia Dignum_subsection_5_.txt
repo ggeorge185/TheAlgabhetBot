@@ -1,0 +1,3 @@
+Cite book|title=Responsible Artificial Intelligence|last=Dignum|first=Virginia|publisher=Springer Publishing|Springer|year=2019|isbn=978-3-030-30371-6}}
+* 
+

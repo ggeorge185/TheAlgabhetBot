@@ -1,0 +1,4 @@
+Main|Machine translation}}
+
+AI has been used to automatically translate spoken language and textual content, in products such as Microsoft Translator, Google Translate and DeepL Translator. Additionally, research and development are in progress to decode and conduct animal communication.
+

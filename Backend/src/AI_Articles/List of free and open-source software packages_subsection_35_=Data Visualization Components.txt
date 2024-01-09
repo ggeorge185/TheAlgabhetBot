@@ -1,0 +1,3 @@
+ParaView – Plotting and visualization functions developed by Sandia National Laboratory; capable of massively parallel flow visualization utilizing multiple computer processors
+*VTK – Toolkit for 3D computer graphics, image processing, and visualisation.
+

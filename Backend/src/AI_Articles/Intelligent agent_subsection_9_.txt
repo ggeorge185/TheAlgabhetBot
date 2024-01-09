@@ -1,0 +1,7 @@
+Image:Model based reflex agent.png|thumb|right|408px|Model-based reflex agent
+A model-based agent can handle partially observable environments. Its current state is stored inside the agent maintaining some kind of structure that describes the part of the world which cannot be seen. This knowledge about "how the world works" is called a model of the world, hence the name "model-based agent".
+
+A model-based reflex agent should maintain some sort of Mental model|internal model that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. Percept history and impact of action on the environment can be determined by using the internal model. It then chooses an action in the same way as reflex agent.
+
+An agent may also use models to describe and predict the behaviors of other agents in the environment.
+

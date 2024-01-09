@@ -1,0 +1,8 @@
+AI pioneer and economist Herbert A. Simon inaccurately predicted in 1965: "Machines will be capable, within twenty years, of doing any work a man can do". Similarly, in 1970 Marvin Minsky wrote that "Within a generation... the problem of creating artificial intelligence will substantially be solved."
+
+Four polls conducted in 2012 and 2013 suggested that the median estimate among experts for when AGI would arrive was 2040 to 2050, depending on the poll.
+
+The Grace poll around 2016 found results varied depending on how the question was framed. Respondents asked to estimate "when unaided machines can accomplish every task better and more cheaply than human workers" gave an aggregated median answer of 45 years and a 10% chance of it occurring within 9 years. Other respondents asked to estimate "when all occupations are fully automatable. That is, when for any occupation, machines could be built to carry out the task better and more cheaply than human workers" estimated a median of 122 years and a 10% probability of 20 years. The median response for when "AI researcher" could be fully automated was around 90 years. No link was found between seniority and optimism, but Asian researchers were much more optimistic than North American researchers on average; Asians predicted 30 years on average for "accomplish every task", compared with the 74 years predicted by North Americans.
+
+
+

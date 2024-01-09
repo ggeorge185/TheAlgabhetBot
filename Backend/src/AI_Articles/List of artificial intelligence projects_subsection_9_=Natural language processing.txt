@@ -1,0 +1,17 @@
+Before adding an entry, see comments at the bottom of the list. -->
+* Artificial Intelligence Markup Language|AIML, an XML dialect for creating natural language software agents.
+* Apache Lucene, a high-performance, full-featured text search engine library written entirely in Java.
+* OpenNLP|Apache OpenNLP, a machine learning based toolkit for the processing of natural language text. It supports the most common NLP tasks, such as tokenization, sentence segmentation, part-of-speech tagging, named entity extraction, chunking and parsing.
+* Artificial Linguistic Internet Computer Entity (A.L.I.C.E.), an award-winning natural language processing chatterbot.
+* ChatGPT, a chatbot built on top of OpenAI's GPT-3|GPT-3.5 and GPT-4 (paid) family of large language models.
+* Cleverbot, successor to Jabberwacky, now with 170m lines of conversation, Deep Context, fuzziness and parallel processing. Cleverbot learns from around 2 million user interactions per month.
+* ELIZA, a famous 1966 computer program by Joseph Weizenbaum, which parodied person-centered therapy.
+* FreeHAL, a self-learning conversation simulator (chatterbot) which uses semantic nets to organize its knowledge to imitate a very close human behavior within conversations.
+* GPT-3, a 2020 language model developed by OpenAI that can produce text difficult to distinguish from that written by a human.
+* Jabberwacky, a chatbot by Rollo Carpenter, aiming to simulate natural human chat.
+* LaMDA, a family of conversational neural language models developed by Google.
+* Mycroft (software)|Mycroft, a free and open-source intelligent personal assistant that uses a natural language user interface.
+* PARRY, another early chatterbot, written in 1972 by Kenneth Colby, attempting to simulate a paranoid schizophrenic.
+* SHRDLU, an early natural language processing computer program developed by Terry Winograd at Massachusetts Institute of Technology|MIT from 1968 to 1970.
+* SYSTRAN, a machine translation technology by the company of the same name, used by Yahoo!, AltaVista and Google, among others.
+

@@ -1,0 +1,3 @@
+main|Business process automation}}
+Business process automation (BPA) is the technology-enabled automation of complex business processes. It can help to streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs. BPA consists of integrating applications, restructuring labor resources and using software applications throughout the organization. Robotic process automation (RPA; or RPAAI for self-guided RPA 2.0) is an emerging field within BPA and uses AI. BPAs can be implemented in a number of business areas including marketing, sales and workflow.
+

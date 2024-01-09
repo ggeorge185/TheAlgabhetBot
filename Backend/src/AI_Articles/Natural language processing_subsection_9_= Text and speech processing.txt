@@ -1,0 +1,12 @@
+Optical character recognition (OCR)
+:Given an image representing printed text, determine the corresponding text.
+
+; Speech recognition: Given a sound clip of a person or people speaking, determine the textual representation of the speech.  This is the opposite of text to speech and is one of the extremely difficult problems colloquially termed "AI-complete" (see above).  In natural speech there are hardly any pauses between successive words, and thus speech segmentation is a necessary subtask of speech recognition (see below). In most spoken languages, the sounds representing successive letters blend into each other in a process termed coarticulation, so the conversion of the analog signal to discrete characters can be a very difficult process. Also, given that words in the same language are spoken by people with different accents, the speech recognition software must be able to recognize the wide variety of input as being identical to each other in terms of its textual equivalent.
+; Speech segmentation: Given a sound clip of a person or people speaking, separate it into words.  A subtask of speech recognition and typically grouped with it.
+
+; Text-to-speech
+:Given a text, transform those units and produce a spoken representation. Text-to-speech can be used to aid the visually impaired.
+
+; Word segmentation (Tokenization (lexical analysis)|Tokenization)
+:Separate a chunk of continuous text into separate words. For a language like English language|English, this is fairly trivial, since words are usually separated by spaces. However, some written languages like Chinese language|Chinese, Japanese language|Japanese and Thai language|Thai do not mark word boundaries in such a fashion, and in those languages text segmentation is a significant task requiring knowledge of the vocabulary and Morphology (linguistics)|morphology of words in the language. Sometimes this process is also used in cases like bag of words (BOW) creation in data mining.
+

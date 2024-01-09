@@ -1,0 +1,3 @@
+Data Applied, a web based data mining environment.
+* Watson (computer)|Watson, a pilot service by IBM to uncover and share data-driven insights, and to spur cognitive applications.
+

@@ -1,0 +1,2 @@
+Higher levels of fraud detection entail the use of professional judgement to interpret data. Supporters of artificial intelligence being used in financial audits have claimed that increased risks from instances of higher data interpretation can be minimized through such technologies. The threshold for materiality in an audit is set by the auditor based on various factors. Artificial intelligence has been used to interpret data and suggest materiality thresholds to be implemented through the use of expert systems.
+

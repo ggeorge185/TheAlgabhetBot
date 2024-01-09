@@ -1,0 +1,7 @@
+He is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), a European Coordinating Committee for Artificial Intelligence (ECCAI) Fellow, a Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB) Fellow, and a British Computer Society (BCS) Fellow. In 2015, he was made Association for Computing Machinery (ACM) Fellow for his contributions to multi-agent systems and the formalisation of rational action in multi-agent environments.
+* 2021 Association for the Advancement of Artificial Intelligence#AAAI/EAAI Outstanding Educator Award|AAAI/EAAI Outstanding Educator Award
+* 2020 BCS Lovelace Medal 
+* 2015 Elected an Association for Computing Machinery (ACM) Fellow. For ''contributions to multi-agent systems and the formalisation of rational action in multi-agent environments.
+* 2007 European Association for Artificial Intelligence (ECCAI) Fellow
+* 2006 ACM/SIGART Autonomous Agents Research Award.  For ''significant and sustained contributions to the research on autonomous agents and multi agent systems. In particular, Dr. Wooldridge has made seminal contributions to the logical foundations of multi-agent systems, especially to formal theories of co-operation, teamwork and communication, computational complexity in multi-agent systems, and agent-oriented software engineering.'' 
+

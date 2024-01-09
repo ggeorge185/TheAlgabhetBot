@@ -1,0 +1,6 @@
+main|Face recognition}}
+
+Face recognition, which recently has become one of the most popular research areas of pattern recognition, copes with identification or verification of a person by their digital images.
+
+Hierarchical ensembles based on Gabor Fisher classifier and independent component analysis Data pre-processing|preprocessing techniques are some of the earliest ensembles employed in this field.
+

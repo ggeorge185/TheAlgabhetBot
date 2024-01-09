@@ -1,0 +1,2 @@
+Facebook and Instagram use Meta AI research in ranking & recommendations in their newsfeeds, ads, and search results. Meta AI has also introduced ReAgent, a toolset that generates decisions and evaluates user feedback.
+

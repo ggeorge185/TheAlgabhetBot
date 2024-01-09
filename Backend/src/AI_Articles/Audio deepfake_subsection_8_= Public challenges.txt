@@ -1,0 +1,8 @@
+In the last few years, numerous challenges have been organized to push this field of audio deepfake research even further.
+
+The most famous world challenge is the ASVspoof,
+
+Another recent challenge is the ADD—Audio Deepfake Detection—which considers fake situations in a more real-life scenario.
+
+Also the Voice Conversion Challenge is a bi-annual challenge, created with the need to compare different voice conversion systems and approaches using the same voice data.
+

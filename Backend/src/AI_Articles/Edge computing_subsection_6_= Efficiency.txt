@@ -1,0 +1,10 @@
+Due to the nearness of the analytical resources to the end users, sophisticated analytical tools and Artificial Intelligence tools can run on the edge of the system. This placement at the edge helps to increase operational efficiency and is responsible for many advantages to the system.
+
+Additionally, the usage of edge computing as an intermediate stage between client devices and the wider internet results in efficiency savings that can be demonstrated in the following example: A client device requires computationally intensive processing on video files to be performed on external servers. By using servers located on a local edge network to perform those computations, the video files only need to be transmitted in the local network. Avoiding transmission over the internet results in significant bandwidth savings and therefore increases efficiency. Further research showed that using resource-rich machines called cloudlets or micro data centers near mobile users, which offer services typically found in the cloud, provided improvements in execution time when some of the tasks are offloaded to the edge node. On the other hand, offloading every task may result in a slowdown due to transfer times between device and nodes, so depending on the workload, an optimal configuration can be defined.
+
+IoT-based power grid system enables communication of electricity and data to monitor and control the power grid, which makes energy management more efficient.
+
+Another use of the architecture is cloud gaming, where some aspects of a game could run in the cloud, while the rendered video is transferred to lightweight clients running on devices such as mobile phones, VR glasses, etc. This type of streaming is also known as ''pixel streaming''.
+
+Other notable applications include connected cars, autonomous cars, Smart city|smart cities, Industry 4.0, home automation and satellite systems. The nascent field of '''edge artificial intelligence''' (edge AI) implements the artificial intelligence in an edge computing environment, close to where data is collected.
+

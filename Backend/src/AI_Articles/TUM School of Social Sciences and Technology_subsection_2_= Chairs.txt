@@ -1,0 +1,18 @@
+As of 2020, the department consists of following chairs:
+* Business education|Business Education
+* Chemistry education|Didactics of Chemistry
+* Computer science education|Didactics of Computer Science
+* Didactics of Life Sciences
+* Educational psychology|Educational Psychology
+* Formal learning|Formal and Informal learning|Informal Learning
+* History of technology|History of Technology
+* Information search process|Information Search, Ecological and Active learning|Active Learning Research with Children 
+* Mathematics education|Mathematics Education
+* Methods in Empirical Educational Research
+* Personality psychology|Personality and Social psychology|Social Psychology
+* Research on Learning and Instruction
+* Science communication|Science Communication
+* Teaching and Learning with Digital media|Digital Media
+* Technical Education
+* Vocational education|Vocational Education
+

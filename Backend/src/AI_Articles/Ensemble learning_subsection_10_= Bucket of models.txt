@@ -1,0 +1,17 @@
+A "bucket of models" is an ensemble technique in which a model selection algorithm is used to choose the best model for each problem. When tested with only one problem, a bucket of models can produce no better results than the best model in the set, but when evaluated across many problems, it will typically produce much better results, on average, than any model in the set.
+
+The most common approach used for model-selection is cross-validation (statistics)|cross-validation selection (sometimes called a "bake-off contest"). It is described with the following pseudo-code:
+
+ For each model m in the bucket:
+     Do c times: (where 'c' is some constant)
+         Randomly divide the training dataset into two sets: A and B
+         Train m with A
+         Test m with B
+ Select the model that obtains the highest average score
+
+Cross-Validation Selection can be summed up as: "try them all with the training set, and pick the one that works best".
+
+Gating is a generalization of Cross-Validation Selection. It involves training another learning model to decide which of the models in the bucket is best-suited to solve the problem. Often, a perceptron is used for the gating model. It can be used to pick the "best" model, or it can be used to give a linear weight to the predictions from each model in the bucket.
+
+When a bucket of models is used with a large set of problems, it may be desirable to avoid training some of the models that take a long time to train. Landmark learning is a meta-learning approach that seeks to solve this problem. It involves training only the fast (but imprecise) algorithms in the bucket, and then using the performance of these algorithms to help determine which slow (but accurate) algorithm is most likely to do best.
+

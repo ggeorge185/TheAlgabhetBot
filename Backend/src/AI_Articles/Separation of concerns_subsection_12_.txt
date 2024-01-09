@@ -1,0 +1,30 @@
+bear_hunting.rb
+<syntaxhighlight lang="ruby">
+class Bear
+  def hunt
+    forest.select(&:food?)
+  end
+end
+</syntaxhighlight>
+;bear_eating.rb
+<syntaxhighlight lang="ruby">
+class Bear
+  def eat(food)
+    raise "# is not edible!" unless food.respond_to? :nutrition_value
+    food.nutrition_value
+  end
+end
+</syntaxhighlight>
+;bear_hunger.rb
+<syntaxhighlight lang="ruby">
+class Bear
+  attr_accessor :hunger
+  def monitor_hunger
+    if hunger > 50
+      food = hunt
+      hunger -= eat(food)
+    end
+  end
+end
+</syntaxhighlight>
+

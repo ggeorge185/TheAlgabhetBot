@@ -1,0 +1,8 @@
+Main|Automated theorem proving}}
+
+Examples of automated theorem provers for first-order logic are:
+* Prover9
+* ACL2
+* Vampire (theorem prover)|Vampire
+Prover9 can be used in conjunction with the Mace4 Model checking|model checker. ACL2 is a theorem prover that can handle proofs by induction and is a descendant of the Boyer-Moore Theorem Prover, also known as Nqthm.
+

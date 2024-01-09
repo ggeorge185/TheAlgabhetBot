@@ -1,0 +1,2 @@
+Some care is needed when choosing priors in a hierarchical model, particularly on scale variables at higher levels of the hierarchy such as the variable <math>\tau\,\!</math> in the example. The usual priors such as the Jeffreys prior often do not work, because the posterior distribution will not be normalizable and estimates made by minimizing the Loss function#Expected loss|expected loss will be admissible decision rule|inadmissible.
+

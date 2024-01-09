@@ -1,0 +1,11 @@
+Computational science &ndash; constructing scientific modeling|mathematical models and numerical analysis|quantitative analysis techniques and using computers to analyze and solve scientific problems.
+* Numerical analysis – Approximate numerical solution of mathematical problems such as Root-finding algorithm|root-finding, Numerical integration|integration, the Numerical ordinary differential equations|solution of ordinary differential equations; the approximation of special functions.
+* Symbolic computation – Manipulation and solution of expressions in symbolic form, also known as Computer algebra.
+* Computational physics – Numerical simulations of large non-analytic systems
+* Computational chemistry – Computational modelling of theoretical chemistry in order to determine chemical structures and properties
+* Bioinformatics and Computational biology – The use of computer science to maintain, analyse, store biological data and to assist in solving biological problems such as Protein folding, function prediction and Phylogeny.
+* Computational neuroscience – Computational modelling of neurophysiology.
+* Computational Linguistics
+* Computational logic
+* Computational engineering
+

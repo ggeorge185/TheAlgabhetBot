@@ -1,0 +1,2 @@
+An Optical character recognition|optical character reader is used in the extraction of data in business documents like invoices and receipts. It can also be used in business contract documents e.g. Employment contract|employment agreements to extract critical data like employment terms, delivery terms, termination clauses, etc.
+

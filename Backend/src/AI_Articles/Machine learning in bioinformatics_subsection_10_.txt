@@ -1,0 +1,7 @@
+File: Some bioinformatic applications of Random Forest.jpg|thumbnail|Some bioinformatic applications of Random Forest.|220x220px
+Random forests (RF) classify by constructing an ensemble of decision trees, and outputting the average prediction of the individual trees. This is a modification of bootstrap aggregating (which aggregates a large collection of decision trees) and can be used for classification or regression analysis|regression.
+
+As random forests give an internal estimate of generalization error, cross-validation is unnecessary. In addition, they produce proximities, which can be used to impute missing values, and which enable novel data visualizations.
+
+Computationally, random forests are appealing because they naturally handle both regression and (multiclass) classification, are relatively fast to train and to predict, depend only on one or two tuning parameters, have a built-in estimate of the generalization error, can be used directly for high-dimensional problems, and can easily be implemented in parallel. Statistically, random forests are appealing for additional features, such as measures of variable importance, differential class weighting, missing value imputation, visualization, outlier detection, and unsupervised learning.
+

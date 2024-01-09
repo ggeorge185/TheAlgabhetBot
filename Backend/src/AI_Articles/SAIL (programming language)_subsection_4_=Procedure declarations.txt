@@ -1,0 +1,6 @@
+Procedures were implemented in a fashion similar to the C programming language, with the return type, if any, in front of the name, for instance, . Note the uncommon use of the semicolon here, whereas Pascal would immediately follow with a block, typically a .
+
+In order to improve performance, SAIL added two procedure qualifiers,  and .  told the compiler that the procedure might call itself, and thus its local variables had to be written to the stack, not just the subroutine return information.  did the opposite, demanding the procedure have no local variables at all, not allowing  out of the function, and could not refer to enclosing procedure's variables. These directives could avoid the requirement of filling out a complete activation record, thereby improving performance. This also had the side-effect of meaning that variables declared within a procedure that was not marked RECURSIVE would not be reset between calls, acting similar to C's .
+
+SAIL also included the  qualifier, used to insert forward declarations, typically when two procedures call each other.  worked as in C, exiting the procedure and returning to the caller, as well as optionally returning a value if the procedure uses one. Parameters passed to the procedures could be by  or , the later allowing values to be passed back.
+

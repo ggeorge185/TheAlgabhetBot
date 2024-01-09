@@ -1,0 +1,22 @@
+The preliminary theoretical base for contemporary neural networks was independently proposed by Alexander Bain (philosopher)|Alexander Bain (1873) and William James (1890). In their work, both thoughts and body activity resulted from interactions among neurons within the brain.
+
+File:Forest of synthetic pyramidal dendrites grown using Cajal's laws of neuronal branching.png|thumb|[[Computer simulation of the branching architecture of the dendrites of pyramidal neurons]]
+For Bain, (1898) conducted experiments to test James' theory. He ran electrical currents down the spinal cords of rats. However, instead of demonstrating an increase in electrical current as projected by James, Sherrington found that the electrical current strength decreased as the testing continued over time. Importantly, this work led to the discovery of the concept of habituation. 
+
+Wilhelm Lenz (1920) and Ernst Ising (1925) created and analyzed the Ising model which is essentially a non-learning artificial recurrent neural network (RNN) consisting of neuron-like threshold elements.    
+Warren McCulloch|McCulloch and Walter Pitts|Pitts  (1943) also created a computational model for neural networks based on mathematics and algorithms. They called this model threshold logic. These early models paved the way for neural network research to split into two distinct approaches. One approach focused on biological processes in the brain and the other focused on the application of neural networks to artificial intelligence.
+
+In the late 1940s psychologist Donald Hebb  created a hypothesis of learning based on the mechanism of neural plasticity that is now known as Hebbian learning. Hebbian learning is considered to be a 'typical' unsupervised learning rule and its later variants were early models for long term potentiation. These ideas started being applied to computational models in 1948 with unorganized machine|Turing's B-type machines.
+
+Farley and Clark (1954) first used computational machines, then called calculators, to simulate a Hebbian network at MIT. Other neural network computational machines were created by Rochester, Holland, Habit, and Duda (1956).
+
+Frank Rosenblatt (1958) created the perceptron, an algorithm for pattern recognition based on a two-layer learning computer network using simple addition and subtraction. With mathematical notation, Rosenblatt also described circuitry not in the basic perceptron, such as the exclusive-or circuit. 
+
+Some say that neural network research stagnated after the publication of machine learning research by Marvin Minsky and Seymour Papert (1969). They discovered two key issues with the computational machines that processed neural networks. The first issue was that single-layer neural networks were incapable of processing the exclusive-or circuit. The second significant issue was that computers were not sophisticated enough to effectively handle the long run time required by large neural networks. However, by the time this book came out, methods for training multilayer perceptrons (MLPs) were already known. The first deep learning MLP was published by Alexey Grigorevich Ivakhnenko and Valentin Lapa in 1965. The first deep learning MLP trained by stochastic gradient descent was published in 1967 by Shun'ichi Amari. to networks of differentiable nodes. already in 1960 in the context of control theory.
+
+In the late 1970s to early 1980s, interest briefly emerged in theoretically investigating the Ising model by Wilhelm Lenz (1920) and Ernst Ising (1925) and found to exhibit unusual phase transition behavior in its local-apex and long-range site-site correlations.
+
+The connectionism|parallel distributed processing of the mid-1980s became popular under the name connectionism. The text by Rumelhart and McClelland (1986) provided a full exposition on the use of connectionism in computers to simulate neural processes.
+
+Neural networks, as used in artificial intelligence, have traditionally been viewed as simplified models of neural processing in the brain, even though the relation between this model and brain biological architecture is debated, as it is not clear to what degree artificial neural networks mirror brain function.
+

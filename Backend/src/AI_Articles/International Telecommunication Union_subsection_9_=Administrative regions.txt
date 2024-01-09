@@ -1,0 +1,7 @@
+The ITU is divided into five administrative regions, designed to streamline administration of the organization. They are also used in order to ensure equitable distribution on the council, with seats being apportioned among the regions. They are as follow:
+* Region A – The Americas (35 Member States)
+* Region B – Western Europe (33 Member States)
+* Region C – Eastern Europe and Northern Asia (21 Member States)
+* Region D – Africa (54 Member States)
+* Region E – Asia and Australasia (50 Member States)
+

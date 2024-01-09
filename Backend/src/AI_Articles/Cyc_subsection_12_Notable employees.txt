@@ -1,0 +1,12 @@
+This is a list of some of the notable people who work or have worked on Cyc either while it was a project at MCC (where Cyc was first started) or Cycorp.
+
+* Douglas Lenat 
+* Michael Witbrock
+* Pat Hayes
+* Ramanathan V. Guha
+* Stuart J. Russell
+* Srinija Srinivasan
+* Jared Friedman
+* John McCarthy (computer scientist)|John McCarthy
+
+

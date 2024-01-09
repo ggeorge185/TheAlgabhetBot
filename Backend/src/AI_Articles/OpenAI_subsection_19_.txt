@@ -1,0 +1,4 @@
+further|Generative pre-trained transformer#History}}
+File:Full GPT architecture.png|right|thumb|The original GPT model
+The original paper on generative pre-training of a transformer (machine learning model)|transformer-based language model was written by Alec Radford and his colleagues, and published in preprint on OpenAI's website on June 11, 2018. It showed how a generative model of language is able to acquire world knowledge and process long-range dependencies by pre-training on a diverse corpus with long stretches of contiguous text.
+

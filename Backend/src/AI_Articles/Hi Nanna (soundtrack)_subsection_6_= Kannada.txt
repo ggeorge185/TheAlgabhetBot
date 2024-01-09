@@ -1,0 +1,36 @@
+Track listing
+| all_lyrics = Kaviraj
+| extra_column = Singer(s)
+| title1 = Magalalla
+| length1 = 4:25
+| extra1 = Hesham Abdul Wahab
+| title2 = Vivarane
+| length2 = 3:24
+| extra2 = Anurag Kulkarni, Sithara Krishnakumar
+| title3 = Geleyane
+| length3 = 1:04
+| extra3 = Anurag Kulkarni, Sithara Krishnakumar
+| title4 = Andhaaju
+| length4 = 3:39
+| extra4 = Kaala Bhairava, Aavani Malhar
+| title5 = Jodi Thaare
+| length5 = 1:06
+| extra5 = Bhavana Isvi
+| title6 = Allondhu
+| length6 = 3:30
+| extra6 = Nasim
+| title7 = Idhe Idhe
+| length7 = 3:35
+| extra7 = Hesham Abdul Wahab
+| title8 = Odiyamma
+| length8 = 3:15
+| extra8 = Yazin Nizar, Chinmayi Sripaada, Vishnupriya Ravi
+| title9 = Ee Jeevavane
+| length9 = 4:17
+| extra9 = Bhadra Rajin, Vineeth Sreenivasan
+| title10 = Manase Aalisu
+| length10 = 3:15
+| extra10 = Aavani Malhar
+| total_length = 31:32
+}}
+

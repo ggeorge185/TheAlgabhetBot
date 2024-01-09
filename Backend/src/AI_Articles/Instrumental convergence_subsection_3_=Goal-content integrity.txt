@@ -1,0 +1,4 @@
+In humans, a thought experiment can explain the maintenance of final goals. Suppose a man named "Gandhi" has a pill that, if he took it, would cause him to want to kill people. This Gandhi is currently a pacifist: one of his explicit final goals is never to kill anyone. Gandhi is likely to refuse to take the pill because Gandhi knows that if in the future he wants to kill people, he is likely to kill people, and thus the goal of "not killing people" would not be satisfied.
+
+However, in other cases, people seem happy to let their final values drift. Humans are complicated, and their goals can be inconsistent or unknown, even to themselves.
+

@@ -1,0 +1,3 @@
+Main|Deductive reasoning}}
+Deductive reasoning allows deriving <math>b</math> from <math>a</math> only where <math>b</math> is a formal logical consequence of <math>a</math>. In other words, deduction derives the consequences of the assumed. Given the truth of the assumptions, a valid deduction guarantees the truth of the conclusion. For example, given that "Wikis can be edited by anyone" (<math>a_1</math>) and "Wikipedia is a wiki" (<math>a_2</math>), it follows that "Wikipedia can be edited by anyone" (<math>b</math>).
+

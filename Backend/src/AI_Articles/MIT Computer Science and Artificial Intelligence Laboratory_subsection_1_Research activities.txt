@@ -1,0 +1,9 @@
+CSAIL's research activities are organized around a number of semi-autonomous research groups, each of which is headed by one or more professors or research scientists. These groups are divided up into seven general areas of research:
+* Artificial intelligence
+* Computational biology
+* Computer graphics|Graphics and Machine vision|vision
+* Natural language processing|Language and Machine learning|learning
+* Theory of computation
+* Robotics
+* Systems (includes computer architecture, databases, Distributed computing|distributed systems, Computer network|networks and networked systems, operating systems, programming methodology, and software engineering, among others)
+

@@ -1,0 +1,3 @@
+Main|Dataflow architecture}}
+Dataflow architecture processors used for AI serve various purposes, with varied implementations like the polymorphic dataflow Convolution Engine by Kinara (formerly Deep Vision), structure-driven dataflow by Hailo, and dataflow Scheduling (computing)|scheduling by Cerebras.
+

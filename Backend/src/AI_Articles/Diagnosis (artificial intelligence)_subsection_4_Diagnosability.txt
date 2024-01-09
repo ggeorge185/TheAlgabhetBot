@@ -1,0 +1,8 @@
+A system is said to be '''diagnosable''' if whatever the behavior of the system, we will be able to determine without ambiguity a unique diagnosis.
+
+The problem of diagnosability is very important when designing a system because on one hand one may want to reduce the number of sensors to reduce the cost, and on the other hand one may want to increase the number of sensors to increase the probability of detecting a faulty behavior.
+
+Several algorithms for dealing with these problems exist. One class of algorithms answers the question whether a system is diagnosable; another class looks for sets of sensors that make the system diagnosable, and optionally comply to criteria such as cost optimization.
+
+The diagnosability of a system is generally computed from the model of the system. In applications using model-based diagnosis, such a model is already present and doesn't need to be built from scratch.
+

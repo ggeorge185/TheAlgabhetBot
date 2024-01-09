@@ -1,0 +1,4 @@
+OpenTTD – Business simulation game in which players try to earn money via transporting passengers and freight by road, rail, water and air.
+*SuperTuxKart – Kart racing game that features mascots of various open-source projects.
+*FlightGear - Flight simulator.
+

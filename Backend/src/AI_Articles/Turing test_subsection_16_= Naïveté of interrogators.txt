@@ -1,0 +1,8 @@
+In practice, the test's results can easily be dominated not by the computer's intelligence, but by the attitudes, skill, or naïveté of the questioner. Numerous experts in the field, including cognitive scientist Gary Marcus, insist that the Turing test only shows how easy it is to fool humans and is not an indication of machine intelligence.
+
+Turing does not specify the precise skills and knowledge required by the interrogator in his description of the test, but he did use the term "average interrogator": "[the] average interrogator would not have more than 70 per cent chance of making the right identification after five minutes of questioning".
+
+Chatterbot programs such as ELIZA have repeatedly fooled unsuspecting people into believing that they are communicating with human beings. In these cases, the "interrogators" are not even aware of the possibility that they are interacting with computers. To successfully appear human, there is no need for the machine to have any intelligence whatsoever and only a superficial resemblance to human behaviour is required.
+
+Early Loebner Prize competitions used "unsophisticated" interrogators who were easily fooled by the machines. This raises the question of how to ensure that the humans are motivated to "act human".
+

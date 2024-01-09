@@ -1,0 +1,17 @@
+cite web |url= https://people.eecs.berkeley.edu/~russell/aima1e.html |title= AIMA |edition= 1st |publisher= Stuart J. Russell|S Russell }}
+* 
+* 
+
+
+
+Category:1995 non-fiction books
+Category:2003 non-fiction books
+Category:2009 non-fiction books
+Category:2020 non-fiction books
+Category:Artificial intelligence publications
+Category:Cognitive science literature
+Category:Computer science textbooks
+Category:English-language books
+Category:Robotics books
+Category:Prentice Hall books
+

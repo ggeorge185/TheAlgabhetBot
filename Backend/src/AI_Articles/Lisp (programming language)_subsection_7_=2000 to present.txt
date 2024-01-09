@@ -1,0 +1,16 @@
+After having declined somewhat in the 1990s, Lisp has experienced a resurgence of interest after 2000. Most new activity has been focused around implementations of Common Lisp, Scheme (programming language)|Scheme, Emacs Lisp, Clojure, and Racket (programming language)|Racket, and includes development of new portable libraries and applications.
+
+Many new Lisp programmers were inspired by writers such as Paul Graham (computer programmer)|Paul Graham and Eric S. Raymond to pursue a language others considered antiquated. New Lisp programmers often describe the language as an eye-opening experience and claim to be substantially more productive than in other languages. This increase in awareness may be contrasted to the "AI winter" and Lisp's brief gain in the mid-1990s.
+
+, there were eleven actively maintained Common Lisp implementations.
+
+The open-source-software movement|open source community has created new supporting infrastructure: CLiki is a wiki that collects Common Lisp related information, the Common Lisp directory lists resources, #lisp is a popular IRC channel and allows the sharing and commenting of code snippets (with support by lisppaste, an IRC bot written in Lisp), Planet Lisp collects the contents of various Lisp-related blogs, on LispForum users discuss Lisp topics, Lispjobs is a service for announcing job offers and there is a weekly news service, ''Weekly Lisp News''. ''Common-lisp.net'' is a hosting site for open source Common Lisp projects. Quicklisp is a library manager for Common Lisp.
+
+Fifty years of Lisp (1958–2008) was celebrated at LISP50@OOPSLA. There are regular local user meetings in Boston, Vancouver, and Hamburg. Other events include the European Common Lisp Meeting, the European Lisp Symposium and an International Lisp Conference.
+
+The Scheme community actively maintains Scheme (programming language)#Implementations|over twenty implementations. Several significant new implementations (Chicken, Gambit, Gauche, Ikarus, Larceny, Ypsilon) have been developed in the 2000s (decade). The Revised<sup>5</sup> Report on the Algorithmic Language Scheme standard of Scheme was widely accepted in the Scheme community. The Scheme Requests for Implementation process has created a lot of quasi standard libraries and extensions for Scheme. User communities of individual Scheme implementations continue to grow. A new language standardization process was started in 2003 and led to the R<sup>6</sup>RS Scheme standard in 2007. Academic use of Scheme for teaching computer science seems to have declined somewhat. Some universities are no longer using Scheme in their computer science introductory courses; MIT now uses Python (programming language)|Python instead of Scheme for its undergraduate computer science program and MITx massive open online course.
+
+There are several new dialects of Lisp: Arc (programming language)|Arc, Hy, Nu (programming language)|Nu, Liskell, and LFE (programming language)|LFE (Lisp Flavored Erlang). The parser for Julia (programming language)|Julia is implemented in Femtolisp, a dialect of Scheme (programming language)|Scheme (Julia is inspired by Scheme, which in turn is a Lisp dialect).
+
+In October 2019, Paul Graham (programmer)|Paul Graham released [http://paulgraham.com/bel.html a specification for Bel], "a new dialect of Lisp."
+

@@ -1,0 +1,14 @@
+Biographical methods use quantitative characteristics such as the number of publications, patents, or performances of a work can be credited to a person. While this method was originally developed for highly creative personalities, today it is also available as Self-report study#Questionnaires and interviews|self-report questionnaires supplemented with frequent, less outstanding creative behaviors such as writing a short story or creating your own recipes. For example, the Creative Achievement Questionnaire, a self-report test that measures creative achievement across ten domains, was described in 2005 and shown to be reliable when compared to other measures of creativity and to independent evaluation of creative output. Besides the English original, it was also used in a Chinese, French, and German version. It is the self-report questionnaire most frequently used in research. Frank Barron (psychologist)|Barron, Wallach & Kogan, and Guilford – focused not only on creativity, but also on intelligence. This joint focus highlights both the theoretical and practical importance of the relationship: researchers are interested not only if the constructs are related, but also how and why.
+
+There are multiple theories accounting for their relationship, with the three main theories as follows:
+
+;Threshold Theory: Intelligence is a necessary, but not sufficient condition for creativity. There is a moderate positive relationship between creativity and intelligence until IQ ~120.
+;Interference Theory: Extremely high intelligence might interfere with creative ability.
+
+Sternberg and O'Hara proposed a framework of five possible relationships between creativity and intelligence:
+#Creativity is a subset of intelligence.
+#Intelligence is a subset of creativity.
+#Creativity and intelligence are overlapping constructs.
+#Creativity and intelligence are part of the same construct (coincident sets).
+#Creativity and intelligence are distinct constructs (disjoint sets).
+

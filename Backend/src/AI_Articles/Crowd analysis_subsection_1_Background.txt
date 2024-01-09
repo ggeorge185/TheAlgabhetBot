@@ -1,0 +1,20 @@
+Due to population growth, crowd analysis has become a major interest in social and technical disciplines. People use crowd analysis to develop crowd management strategies in public events as well as public space design, visual surveillance, and virtual environments. Goals include to make areas more convenient, and prevent crowd induced disasters. This research is done by analyzing data from crowds, and then proceeding to create models of similar situations using software. Many models that simulate crowd behavior exists, with some stating "macroscopic models like network-based models or fluid-dynamics models as well as microscopic models like e.g. the Social Force Model or Cellular Automata." Density is important to determine the maximum occupancy of a room or building to address safety concerns. Analyzing areas that become more densely packed than others is essential for designing buildings and evacuation routes. Addressing such concerns involves the management and optimization of the crowd and allows one to predict movement patterns.
+
+'''Crowd flow''' involves the speed that objects in a crowd move in a space. At a critical capacity, flow begins to decrease as crowd density increases. The Yerkes-Dodson law explains how performance is impacted by the amount of stress on an individual. The stress is caused by external factors such as an object coming at the individual, a time constraint for the individual to perform a task, or the number of agents crowding an individual.
+
+In regard to computer animation, simulated individuals (referred to as agents) are often written to portray realistic crowd-like behavior. They follow an algorithm based on stress, navigation fields, and surrounding agents in order to manipulate behavior. The study of producing intelligent agents to follow lifelike behavior falls under the field of crowd simulation#Human-like_behaviors_and_crowd_AI|artificial intelligence.
+<!--
+Application of computer vision
+
+Modeling pedestrian dynamics
+
+Drawing parallels between pedestrian dynamics and real world applications
+
+Modeling crowds and groups
+
+Various influences to individual and group behavior
+
+Anomalies
+
+Needs to be explained thoroughly (please don't delete!!) -->
+

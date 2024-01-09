@@ -1,0 +1,118 @@
+class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+|2001–2002
+|''Dark Angel (2000 TV series)|Dark Angel''
+|List of Dark Angel characters#Asha Barlow|Asha Barlow
+|Main role (season 2)
+|-
+|2002–2003
+|''Birds of Prey (TV series)|Birds of Prey''
+|Huntress (Helena Wayne)|Helena Kyle / Huntress
+|Main role
+|-
+|2004
+|''Joey (TV series)|Joey''
+|Allison
+|unaired pilot
+|-
+|2006
+|''Deceit''
+|Sam Pruitt
+|Television film
+|-
+|2006–2008
+|''Jericho (2006 TV series)|Jericho''
+|List of Jericho characters#Emily Sullivan|Emily Sullivan
+|Main role
+|-
+|rowspan=2|2009
+|''Fear Itself (TV series)|Fear Itself''
+|Lisa
+|Episode: "The Circle"
+|-
+|''CSI: Miami''
+|Zoe Belle
+|Episode: "Target Specific"
+|-
+|rowspan=2|2010
+|''NCIS (TV series)|NCIS''
+|Dana Hutton
+|Episode: "Obsession"
+|-
+|''Christmas Mail''
+|Kristi North
+|Television film
+|-
+|2012
+|''Unstable''
+|Christine March
+|Television film
+|-
+|rowspan=4|2013
+|''''
+|April
+|Television film
+|-
+|''Summoned (film)|Summoned''
+|Laura Price
+|Television film
+|-
+|''''
+|Annie
+|Television film
+|-
+|''Holiday Road Trip''
+|Maya
+|Television film
+|-
+|rowspan=2|2015
+|''16 and Missing''
+|Julia
+|Television film
+|-
+|''Unreal (TV series)|UnREAL''
+|Mary Newhouse
+|Main role (season 1)
+|-
+|rowspan=2|2016
+|''Broken Promise''
+|Mina Gardner
+|Television film
+|-
+|''''
+|Hathaway
+|Television film
+|-
+|rowspan=4|2017
+|''Fatal Defense''
+|Arden Walsh
+|Television film
+|-
+|''A Woman Deceived''
+|Elizabeth
+|Television film
+|-
+|''Manny Dearest''
+|Karen Clark 
+|Television film
+|-
+|One Small Discretion
+|Caroline
+|Television film
+|-
+|2018
+|''A Tale of Two Coreys''
+|Sheila Feldman
+|Television film
+|-
+|2019
+|''The Flash (2014 TV series)|The Flash''
+|Helena Kyle / Huntress
+|Episode: “Crisis on Infinite Earths (Arrowverse)|Crisis on Infinite Earths: Part Three”
+|}
+

@@ -1,0 +1,11 @@
+Main|Machine ethics|AI safety|Friendly artificial intelligence|Artificial moral agents|Human Compatible}}
+
+Friendly AI are machines that have been designed from the beginning to minimize risks and to make choices that benefit humans. Eliezer Yudkowsky, who coined the term, argues that developing friendly AI should be a higher research priority: it may require a large investment and it must be completed before AI becomes an existential risk.
+
+Machines with intelligence have the potential to use their intelligence to make ethical decisions. The field of machine ethics provides machines with ethical principles and procedures for resolving ethical dilemmas.
+The field of machine ethics is also called computational morality,
+and was founded at an AAAI symposium in 2005.
+
+Other approaches include Wendell Wallach's "artificial moral agents"
+and Stuart J. Russell's Human Compatible#Russell's three principles|three principles for developing provably beneficial machines.
+

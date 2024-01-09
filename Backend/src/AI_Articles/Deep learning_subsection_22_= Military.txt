@@ -1,0 +1,2 @@
+The United States Department of Defense applied deep learning to train robots in new tasks through observation.
+

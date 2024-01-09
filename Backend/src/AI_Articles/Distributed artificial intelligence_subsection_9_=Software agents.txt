@@ -1,0 +1,14 @@
+The key concept used in DPS and MABS is the abstraction called software agents. An agent is a virtual (or physical) Wiktionary:autonomy|autonomous entity that has an understanding of its environment and acts upon it. An agent is usually able to communicate with other agents in the same system to achieve a common goal, that one agent alone could not achieve. This communication system uses an agent communication language.
+
+A first classification that is useful is to divide agents into:
+* reactive agent – A reactive agent is not much more than an automaton that receives input, processes it and produces an output.
+* deliberative agent – A deliberative agent in contrast should have an internal view of its environment and is able to follow its own plans.
+* hybrid agent – A hybrid agent is a mixture of reactive and deliberative, that follows its own plans, but also sometimes directly reacts to external events without deliberation.
+
+Well-recognized agent architectures that describe how an agent is internally structured are:
+* ASMO (cognitive architecture)|ASMO (emergence of distributed modules)
+* BDI software agent|BDI (Believe Desire Intention, a general architecture that describes how plans are made)
+* InterRAP (A three-layer architecture, with a reactive, a deliberative and a social layer)
+* PECS (Physics, Emotion, Cognition, Social, describes how those four parts influences the agents behavior).
+* Soar (cognitive architecture)|Soar (a rule-based approach)
+

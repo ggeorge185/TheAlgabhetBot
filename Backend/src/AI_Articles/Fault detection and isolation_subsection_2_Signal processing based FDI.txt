@@ -1,0 +1,4 @@
+In signal processing based FDI, some mathematical or statistical operations are performed on the measurements, or some neural network is trained using measurements to extract the information about the fault.
+
+A good example of signal processing based FDI is time domain reflectometry where a signal is sent down a cable or electrical line and the reflected signal is compared mathematically to original signal to identify faults.  Spread Spectrum Time Domain Reflectometry, for instance, involves sending down a spread spectrum signal down a wire line to detect wire faults. Several clustering methods have also been proposed to identify the novel fault and segment a given signal into normal and faulty segments.
+

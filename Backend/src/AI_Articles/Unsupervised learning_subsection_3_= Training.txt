@@ -1,0 +1,4 @@
+During the learning phase, an unsupervised network tries to mimic the data it's given and uses the error in its mimicked output to correct itself (i.e. correct its weights and biases). Sometimes the error is expressed as a low probability that the erroneous output occurs, or it might be expressed as an unstable high energy state in the network.
+
+In contrast to supervised methods' dominant use of backpropagation, unsupervised learning also employs other methods  including:  Hopfield learning rule, Boltzmann learning rule, Contrastive Divergence, Wake-sleep algorithm|Wake Sleep, Variational Inference, Maximum Likelihood, Maximum A Posteriori, Gibbs Sampling, and backpropagating reconstruction errors or hidden state reparameterizations. See the table below for more details.
+

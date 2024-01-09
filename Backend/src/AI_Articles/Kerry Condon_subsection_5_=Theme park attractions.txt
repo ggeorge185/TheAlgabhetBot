@@ -1,0 +1,13 @@
+class="wikitable"
+|+
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2022
+| ''Disney Wish#Recreation|Avengers: Quantum Encounter''
+| F.R.I.D.A.Y. (voice)
+| Disney Wish
+|}
+

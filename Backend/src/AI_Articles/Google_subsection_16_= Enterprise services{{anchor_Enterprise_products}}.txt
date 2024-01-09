@@ -1,0 +1,8 @@
+Main|Google Workspace|Google Cloud Platform}}
+
+Google Workspace (formerly G Suite until October 2020) is a monthly subscription offering for organizations and businesses to get access to a collection of Google's services, including Gmail, Google Drive and Google Docs, Google Sheets and Google Slides, with additional administrative tools, unique domain names, and 24/7 support.
+
+On September 24, 2012, Google launched Google for Entrepreneurs, a largely not-for-profit business incubator providing startups with Coworking|co-working spaces known as Campuses, with assistance to startup founders that may include workshops, conferences, and mentorships. Presently, there are seven Campus locations: Berlin, London, Madrid, Seoul, São Paulo, Tel Aviv, and Warsaw.
+
+On March 15, 2016, Google announced the introduction of Google Analytics 360 Suite, "a set of integrated data and marketing analytics products, designed specifically for the needs of enterprise-class marketers" which can be integrated with BigQuery on the Google Cloud Platform. Among other things, the suite is designed to help "enterprise class marketers" "see the complete customer journey", generate "useful insights", and "deliver engaging experiences to the right people". Jack Marshall of ''The Wall Street Journal'' wrote that the suite competes with existing marketing cloud offerings by companies including Adobe Systems|Adobe, Oracle Corporation|Oracle, Salesforce.com|Salesforce, and IBM.
+

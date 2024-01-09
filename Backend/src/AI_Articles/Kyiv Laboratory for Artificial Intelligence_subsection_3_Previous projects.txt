@@ -1,0 +1,5 @@
+Veliar-2" - further development of the basis project,
+* "Veliar" - programming language, for developing systems of "Artificial Intelligence" class,
+* "Gebe Deutschunterricht" (Teaching German) - multimedia system,
+* Cossack "3D speaking head" (Cossack - multimedia program with mimics for speech synthesis)
+

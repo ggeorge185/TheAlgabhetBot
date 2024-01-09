@@ -1,0 +1,100 @@
+glossary}}
+
+ techniques using a convolutional neural network. Its updated version <!-- not a typo -->Darkfores2<!-- not a typo --> combines the techniques of its predecessor with Monte Carlo tree search. The MCTS effectively takes tree search methods commonly seen in computer chess programs and randomizes them. With the update, the system is known as Darkfmcts3.}}
+
+
+ as a field.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ language that syntactically is a subset of . It is often used as a query language for deductive databases. In recent years, Datalog has found new application in data integration, information extraction, Computer network|networking, program analysis, security, and cloud computing.}}
+
+
+-based  or perceptrons, the type of decision boundary that the network can learn is determined by the number of hidden layers the network has. If it has no hidden layers, then it can only learn linear problems. If it has one hidden layer, then it can learn any continuous function on Compact space|compact subsets of Euclidean space|R<sup>n</sup> as shown by the Universal approximation theorem, thus it can have an arbitrary decision boundary.}}
+
+
+
+
+
+
+
+
+
+.}}
+
+
+
+
+
+ inference engine. It takes as input a set of declarations in a frame language about a domain such as medical research or molecular biology. For example, the names of Class hierarchy|classes, sub-classes, properties, and restrictions on allowable values.}}
+
+
+
+
+
+
+ methods based on learning representation|learning data representations, as opposed to task-specific algorithms. Learning can be Supervised learning|supervised, Semi-supervised learning|semi-supervised, or Unsupervised learning|unsupervised.}}
+
+
+ company founded in September 2010, currently owned by Alphabet Inc. The company is based in London, with research centres in Canada, France, and the United States. List of mergers and acquisitions by Google|Acquired by Google in 2014, the company has created a neural network that learns how to play video games in a fashion similar to that of humans, as well as a neural Turing machine, or a neural network that may be able to access an external memory like a conventional Turing machine, resulting in a computer that mimics the short-term memory of the human brain. The company made headlines in 2016 after its AlphaGo program beat human professional Go (game)|Go player Lee Sedol, the world champion, in AlphaGo versus Lee Sedol|a five-game match, which was the subject of a documentary film. A more general program, AlphaZero, beat the most powerful programs playing Go (game)|Go, chess, and shogi (Japanese chess) after a few days of play against itself using .}}
+
+
+
+
+
+, and efficient decision procedures have been designed and implemented for these problems. There are general, spatial, temporal, spatiotemporal, and fuzzy descriptions logics, and each description logic features a different balance between DL expressivity and  Complexity class|complexity by supporting different sets of mathematical constructors.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ research dedicated to the development of distributed solutions for problems. DAI is closely related to and a predecessor of the field of multi-agent systems.}}
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+Main|Subject-matter expert Turing test}}
+Another variation is described as the subject-matter expert Turing test, where a machine's response cannot be distinguished from an expert in a given field. This is also known as a "Feigenbaum test" and was proposed by Edward Feigenbaum in a 2003 paper.
+

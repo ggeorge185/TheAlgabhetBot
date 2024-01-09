@@ -1,0 +1,7 @@
+Artificial empathy has been applied in various research disciplines, including artificial intelligence and business. Two main streams of research in this domain are:
+
+# the use of nonhuman models to predict a person's internal state (e.g., cognitive, affective, physical) given the signals he or she emits (e.g., facial expression, voice, gesture)
+# the use of nonhuman models to predict a person's reaction when he or she is exposed to a given set of stimuli (e.g., facial expression, voice, gesture, graphics, music, etc.). call centers, human-computer interaction, sales pitches, and financial reporting.
+
+The second stream of artificial empathy has been researched more in marketing contexts, such as advertising, branding, customer reviews, in-store recommendation systems, movies, and online dating.
+

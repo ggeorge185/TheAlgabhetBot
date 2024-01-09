@@ -1,0 +1,11 @@
+The complexity of solving the following problems with a human-assisted Turing machine is:<ref name="ucl.ac.uk"/>
+
+* Optical character recognition for printed text: <math>\langle O(1), poly(n) \rangle </math>
+* Turing test:
+** for an <math>n</math>-sentence conversation where the oracle remembers the conversation history (persistent oracle): <math>\langle O(n), O(n) \rangle </math>
+** for an <math>n</math>-sentence conversation where the conversation history must be retransmitted: <math>\langle O(n), O(n^2) \rangle </math>
+** for an <math>n</math>-sentence conversation where the conversation history must be retransmitted and the person takes linear time to read the query: <math>\langle O(n^2), O(n^2) \rangle </math>
+* ESP game: <math>\langle O(n), O(n) \rangle </math>
+* Image labelling (based on the Arthur–Merlin protocol): <math>\langle O(n), O(n) \rangle </math>
+* Object categorization from image search|Image classification: human only: <math>\langle O(n), O(n) \rangle </math>, and with less reliance on the human: <math>\langle O(\log n), O(n \log n) \rangle </math>.
+

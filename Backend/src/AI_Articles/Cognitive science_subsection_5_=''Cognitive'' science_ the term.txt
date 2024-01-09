@@ -1,0 +1,4 @@
+The term "cognitive" in "cognitive science" is used for "any kind of mental operation or structure that can be studied in precise terms" (George Lakoff|Lakoff and Mark Johnson (professor)|Johnson, 1999). This conceptualization is very broad, and should not be confused with how "cognitive" is used in some traditions of analytic philosophy, where "cognitive" has to do only with formal rules and truth-conditional semantics.
+
+The earliest entries for the word "''cognitive''" in the Oxford English Dictionary|OED take it to mean roughly ''"pertaining to the action or process of knowing"''. The first entry, from 1586, shows the word was at one time used in the context of discussions of Platonic theories of knowledge. Most in cognitive science, however, presumably do not believe their field is the study of anything as certain as the knowledge sought by Plato. 
+

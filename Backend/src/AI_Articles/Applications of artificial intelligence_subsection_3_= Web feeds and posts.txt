@@ -1,0 +1,2 @@
+Machine learning is also used in web feeds such as for determining which posts should show up in social media feeds. Various types of social media analysis also make use of machine learning and there is research into its use for Misinformation#Countermeasures|(semi-)automated tagging/enhancement/correction of online misinformation and related filter bubbles.
+

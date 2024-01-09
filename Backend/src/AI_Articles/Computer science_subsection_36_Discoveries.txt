@@ -1,0 +1,21 @@
+The philosopher of computing William J. Rapaport|Bill Rapaport noted three ''Great Insights of Computer Science'':
+* Gottfried Wilhelm Leibniz's, George Boole's, Alan Turing's, Claude Shannon's, and Samuel Morse's insight: there are only ''two objects'' that a computer has to deal with in order to represent "anything".
+:: All the information about any computable problem can be represented using only 0 and 1 (or any other bistable pair that can flip-flop between two easily distinguishable states, such as "on/off", "magnetized/de-magnetized", "high-voltage/low-voltage", etc.).
+
+* Alan Turing's insight: there are only ''five actions'' that a computer has to perform in order to do "anything".
+:: Every algorithm can be expressed in a language for a computer consisting of only five basic instructions:
+::* move left one location;
+::* move right one location;
+::* read symbol at current location;
+::* print 0 at current location;
+::* print 1 at current location.
+
+* Corrado Böhm and Giuseppe Jacopini's insight: there are only ''three ways of combining'' these actions (into more complex ones) that are needed in order for a computer to do "anything".
+
+:: Only three rules are needed to combine any set of basic instructions into more complex ones:
+::*''sequence'': first do this, then do that;
+::* '' selection'': IF such-and-such is the case, THEN do this, ELSE do that;
+::* ''repetition'': WHILE such-and-such is the case, DO this.
+:: The three rules of Boehm's and Jacopini's insight can be further simplified with the use of goto (which means it is more elementary than structured programming).
+
+

@@ -1,0 +1,8 @@
+Collaborative filtering (CF) is one of the most commonly used recommendation system algorithms. It generates personalized suggestions for users based on explicit or implicit behavioral patterns to form predictions. Specifically, it relies on external feedback such as star ratings, purchasing history and so on to make judgments. CF make predictions about users' preference based on similarity measurements. Essentially, the underlying theory is: "if user A is similar to user B, and if A likes item C, then it is likely that B also likes item C."
+
+There are many models available for collaborative filtering. For AI-applied collaborative filtering, a common model is called K-nearest neighbors algorithm|K-nearest neighbors. The ideas are as follows:
+# '''Data Representation''': Create a n-dimensional space where each axis represents a user's trait (ratings, purchases, etc.). Represent the user as a point in that space.
+# '''Statistical Distance''': 'Distance' measures how far apart users are in this space. See statistical distance for computational details
+# '''Identifying Neighbors''': Based on the computed distances, find k nearest neighbors of the user to which we want to make recommendations
+# '''Forming Predictive Recommendations''': The system will analyze the similar preference of the k neighbors. The system will make recommendations based on that similarity
+

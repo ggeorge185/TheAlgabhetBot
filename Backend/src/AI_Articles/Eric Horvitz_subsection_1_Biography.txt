@@ -1,0 +1,18 @@
+Horvitz received his Ph.D and M.D. from Stanford University. His doctoral dissertation, [http://erichorvitz.com/horvitzdiss.pdf Computation and Action Under Bounded Resources], and follow-on research introduced models of bounded rationality founded in probability and decision theory. He did his doctoral work under advisors Ronald A. Howard, George Dantzig|George B. Dantzig, Edward H. Shortliffe, and Patrick Suppes.
+
+He is currently the Chief Scientific Officer of Microsoft. He has been elected Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), the National Academy of Engineering (NAE), the American Academy of Arts and Sciences, and of the American Association for the Advancement of Science (AAAS). 
+
+He was elected as an ACM Fellow in 2014 for "contributions to artificial intelligence, and human-computer interaction."
+
+He was elected to the ACM CHI Academy in 2013 for “research at the intersection of human-computer interaction and artificial intelligence.”
+
+He was elected to the American Philosophical Society in 2018.
+
+In 2015, he was awarded the AAAI Feigenbaum Prize, a biennial award for sustained and high-impact contributions to the field of artificial intelligence through the development of computational models of perception, reflection and action, and their application in time-critical decision making, and intelligent information, traffic, and healthcare systems.
+
+In 2015, he was also awarded the ACM - AAAI Allen Newell Award, for "contributions to artificial intelligence and human-computer interaction spanning the computing and decision sciences through developing principles and models of sensing, reflection, and rational action."
+
+He serves on the President's Council of Advisors on Science and Technology (PCAST), the Scientific Advisory Committee of the Allen Institute for AI|Allen Institute for Artificial Intelligence (AI2), and the [https://www.nationalacademies.org/cstb/about Computer Science and Telecommunications Board] (CSTB) of the National Academies of Sciences, Engineering, and Medicine|US National Academies.
+
+He has served as president of the Association for the Advancement of Artificial Intelligence|Association for the Advancement of AI (AAAI), on the NSF [https://www.nsf.gov/dir/index.jsp?org=CISE Computer & Information Science & Engineering] (CISE) Advisory Board, on the council of the Computing Community Consortium (CCC), chair of the Section on Information, Computing, and Communications of the American Association for the Advancement of Science (AAAS), on the Board of Regents of the United States National Library of Medicine|US National Library of Medicine (NLM), and the [https://www.nscai.gov/ U.S. National Security Commission on AI].
+

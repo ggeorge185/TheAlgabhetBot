@@ -1,0 +1,2 @@
+Many models of the way the brain controls movement have been developed. This includes models of  processing in the brain such as the cerebellum's role for error correction, skill learning in motor cortex and the basal ganglia, or the control of the vestibulo ocular reflex. This also includes many normative models, such as those of the Bayesian or optimal control flavor which are built on the idea that the brain efficiently solves its problems.
+

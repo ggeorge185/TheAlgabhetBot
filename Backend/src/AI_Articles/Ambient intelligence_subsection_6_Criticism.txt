@@ -1,0 +1,4 @@
+The ambient intelligence concept is subject to criticism (e.g. David Wright, Serge Gutwirth, Michael Friedewald, et al., Safeguards in a World of Ambient Intelligence, Springer, Dordrecht, 2008). Ambient intelligence can be immersive, personalized, context-aware, and anticipatory; these characteristics bring up societal, political, and cultural concerns about the loss of privacy. Proponents of AmI argue that applications of ambient intelligence can function without necessarily reducing privacy.
+
+Critics also discuss power concentration in large organizations; a fragmented, decreasingly private society; and Hyperreality|hyper-real environments where the virtual is indistinguishable from the real. Several research groups and communities have investigated the socioeconomic, political and cultural aspects of ambient intelligence.
+

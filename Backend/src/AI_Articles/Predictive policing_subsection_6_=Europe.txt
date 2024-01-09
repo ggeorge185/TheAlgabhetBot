@@ -1,0 +1,6 @@
+In Europe there has been significant pushback against predictive policing and the broader use of artificial intelligence in policing on both a national and European Union level.
+
+The Danish POL-INTEL project has been operational since 2017 and is based on the Gotham (Palantir)|Gotham system from Palantir Technologies. The Gotham system has also been used by German state police and Europol.
+
+In New York, the NYPD has begun implementing a new crime tracking program called Patternizr. The goal of the Patternizr was to help aid police officers in identifying commonalities in crimes committed by the same offenders or same group of offenders. With the help of the Patternizr, officers are able to save time and be more efficient as the program generates the possible "pattern" of different crimes. The officer then has to manually search through the possible patterns to see if the generated crimes are related to the current suspect. If the crimes do match, the officer will launch a deeper investigation into the pattern crimes.
+

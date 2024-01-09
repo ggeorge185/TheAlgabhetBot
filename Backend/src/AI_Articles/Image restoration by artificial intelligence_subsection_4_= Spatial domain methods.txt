@@ -1,0 +1,2 @@
+Spatial domain techniques primarily operate on the pixel values of an image. Some common methods in this domain include:
+

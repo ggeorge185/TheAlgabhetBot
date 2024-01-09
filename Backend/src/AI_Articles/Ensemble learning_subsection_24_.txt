@@ -1,0 +1,2 @@
+Classification of malware codes such as computer viruses, computer worms, Trojan horses|trojans, ransomware and spywares with the usage of machine learning techniques, is inspired by the Document classification|document categorization problem. Ensemble learning systems have shown a proper efficacy in this area.
+

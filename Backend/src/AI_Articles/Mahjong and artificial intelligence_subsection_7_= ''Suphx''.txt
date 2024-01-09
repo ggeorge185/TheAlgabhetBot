@@ -1,0 +1,2 @@
+Researchers developed ''Suphx'' with the intention to make an AI model that could play Japanese mahjong competitively . ''Suphx'' was able to achieve the second highest rank on Tenhou.net, but was not permitted to play in the highest ranking room.
+

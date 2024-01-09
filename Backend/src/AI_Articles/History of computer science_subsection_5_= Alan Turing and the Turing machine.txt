@@ -1,0 +1,18 @@
+Main|Alan Turing|Turing machine}}
+File:Alan Turing az 1930-as években.jpg|thumb|right|[[Alan Turing, English computer scientist, mathematician, logician, and cryptanalyst.  (circa 1930)]]
+Before the 1920s, ''Computer (job description)|computers'' (sometimes ''computors'') were human clerks that performed computations. They were usually under the lead of a physicist. Many thousands of computers were employed in commerce, government, and research establishments. Many of these clerks who served as human computers were women. Some performed astronomical calculations for calendars, others ballistic tables for the military.
+
+After the 1920s, the expression ''computing machine'' referred to any machine that performed the work of a human computer, especially those in accordance with effective methods of the Church-Turing thesis. The thesis states that a mathematical method is effective if it could be set out as a list of instructions able to be followed by a human clerk with paper and pencil, for as long as necessary, and without ingenuity or insight.
+
+Machines that computed with continuous values became known as the ''analog'' kind. They used machinery that represented continuous numeric quantities, like the angle of a shaft rotation or difference in electrical potential.
+
+Digital machinery, in contrast to analog, were able to render a state of a numeric value and store each individual digit. Digital machinery used difference engines or relays before the invention of faster memory devices.
+
+The phrase ''computing machine'' gradually gave way, after the late 1940s, to just ''computer'' as the onset of electronic digital machinery became common. These computers were able to perform the calculations that were performed by the previous human clerks.
+
+Since the values stored by digital machines were not bound to physical properties like analog devices, a logical computer, based on digital equipment, was able to do anything that could be described "purely mechanical." The theoretical Turing Machine, created by Alan Turing, is a hypothetical device theorized in order to study the properties of such hardware.
+
+The mathematical foundations of modern computer science began to be laid by Kurt Gödel with his Gödel's incompleteness theorems|incompleteness theorem (1931). In this theorem, he showed that there were limits to what could be proved and disproved within a formal system. This led to work by Gödel and others to define and describe these formal systems, including concepts such as mu-recursive functions and lambda-definable functions.
+
+In 1936  Alan Turing and Alonzo Church independently, and also together, introduced the formalization of an algorithm, with limits on what can be computed, and a "purely mechanical" model for computing. This became the Church–Turing thesis, a hypothesis about the nature of mechanical calculation devices, such as electronic computers. The thesis states that any calculation that is possible can be performed by an algorithm running on a computer, provided that sufficient time and storage space are available. These hypothetical machines were designed to formally determine, mathematically, what can be computed, taking into account limitations on computing ability. If a Turing machine can complete the task, it is considered Turing computable. She helped design three different machines including the ARC, SEC (Simple Electronic Computer), and APEXC|APE(X)C.
+

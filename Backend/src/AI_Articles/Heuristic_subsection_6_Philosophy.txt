@@ -1,0 +1,6 @@
+A '''heuristic device''' is used when an entity ''X'' exists to enable understanding of, or knowledge concerning, some other entity ''Y''.
+
+A good example is a Physical model|model that, as Map/territory relation|it is never identical with what it models, is a heuristic device to enable understanding of what it models. Stories, metaphors, etc., can also be termed heuristic in this sense. A classic example is the notion of utopia as described in Plato's best-known work, ''Plato's Republic|The Republic''. This means that the "ideal city" as depicted in ''The Republic'' is not given as something to be pursued, or to present an orientation-point for development. Rather, it shows how things would have to be connected, and how one thing would lead to another (often with highly problematic results), if one opted for certain principles and carried them through rigorously.
+
+''Heuristic'' is also often used as a noun to describe a rule of thumb, procedure, or method. Philosophers of science have emphasised the importance of heuristics in creative thought and the construction of scientific theories. Seminal works include Karl Popper's ''The Logic of Scientific Discovery'' and others by Imre Lakatos, Lindley Darden, and William C. Wimsatt.
+

@@ -1,0 +1,9 @@
+Avogadro (software)|Avogadro – Plugin-extensible molecule visualisation
+* BALLView – Molecular modeling and visualisation
+* Jmol – 3D representation of molecules in many formats, for teaching use
+* Molekel – Molecule viewing software
+* MeshLab – Able to import PDB dataset and build up surfaces from them
+* PyMOL – High-quality representations of small molecules and biological macromolecules
+* QuteMol – Interactive molecule representations offering an array of innovative OpenGL visual effects
+* RasMol – Visualizes biological macromolecules
+

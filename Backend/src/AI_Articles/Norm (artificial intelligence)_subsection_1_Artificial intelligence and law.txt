@@ -1,0 +1,7 @@
+With the arrival of computer applications into the legal domain, and especially artificial intelligence applied to it, logic has been used as the major tool to formalize legal
+reasoning and has been developed in many directions, ranging from deontic logics to formal systems of argumentation.
+
+The knowledge base of legal reasoning systems usually includes legal norms (such as governmental regulations and contracts), and as a consequence, legal rules are the focus of knowledge representation and reasoning approaches to automatize and solve complex legal tasks. Legal norms are typically represented into a logic-based formalism, such a deontic logic.
+
+Artificial intelligence and law applications using an explicit representation of norms range from checking the compliance of business processes and the automatic execution of smart contracts  to legal expert systems advising people on legal matters.
+

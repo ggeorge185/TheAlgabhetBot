@@ -1,0 +1,6 @@
+visible anchor to link to, for example at "Solving chess" -->
+
+Games in which the difficulty of finding an optimal strategy stems from the multiplicity of possible moves are called combinatorial games. Examples include chess and Go (game)|Go. Games that involve Perfect information|imperfect information may also have a strong combinatorial character, for instance backgammon. There is no unified theory addressing combinatorial elements in games. There are, however, mathematical tools that can solve some particular problems and answer some general questions. A typical game that has been solved this way is Hex (board game)|Hex. A related field of study, drawing from computational complexity theory, is game complexity, which is concerned with estimating the computational difficulty of finding optimal strategies.
+
+Research in artificial intelligence has addressed both perfect and imperfect information games that have very complex combinatorial structures (like chess, go, or backgammon) for which no provable optimal strategies have been found. The practical solutions involve computational heuristics, like alpha–beta pruning or use of artificial neural networks trained by reinforcement learning, which make games more tractable in computing practice.
+

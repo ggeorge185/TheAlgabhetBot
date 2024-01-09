@@ -1,0 +1,4 @@
+The use of Artificial Intelligence, Machine Learning and Deep Learning techniques in Process Control is also considered as an advanced process control approach in which intelligence is used to further optimize operational parameters.
+
+Operations and Logics in process control systems in oil and gas and for decades are based only on physics equations that dictates parameters along with operators’ interactions based on experience and operating manuals. Artificial Intelligence and Machine Learning algorithms can look into the dynamic operational conditions, analyse them and suggest optimized parameters that can either directly tune logic parameters or give suggestion to operators. Interventions by such intelligent models leads to optimization in cost, production and safety.
+

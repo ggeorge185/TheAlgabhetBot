@@ -1,0 +1,7 @@
+Notable developer platforms for virtual assistants include:
+
+* Amazon Lex was opened to developers in April 2017. It involves natural language understanding technology combined with automatic speech recognition and had been introduced in November 2016.
+* Google provides the Actions on Google and Dialogflow platforms for developers to create "Actions" for Google Assistant
+* Apple provides SiriKit for developers to create extensions for Siri
+* IBM's Watson (computer)|Watson, while sometimes spoken of as a virtual assistant is in fact an entire artificial intelligence platform and community powering some virtual assistants, chatbots. and many other types of solutions.
+

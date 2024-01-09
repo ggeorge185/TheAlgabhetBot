@@ -1,0 +1,5 @@
+Several flaw (defect)|flaws and bug (software)|bugs in the Turnitin plagiarism detection software have been documented in scientific literature. In particular, Turnitin has been proven to be Vulnerability (computing)|vulnerable to
+# ad hoc text encodings,
+# rearranged glyphs in a computer font,
+# text replaced with Bézier curves representing its shape.
+

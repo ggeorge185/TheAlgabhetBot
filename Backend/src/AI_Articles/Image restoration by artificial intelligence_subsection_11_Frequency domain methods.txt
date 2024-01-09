@@ -1,0 +1,2 @@
+Frequency domain techniques involve transforming the image from the spatial domain to the frequency domain, typically using the Fourier transform. Some common methods in this domain include:
+

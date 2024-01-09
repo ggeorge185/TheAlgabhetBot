@@ -1,0 +1,73 @@
+class=wikitable
+|-
+! colspan=3|Date
+! No.
+! Name
+! Acr.
+! Location
+! LNCS
+! ISBN
+|-
+|Sep||14-18,||1990|| 1st||rowspan=02|Russian Conference on Logic Programming||rowspan=2|RCLP||Irkutsk, Russia||rowspan=2| 592||rowspan=2|
+|-
+|Sep||11-16,||1991|| 2nd||St.Petersburg, Russia, on board the ship "Michail Lomonosov"
+|-
+|Jul||15-20,||1992|| 3rd||rowspan=03|International Conference on Logic Programming and Automated Reasoning|| rowspan="22" |LPAR||St.Petersburg, Russia, on board the ship "Michail Lomonosov"|| 624||
+|-
+|Jul||13-20,||1993|| 4th||St.Petersburg, Russia|| 698||
+|-
+|Jul||16-22,||1994|| 5th||Kiev, Ukraine, on board the ship "Marshal Koshevoi"|| 822||
+|-
+|Sep||06-10,||1999|| 6th||rowspan=02|International Conference on Logic for Programming and Automated Reasoning||Tbilisi, Georgia||1705||
+|-
+|Nov||11-12,||2000|| 7th||Reunion Island, France||1955||
+|-
+|Dec||03-07,||2001|| 8th|| rowspan="17" |International Conference on Logic for Programming, Artificial Intelligence, and Reasoning||Havana, Cuba||2250||
+|-
+|Oct||14-18,||2002|| 9th||Tbilisi, Georgia||2514||
+|-
+|Sep||22-26,||2003||10th||Almaty, Kazakhstan||2850||
+|-
+|Mar||14-18,||2004||11th||Montevideo, Uruguay||3452||
+|-
+|Dec||02-06,||2005||12th||Montego Bay, Jamaica||3835||
+|-
+|Nov||13-17,||2006||13th||Phnom Penh, Cambodia||4246||
+|-
+|Oct||15-19,||2007||14th||Yerevan, Armenia||4790||
+|-
+|Nov||22-27,||2008||15th||Doha, Qatar||5330||
+|-
+|Apr||25-30,||2010||16th||Dakar, Senegal||6355||
+|-
+|Oct||10-15,||2010||17th||Yogyakarta, Indonesia||6397||
+|-
+|Mar||10-15,||2012||18th||Mérida, Venezuela||7180||
+|-
+|Dec||10-15,||2013||19th||Stellenbosch, South Africa||8312||
+|-
+|Nov ||24-28 || 2015 ||20th||Suva, Fiji ||9450 ||
+|-
+|May||7-12,||2017||21st||Maun, Botswana||-|| [http://www.easychair.org/publications/volume/LPAR-21]
+|-
+|Nov||16-21,||2018||22st||Awassa, Ethiopia
+| -
+| [http://www.easychair.org/publications/volume/LPAR-22]
+|-
+|Jan
+|12-13
+|2021
+|23rd
+|Online due to COVID
+| -
+|[https://easychair.org/publications/volume/LPAR23 ISSN: 2398-7340]
+|-
+|June
+|4-9
+|2023
+|24th
+|Manizales, Colombia
+| -
+|[https://easychair.org/publications/volume/LPAR_2023 ISSN: 2398-7340]
+|}
+

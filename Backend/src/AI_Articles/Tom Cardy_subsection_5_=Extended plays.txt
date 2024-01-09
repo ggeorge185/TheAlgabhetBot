@@ -1,0 +1,15 @@
+class="wikitable"
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak position
+|-
+! scope="col"| ARIA Charts
+|-
+! scope="row"| ''Artificial Intelligence (EP)|Artificial Intelligence''
+|
+* Released: 6 August 2021
+* Label: Self-publishing|None
+* Format: LP record|LP, music download|digital download, streaming media|streaming
+| 
+|}
+

@@ -1,0 +1,12 @@
+In the 2020s, artificial intelligence (AI) systems like ChatGPT have gained popularity for their ability to generate human-like responses to text-based conversations. In February 2020, Microsoft introduced its Turing Natural Language Generation (T-NLG), which was then the "largest language model ever published at 17 billion parameters." On November 30, 2022, ChatGPT was launched as a prototype and quickly garnered attention for its detailed responses and articulate answers across many domains of knowledge. The advent of ChatGPT and its introduction to the wider public increased interest and competition in the space. In February 2023, Google began introducing an experimental service called "Bard" which is based on its LaMDA program to generate text responses to questions asked based on information gathered from the World Wide Web|web.
+
+While ChatGPT and other generalized chatbots based on the latest generative AI are capable of performing various tasks associated with virtual assistants, there are also more specialized forms of such technology that are designed to target more specific situations or needs.
+* Voice: for example with Amazon Alexa on Amazon Echo devices, Siri on an iPhone, Google Assistant on Google-enabled Android (operating system)|Android devices, or Bixby (software)|Bixby on Samsung devices.
+* Images: some assistants, such as Google Assistant (which includes Google Lens) and Bixby on the Samsung Galaxy series, have the added capability of performing image processing to recognize objects in images.
+
+Many virtual assistants are accessible via multiple methods, offering versatility in how users can interact with them, whether through chat, voice commands, or other integrated technologies.
+
+Virtual assistants use natural language processing (NLP) to match user text or voice input to executable commands. Some continually learn using artificial intelligence techniques including machine learning and ambient intelligence. 
+
+To activate a virtual assistant using the voice, a wake word might be used. This is a word or groups of words such as "Hey Siri", "OK Google" or "Hey Google", "Alexa", and "Hey Microsoft". As virtual assistants become more popular, there are increasing legal risks involved.
+

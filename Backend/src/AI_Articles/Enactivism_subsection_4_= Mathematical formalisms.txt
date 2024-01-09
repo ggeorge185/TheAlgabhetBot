@@ -1,0 +1,5 @@
+main|artificial general intelligence}}
+Enactive cognition has been formalised in order to address subjectivity in artificial general intelligence.
+
+A mathematical formalism of AGI is an agent proven to maximise a measure of intelligence. Prior to 2022, the only such formalism was AIXI, which maximised “the ability to satisfy goals in a wide range of environments”. In 2015 Jan Lieke and Marcus Hutter showed that "Legg-Hutter intelligence is measured with respect to a fixed UTM. AIXI is the most intelligent policy if it uses the same UTM", a result which "undermines all existing optimality properties for AIXI", rendering them subjective.
+

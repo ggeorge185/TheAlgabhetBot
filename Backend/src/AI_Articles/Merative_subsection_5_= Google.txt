@@ -1,0 +1,2 @@
+Google's DeepMind platform is being used by the UK National Health Service (NHS) to detect certain health risks through data collected via a mobile app. A second project with the NHS involves analysis of medical images collected from National Health Service|NHS patients to develop computer vision algorithms to detect cancerous tissues.
+

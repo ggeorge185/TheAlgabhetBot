@@ -1,0 +1,11 @@
+Intelligent agent" is also often used as a vague marketing term, sometimes synonymous with "virtual assistant|virtual personal assistant". Some 20th-century definitions characterize an agent as a program that aids a user or that acts on behalf of a user. These examples are known as software agents, and sometimes an "intelligent software agent" (that is, a software agent with intelligence) is referred to as an "intelligent agent".
+
+According to Nikola Kasabov, IA systems should exhibit the following characteristics:
+* Accommodate new problem solving rules incrementally
+* Adapt Online algorithm|online and in Real-time computing|real time
+* Are able to analyze self-concept|themselves in terms of behavior, error and success.
+* Learn and improve through interaction with the environment (embodied agent|embodiment)
+* Learn quickly from large amounts of data (computing)|data
+* Have memory-based exemplar computer storage|storage and retrieval capacities
+* Have parameter (computer science)|parameters to represent short- and long-term memory, age, forgetting, etc.
+

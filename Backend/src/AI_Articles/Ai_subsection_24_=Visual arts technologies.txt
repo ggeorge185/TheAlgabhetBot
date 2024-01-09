@@ -1,0 +1,4 @@
+Adobe Illustrator, a vector graphics editor
+** .ai, Adobe Illustrator Artwork filename extension
+* Automatic Maximum-Aperture Indexing, aperture coupling on Nikon camera lenses
+

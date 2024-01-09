@@ -1,0 +1,16 @@
+In logic, explanation is accomplished through the use of a logical theory <math>T</math> representing a domain of discourse|domain and a set of observations <math>O</math>. Abduction is the process of deriving a set of explanations of <math>O</math> according to <math>T</math> and picking out one of those explanations. For <math>E</math> to be an explanation of <math>O</math> according to <math>T</math>, it should satisfy two conditions:
+
+* <math>O</math> follows from <math>E</math> and <math>T</math>;
+* <math>E</math> is consistent with <math>T</math>.
+
+In formal logic, <math>O</math> and <math>E</math> are assumed to be sets of Literal (mathematical logic)|literals. The two conditions for <math>E</math> being an explanation of <math>O</math> according to theory <math>T</math> are formalized as:
+
+:<math>T \cup E \models O;</math>
+:<math>T \cup E</math> is consistent.
+
+Among the possible explanations <math>E</math> satisfying these two conditions, some other condition of minimality is usually imposed to avoid irrelevant facts (not contributing to the entailment of <math>O</math>) being included in the explanations. Abduction is then the process that picks out some member of <math>E</math>. Criteria for picking out a member representing "the best" explanation include the simplicity, the prior probability, or the explanatory power of the explanation.
+
+A Proof theory|proof-theoretical abduction method for first-order logic|first-order classical logic based on the sequent calculus and a dual one, based on semantic tableaux (analytic tableaux) have been proposed. The methods are sound and complete and work for full first-order logic, without requiring any preliminary reduction of formulae into normal forms. These methods have also been extended to modal logic.
+
+Abductive logic programming is a computational framework that extends normal logic programming with abduction. It separates the theory <math>T</math> into two components, one of which is a normal logic program, used to generate <math>E</math> by means of backward reasoning, the other of which is a set of integrity constraints, used to filter the set of candidate explanations.
+

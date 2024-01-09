@@ -1,0 +1,6 @@
+The book received positive reviews from critics. ''The Wall Street Journal''<nowiki/>'s David A. Shaywitz emphasized the frequent problems when applying algorithms to real-world problems, describing the book as "a nuanced and captivating exploration of this white-hot topic." ''Publishers Weekly'' praised the book for its writing and extensive research.
+
+''Kirkus Reviews'' gave the book a positive review, calling it "technically rich but accessible", and "an intriguing exploration of AI." Writing for ''Nature (journal)|Nature'', Virginia Dignum gave the book a positive review, favorably comparing it to Kate Crawford's ''Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence''.
+
+In 2021, journalist Ezra Klein had Christian on his podcast, ''The Ezra Klein Show,'' writing in ''The New York Times'', "''The Alignment Problem'' is the best book on the key technical and moral questions of A.I. that I’ve read." Later that year, the book was listed in a ''Fast Company'' feature, "5 books that inspired Microsoft CEO Satya Nadella this year".
+

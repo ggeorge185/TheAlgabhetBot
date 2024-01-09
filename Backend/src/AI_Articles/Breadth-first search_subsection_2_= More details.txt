@@ -1,0 +1,16 @@
+This non-recursive implementation is similar to the non-recursive implementation of depth-first search, but differs from it in two ways:
+
+# it uses a Queue (abstract data type)|queue (First In First Out) instead of a Stack (abstract data type)|stack and
+# it checks whether a vertex has been explored before enqueueing the vertex rather than delaying this check until the vertex is dequeued from the queue.
+If  is a Tree (data structure)|tree, replacing the queue of this breadth-first search algorithm with a stack will yield a depth-first search algorithm. For general graphs, replacing the stack of the iterative depth-first search implementation with a queue would also produce a breadth-first search algorithm, although a somewhat nonstandard one.
+
+The ''Q'' queue contains the frontier along which the algorithm is currently searching.
+
+Nodes can be labelled as explored by storing them in a set, or by an attribute on each node, depending on the implementation.
+
+Note that the word ''node'' is usually interchangeable with the word ''vertex''.
+
+The ''parent'' attribute of each node is useful for accessing the nodes in a shortest path, for example by backtracking from the destination node up to the starting node, once the BFS has been run, and the predecessors nodes have been set.
+
+Breadth-first search produces a so-called ''breadth first tree''. You can see how a ''breadth first tree'' looks in the following example.
+

@@ -1,0 +1,33 @@
+glossary}}
+
+
+
+
+
+
+
+ for global optimization inspired by biological evolution, and the subfield of  and  studying these algorithms. In technical terms, they are a family of population-based trial-and-error problem-solvers with a metaheuristic or stochastic optimization character.}}
+
+
+
+
+
+
+
+
+
+
+
+
+, of ''exceptions'' – anomalous or exceptional conditions requiring special processing – often disrupting the normal flow of  . It is provided by specialized  constructs, computer hardware mechanisms like interrupts, or operating system inter-process communication|IPC facilities like Signal (IPC)|signals.}}
+
+
+
+
+
+, a combination of one or more , , , and  that the programming language interprets (according to its particular Order of operations|rules of precedence and of association) and computes to produce ("to return", in a  environment) another value. This process, as for mathematical expressions, is called evaluation.}}
+
+
+
+
+

@@ -1,0 +1,12 @@
+In the 1990s, digital speech recognition technology became a feature of the personal computer with IBM, Philips and Lernout & Hauspie fighting for customers. Much later the market launch of the first smartphone IBM Simon in 1994 laid the foundation for smart virtual assistants as we know them today.
+
+In 1997, Dragon's Dragon NaturallySpeaking|Naturally Speaking software could recognize and transcribe natural human speech without pauses between each word into a document at a rate of 100 words per minute. A version of Naturally Speaking is still available for download and it is still used today, for instance, by many doctors in the US and the UK to document their medical records.
+
+In 2001 Colloquis publicly launched  SmarterChild, on platforms like AIM (software)|AIM and MSN Messenger. While entirely text-based SmarterChild was able to play games, check the weather, look up facts, and converse with users to an extent.
+
+The first modern digital virtual assistant installed on a smartphone was Siri, which was introduced as a feature of the iPhone 4S on 4 October 2011. Apple Inc. developed Siri following the 2010 acquisition of Siri Inc., a Corporate spin-off|spin-off of SRI International, which is a research institute financed by DARPA and the United States Department of Defense. Its aim was to aid in tasks such as sending a text message, making phone calls, checking the weather or setting up an alarm. Over time, it has developed to provide restaurant recommendations, search the internet, and provide driving directions.
+
+In November 2014, Amazon announced Alexa alongside the Echo.
+
+In April 2017 Amazon released a service for building conversational interfaces for any type of virtual assistant or interface.
+

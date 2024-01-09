@@ -1,0 +1,2 @@
+Toby Manning, the match referee for AlphaGo vs. Fan Hui, has described the program's style as "conservative". AlphaGo's playing style strongly favours greater probability of winning by fewer points over lesser probability of winning by more points. It makes a lot of opening moves that have never or seldom been made by humans. It likes to use List of Go terms#Shoulder hit|shoulder hits, especially if the opponent is over concentrated.
+

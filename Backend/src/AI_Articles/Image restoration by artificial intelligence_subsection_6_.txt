@@ -1,0 +1,2 @@
+This technique replaces each pixel value with the median value in its local neighborhood, effectively reducing impulse noise.
+

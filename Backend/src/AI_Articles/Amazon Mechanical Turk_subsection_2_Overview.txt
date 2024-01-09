@@ -1,0 +1,16 @@
+A user of Mechanical Turk can be either a "Worker" (contractor) or a "Requester" (employer). Workers have access to a dashboard that displays three sections: total earnings, HIT status, and HIT totals. Workers set their own hours and are not under any obligation to accept any particular task.
+
+
+Amazon classifies Workers as Independent contractor|contractors rather than employees and does not pay payroll taxes. Classifying Workers as contractors allows Amazon to avoid things like minimum wage, overtime, and workers compensation—this is a common practice among "gig economy" platforms. Workers are legally required to report their income as self-employment income.
+
+In 2013, the average wage for the multiple microtasks assigned, if performed quickly, was about one dollar an hour, with each task averaging a few cents. However, calculating people's average hourly earnings on a microtask site is extremely difficult and several sources of data show average hourly earnings in the $5–$9 per hour range among a substantial number of Workers, while the most experienced, active, and proficient workers may earn over $20 per hour. 
+
+Workers can have a postal address anywhere in the world. Payment for completing tasks can be redeemed on Amazon.com via gift certificate (gift certificates are the only payment option available to international workers, apart from India) or can be transferred to a Worker's U.S. bank account.
+
+Requesters can ask that Workers fulfill qualifications before engaging in a task, and they can establish a test designed to verify the qualification. They can also accept or reject the result sent by the Worker, which affects the Worker's reputation. , Requesters paid Amazon a minimum 20% commission on the price of successfully completed jobs, with increased amounts for . Requesters can use the Amazon Mechanical Turk API to programmatically integrate the results of the work directly into their business processes and systems. When employers set up a job, they must specify
+* how much are they paying for each HIT accomplished,
+* how many workers they want to work on each HIT,
+* the maximum time a worker has to work on a single task,
+* how much time the workers have to complete the work,
+as well as the specific details about the job they want to be completed.
+

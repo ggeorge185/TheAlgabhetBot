@@ -1,0 +1,2 @@
+Igor Aleksander, emeritus professor of Neural Systems Engineering at Imperial College, has extensively researched artificial neural networks and wrote in his 1996 book ''Impossible Minds: My Neurons, My Consciousness'' that the principles for creating a conscious machine already exist but that it would take forty years to train such a machine to understand language. Whether this is true remains to be demonstrated and the basic principle stated in ''Impossible Minds''—that the brain is a finite-state machine|neural state machine—is open to doubt.
+

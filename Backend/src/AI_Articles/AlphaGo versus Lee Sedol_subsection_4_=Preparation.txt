@@ -1,0 +1,2 @@
+Go experts found errors in AlphaGo's play against Fan, in particular relating to a lack of awareness of the entire board. Before the game against Lee, it was unknown how much the program had improved its game since its October match. AlphaGo's original training dataset started with games of strong amateur players from internet Go servers, after which AlphaGo trained by playing against itself for tens of millions of games.
+

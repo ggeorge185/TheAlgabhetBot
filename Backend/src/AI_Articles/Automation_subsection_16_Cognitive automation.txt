@@ -1,0 +1,11 @@
+Cognitive automation, as a subset of AI, is an emerging genus of automation enabled by cognitive computing. Its primary concern is the automation of clerical tasks and workflows that consist of structuring unstructured data. Cognitive automation relies on multiple disciplines: natural language processing, real-time computing, machine learning algorithms, big data analytics, and evidence-based learning.
+
+According to Deloitte, cognitive automation enables the replication of human tasks and judgment "at rapid speeds and considerable scale." Such tasks include:
+*Redaction|Document redaction
+*Data extraction and document synthesis / reporting
+*Contract management
+*Natural language search
+* Customer, employee, and Stakeholder (corporate)|stakeholder onboarding
+* Manual activities and verifications
+* Follow-up and email communications
+

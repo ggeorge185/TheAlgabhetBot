@@ -1,0 +1,7 @@
+Medical device cleanliness has come under greater scrutiny since 2000, when Sulzer Orthopedics recalled several thousand metal hip implants that contained a manufacturing residue. Based on this event, ASTM established a new task group (F04.15.17) for established test methods, guidance documents, and other standards to address cleanliness of medical devices. This task group has issued two standards for permanent implants to date: 1. ASTM F2459: Standard test method for extracting residue from metallic medical components and quantifying via gravimetric analysis 2. ASTM F2847: Standard Practice for Reporting and Assessment of Residues on Single Use Implants 3. ASTM F3172: Standard Guide for Validating Cleaning Processes Used During the Manufacture of Medical Devices
+
+In addition, the cleanliness of re-usable devices has led to a series of standards, including:
+* ASTM E2314: ''Standard Test Method for Determination of Effectiveness of Cleaning Processes for Reusable Medical Instruments Using a Microbiologic Method (Simulated Use Test)"''
+* ASTM D7225: ''Standard Guide for Blood Cleaning Efficiency of Detergents and Washer-Disinfectors''
+* ASTM F3208: ''Standard Guide for Selecting Test Soils for Validation of Cleaning Methods for Reusable Medical Devices'' Additionally, the FDA is establishing new guidelines for reprocessing reusable medical devices, such as orthoscopic shavers, endoscopes, and suction tubes. New research was published in ACS Applied Materials & Interfaces|ACS Applied Interfaces and Material to keep Medical Tools pathogen free.
+

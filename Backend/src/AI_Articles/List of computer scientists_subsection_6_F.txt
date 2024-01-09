@@ -1,0 +1,28 @@
+Scott Fahlman
+* Edward Feigenbaum – intelligence
+* Edward Felten – computer security
+* Tim Finin
+* Raphael Finkel
+* Donald Firesmith
+* Gary William Flake
+* Tommy Flowers – Colossus computer
+* Robert W. Floyd|Robert Floyd – NP-completeness
+* Sally Floyd – Internet congestion control
+* Lawrence J. Fogel – evolutionary programming
+* James D. Foley
+* Ken Forbus
+* L. R. Ford, Jr.
+* Lance Fortnow
+* Mahmoud Samir Fayed – PWCT, Ring (programming language)|Ring
+* Martin Fowler (software engineer)|Martin Fowler
+* Robert France
+* Herbert W. Franke
+* Edward Fredkin
+* Yoav Freund
+* Daniel P. Friedman
+* Charlotte Froese Fischer – computational theoretical physics
+* Ping Fu
+* Xiaoming Fu
+* Kunihiko Fukushima – neocognitron, artificial neural networks, convolutional neural network architecture, unsupervised learning, deep learning
+* D. R. Fulkerson
+

@@ -1,0 +1,3 @@
+Cyclos – Software for microfinance institutions, complementary currency systems and timebanks
+* Mifos – Microfinance Institution management software
+

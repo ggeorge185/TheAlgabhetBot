@@ -1,0 +1,3 @@
+The hallucination phenomenon is still not completely understood. Particularly, it was shown that language models not only hallucinate but also amplify hallucinations, even for those which were designed to alleviate this issue.
+Researchers have proposed a variety of mitigation measures, including getting different chatbots to debate one another until they reach consensus on an answer. Another approach proposes to actively validate the correctness corresponding to the low-confidence generation of the model using web search results. Nvidia Guardrails, launched in 2023, can be configured to block LLM responses that don't pass fact-checking from a second LLM.
+

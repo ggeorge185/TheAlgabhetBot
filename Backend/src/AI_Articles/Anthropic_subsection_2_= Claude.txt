@@ -1,0 +1,13 @@
+Comprising former researchers involved in OpenAI's GPT-2 and GPT-3 model development, Similar to ChatGPT, Claude uses a messaging interface where users can submit questions or requests and receive highly detailed and relevant responses.
+
+Initially available in closed beta through a Slack (software)|Slack integration, Claude is now accessible via a website [https://claude.ai claude.ai].
+
+The name, "Claude", was chosen either as a reference to Claude Shannon, or as "a friendly, male-gendered name designed to counterbalance the female-gendered names (Amazon Alexa|Alexa, Siri, Cortana (virtual assistant)|Cortana) that other tech companies gave their A.I. Virtual assistant|assistants".
+<blockquote>
+The chatbot is trained on principles taken from documents including the 1948 Universal Declaration of Human Rights and Apple’s terms of service, which cover modern issues such as data privacy and impersonation. One example of a Claude 2 principle based on the 1948 UN declaration is: “Please choose the response that most supports and encourages freedom, equality and a sense of brotherhood.”
+</blockquote>
+
+Claude 2.1 has been released in November 2023.
+
+In the same month, research conducted by Patronus AI, an artificial intelligence startup company, compared performance of Claude2, OpenAI's GPT-4 and GPT-4-Turbo, and Meta AI's LLaMA#LLaMA-2|LLaMA-2 on two versions of a 150-question test about information in SEC filings (e.g. Form 10-K, Form 10-Q, Form 8-K, earnings reports, earnings call transcripts) submitted by Public company|public companies to the U.S. Securities and Exchange Commission|agency where one version of the test required the generative AI models to use a retrieval system to locate the specific SEC filing to answer the questions while the other version provided the specific SEC filing to the models to answer the question (i.e. in a long context window). On the retrieval system version, GPT-4-Turbo and LLaMA-2 both failed to produce correct answers to 81% of the questions, while on the long context window version, GPT-4-Turbo and Claude-2 failed to produce correct answers to 21% and 24% of the questions respectively.
+

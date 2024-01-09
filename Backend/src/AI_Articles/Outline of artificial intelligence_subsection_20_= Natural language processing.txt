@@ -1,0 +1,22 @@
+Natural language processing (outline of natural language processing|outline) – 
+** Chatterbots – 
+** Language identification – 
+** Large language model –  
+** Natural-language user interface|Natural language user interface – 
+** Natural-language understanding|Natural language understanding –  
+** Machine translation – 
+** Statistical semantics – 
+** Question answering – 
+** Semantic translation – 
+** Concept mining – 
+*** Data mining – 
+*** Text mining – 
+*** Process mining – 
+** E-mail spam filtering – 
+** Information extraction – 
+*** Named-entity extraction – 
+**** Coreference resolution – 
+**** Named-entity recognition – 
+**** Relationship extraction – 
+**** Terminology extraction –
+

@@ -1,0 +1,10 @@
+Main|Reasoning system}}
+
+Knowledge-based systems have an explicit knowledge base, typically of rules, to enhance reusability across domains by separating procedural code and domain knowledge. A separate inference engine processes rules and adds, deletes, or modifies a knowledge store.
+
+Forward chaining inference engines are the most common, and are seen in CLIPS and OPS5. Backward chaining occurs in Prolog, where a more limited logical representation is used, Horn clause|Horn Clauses. Pattern-matching, specifically unification (computer science)|unification, is used in Prolog.
+
+A more flexible kind of problem-solving occurs when reasoning about what to do next occurs, rather than simply choosing one of the available actions. This kind of meta-level reasoning is used in Soar and in the BB1 blackboard architecture.
+
+Cognitive architectures such as ACT-R may have additional capabilities, such as the ability to compile frequently used knowledge into higher-level Chunking (psychology)|chunks.
+

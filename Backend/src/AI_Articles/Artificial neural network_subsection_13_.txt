@@ -1,0 +1,3 @@
+Main|Backpropagation}}
+Backpropagation is a method used to adjust the connection weights to compensate for each error found during learning. The error amount is effectively divided among the connections. Technically, backprop calculates the gradient (the derivative) of the loss function|cost function associated with a given state with respect to the weights. The weight updates can be done via stochastic gradient descent or other methods, such as ''extreme learning machines'', "no-prop" networks, training without backtracking, "weightless" networks, and Holographic associative memory|non-connectionist neural networks.
+

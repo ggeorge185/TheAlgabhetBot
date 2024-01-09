@@ -1,0 +1,2 @@
+Generative AI systems can be trained on sequences of amino acids or molecular representations such as Simplified molecular-input line-entry system|SMILES representing DNA or proteins. These systems, such as AlphaFold, are used for protein structure prediction and drug discovery. Datasets include List of biological databases|various biological datasets.
+

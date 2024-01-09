@@ -1,0 +1,47 @@
+div col|colwidth=15em}}
+* Bioinformatics
+* Car–Parrinello molecular dynamics
+* Cheminformatics
+* Chemometrics
+* Computational archaeology
+* Computational astrophysics
+* Computational biology
+* Computational chemistry
+* Computational materials science
+* Computational economics
+* Computational electromagnetics
+* Computational engineering
+* Computational finance
+* Computational fluid dynamics
+* Computational forensics
+* Computational geophysics
+* Computational history
+* Computational informatics
+* Computational intelligence
+* Computational law
+* Computational linguistics
+* Computational mathematics
+* Computational mechanics
+* Computational neuroscience
+* Computational particle physics
+* Computational physics
+* Computational sociology
+* Computational statistics
+* Computational sustainability
+* Computer algebra
+* Computer simulation
+* Financial modeling
+* Geographic information science
+** Geographic information system (GIS)
+* High-performance computing
+* Machine learning
+* Network theory|Network analysis
+* Neuroinformatics
+* Numerical linear algebra
+* Numerical weather prediction
+* Pattern recognition
+* Scientific visualization
+* Simulation
+
+
+

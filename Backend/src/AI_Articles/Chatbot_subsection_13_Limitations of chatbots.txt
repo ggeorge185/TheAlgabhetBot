@@ -1,0 +1,14 @@
+The creation and implementation of chatbots is still a developing area, heavily related to artificial intelligence and machine learning, so the provided solutions, while possessing obvious advantages, have some important limitations in terms of functionalities and use cases. However, this is changing over time.
+
+The most common limitations are listed below:
+
+* As the input/output database is fixed and limited, chatbots can fail while dealing with an unsaved query.
+* Chatbots have difficulty managing non-linear conversations that must go back and forth on a topic with a user.
+* As it happens usually with technology-led changes in existing services, some consumers, more often than not from older generations, are uncomfortable with chatbots due to their limited understanding, making it obvious that their requests are being dealt with by machines.
+
+'''Chatbot jobs'''
+
+Chatbot developers create, debug, and maintain applications that automate customer services or other communication processes. Their duties include reviewing and simplifying code when needed. They may also help companies implement bots in their operations.
+
+A study by Forrester Research|Forrester (June 2017) predicted that 25% of all jobs would be impacted by AI technologies by 2019.
+

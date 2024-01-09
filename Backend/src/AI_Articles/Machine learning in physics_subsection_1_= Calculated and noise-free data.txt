@@ -1,0 +1,9 @@
+Quantum machine learning can also be applied to dramatically accelerate the prediction of quantum properties of molecules and materials. This can be helpful for the computational design of new molecules or materials. Some examples include
+
+* Interpolating interatomic potentials;
+* Inferring molecular atomization energies throughout Chemical space|chemical compound space;
+* Accurate potential energy surfaces with restricted Boltzmann machines;
+* Automatic generation of new quantum experiments;
+* Identifying phase transitions from entanglement spectra;
+* Generating adaptive feedback schemes for quantum metrology and quantum tomography.
+

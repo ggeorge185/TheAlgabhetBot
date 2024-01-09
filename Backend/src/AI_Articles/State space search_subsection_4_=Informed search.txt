@@ -1,0 +1,5 @@
+These methods take the goal's location in the form of a heuristic function. Poole and Mackworth cite the following examples as informed search algorithms:
+* Informed/Heuristic depth-first search
+*Best-first search|Greedy best-first search
+* A* search
+

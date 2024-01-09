@@ -1,0 +1,6 @@
+Content in Wikimedia projects is useful as a dataset in advancing artificial intelligence research and applications. For instance, in the development of the Google's Perspective API that identifies toxic comments in online forums, a dataset containing hundreds of thousands of Wikipedia talk page comments with human-labelled toxicity levels was used.
+
+A 2012 paper reported that more than 1000 academic articles, including those using artificial intelligence, examine Wikipedia, reuse information from Wikipedia, use technical extensions linked to Wikipedia, or research communication about Wikipedia. A 2017 paper described Wikipedia as the mother lode for human-generated text available for machine learning.
+
+A 2016 research project called "One Hundred Year Study on Artificial Intelligence" named Wikipedia as a key early project for understanding the interplay between artificial intelligence applications and human engagement.
+

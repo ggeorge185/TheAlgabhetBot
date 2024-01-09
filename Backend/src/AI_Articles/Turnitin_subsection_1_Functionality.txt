@@ -1,0 +1,2 @@
+The Turnitin software checks for potentially unoriginal content by comparing submitted papers to several databases using a proprietary algorithm. It scans its own databases and also has licensing agreements with large academic proprietary databases.
+

@@ -1,0 +1,2 @@
+Because so many complex things are being processed continuously, the software samples down to the very low resolution of only Common_Intermediate_Format|1 CIF to conserve computational demand. The 1 CIF resolution means that an object the size of a human will not be detected if the camera utilized is wide angle and the human is more than sixty to eighty feet distant depending on conditions. Larger objects like vehicles or smoke would be detectable at greater distances.
+

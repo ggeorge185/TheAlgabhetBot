@@ -1,0 +1,9 @@
+Added value of the virtual assistants can come among others from the following:
+
+* Voice communication can sometimes represent the optimal Human-computer interaction|man-machine communication:
+
+# It is convenient: there are some sectors where voice is the only way of possible communication, and more generally, it allows to free-up both hands and vision potentially for doing another activity in parallel, or helps also disabled people.
+# It is faster: Voice is more efficient than writing on a keyboard: we can speak up to 200 words per minute opposed to 60 in case of writing on a keyboard. It is also more natural thus requiring less effort (reading a text however can reach 700 words per minute).
+
+* Virtual assistants save a lot of time by automation: they can take appointments, or read the news while the consumer does something else. It is also possible to ask the virtual assistant to schedule meetings, hence helping to organize time. The designers of new digital schedulers explained the ambition they had that these calendars schedule lives to make the consumer use his time more efficiently, through machine learning processes, and complete organization of work time and free time.  As an example when the consumer expresses the desire of scheduling a break, the VA will schedule it at an optimal moment for this purpose (for example at a time of the week where they are less productive), with the additional long-term objective of being able to schedule and organize the free time of the consumer, to assure them optimal work efficiency.
+

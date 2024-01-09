@@ -1,0 +1,6 @@
+The fact that during language acquisition, children are largely only exposed to positive evidence, meaning that the only evidence for what is a correct form is provided, and no evidence for what is not correct, was a limitation for the models at the time because the now available deep learning models were not available in late 1980s.
+
+It has been shown that languages can be learned with a combination of simple input presented incrementally as the child develops better memory and longer attention span, which explained the long period of language acquisition in human infants and children. Enabled to learn as children might, models were created based on an affordance model in which mappings between actions, perceptions, and effects were created and linked to spoken words. Crucially, these robots were able to acquire functioning word-to-meaning mappings without needing grammatical structure.
+
+Using the Price equation and Pólya urn dynamics, researchers have created a system which not only predicts future linguistic evolution but also gives insight into the evolutionary history of modern-day languages.
+

@@ -1,0 +1,5 @@
+Other capabilities are considered desirable in intelligent systems, as they may affect intelligence or aid in its expression. These include:
+* the ability to machine perception|sense (e.g. computer vision|see, hear, etc.), and
+* the ability to act (e.g. robotics|move and manipulate objects, change location to explore, etc.)
+This includes the ability to detect and respond to hazard.
+

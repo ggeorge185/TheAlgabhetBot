@@ -1,0 +1,12 @@
+The Normalization (statistics)|normalized data is suitable to be processed through machine learning algorithms to automatically reduce noise and identify the probable root cause of incidents. The main output of such stage is the detection of any abnormal behavior from users, devices or applications. 
+
+Noise reduction can be done by various methods, but most of the research in the field points to the following actions:
+# Analysis of all incoming alerts;
+# Remove duplicates;
+# Identify the false positives;
+# Early anomaly, fault and failure (AFF) detection and analysis.
+
+Anomaly detection - another step in any AIOps process is based on the analysis of past behavior of users, equipment and applications. Anything that strays from that behavior baseline is considered unusual and flagged as abnormal.
+
+Root cause determination is usually done by passing incoming alerts through algorithms that take into consideration correlated events as well as topology dependencies. The algorithms on which AI are basing their functioning can be influenced directly, essentially by "training" them.
+

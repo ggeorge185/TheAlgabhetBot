@@ -1,0 +1,2 @@
+In normalized systems separation of concerns is one of the four guiding principles. Adhering to this principle is one of the tools that helps reduce the combinatorial effects that, over time, get introduced in software that is being maintained. In normalized systems separation of concerns is actively supported by the tools.
+

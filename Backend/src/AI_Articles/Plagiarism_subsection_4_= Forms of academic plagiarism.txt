@@ -1,0 +1,32 @@
+Different classifications of academic plagiarism forms have been proposed. Many classifications follow a behavioral approach by seeking to classify the actions undertaken by plagiarists.
+
+For example, a 2015 survey of teachers and professors by Turnitin identified 10 main forms of plagiarism that students commit:<!--THERE ARE PUBLISHED WORKS ON THIS, WHY ARE WE CITING THIS LOCAL UNIVERSITY WEB INFORMATION? SEE LIPSON'S WORK AT https://www.amazon.com/Doing-Honest-Work-College-Plagiarism/dp/0226484777, AND OTHER SUCH SOURCES.-->
+
+* Submitting someone's work as their own.
+* Taking passages from their own previous work without adding citations (self-plagiarism).
+* Re-writing someone's work without properly citing sources.
+* Using quotations but not citing the source.
+* Interweaving various sources together in the work without citing.
+* Citing some, but not all, passages that should be cited.
+* Melding together cited and uncited sections of the piece.
+* Providing proper citations, but failing to change the structure and wording of the borrowed ideas enough (close paraphrasing).
+* Inaccurately citing a source.
+* Relying too heavily on other people's work, failing to bring original thought into the text.
+
+The authors of a 2019 Systematic review|systematic literature review on academic plagiarism detection derived a four-leven typology of academic plagiarism, from the total words of a language (Lexis (linguistics)|lexis), from its syntax, from its semantics, and from methods to capture plagiarism of ideas and structures. The typology categorizes plagiarism forms according to the layer of the model they affect:
+
+* Characters-preserving plagiarism
+**Verbatim copying without proper citation
+* Syntax-preserving plagiarism
+**Synonym substitution
+**Technical disguise (e.g., using identically looking glyphs from another alphabet)
+* Semantics-preserving plagiarism
+**Translation
+**Paraphrase
+* Idea-preserving plagiarism
+**Appropriation of ideas or concepts
+**Reusing text structure
+* Ghostwriting
+**Collusion (typically among students)
+**Contract cheating
+

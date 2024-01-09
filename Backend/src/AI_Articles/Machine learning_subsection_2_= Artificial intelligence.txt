@@ -1,0 +1,5 @@
+File:AI hierarchy.svg|thumb|Machine learning as subfield of AI
+As a scientific endeavor, machine learning grew out of the quest for artificial intelligence (AI). In the early days of AI as an Discipline (academia)|academic discipline, some researchers were interested in having machines learn from data. They attempted to approach the problem with various symbolic methods, as well as what were then termed "neural networks"; these were mostly perceptrons and ADALINE|other models that were later found to be reinventions of the generalized linear models of statistics. Probabilistic reasoning was also employed, especially in automated medical diagnosis.
+
+However, an increasing emphasis on the symbolic AI|logical, knowledge-based approach caused a rift between AI and machine learning. Probabilistic systems were plagued by theoretical and practical problems of data acquisition and representation. Work on symbolic/knowledge-based learning did continue within AI, leading to inductive logic programming, but the more statistical line of research was now outside the field of AI proper, in pattern recognition and information retrieval.
+

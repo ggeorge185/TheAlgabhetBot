@@ -1,0 +1,11 @@
+A frame's terminals are already filled with default values, which is based on how the human mind works. For example, when a person is told "a boy kicks a ball", most people will visualize a particular ball (such as a familiar soccer ball) rather than imagining some abstract ball with no attributes.
+
+One particular strength of frame-based knowledge representations is that, unlike semantic networks, they allow for exceptions in particular
+instances. This gives frames a degree of flexibility that allows representations to reflect real-world phenomena more accurately.
+
+Like semantic networks, frames can be queried using spreading activation. Following the rules of inheritance, any value given to a slot that is inherited by subframes will be updated (IF-ADDED) to the corresponding slots in the subframes and any new instances of a particular frame will feature that new value as the default.
+
+Because frames are based on structures, it is possible to generate a semantic network given a set of frames even though it lacks explicit arcs. References to Noam Chomsky and his generative grammar of 1950 are generally missing from Marvin Minsky|Minsky's work.
+
+The simplified structures of frames allow for easy analogical reasoning, a much prized feature in any intelligent agent. The procedural attachments provided by frames also allow a degree of flexibility that makes for a more realistic representation and gives a natural affordance for programming applications.
+

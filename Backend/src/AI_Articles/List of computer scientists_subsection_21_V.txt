@@ -1,0 +1,15 @@
+Leslie Valiant – computational complexity theory, computational learning theory
+* Vladimir Vapnik – pattern recognition, computational learning theory
+* Moshe Vardi – professor of computer science at Rice University
+* Dorothy Vaughan
+* Bernard Vauquois – pioneered computer science in France, machine translation (MT) theory and practice including ''Bernard Vauquois#Vauquois triangle|Vauquois triangle'', ALGOL 60
+* Umesh Vazirani
+* Manuela M. Veloso
+* François Vernadat – enterprise modeling
+* Richard Veryard – enterprise modeling
+* Sergiy Vilkomir – software testing, RC/DC
+* Paul Vitanyi – Kolmogorov complexity, Information distance, Normalized compression distance, Normalized Google distance
+* Andrew Viterbi – Viterbi algorithm
+* Jeffrey Scott Vitter – Auxiliary memory|external memory algorithms, compressed data structures, data compression, databases
+* Paul Vixie – DNS, BIND, PAIX, Internet Software Consortium, MAPS, DNSBL
+

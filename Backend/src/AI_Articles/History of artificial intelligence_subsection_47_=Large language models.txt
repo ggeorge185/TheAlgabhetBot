@@ -1,0 +1,9 @@
+Main|Large language models}}
+In 2017, the Transformer (machine learning model)|transformer architecture was proposed by Google researchers. It exploits an Attention (machine learning)|attention mechanism and later became widely used in large language models.
+
+Foundation models, which are large language models trained on vast quantities of unlabeled data that can be adapted to a wide range of downstream tasks, began to be developed in 2018.
+
+Models such as GPT-3 released by OpenAI in 2020, and Gato (DeepMind)|Gato released by DeepMind in 2022, have been described as important achievements of machine learning.
+
+In 2023, Microsoft Research tested the GPT-4 large language model with a large variety of tasks, and concluded that "it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system".
+

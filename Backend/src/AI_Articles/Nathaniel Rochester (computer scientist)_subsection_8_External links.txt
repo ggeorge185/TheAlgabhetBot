@@ -1,0 +1,10 @@
+http://purl.umn.edu/104341 Oral history interview with Gene Amdahl] Charles Babbage Institute, University of Minnesota, Minneapolis.  Gene Amdahl|Amdahl discusses his role in the design of several computers for IBM including the IBM 7030 Stretch|STRETCH, IBM 701, 701A, and IBM 704. He discusses his work with Nathaniel Rochester and IBM's management of the design process for computers.
+
+
+
+
+Category:American computer scientists
+Category:1919 births
+Category:2001 deaths
+Category:MIT School of Engineering alumni
+Category:IBM Fellows

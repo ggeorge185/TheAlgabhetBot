@@ -1,0 +1,466 @@
+class="wikitable sortable"
+|- bgcolor="#ccccc"
+! Year
+! Recipient(s)
+! Photo
+! Rationale
+! Affiliated institute(s)
+|-
+|1966
+|Alan Perlis
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For his influence in the area of advanced computer programming techniques and compiler construction.
+|Carnegie Mellon University
+|-
+|1967
+|Maurice Wilkes
+|File:Maurice Vincent Wilkes 1980 (3, cropped).jpg|80px
+|Wilkes is best known as the builder and designer of the EDSAC, the second computer with an internally stored computer program|program. Built in 1949, the EDSAC used a mercury delay line memory. He is also known as the author, with Wheeler and Gill, of a volume on "Preparation of Programs for Electronic Digital Computers" in 1951, in which program libraries were effectively introduced.
+|University of Cambridge
+|-
+|1968
+|Richard Hamming
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For his work on numerical methods, automatic coding systems, and error-detecting and error-correcting codes.
+|Bell Labs
+|-
+|1969
+|Marvin Minsky
+|File:Marvin Minsky at OLPCc.jpg|80px
+|For his central role in creating, shaping, promoting, and advancing the field of artificial intelligence.
+|Massachusetts Institute of Technology
+|-
+|1970
+|James H. Wilkinson
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For his research in numerical analysis to facilitate the use of the high-speed digital computer, having received special recognition for his work in computations in linear algebra and "backward" error analysis.
+|National Physical Laboratory (United Kingdom)|National Physical Laboratory
+|-
+|1971
+|John McCarthy (computer scientist)|John McCarthy
+|File:John McCarthy Stanford.jpg|80px
+|McCarthy's lecture "The Present State of Research on Artificial Intelligence" is a topic that covers the area in which he has achieved considerable recognition for his work.
+|Stanford University
+|-
+|1972
+|Edsger W. Dijkstra
+|File:Edsger Wybe Dijkstra.jpg|80px
+|Edsger Dijkstra was a principal contributor in the late 1950s to the development of the ALGOL, a high level programming language which has become a model of clarity and mathematical rigor. He is one of the principal proponents of the science and art of programming languages in general, and has greatly contributed to our understanding of their structure, representation, and implementation. His fifteen years of publications extend from theoretical articles on graph theory to basic manuals, expository texts, and philosophical contemplations in the field of programming languages.
+|Centrum Wiskunde & Informatica, <br>Eindhoven University of Technology, <br>University of Texas at Austin
+|-
+|1973
+|Charles Bachman
+|File:Charles Bachman 2012.jpg|80px
+|For his outstanding contributions to database technology.
+|General Electric Research Laboratory (now under Groupe Bull, an Atos company)
+|-
+|1974
+|Donald Knuth
+|File:KnuthAtOpenContentAlliance.jpg|80px
+|For his major contributions to the analysis of algorithms and the design of programming languages, and in particular for his contributions to "The Art of Computer Programming" through his well-known books in a continuous series by this title.
+|California Institute of Technology, <br>Institute for Defense Analyses#Center for Communications and Computing|Center for Communications Research, Center for Communications and Computing, Institute for Defense Analyses, <br>Stanford University
+|-
+|rowspan=2|1975
+|Allen Newell
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|rowspan=2|In joint scientific efforts extending over twenty years, initially in collaboration with J. C. Shaw at the RAND Corporation, and subsequently with numerous faculty and student colleagues at Carnegie Mellon University, they have made basic contributions to artificial intelligence, the psychology of human cognition, and list processing.
+|rowspan=2|RAND Corporation, <br>Carnegie Mellon University
+|-
+|Herbert A. Simon
+|
+File:Herbert A. Simon and Allen Newell Chess Match (cropped).jpg|80px
+|-
+|rowspan=2|1976
+|Michael O. Rabin
+|File:M O Rabin.jpg|80px
+|rowspan=2|For their joint paper "Finite Automata and Their Decision Problem", which introduced the idea of nondeterministic machines, a continuous source of inspiration for subsequent work in this field.
+|Princeton University
+|-
+|Dana Scott
+|File:Scott Dana small.jpg|80px
+|University of Chicago
+|-
+|1977
+|John Backus
+|File:John Backus 2.jpg|80px
+|For profound, influential, and lasting contributions to the design of practical high-level programming systems, notably through his work on FORTRAN, and for seminal publication of formal procedures for the specification of programming languages.
+|IBM
+|-
+|1978
+|Robert W. Floyd
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For having a clear influence on methodologies for the creation of efficient and reliable software, and for helping to found the following important subfields of computer science: the theory of parsing, the semantics of programming languages, automatic program verification, automatic programming|automatic program synthesis, and analysis of algorithms.
+|Carnegie Mellon University, <br>Stanford University
+|-
+|1979
+|Kenneth E. Iverson
+|File:kei younger.jpg|80px
+|For his pioneering effort in programming languages and mathematical notation resulting in what the computing field now knows as APL (programming language)|APL, for his contributions to the implementation of interactive systems, to educational uses of APL, and to programming language theory and practice.
+|IBM
+|-
+|1980
+|Tony Hoare
+|File:Sir Tony Hoare IMG 5125.jpg|80px
+|For his fundamental contributions to the definition and design of programming languages.
+|Queen's University Belfast, <br>University of Oxford
+|-
+|1981
+|Edgar F. Codd
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For his fundamental and continuing contributions to the theory and practice of database management systems, esp. relational databases.
+|IBM
+|-
+|1982
+|Stephen Cook
+|File:Prof.Cook (cropped).jpg|80px
+|For his advancement of our understanding of the complexity of computation in a significant and profound way.
+|University of Toronto
+|-
+|rowspan=2|1983
+|Ken Thompson (computer programmer)|Ken Thompson
+|File:Ken Thompson 02.jpg|80px
+|rowspan=2|For their development of generic operating systems theory and specifically for the implementation of the Unix|UNIX operating system.
+|rowspan=2|Bell Labs 
+|-
+|Dennis Ritchie
+|File:Dennis Ritchie 2011.jpg|80px
+|-
+|1984
+|Niklaus Wirth
+|File:Niklaus Wirth, UrGU (cropped).jpg|80px
+|For developing a sequence of innovative computer languages, Euler programming language|EULER, Algol-W|ALGOL-W, Pascal (programming language)|Pascal, Modula|MODULA and Oberon (programming language)|Oberon.
+|Stanford University, <br>University of Zurich, <br>ETH Zurich
+|-
+|1985
+|Richard M. Karp
+|File:Karp mg 7725-b.cr2.jpg|80px
+|For his continuing contributions to the theory of algorithms including the development of efficient algorithms for network flow and other combinatorial optimization problems, the identification of polynomial-time computability with the intuitive notion of algorithmic efficiency, and, most notably, contributions to the theory of NP-completeness.
+|University of California, Berkeley
+|-
+|rowspan=2|1986
+|John Hopcroft
+|File:hopcrofg (cropped).jpg|80px
+|rowspan=2|For fundamental achievements in the design and analysis of algorithms and data structures.
+|Cornell University
+|-
+|Robert Tarjan
+|File:Bob Tarjan.jpg|80px
+|Stanford University, <br>Cornell University, <br>University of California, Berkeley, <br>Princeton University
+|-
+|1987
+|John Cocke (computer scientist)|John Cocke
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For significant contributions in the design and theory of compilers, the architecture of large systems and the development of reduced instruction set computers (RISC).
+|IBM
+|-
+|1988
+|Ivan Sutherland
+|File:Ivan Sutherland at CHM.jpg|80px
+|For his pioneering and visionary contributions to computer graphics, starting with Sketchpad, and continuing after.
+|Stanford University, <br>Harvard University, <br>University of Utah, <br>California Institute of Technology
+|-
+|1989
+|William Kahan
+|File:William Kahan 2008 (cropped).jpg|80px
+|For his fundamental contributions to numerical analysis. One of the foremost experts on floating-point arithmetic|floating-point computations. Kahan has dedicated himself to "making the world safe for numerical computations."
+|University of California, Berkeley
+|-
+|1990
+|Fernando J. Corbató
+|File:Fernando Corbato.jpg|80px
+|For his pioneering work organizing the concepts and leading the development of the general-purpose, large-scale, time-sharing and resource-sharing computer systems, Compatible Time-Sharing System|CTSS and Multics.
+|Massachusetts Institute of Technology
+|-
+|1991
+|Robin Milner
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|For three distinct and complete achievements: 1) LCF theorem prover|LCF, the mechanization of Scott's Logic of Computable Functions, probably the first theoretically based yet practical tool for automated theorem proving|machine assisted proof construction; 2) ML programming language|ML, the first language to include polymorphic type inference together with a type safety|type-safe exception handling|exception-handling mechanism; 3) calculus of communicating systems|CCS, a general theory of concurrency (computer science)|concurrency. In addition, he formulated and strongly advanced full abstraction, the study of the relationship between operational semantics|operational and denotational semantics|denotational semantics.
+|Stanford University, <br>University of Edinburgh
+|-
+|1992
+|Butler Lampson
+|File:Professional Developers Conference 2009 Technical Leaders Panel 6 (cropped).jpg|80px
+|For contributions to the development of distributed, personal computing environments and the technology for their implementation: workstations, computer network|networks, operating systems, programming systems, computer display|displays, computer security|security and word processor|document publishing.
+|Xerox PARC|PARC, <br>Digital Equipment Corporation|DEC
+|-
+|rowspan=2|1993
+|Juris Hartmanis
+|File:Juris_Hartmanis(2002).jpg|80px
+|rowspan=2|In recognition of their seminal paper which established the foundations for the field of computational complexity theory.
+|rowspan=2|General Electric Research Laboratory (now under Groupe Bull, an Atos company)
+|-
+|Richard E. Stearns
+|File:Dick Stearns (cropped).jpg|80px
+|-
+|rowspan=2|1994
+|Edward Feigenbaum
+|File:27. Dr. Edward A. Feigenbaum 1994-1997.jpg|80px
+|rowspan=2|For pioneering the design and construction of large scale artificial intelligence systems, demonstrating the practical importance and potential commercial impact of artificial intelligence technology.
+|Stanford University
+|-
+|Raj Reddy
+|File:ProfReddys Photo Cropped.jpg|80px
+|Stanford University, <br>Carnegie Mellon University
+|-
+|1995
+|Manuel Blum
+|File:Blum manuel (cropped).jpg|80px
+|In recognition of his contributions to the foundations of computational complexity theory and its application to cryptography and program verification|program checking.
+|University of California, Berkeley
+|-
+|1996
+|Amir Pnueli
+|File:Amir Pnueli.jpg|80px
+|For seminal work introducing temporal logic into computing science and for outstanding contributions to program and systems formal verification|verification.
+|Stanford University, <br>Tel Aviv University, <br>Weizmann Institute of Science, <br> Courant Institute of Mathematical Sciences
+|-
+|1997
+|Douglas Engelbart
+|File:Douglas Engelbart in 2008.jpg|80px
+|For an inspiring vision of the future of interactive computing and the invention of key technologies to help realize this vision.
+|SRI International, <br>Tymshare, <br>McDonnell Douglas, <br>Bootstrap Institute/Alliance, <br>The Doug Engelbart Institute
+|-
+|1998
+|Jim Gray (computer scientist)|Jim Gray
+|File:Jim Gray Computing in the 21st Century 2006 (cropped).jpg|80px
+|For seminal contributions to database and transaction processing research and technical leadership in system implementation.
+|IBM, <br>Microsoft
+|-
+|1999
+|Fred Brooks
+|File:Fred Brooks (cropped).jpg|80px
+|For landmark contributions to computer architecture, operating systems, and software engineering.
+|IBM, <br>University of North Carolina at Chapel Hill
+|-
+|2000
+|Andrew Yao
+|File:Andrew Yao MFO (cropped).jpg|80px
+|In recognition of his fundamental contributions to the theory of computation, including the complexity-based theory of pseudorandom number generator|pseudorandom number generation, cryptography, and communication complexity.
+|Stanford University, <br>University of California, Berkeley, <br>Princeton University
+|-
+|rowspan=2|2001
+|Ole-Johan Dahl
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|rowspan=2|For ideas fundamental to the emergence of object-oriented programming, through their design of the programming languages Simula I and Simula 67.
+|rowspan=2|Norwegian Computing Center, <br>University of Oslo
+|-
+|Kristen Nygaard
+|File:Kristen-Nygaard-SBLP-1997-head.png|80px
+|-
+|rowspan=3|2002
+|Ron Rivest
+|File:Ronald L Rivest photo.jpg|80px
+|rowspan=3|For RSA (algorithm)|their ingenious contribution for making public-key cryptography useful in practice.
+|rowspan=2|Massachusetts Institute of Technology
+|-
+|Adi Shamir
+|File:Adi Shamir at TU Darmstadt (2013).jpg|80px
+|-
+|Leonard Adleman
+|File:Len-mankin-pic.jpg|80px
+|University of Southern California
+|-
+|2003
+|Alan Kay
+|File:Alan Kay (3097597186) (cropped).jpg|80px
+|For pioneering many of the ideas at the root of contemporary object-oriented programming languages, leading the team that developed Smalltalk, and for fundamental contributions to personal computing.
+|University of Utah, <br>Xerox PARC|PARC, <br>Stanford University, <br>Atari Inc.|Atari, <br>Apple Inc.|Apple Apple Advanced Technology Group|ATG, <br>Walt Disney Imagineering, <br>Viewpoints Research Institute, <br>HP Inc.|HP HP Labs|Labs
+|-
+|rowspan=2|2004
+|Vint Cerf
+|File:Dr_Vint_Cerf_ForMemRS (cropped).jpg|80px
+|rowspan=2|For pioneering work on internetworking, including the design and implementation of the Internet's basic communications protocols, TCP/IP, and for inspired leadership in networking.
+|University of California, Los Angeles, <br> Stanford University, DARPA, <br>MCI Communications|MCI (now under Verizon Communications|Verizon), <br>CNRI, Google
+|-
+|Bob Kahn
+|File:Bob_Kahn.jpg|80px
+|Massachusetts Institute of Technology, <br> Bolt Beranek and Newman, <br>DARPA, <br>CNRI
+|-
+|2005
+|Peter Naur
+|File:Peternaur.JPG|80px
+|For fundamental contributions to programming language design and the definition of ALGOL|ALGOL 60, to compiler design, and to the art and practice of computer programming.
+|Regnecentralen (now under Fujitsu), <br>University of Copenhagen
+|-
+|2006
+|Frances Allen
+|File:Allen mg 2528-3750K-b.jpg|80px
+|For pioneering contributions to the theory and practice of optimizing compiler techniques that laid the foundation for modern optimizing compilers and automatic parallel execution.
+|IBM
+|-
+|rowspan=3|2007
+|Edmund M. Clarke
+|File:Edmund Clarke FLoC 2006 (cropped).jpg|80px
+|rowspan=3|For their roles in developing model checking into a highly effective verification technology, widely adopted in the hardware and software industries.
+|Harvard University, <br>Carnegie Mellon University
+|-
+|E. Allen Emerson
+|File:E-allen-emerson (cropped).jpg|80px
+|Harvard University, <br>University of Texas at Austin
+|-
+|Joseph Sifakis
+|File:Joseph Sifakis 2018.jpg|80x80px
+|CNRS|French National Centre for Scientific Research
+|-
+|2008
+|Barbara Liskov
+|File:Barbara_Liskov_MIT_computer_scientist_2010.jpg|80px
+|For contributions to practical and theoretical foundations of programming language and system design, especially related to data abstraction, fault tolerance, and distributed computing.
+|Massachusetts Institute of Technology
+|-
+|2009
+|Charles P. Thacker
+|File:Chuckthacker (cropped).jpg|80px
+|For his pioneering design and realization of the Xerox Alto, the first modern personal computer, and in addition for his contributions to the Ethernet and the Tablet PC.
+|Xerox PARC|PARC, <br>Digital Equipment Corporation|DEC, <br>Microsoft Microsoft Research|Research
+|-
+|2010
+|Leslie Valiant
+|File:Leslie Valiant (cropped).jpg|80px
+|For transformative contributions to the theory of computation, including the theory of probably approximately correct (Probably approximately correct learning|PAC) learning, the complexity of enumeration and of algebraic computation, and the theory of parallel and distributed computing.
+|Harvard University
+|-
+|2011
+|Judea Pearl
+|File:Judea Pearl at NIPS 2013 (11781981594) (cropped).jpg|80px
+|For fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning.
+|University of California, Los Angeles, <br> New Jersey Institute of Technology
+|-
+|rowspan=2|2012
+|Silvio Micali
+|File:Silvio Micali (cropped).jpg|80px
+|rowspan=2|For transformative work that laid the complexity-theoretic foundations for the science of cryptography and in the process pioneered new methods for efficient verification of mathematical proofs in complexity theory.
+|Massachusetts Institute of Technology
+|-
+|Shafi Goldwasser
+|File:Shafi Goldwasser.JPG|80px
+|Massachusetts Institute of Technology, <br>Weizmann Institute of Science
+|-
+|2013
+|Leslie Lamport
+|File:Leslie Lamport.jpg|80px
+|For fundamental contributions to the theory and practice of distributed and concurrent systems, notably the invention of concepts such as causality and logical clocks, safety and liveness, replicated state machines, and sequential consistency.<nowiki/>
+|Massachusetts Computer Associates (now under Essig PLM), <br>SRI International, <br>Digital Equipment Corporation|DEC, <br>Compaq (now under HP Inc.|HP), <br>Microsoft Microsoft Research|Research
+|-
+|2014
+|Michael Stonebraker
+|File:Michael Stonebraker P1120062.jpg|80px
+|For fundamental contributions to the concepts and practices underlying modern database systems.
+|University of California, Berkeley, <br>Massachusetts Institute of Technology
+|-
+|rowspan=2|2015
+|Whitfield Diffie
+|File:Whitfield Diffie Royal Society (cropped).jpg|80px
+|rowspan=2| For fundamental contributions to modern cryptography. Diffie and Hellman's groundbreaking 1976 paper, "New Directions in Cryptography", introduced the ideas of public-key cryptography and digital signatures, which are the foundation for most regularly-used security protocols on the Internet today.
+|rowspan=2|Stanford University
+|-
+|Martin Hellman
+|File:Martin-Hellman.jpg|80px
+|-
+|2016
+|Tim Berners-Lee
+|File:Sir Tim Berners-Lee (cropped).jpg|80px
+|For inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale.
+|CERN, <br>Massachusetts Institute of Technology, <br>World Wide Web Consortium
+|-
+|rowspan=2|2017
+|John L. Hennessy
+|File:John_L_Hennessy (cropped).jpg|80px
+|rowspan=2|For pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry.
+|Stanford University
+|-
+|David Patterson (computer scientist)|David Patterson
+|File:David_A_Patterson.jpg|80px
+|University of California, Berkeley
+|-
+|rowspan=3|2018
+|Yoshua Bengio
+|File:Yoshua Bengio - 2017.jpg|80px
+|rowspan=3|For conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+|, McGill University,<br>Mila (research institute)|Mila
+|-
+|Geoffrey Hinton
+|File:Geoffrey Hinton at UBC (cropped).jpg|80px
+|University of Toronto, <br> University of California, San Diego, <br>Carnegie Mellon University, <br>University College London, <br>University of Edinburgh, <br> Google AI
+|-
+|Yann LeCun
+|File:Yann LeCun - 2018 (cropped).jpg|80px
+|University of Toronto, <br>Bell Labs, <br>Courant Institute of Mathematical Sciences, New York University, <br>Meta AI
+|-
+|rowspan=2|2019
+|Edwin Catmull
+|File:VES_Awards_89_cropped.jpg|80px
+|rowspan=2|For fundamental contributions to 3-D computer graphics, and the revolutionary impact of these techniques on computer-generated imagery (CGI) in filmmaking and other applications.
+|University of Utah, <br>Pixar, <br>Walt Disney Animation Studios
+|-
+|Pat Hanrahan
+|File:Pat Hanrahan Tableau Customer Conference 2009.jpg|80px
+|Pixar, <br>Princeton University, <br>Stanford University
+|-
+|rowspan=2|2020
+|Alfred Aho
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|rowspan=2|For fundamental algorithms and theory underlying programming language implementation and for synthesizing these results and those of others in their highly influential books, which educated generations of computer scientists.
+|Bell Labs, <br>Columbia University
+|-
+|Jeffrey Ullman
+|<!--
+Warning: Do not edit this page to add images! Under Wikipedia's policy of "fair use", copyrighted images are typically only valid for the article matching a person's name, and can't be copied over here, unless express permission is explicitly granted. For further explanation, see WP:Fair use.
+
+If you have any questions or would like to help with sourcing free-use images in the public domain, please start a discussion on the talk page.
+-->
+|Bell Labs, <br>Princeton University, <br>Stanford University
+|-
+|2021
+|Jack Dongarra
+|File:Jack-dongarra-2022.jpg|80px
+|For pioneering contributions to numerical algorithms and libraries that enabled high performance computational software to keep pace with exponential hardware improvements for over four decades.
+|Argonne National Laboratory, <br>Oak Ridge National Laboratory, <br>University of Manchester, <br>Texas A&M University Texas A&M University Institute for Advanced Study|Institute for Advanced Study, <br>University of Tennessee, <br>Rice University
+|-
+|2022
+|Robert Metcalfe
+|File:With Bob Metcalfe (cropped).jpg|80px
+|For the invention, standardization, and commercialization of Ethernet.
+|Massachusetts Institute of Technology, Harvard University, PARC (company)|Xerox PARC, University of Texas at Austin
+|}
+

@@ -1,0 +1,14 @@
+Decision intelligence is based on the recognition that, in many organizations, decision-making could be improved if a more structured approach were used. Decision intelligence seeks to overcome a decision-making "complexity ceiling", which is characterized by a mismatch between the sophistication of organizational decision-making practices and the complexity of situations in which those decisions must be made. As such, it seeks to solve some of the issues identified around complexity theory and organizations.
+
+In this sense, decision intelligence represents a practical application of the field of complex systems, which helps organizations to navigate the complex systems in which they find themselves. Decision intelligence can also be thought of as a framework that brings advanced analytics and machine learning techniques to the desktop of the non-expert decision maker, as well as incorporating, and then extending, data science to overcome the problems articulated in black swan theory.
+
+Decision intelligence proponents believe that many organizations continue to make poor decisions. In response, decision intelligence seeks to unify a number of decision-making best practices, described in more detail below.
+
+Decision intelligence builds on the insight that it is possible to ''design'' the decision itself, using principles previously used for designing more tangible objects like bridges and buildings.
+
+The use of a ''visual'' design language representing decisions (see ) is an important element of decision intelligence, since it provides an intuitive common language readily understood by all decision participants. A Visual thinking|visual metaphor improves the ability to reason about complex systems as well as to enhance collaboration.
+
+In addition to visual decision design, there are other two aspects of engineering disciplines that aid mass adoption. These are:
+#the creation of a shared language of design elements and
+#the use of a common methodology or process, as illustrated in the diagram above.
+

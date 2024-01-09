@@ -1,0 +1,31 @@
+Artificial general intelligence. An intelligent machine with the versatility to perform any intellectual task.
+* Superintelligence. A machine with a level of intelligence far beyond human intelligence.
+* . A machine that has mind, consciousness and understanding. (Also, the philosophical position that any digital computer can have a mind by running the right program.)
+* Technological singularity. The short period of time when an exponentially self-improving computer is able to increase its capabilities to a superintelligent level.
+** Recursive self improvement (aka seed AI) – speculative ability of strong artificial intelligence to reprogram itself to make itself even more intelligent. The more intelligent it got, the more capable it would be of further improving itself, in successively more rapid iterations, potentially resulting in an intelligence explosion leading to the emergence of a superintelligence.
+** Intelligence explosion – through recursive self-improvement and self-replication, the magnitude of intelligent machinery could achieve superintelligence, surpassing human ability to resist it.
+** Singularitarianism
+* Human enhancement – humans may be enhanced, either by the efforts of AI or by merging with it.
+** Transhumanism – philosophy of human transformation
+** Posthumanism – people may survive, but not be recognizable in comparison to present modern-day humans.
+** Cyborgs –
+** Mind uploading –
+* Existential risk from artificial general intelligence 
+** 
+** AI takeover – point at which humans are no longer the dominant form of intelligence on Earth and machine intelligence is
+* 
+** Artificial intelligence arms race &ndash; competition between two or more states to have its military forces equipped with the best "artificial intelligence" (AI).
+** Lethal autonomous weapon
+** Military robot
+** Unmanned combat aerial vehicle
+* Mitigating risks: 
+** AI safety
+** AI control problem
+** Friendly AI – hypothetical AI that is designed not to harm humans and to prevent unfriendly AI from being developed
+** Machine ethics
+** Regulation of AI
+** AI box
+* Self-replicating machines – smart computers and robots would be able to make more of themselves, in a geometric progression or via mass production.  Or smart programs may be uploaded into hardware existing at the time (because linear architecture of sufficient speeds could be used to emulate massively parallel analog systems such as human brains).
+* Group mind (science fiction)|Hive mind –
+* Swarm intelligence#In popular culture|Robot swarm –
+

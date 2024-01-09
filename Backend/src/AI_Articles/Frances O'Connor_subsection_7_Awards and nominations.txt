@@ -1,0 +1,98 @@
+class="wikitable"
+! Year
+! Association
+! Category
+! Work
+! Result
+|-
+| 1996
+| rowspan="2"| AACTA Awards
+| rowspan="2"| AACTA Award for Best Actress in a Leading Role#1990s|Best Actress in a Leading Role
+| ''Love and Other Catastrophes''
+| 
+|-
+| rowspan="4"| 1997
+| rowspan="3"| ''Kiss or Kill''
+| 
+|-
+| Film Critics Circle of Australia
+| Best Actress
+| 
+|-
+| Montreal World Film Festival
+| Best Actress
+| 
+|-
+| AACTA Awards
+| Best Actress in a Leading Role
+| ''Thank God He Met Lizzie''
+| 
+|-
+| 1999
+| Satellite Awards
+| Satellite Award for Best Actress – Motion Picture#Best Actress – Motion Picture Musical or Comedy (1996–2010)|Best Actress – Motion Picture Musical or Comedy
+| ''Mansfield Park''
+| 
+|-
+| 2000
+| Golden Globe Awards
+| Golden Globe Award for Best Actress – Miniseries or Television Film#2000s|Best Actress – Miniseries or Television Film
+| ''Madame Bovary''
+| 
+|-
+| rowspan="2"| 2001
+| Saturn Awards
+| Saturn Award for Best Actress#2000s|Best Actress
+| rowspan="3"| ''A.I. Artificial Intelligence''
+| 
+|-
+| American Film Institute
+| American Film Institute Awards 2001|Featured Actor of the Year – Female – Movies
+| 
+|-
+| 2002
+| Empire Awards
+| Empire Award for Best Actress#2000s|Best Actress
+| 
+|-
+| 2005
+| rowspan="2"| AACTA Awards
+| rowspan="2"| AACTA Award for Best Actress in a Leading Role#2000s|Best Actress in a Leading Role
+| ''Three Dollars''
+| 
+|-
+| rowspan="2"| 2009
+| rowspan="2"| ''Blessed''
+| 
+|-
+| Film Critics Circle of Australia
+| Best Actress
+| 
+|-
+| rowspan="2"| 2011
+| Film Critics Circle of Australia
+| Best Actress
+| rowspan="2"| ''The Hunter''
+| 
+|-
+| AACTA Awards
+| AACTA Award for Best Actress in a Leading Role#2010s|Best Actress in a Leading Role
+| 
+|-
+| 2013
+| Ashland Independent Film Festival
+| Best Acting Ensemble
+| ''The Truth About Emanuel''
+| 
+|-
+| rowspan="2"| 2014
+| Golden Globe Awards
+| Golden Globe Award for Best Actress – Miniseries or Television Film#2010s|Best Actress – Miniseries or Television Film
+| rowspan="2"| ''The Missing''
+| 
+|-
+| Golden Nymph Awards
+| Outstanding Actress in a Miniseries
+| 
+|}
+

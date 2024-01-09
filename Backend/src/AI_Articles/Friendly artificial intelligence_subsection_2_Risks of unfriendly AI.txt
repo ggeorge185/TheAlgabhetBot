@@ -1,0 +1,17 @@
+main|Existential risk from artificial general intelligence}}
+The roots of concern about artificial intelligence are very old. Kevin LaGrandeur showed that the dangers specific to AI can be seen in ancient literature concerning artificial humanoid servants such as the golem, or the proto-robots of Gerbert of Aurillac and Roger Bacon.  In those stories, the extreme intelligence and power of these humanoid creations clash with their status as slaves (which by nature are seen as sub-human), and cause disastrous conflict. By 1942 these themes prompted Isaac Asimov to create the "Three Laws of Robotics"—principles hard-wired into all the robots in his fiction, intended to prevent them from turning on their creators, or allowing them to come to harm.
+ 
+In modern times as the prospect of Superintelligence|superintelligent AI looms nearer, philosopher Nick Bostrom has said that superintelligent AI systems with goals that are not aligned with human ethics are intrinsically dangerous unless extreme measures are taken to ensure the safety of humanity.  He put it this way:
+
+<blockquote>Basically we should assume that a 'superintelligence' would be able to achieve whatever goals it has. Therefore, it is extremely important that the goals we endow it with, and its entire motivation system, is 'human friendly.'</blockquote>
+
+In 2008 Eliezer Yudkowsky called for the creation of "friendly AI" to mitigate existential risk from advanced artificial intelligence. He explains: "The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else."
+
+Steve Omohundro says that a sufficiently advanced AI system will, unless explicitly counteracted, exhibit a number of Instrumental convergence#Basic AI drives|basic "drives", such as resource acquisition, self-preservation, and continuous self-improvement, because of the intrinsic nature of any goal-driven systems and that these drives will, "without special precautions", cause the AI to exhibit undesired behavior.
+
+Alexander Wissner-Gross says that AIs driven to maximize their future freedom of action (or causal path entropy) might be considered friendly if their planning horizon is longer than a certain threshold, and unfriendly if their planning horizon is shorter than that threshold.
+
+Luke Muehlhauser, writing for the Machine Intelligence Research Institute, recommends that machine ethics researchers adopt what Bruce Schneier has called the "security mindset": Rather than thinking about how a system will work, imagine how it could fail. For instance, he suggests even an AI that only makes accurate predictions and communicates via a text interface might cause unintended harm.
+
+In 2014, Luke Muehlhauser and Nick Bostrom underlined the need for 'friendly AI'; nonetheless, the difficulties in designing a 'friendly' superintelligence, for instance via programming counterfactual moral thinking, are considerable.
+

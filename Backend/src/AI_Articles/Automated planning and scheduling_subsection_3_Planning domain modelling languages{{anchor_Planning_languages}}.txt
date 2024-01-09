@@ -1,0 +1,10 @@
+More citations needed|section
+| name  = More citations needed section
+| find  = none
+|date=February 2021
+}}
+
+The most commonly used languages for representing planning domains and specific planning problems, such as Stanford Research Institute Problem Solver|STRIPS and Planning Domain Definition Language|PDDL for Classical Planning, are based on state variables. Each possible state of the world is an assignment of values to the state variables, and actions determine how the values of the state variables change when that action is taken. Since a set of state variables induce a state space that has a size that is exponential in the set, planning, similarly to many other computational problems, suffers from the curse of dimensionality and the combinatorial explosion.
+
+An alternative language for describing planning problems is that of hierarchical task networks, in which a set of tasks is given, and each task can be either realized by a primitive action or decomposed into a set of other tasks. This does not necessarily involve state variables, although in more realistic applications state variables simplify the description of task networks.
+

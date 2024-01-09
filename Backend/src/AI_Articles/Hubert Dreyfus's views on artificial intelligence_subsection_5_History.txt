@@ -1,0 +1,2 @@
+Dreyfus began to formulate his critique in the early 1960s while he was a professor at MIT, then a hotbed of artificial intelligence research. His first publication on the subject is a half-page objection to a talk given by Herbert A. Simon in the spring of 1961. Dreyfus was especially bothered, as a philosopher, that AI researchers seemed to believe they were on the verge of solving many long standing philosophical problems within a few years, using computers.
+

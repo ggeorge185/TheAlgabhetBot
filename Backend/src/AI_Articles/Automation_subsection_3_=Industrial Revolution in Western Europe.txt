@@ -1,0 +1,17 @@
+File:Tower bridge steam engine.jpg|thumb|[[Steam engines promoted automation through the need to control engine speed and power.]]
+
+The introduction of Engine|prime movers, or self-driven machines advanced grain mills, furnaces, boilers, and the steam engine created a new requirement for automatic control systems including thermostat|temperature regulators (invented in 1624; see Cornelius Drebbel), pressure regulators (1681), float regulators (1700) and speed control devices. Another control mechanism was used to tent the sails of windmills. It was patented by Edmund Lee in 1745.
+
+In 1771 Richard Arkwright invented the first fully automated spinning mill driven by water power, known at the time as the water frame. An automatic flour mill was developed by Oliver Evans in 1785, making it the first completely automated industrial process.
+
+File:Catalonia Terrassa mNATEC MaquinaDeVapor ReguladorDeWatt.jpg|thumb|right| A [[flyball governor is an early example of a feedback control system. An increase in speed would make the counterweights move outward, sliding a linkage that tended to close the valve supplying steam, and so slowing the engine. ]]
+
+A centrifugal governor was used by Mr. Bunce of England in 1784 as part of a model steam crane. The centrifugal governor was adopted by James Watt for use on a steam engine in 1788 after Watt's partner Boulton saw one at a flour mill Boulton & Watt were building. The governor could not actually hold a set speed; the engine would assume a new constant speed in response to load changes. The governor was able to handle smaller variations such as those caused by fluctuating heat load to the boiler. Also, there was a tendency for oscillation whenever there was a speed change. As a consequence, engines equipped with this governor were not suitable for operations requiring constant speed, such as cotton spinning.
+
+The development of the electronic amplifier during the 1920s, which was important for long-distance telephony, required a higher signal-to-noise ratio, which was solved by negative feedback noise cancellation. This and other telephony applications contributed to the control theory. In the 1940s and 1950s, German mathematician Irmgard Flügge-Lotz developed the theory of discontinuous automatic controls, which found military applications during the Second World War to fire control systems and aircraft navigation systems.
+
+Controllers, which were able to make calculated changes in response to deviations from a set point rather than on-off control, began being introduced in the 1930s. Controllers allowed manufacturing to continue showing productivity gains to offset the declining influence of factory electrification.
+
+Factory productivity was greatly increased by electrification in the 1920s. U.S. manufacturing productivity growth fell from 5.2%/yr 1919–29 to 2.76%/yr 1929–41.  Alexander Field notes that spending on non-medical instruments increased significantly from 1929 to 1933 and remained strong thereafter.
+Conversion of factories to digital control began to spread rapidly in the 1970s as the price of computer hardware fell.
+

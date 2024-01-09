@@ -1,0 +1,8 @@
+Image:Clepsydra-Diagram-Fancy.jpeg|thumb|upright|Ctesibius's clepsydra (3rd century BC)
+
+It was a preoccupation of the Greeks and Arabs (in the period between about 300&nbsp;BC and about 1200&nbsp;AD) to keep accurate track of time. In Ptolemaic Egypt, about 270&nbsp;BC, Ctesibius described a float regulator for a water clock, a device not unlike the ball and cock in a modern flush toilet. This was the earliest feedback-controlled mechanism. The appearance of the mechanical clock in the 14th century made the water clock and its feedback control system obsolete.
+
+The History of Iran|Persian Banū Mūsā brothers, in their ''Book of Ingenious Devices'' (850&nbsp;AD), described a number of automatic controls. Two-step level controls for fluids, a form of discontinuous variable structure controls, were developed by the Banu Musa brothers. They also described a Control theory|feedback controller. The design of feedback control systems up through the Industrial Revolution was by trial-and-error, together with a great deal of engineering intuition. Thus, it was more of an art than a science. It was not until the mid-19th century that the stability of feedback control systems was analyzed using mathematics, the formal language of automatic control theory.
+
+The centrifugal governor was invented by Christiaan Huygens in the seventeenth century, and used to adjust the gap between millstones.
+

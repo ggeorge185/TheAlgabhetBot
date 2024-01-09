@@ -1,0 +1,3 @@
+main|Applications_of_artificial_intelligence#Chemistry_and_biology|Drug development|l1=Drug discovery}}
+AI Algorithm|algorithms analyze vast Data set|datasets with greater speed and accuracy than traditional methods. This has enabled the identification of potential Drug candidate|drug candidates, prediction of their Drug interaction|interactions, and optimization of formulations. AI-driven Simulation|simulations and modeling assist researchers in understanding Molecular interaction|molecular interactions, thus expediting the drug development timeline.
+

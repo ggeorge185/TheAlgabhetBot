@@ -1,0 +1,13 @@
+The ambient intelligence concept builds upon pervasive computing, ubiquitous computing, profiling (information science)|profiling, context awareness, and Human-centered computing|human-centric computer interaction design. It is characterized by systems and technologies that are:
+* embedded system|Embedded: Many networked devices are integrated into the environment.
+* Context awareness|Context aware: These devices can recognize people and their situational contexts.
+* personalization|Personalized: They can be tailored to needs.
+* adaptive behavior|Adaptive: They can change in response to people.
+* anticipation (artificial intelligence)|Anticipatory: They can anticipate a person's desires without conscious mediation.
+
+Implementation of ambient intelligence requires several technologies to exist. These include hidden hardwares such as miniaturization, nanotechnology, and Smart device|smart devices, as well as human-centric computer interfaces (intelligent agents, multimodal interaction, context awareness, etc.). These systems and devices operate through a seamless mobile/fixed communication and computing infrastructure characterized by interoperability, wired and wireless networks, and service-oriented architecture. Systems and devices must also be dependable and secure, which may be achieved through self-testing and self-repairing software and privacy-ensuring technology.
+
+Ambient intelligence has a relationship with—and depends on advances in—Sensor|sensor technology and sensor networks.
+
+User experience became more important to developers in the late 1990s as a result of digital products and services that were difficult to understand or use. In response, the user experience design emerged to create new technologies and media around the user's personal experience. Ambient intelligence is influenced by user-centered design, where the user is placed in the center of the design activity and gives feedback to the designer.
+

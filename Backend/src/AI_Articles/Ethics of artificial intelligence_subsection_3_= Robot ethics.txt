@@ -1,0 +1,4 @@
+Main|Robot ethics}}
+
+The term "robot ethics" (sometimes "roboethics") refers to the morality of how humans design, construct, use and treat robots. Robot ethics intersect with the ethics of AI. Robots are physical machines whereas AI can be only software. Not all robots function through AI systems and not all AI systems are robots. Robot ethics considers how machines may be used to harm or benefit humans, their impact on individual autonomy, and their effects on social justice.
+

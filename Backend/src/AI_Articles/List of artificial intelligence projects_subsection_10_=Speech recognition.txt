@@ -1,0 +1,5 @@
+further|List of speech recognition software}}
+* CMU Sphinx, a group of speech recognition systems developed at Carnegie Mellon University
+* DeepSpeech, an Open source|open-source Speech-To-Text engine based on Baidu's deep speech research paper.
+* Whisper (speech recognition system)|Whisper, an open-source speech recognition system developed at OpenAI
+

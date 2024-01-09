@@ -1,0 +1,2 @@
+Gen-2 is a multimodal AI system that can generate novel videos with text, images or video clips. The model is a continuation of Gen-1 and includes a modality to generate video conditioned to text. Gen-2 is one of the first commercially available text-to-video models.
+

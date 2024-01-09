@@ -1,0 +1,4 @@
+A generative AI system is constructed by applying Unsupervised learning|unsupervised or Self-supervised learning|self-supervised machine learning to a data set. The capabilities of a generative AI system depend on the List of datasets for machine-learning research|modality or type of the data set used.
+
+Generative AI can be either ''unimodal'' or Multimodal learning|''multimodal''; unimodal systems take only one type of input, whereas multimodal systems can take more than one type of input. For example, one version of OpenAI's GPT-4 accepts both text and image inputs.
+

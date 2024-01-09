@@ -1,0 +1,11 @@
+Image:Weighted A star with eps 5.gif|thumb|A* search that uses a heuristic that is 5.0(=ε) times a [[consistent heuristic, and obtains a suboptimal path.]]
+While the admissibility criterion guarantees an optimal solution path, it also means that A* must examine all equally meritorious paths to find the optimal path. To compute approximate shortest paths, it is possible to speed up the search at the expense of optimality by relaxing the admissibility criterion. Oftentimes we want to bound this relaxation, so that we can guarantee that the solution path is no worse than (1 + ''ε'') times the optimal solution path. This new guarantee is referred to as ''ε''-admissible.
+
+There are a number of ''ε''-admissible algorithms:
+
+*Weighted A*/Static Weighting's. If ''h<sub>a</sub>''(''n'') is an admissible heuristic function, in the weighted version of the A* search one uses ,  as the heuristic function, and perform the A* search as usual (which eventually happens faster than using ''h<sub>a</sub>'' since fewer nodes are expanded). The path hence found by the search algorithm can have a cost of at most ''ε'' times that of the least cost path in the graph. uses the cost function , where <math>w(n) = \begin 1 - \frac & d(n) \le N \\ 0 & \text \end</math>, and where  is the depth of the search and ''N'' is the anticipated length of the solution path.
+* Sampled Dynamic Weighting uses sampling of nodes to better estimate and debias the heuristic error.
+* <math>A^*_\varepsilon</math>. uses two heuristic functions. The first is the FOCAL list, which is used to select candidate nodes, and the second ''h<sub>F</sub>'' is used to select the most promising node from the FOCAL list.
+* ''A<sub>ε</sub>'' selects nodes with the function , where ''A'' and ''B'' are constants. If no nodes can be selected, the algorithm will backtrack with the function , where ''C'' and ''D'' are constants.
+* AlphA* attempts to promote depth-first exploitation by preferring recently expanded nodes. AlphA* uses the cost function <math>f_\alpha(n) = (1 + w_\alpha(n)) f(n)</math>, where <math>w_\alpha(n) = \begin \lambda & g(\pi(n)) \le g(\tilde) \\ \Lambda & \text \end</math>, where ''λ'' and ''Λ'' are constants with <math>\lambda \le \Lambda</math>, ''π''(''n'') is the parent of ''n'', and ''ñ'' is the most recently expanded node.
+

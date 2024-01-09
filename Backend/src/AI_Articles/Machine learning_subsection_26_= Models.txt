@@ -1,0 +1,2 @@
+Performing machine learning can involve creating a Statistical model|model, which is trained on some training data and then can process additional data to make predictions. Various types of models have been used and researched for machine learning systems.
+

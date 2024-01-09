@@ -1,0 +1,2 @@
+A business process management system is different from BPA. However, it is possible to build automation on the back of a BPM implementation. The actual tools to achieve this vary, from writing custom application code to using specialist BPA tools. The advantages and disadvantages of this approach are linked – the BPM implementation provides an architecture for all processes in the business to be mapped, but this in itself delays the automation of individual processes and so benefits may be lost in the meantime.
+

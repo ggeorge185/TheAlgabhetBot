@@ -1,0 +1,6 @@
+The following is an example of the breadth-first tree obtained by running a BFS on Germany|German cities starting from ''Frankfurt'':
+
+Image:MapGermanyGraph.svg|thumb|250px|center|An example map of [[Southern Germany with some connections between cities]]
+
+Image:GermanyBFS.svg|thumb|250px|center |The breadth-first tree obtained when running BFS on the given map and starting in [[Frankfurt]]
+

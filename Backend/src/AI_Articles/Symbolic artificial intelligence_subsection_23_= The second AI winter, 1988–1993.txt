@@ -1,0 +1,6 @@
+At the height of the AI boom, companies such as Symbolics, Lisp Machines|LMI, and Texas Instruments were selling LISP machines specifically targeted to accelerate the development of AI applications and research. In addition, several artificial intelligence companies, such as Teknowledge and Inference Corporation, were selling expert system shells, training, and consulting to corporations.
+
+Unfortunately, the AI boom did not last and Kautz best describes the second AI winter that followed:
+
+}}
+

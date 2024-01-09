@@ -1,0 +1,5 @@
+AI has been used to optimize traffic management, which reduces wait times, energy use, and emissions by as much as 25 percent.
+
+
+Smart traffic lights have been developed at Carnegie Mellon University|Carnegie Mellon since 2009.  Professor Stephen Smith has started a company since then Scalable Urban Traffic Control|Surtrac that has installed smart traffic control systems in 22 cities.  It costs about $20,000 per intersection to install. Drive time has been reduced by 25% and traffic jam waiting time has been reduced by 40% at the intersections it has been installed.
+

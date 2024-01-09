@@ -1,0 +1,7 @@
+What sets A* apart from a greedy algorithm|greedy best-first search algorithm is that it takes the cost/distance already traveled, , into account.
+
+Some common variants of Dijkstra's algorithm can be viewed as a special case of A* where the heuristic <math>h(n) = 0</math> for all nodes;
+A* itself is a special case of a generalization of branch and bound.
+
+A* is similar to beam search except that beam search maintains a limit on the numbers of paths that it has to explore.
+

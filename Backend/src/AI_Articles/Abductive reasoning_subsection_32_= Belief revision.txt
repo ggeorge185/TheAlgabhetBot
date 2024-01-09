@@ -1,0 +1,7 @@
+Unreferenced section|small=y|date=January 2019}}
+Belief revision, the process of adapting beliefs in view of new information, is another field in which abduction has been applied. The main problem of belief revision is that the new information may be inconsistent with the prior web of beliefs, while the result of the incorporation cannot be inconsistent. The process of updating the web of beliefs can be done by the use of abduction: once an explanation for the observation has been found, integrating it does not generate inconsistency.
+
+Gärdenfors’ paper contains a brief survey of the area of belief revision and its relation to updating of logical databases, and explores the relationship between belief revision and nonmonotonic logic.
+
+This use of abduction is not straightforward, as adding propositional formulae to other propositional formulae can only make inconsistencies worse. Instead, abduction is done at the level of the ordering of preference of the possible worlds. Preference models use fuzzy logic or utility models.
+

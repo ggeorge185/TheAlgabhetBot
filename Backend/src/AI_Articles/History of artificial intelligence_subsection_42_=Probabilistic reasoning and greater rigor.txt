@@ -1,0 +1,4 @@
+AI researchers began to develop and use sophisticated mathematical tools more than they ever had in the past. There was a widespread realization that many of the problems that AI needed to solve were already being worked on by researchers in fields like mathematics, electrical engineering, economics or operations research. The shared mathematical language allowed both a higher level of collaboration with more established and successful fields and the achievement of results which were measurable and provable; AI had become a more rigorous "scientific" discipline.
+
+Judea Pearl's influential 1988 book brought probability and decision theory into AI. Among the many new tools in use were Bayesian networks, hidden Markov models, information theory, stochastic modeling and classical optimization (mathematics)|optimization. Precise mathematical descriptions were also developed for "computational intelligence" paradigms like neural networks and evolutionary algorithms.
+

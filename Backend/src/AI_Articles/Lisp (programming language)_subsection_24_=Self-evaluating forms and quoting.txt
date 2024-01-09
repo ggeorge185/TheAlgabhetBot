@@ -1,0 +1,22 @@
+Lisp evaluates expressions which are entered by the user. Symbols and lists evaluate to some other (usually, simpler) expression – for instance, a symbol evaluates to the value of the variable it names;  evaluates to . However, most other forms evaluate to themselves: if entering  into Lisp, it returns .
+
+Any expression can also be marked to prevent it from being evaluated (as is necessary for symbols and lists). This is the role of the  special operator, or its abbreviation  (one quotation mark). For instance, usually if entering the symbol , it returns the value of the corresponding variable (or an error, if there is no such variable). To refer to the literal symbol, enter  or, usually, .
+
+Both Common Lisp and Scheme also support the ''backquote'' operator (termed ''quasiquote'' in Scheme), entered with the  character (Grave accent#Use in programming|grave accent). This is almost the same as the plain quote, except it allows expressions to be evaluated and their values interpolated into a quoted list with the comma  ''unquote'' and comma-at  ''splice'' operators. If the variable  has the value  then  evaluates to , while  evaluates to . The backquote is most often used in defining macro expansions.
+
+Self-evaluating forms and quoted forms are Lisp's equivalent of literals. It may be possible to modify the values of (mutable) literals in program code. For instance, if a function returns a quoted form, and the code that calls the function modifies the form, this may alter the behavior of the function on subsequent invocations.
+
+<syntaxhighlight lang="lisp">
+(defun should-be-constant ()
+  '(one two three))
+
+(let ((stuff (should-be-constant)))
+  (setf (third stuff) 'bizarre))   ; bad!
+
+(should-be-constant)   ; returns (one two bizarre)
+</syntaxhighlight>
+
+Modifying a quoted form like this is generally considered bad style, and is defined by ANSI Common Lisp as erroneous (resulting in "undefined" behavior in compiled files, because the file-compiler can coalesce similar constants, put them in write-protected memory, etc.).
+
+Lisp's formalization of quotation has been noted by Douglas Hofstadter (in ''Gödel, Escher, Bach'') and others as an example of the philosophy|philosophical idea of self-reference.
+

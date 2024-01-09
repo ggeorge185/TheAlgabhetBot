@@ -1,0 +1,2 @@
+When a human uses an AI's output, they often want to understand ''why'' a model gave a certain output. While some models, like decision trees, are inherently explainable, black box models do not have clear explanations. Various Explainable artificial intelligence methods aim to describe model outputs with post-hoc explanations or visualizations, these methods can often provide misleading and false explanations. Studies have also found that explanations may not improve the performance of a human-AI team, but simply increase a human's reliance on the model's output.
+

@@ -1,0 +1,9 @@
+File:Imitation-based_approach.png|alt=A block diagram illustrating the imitation-based approach for generating audio deepfakes|thumb|The Imitation-based approach diagram.|upright=1.8
+Audio deepfake based on imitation is a way of transforming an original speech from one speaker - the original - so that it sounds spoken like another speaker - the target one. An imitation-based algorithm takes a spoken signal as input and alters it by changing its style, intonation, or prosody, trying to mimic the target voice without changing the linguistic information. This technique is also known as voice conversion.
+
+This method is often confused with the previous Synthetic-based method, as there is no clear separation between the two approaches regarding the generation process. Indeed, both methods modify acoustic-spectral and style characteristics of the speech audio signal, but the Imitation-based usually keeps the input and output text unaltered. This is obtained by changing how this sentence is spoken to match the target speaker's characteristics.
+
+Voices can be imitated in several ways, such as using humans with similar voices that can mimic the original speaker. In recent years, the most popular approach involves the use of particular neural networks called Generative adversarial network|Generative Adversarial Networks (GAN) due to their flexibility as well as high-quality results. challenge nomenclature, the Fake audio is indicated with the term ''"Spoof,"'' the Real instead is called ''"Bonafide."''
+
+Over the years, many researchers have shown that machine learning approaches are more accurate than deep learning methods, regardless of the features used. and usually many research groups release them on a public hosting service like GitHub.
+

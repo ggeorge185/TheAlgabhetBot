@@ -1,0 +1,11 @@
+further|PayPal#Early history}}
+With Confinity, Thiel realized they could develop software to bridge a gap in making online payments. Although the use of credit cards and expanding Cash machine|automated teller machine networks provided consumers with more payment options, not all merchants had the necessary hardware to accept credit cards. Thus, consumers had to pay with exact cash or check. Thiel wanted to create a type of digital wallet for consumer convenience and security by encrypting data on digital devices, and in 1999 Confinity launched PayPal.
+
+PayPal promised to open up new possibilities for handling money. Thiel viewed PayPal's mission as liberating people from the erosion of the value of their currencies due to inflation. Thiel spoke in 1999:
+
+
+
+When PayPal launched at a press conference in 1999, representatives from Nokia and Deutsche Bank sent $3 million in venture funding to Thiel using PayPal on their PalmPilots. PayPal then continued to grow through mergers in 2000 with Elon Musk's online financial services company X.com (bank)|X.com, and with Pixo, a company specializing in mobile commerce. These mergers allowed PayPal to expand into the wireless phone market and transformed it into a safer and more user-friendly tool by enabling users to transfer money via a free online registration and email rather than by exchanging bank account information.
+
+PayPal Initial public offering|went public on 15 February 2002 and was bought by eBay for $1.5 billion in October of that year. Thiel remained CEO of the company until the sale. His 3.7% stake in the company was worth $55 million at the time of acquisition.  In Silicon Valley circles, Thiel is colloquially referred to as the "Don of the PayPal Mafia".
+

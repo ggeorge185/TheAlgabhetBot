@@ -1,0 +1,45 @@
+Nico Habermann – work on operating systems, software engineering, inter-process communication, process synchronization, deadlock avoidance, software verification, programming languages: ALGOL 60, BLISS, Pascal (programming language)|Pascal, Ada (programming language)|Ada
+* Philipp Matthäus Hahn – mechanical calculator
+* Eldon C. Hall – Apollo Guidance Computer
+* Wendy Hall
+* Joseph Halpern
+* Margaret Hamilton (software engineer)|Margaret Hamilton – ultra-reliable software design, Apollo program space missions
+* Richard Hamming – Hamming code, founder of the Association for Computing Machinery
+* Jiawei Han – data mining
+* Frank Harary – graph theory
+* Brian Harris (translation researcher)|Brian Harris – machine translation research, Canada's first computer-assisted translation course, natural translation theory, community interpreting (Critical Link)
+* Juris Hartmanis – computational complexity theory
+* Johan Håstad – computational complexity theory
+* Les Hatton – software failure and vulnerabilities
+* Igor Hawryszkiewycz, (born 1948) – American computer scientist and organizational theorist
+* He Jifeng – Correctness (computer science)|provably correct systems
+* Eric Hehner – predicative programming, formal methods, quote notation, ALGOL
+* Martin Hellman – encryption
+* Gernot Heiser – operating system teaching, research, commercialising, Open Kernel Labs, L4 microkernel family#Commercial deployment|OKL4, Wombat
+* James Hendler – Semantic Web
+* John L. Hennessy – computer architecture
+* Andrew Herbert
+* Carl Hewitt
+* Kelsey Hightower – open source, cloud computing
+* Danny Hillis – Connection Machine
+* Geoffrey Hinton
+* Julia Hirschberg
+* Tin Kam Ho – artificial intelligence, machine learning
+* C. A. R. Hoare – logic, rigor, communicating sequential processes (CSP)
+* Louis Hodes (1934–2008) – Lisp (programming language)|Lisp, pattern recognition, logic programming, cancer research
+* Betty Holberton – ENIAC programmer, developed the first Sort Merge Generator
+* John Henry Holland – genetic algorithms
+* Herman Hollerith (1860–1929) – invented recording of data on a machine readable medium, using punched cards
+* Gerard Holzmann – software verification, logic model checking (SPIN model checker|SPIN)
+* John Hopcroft – compilers
+* Admiral Grace Hopper (1906–1992) – developed early compilers: FLOW-Matic, COBOL; worked on UNIVAC; gave speeches on computer history, where she gave out Grace Murray Hopper#Retirement|nano-seconds
+* Eric Horvitz – artificial intelligence
+* Alston Householder
+* Paul Hudak (1952–2015) – Haskell language design, textbooks on it and computer music
+* David A. Huffman (1925–1999) – Huffman coding, used in data compression
+* John Hughes (computer scientist)|John Hughes – structuring computations with Arrow (computer science)|arrows; QuickCheck randomized program testing framework; Haskell language design
+* Roger Hui – co-created J (programming language)|J language
+* Watts Humphrey (1927–2010) – Personal Software Process (PSP), Software quality, Team Software Process (TSP)
+* Sandra Hutchins (b. 1946) - speech recognition
+* Steve Hoberman - Data modeler
+

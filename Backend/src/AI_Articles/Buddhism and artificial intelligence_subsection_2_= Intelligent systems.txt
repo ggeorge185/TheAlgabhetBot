@@ -1,0 +1,2 @@
+Intelligence is conventionally defined in terms of goal-achieving, problem-solving, or pattern-recognizing capability. Recent development in machine learning gives rise to systems that can attempt to emulate those intelligent behaviours. AlphaGo, a machine learning system developed by DeepMind, became the first computer program to AlphaGo versus Lee Sedol|win a Go game against a human professional player.
+

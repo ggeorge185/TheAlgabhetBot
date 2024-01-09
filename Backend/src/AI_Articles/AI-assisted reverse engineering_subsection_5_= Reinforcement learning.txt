@@ -1,0 +1,2 @@
+Reinforcement learning is employed to build models that progressively refine their system understanding through a process of trial and error. This method is often implemented when deciphering a system's functionality under various circumstances or configurations.<ref name=":0" /><ref name=":3" />
+

@@ -1,0 +1,4 @@
+On April 10, 2023, OpenAI introduced a new variant of its GPT-3.5 series model, known as GPT-3.5 with Browsing (ALPHA). This updated model was described to build upon the capabilities of its predecessors "text-davinci-002" and "code-davinci-002". The GPT-3.5 with Browsing (ALPHA) model incorporated the ability to access and browse online information. This has led to more accurate and up-to-date responses to user queries. This feature allows users to ask questions or request information with the expectation that the model will deliver updated, accurate, and relevant answers based on the latest online sources available to it.
+
+On April 27, 2023, OpenAI made the GPT-3.5 with Browsing (ALPHA) model publicly available to GPT Plus users. This allowed more people to access to its new features.
+

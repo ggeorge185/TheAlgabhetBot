@@ -1,0 +1,4 @@
+Main|Automated planning and scheduling}}
+
+The General Problem Solver (GPS) cast planning as problem-solving used means-ends analysis to create plans. Stanford Research Institute Problem Solver|STRIPS took a different approach, viewing planning as theorem proving. Graphplan takes a least-commitment approach to planning, rather than sequentially choosing actions from an initial state, working forwards, or a goal state if working backwards.  Satplan is an approach to planning where a planning problem is reduced to a Boolean satisfiability problem.
+

@@ -1,0 +1,12 @@
+Salakhutdinov's doctoral advisor was Geoffrey Hinton. Salakhutdinov was considering quitting the field of artificial intelligence when he met Hinton in 2014, but changed his mind after Hinton asked him to take part in a project focused on a new way to train artificial neural networks, which he dubbed "deep belief networks." This research made a large impact on the field of deep learning.
+
+He received his PhD in 2009.
+
+He is well known for having developed Bayesian Program Learning.
+
+Since 2009, he has published at least 42 papers on machine learning.
+
+His research has been funded by Google, Microsoft and Samsung. In 2016, Salakhutdinov joined Apple Inc.|Apple as its director of AI research.
+
+In June 2023, Salakhutdinov joined Felix Smart which is a company that uses AI to take care for plants and animals as Board of directors|Board Director.
+

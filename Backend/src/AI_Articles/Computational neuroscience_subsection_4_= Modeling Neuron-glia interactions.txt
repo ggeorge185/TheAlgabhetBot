@@ -1,0 +1,2 @@
+Glial cells participate significantly to the regulation of neuronal activity at a cellular but also at a network level. Modeling this interaction allows to clarify the potassium cycle, so important for maintaining homeostatis and to prevent epileptic seizures.  Modeling reveals the role of glial protrusions that can penetrate in some cases the synaptic cleft to interfere with the synpatic transmission and thus control synaptic communication.
+

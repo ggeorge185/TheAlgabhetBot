@@ -1,0 +1,14 @@
+The expert diagnosis (or diagnosis by expert system) is based on experience with the system.  Using this experience, a mapping is built that efficiently associates the observations to the corresponding diagnoses.
+
+The experience can be provided:
+* By a human operator.  In this case, the human knowledge must be translated into a computer language. 
+* By examples of the system behaviour.  In this case, the examples must be classified as correct or faulty (and, in the latter case, by the type of fault).  Machine learning methods are then used to generalize from the examples.
+
+The main drawbacks of these methods are:
+* The difficulty acquiring the expertise.  The expertise is typically only available after a long period of use of the system (or similar systems). Thus, these methods are unsuitable for safety- or mission-critical systems (such as a nuclear power plant, or a robot operating in space).  Moreover, the acquired expert knowledge can never be guaranteed to be complete.  In case a previously unseen behaviour occurs, leading to an unexpected observation, it is impossible to give a diagnosis.
+* The complexity of the learning.  The off-line process of building an expert system can require a large amount of time and computer memory.
+* The size of the final expert system.  As the expert system aims to map any observation to a diagnosis, it will in some cases require a huge amount of storage space.
+* The lack of wikt:robust|robustness. If even a small modification is made on the system, the process of constructing the expert system must be repeated.
+
+A slightly different approach is to build an expert system from a model of the system rather than directly from an expertise.  An example is the computation of a Diagnoser (Sampath)|diagnoser for the diagnosis of discrete event systems.  This approach can be seen as model-based, but it benefits from some advantages and suffers some drawbacks of the expert system approach.
+

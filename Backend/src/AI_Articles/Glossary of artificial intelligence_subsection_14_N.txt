@@ -1,0 +1,72 @@
+glossary}}
+
+, naive Bayes classifiers are a family of simple Probabilistic classification|probabilistic classifiers based on applying Bayes' theorem with strong (naive) statistical independence|independence assumptions between the features.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ to predict the likelihood of a sequence of words, typically modeling entire sentences in a single integrated model.}}
+
+
+
+ a neural circuit of biological neurons (sometimes also called a ''biological neural network''),  a network of artificial neurons or node (computer science)|nodes in the case of an artificial neural network. Artificial neural networks are used for solving artificial intelligence (AI) problems; they model connections of biological neurons as weights between nodes. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. All inputs are modified by a weight and summed. This activity is referred to as a linear combination. Finally, an activation function controls the amplitude of the output. For example, an acceptable range of output is usually between 0 and 1, or it could be −1 and 1.}}
+
+
+
+
+
+ and .}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm.}}
+
+
+ by aiming to produce robots with intelligence levels similar to insects. Researchers believe that intelligence can emerge organically from simple behaviors as these intelligences interacted with the "real world", instead of using the constructed worlds which symbolic AIs typically needed to have programmed into them.}}
+
+
+, NP (nondeterministic polynomial time) is a complexity class used to classify decision problems.  NP is the Set (mathematics)|set of decision problems for which the Computational complexity theory#Problem instances|problem instances, where the answer is "yes", have mathematical proof|proofs verifiable in polynomial time.}}
+
+
+, a problem is NP-complete when it can be solved by a restricted class of brute force search algorithms and it can be used to simulate any other problem with a similar algorithm. More precisely, each input to the problem should be associated with a set of solutions of polynomial length, whose validity can be tested quickly (in polynomial time), such that the output for any input is "yes" if the solution set is non-empty and "no" if it is empty.}}
+
+
+
+, the defining property of a class of problems that are, informally, "at least as hard as the hardest problems in NP". A simple example of an NP-hard problem is the subset sum problem.}}
+
+
+
+

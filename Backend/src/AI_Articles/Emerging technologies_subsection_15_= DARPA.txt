@@ -1,0 +1,6 @@
+The DARPA|Defense Advanced Research Projects Agency (DARPA) is an agency of the U.S. Department of Defense responsible for the development of emerging technologies for use by the military.
+
+DARPA was created in 1958 as the Advanced Research Projects Agency (ARPA) by President Dwight D. Eisenhower. Its purpose was to formulate and execute research and development projects to expand the frontiers of technology and science, with the aim to reach beyond immediate military requirements.
+
+Projects funded by DARPA have provided significant technologies that influenced many non-military fields, such as the ARPANET|Internet and Global Positioning System technology.
+

@@ -1,0 +1,24 @@
+Dynamic list}}
+
+As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software.
+CSAB (professional organization)|CSAB, formerly called Computing Sciences Accreditation Board—which is made up of representatives of the Association for Computing Machinery (ACM), and the IEEE Computer Society (IEEE CS)—identifies four areas that it considers crucial to the discipline of computer science: ''theory of computation'', ''algorithms and data structures'', ''programming methodology and languages'', and ''computer elements and architecture''. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and symbolic computation as being important areas of computer science. is an open problem in the theory of computation.
+
+</math>
+| File:Complexity classes.svg|120px
+|-
+| Automata theory
+| Formal languages
+| Computability theory
+| Computational complexity theory
+|-
+| File:Interaction Net as Configuration.png|96px
+| File:Blochsphere.svg|96px
+| File:XNOR ANSI Labelled.svg
+| File:Kellerautomat.svg|96px
+|-
+| Models of computation
+| Quantum computer|Quantum computing theory
+| Circuit (computer science)|Logic circuit theory
+| Cellular automata
+|}
+

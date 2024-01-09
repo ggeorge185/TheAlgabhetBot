@@ -1,0 +1,4 @@
+The institute supports foundational and applied AI research, and mitigates brain drain in Canada. Their research priorities are: built recommendation systems with Wahi, and partnered with Kids Help Phone to build tools that help guide councillors during conversations with children. They have built open source tools to monitor clinical models in production.
+
+The institute has given out $2 million CAD in masters scholarships, valued at $17,500 each.
+

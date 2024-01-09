@@ -1,0 +1,2 @@
+Generally, the user can set the input, and the input content includes detailed picture content that the user wants. For example, the content can be a scene's content, characters, weather, character relationships, specific items, etc. It can also include selecting a specific artist style, screen style, image pixel size, brightness, etc. Then picture generators will return several similar pictures in Generative adversarial network|GANs.
+

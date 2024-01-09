@@ -1,0 +1,2 @@
+SILVA is an interdisciplinary project among biologists and computers scientists assembling a complete database of RNA ribosomal (rRNA) sequences of genes, both small (16S ribosomal RNA|16S, 18S ribosomal RNA|18S, SSU) and large (23S, 28S, LSU) subunits, which belong to the bacteria, archaea and eukarya domains. These data are freely available for academic and commercial use.
+

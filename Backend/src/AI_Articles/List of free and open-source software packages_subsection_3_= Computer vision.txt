@@ -1,0 +1,3 @@
+AForge.NET – computer vision, artificial intelligence and robotics library for the .NET Software framework|framework
+*OpenCV – computer vision library in C++
+

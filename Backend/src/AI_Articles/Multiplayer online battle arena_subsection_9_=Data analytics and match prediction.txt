@@ -1,0 +1,2 @@
+Due to the large volume of matches played on a daily basis around the world and the relatively complicated nature of the genre, MOBAs have become a popular target for the application of big data tools to predict match outcomes based on in-game factors such as hero kill/death/assist ratios, gold earned, time of a match, synergy with other players, team composition, and other, more advanced parameters.
+

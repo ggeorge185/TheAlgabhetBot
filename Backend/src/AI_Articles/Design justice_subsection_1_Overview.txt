@@ -1,0 +1,15 @@
+Design justice is defined by experts in interdisciplinary fields as a theory and practice of designing with action to mitigate risks and harms toward the marginalized, and oppressed. This action is taken by moving away from the idea of “designing for good” and moving towards designing with input from the affected communities. Design Justice aims to balance the distribution of risks, harms, and benefits among users through the design process, by including people whose lives will be impacted by the product or system in addition to technical experts in the design process. Design justice is built upon ten principles to ensure that communities can come together to lead to more equitable products.
+
+Below are the 10 design justice principles:
+
+# Use design to sustain, heal and empower communities, as well as to seek liberation from exploitative and oppressive systems.
+# Center the voices of those who are directly impacted by the outcome of the design process.
+# Prioritize design’s impact on the community over the intentions of the designer.
+# View change as emergent from an accountable, accessible, and collaborative process rather than as a point at the end of a process.
+# See the role of the designer as a facilitator rather than an expert.
+# Believe that everyone is an expert based on their own lived experience and that all people have unique and brilliant contributions to bring to a design process.
+# Share design knowledge and tools with communities.
+# Work towards sustainable, community-led and -controlled outcomes.
+# Work towards non-exploitative solutions that reconnect to the earth and each other.
+# Before seeking new design solutions, look for what is already working at the community level. Honor and uplift traditional, indigenous, and local knowledge and practices.
+

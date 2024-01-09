@@ -1,0 +1,4 @@
+Generative models helps us to perform extensive qualitative analysis in a controlled fashion. A model proposed by Epstein, is the agent-based simulation, which talks about identifying an initial set of heterogeneous entities (agents) and observe their evolution and growth based on simple local rules.
+
+But what are these local rules? How does one identify them for a set of heterogeneous agents? Evaluation and impact of these rules state a whole new set of difficulties.
+

@@ -1,0 +1,20 @@
+File:Organigrama AESIA (2023).pdf|thumb|300x300px|Organization chart of the Agency.
+The Agency is structured as follows:<ref name=":0" />
+* The President. The presidency is assumed by the head of the Ministry of Economy (Spain)|Secretariat of State for Digitalization and Artificial Intelligence. 
+* The Governing Council. It is the collective governing body of the Agency, made up of its president and director, as well as representatives of the ministries of Ministry of Economy (Spain)|Economy, Ministry of Finance (Spain)|Finance, and Ministry of Industry (Spain)|Industry. Also, there will be an expert member on the subject, appointed at the proposal of the Artificial Intelligence Advisory Council and the Standing Commission on the Digitalization of the Economy, Administration and Citizenship.
+* The Director. The director is the executive body of the Agency, on which the rest of the administrative departments depend.
+** The Deputy Directorate for Reports and Testing Infrastructures.
+*** The Department for Innovation of Artificial Intelligence Systems.
+*** The Department for Artificial Intelligence Systems aimed at Public Administrations.
+** The Deputy Directorate for Certification, Trend Evaluation, Coordination and Training in Artificial Intelligence.
+*** The Department for Certification, Instruction and Supervision.
+*** The Department for Instrumentalization of Trend Identification Mechanisms and Social Impact Assessment in the Artificial Intelligence Scope.
+*** The Department for Alignment and Coordination with Third Party Initiatives Related to the Application of Artificial Intelligence Systems.
+*** The Department for Awareness, Training, Dissemination and Promotion.
+** The General Secretariat. It is responsible for the management of human, economic, financial, IT, logistical and material resources.
+*** The Division for Human Resources.
+*** The Division for Economic and Budgetary Management.
+*** The Legal Division and for Institutional Relations.
+*** The Division for General Affairs.
+In addition, to ensure the correct functioning of the Agency, there is a Control Committee that collects information, supervises the agency's actions and inform of its conclusions to the Governing Council.
+

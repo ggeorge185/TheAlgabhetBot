@@ -1,0 +1,2 @@
+The "Total Turing test" adds two further requirements to the traditional Turing test. The interrogator can also test the perceptual abilities of the subject (requiring computer vision) and the subject's ability to manipulate objects (requiring robotics).
+

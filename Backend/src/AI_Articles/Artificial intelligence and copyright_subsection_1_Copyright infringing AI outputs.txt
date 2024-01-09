@@ -1,0 +1,6 @@
+multiple image
+| total_width       = 300
+| footer            = In rare cases, generative AI models may produce outputs that are virtually identical to images from their training set. The research paper from which this example was taken was able to produce similar replications for only 0.03% of training images.
+* In January 2023, Stability AI was sued in London by Getty Images for using its images in their training data without purchasing a license.
+* In the case ''Thaler v. Perlmutter'', the U.S. Court of Appeals for the Federal Circuit ruled on the patentability of inventions created by an AI system. The case revolved around Stephen Thaler's use of his AI program, DABUS, in the creation of two inventions. Thaler argued that DABUS should be recognized as the inventor. The court upheld the U.S. Patent and Trademark Office's decision, stating that under U.S. law, only 'natural persons' can be named as inventors on patent applications.
+

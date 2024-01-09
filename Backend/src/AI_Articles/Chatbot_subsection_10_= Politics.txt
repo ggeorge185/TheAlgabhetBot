@@ -1,0 +1,6 @@
+In New Zealand, the chatbot SAM – short for Semantic analysis (machine learning)|Semantic Analysis Machine (made by Nick Gerritsen of Touchtech) – has been developed. It is designed to share its political thoughts, for example on topics such as climate change, healthcare and education, etc. It talks to people through Facebook Messenger.
+
+In 2022, the chatbot "Leader Lars" or "Leder Lars" was nominated for The Synthetic Party to run in the Danish Realm|Danish parliamentary election, and was built by the artist collective Computer Lars. Leader Lars differed from earlier virtual politicians by leading a political party and by not pretending to be an objective candidate. This chatbot engaged in critical discussions on politics with users from around the world.
+
+In India, the state government has launched a chatbot for its Aaple Sarkar platform, which provides conversational access to information regarding public services managed.
+

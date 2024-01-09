@@ -1,0 +1,4 @@
+One of the simplest types of control is ''on-off'' control. An example is a thermostat used on household appliances which either open or close an electrical contact. (Thermostats were originally developed as true feedback-control mechanisms rather than the on-off common household appliance thermostat.)
+
+Sequence control, in which a programmed sequence of ''discrete'' operations is performed, often based on system logic that involves system states. An elevator control system is an example of sequence control.
+

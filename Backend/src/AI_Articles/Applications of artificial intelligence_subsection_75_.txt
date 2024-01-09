@@ -1,0 +1,16 @@
+AI can be used for real-time code completion, chat, and automated test generation. These tools are typically integrated with editors and Integrated Development Environment|IDEs as plugin (computing)|plugins. They differ in functionality, quality, speed, and approach to privacy.
+
+Code suggestions could be incorrect, and should be carefully reviewed by software developers before accepted.
+
+GitHub Copilot is an artificial intelligence model developed by GitHub and OpenAI that is able to autocomplete code in multiple programming languages. Price for individuals: $10/mo or $100/yr, with one free month trial.
+
+Tabnine was created by Jacob Jackson and was originally owned by Tabnine company. In late 2019, Tabnine was acquired by Codota. Tabnine tool is available as plugin (computing)|plugin to most popular Integrated Development Environment|IDEs. It offers multiple pricing options, including limited "starter" free version.
+
+CodiumAI by CodiumAI, small startup in Tel Aviv, offers automated test creation. Currently supports Python, JS, and TS.
+
+Replit Ghostwriter|Ghostwriter by Replit offers code completion and chat. They have multiple pricing plans, including a free one and a "Hacker" plan for $7/month.
+
+CodeWhisperer by Amazon (company)|Amazon collects individual users' content, including files open in the IDE. They claim to focus on security both during transmission and when storing. Individual plan is free, professional plan is $19/user/month.
+
+Other tools: SourceGraph Cody, CodeCompleteFauxPilot, Tabby
+

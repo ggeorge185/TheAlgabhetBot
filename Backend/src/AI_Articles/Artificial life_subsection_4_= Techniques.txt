@@ -1,0 +1,4 @@
+cellular automaton|Cellular automata were used in the early days of artificial life, and are still often used for ease of scalability and parallelization.  Alife and cellular automata share a closely tied history.
+* Artificial neural networks are sometimes used to model the brain of an agent.  Although traditionally more of an artificial intelligence technique, neural nets can be important for simulating population dynamics of organisms that can ''learn''.  The symbiosis between learning and evolution is central to theories about the development of instincts in organisms with higher neurological complexity, as in, for instance, the Baldwin effect.
+* Neuroevolution
+

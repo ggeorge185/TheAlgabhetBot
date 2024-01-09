@@ -1,0 +1,4 @@
+Empirically, ensembles tend to yield better results when there is a significant diversity among the models. Many ensemble methods, therefore, seek to promote diversity among the models they combine. Although perhaps non-intuitive, more random algorithms (like random decision trees) can be used to produce a stronger ensemble than very deliberate algorithms (like entropy-reducing decision trees). Using a variety of strong learning algorithms, however, has been shown to be more effective than using techniques that attempt to ''dumb-down'' the models in order to promote diversity. It is possible to increase diversity in the training stage of the model using correlation for regression tasks  or using information measures such as cross entropy for classification tasks.
+
+Theoretically, one can justify the diversity concept because the lower bound of the error rate of an ensemble system can be decomposed into accuracy, diversity, and the other term. 
+

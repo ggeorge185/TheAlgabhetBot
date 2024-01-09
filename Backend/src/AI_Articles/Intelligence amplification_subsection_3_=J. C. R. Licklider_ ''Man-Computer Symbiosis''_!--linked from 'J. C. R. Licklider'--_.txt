@@ -1,0 +1,6 @@
+Man-Computer Symbiosis" is a key speculative paper published in 1960 by psychologist/computer scientist J.C.R. Licklider, which envisions that mutually-interdependent, "living together", tightly-coupled human brains and computing machines would prove to complement each other's strengths to a high degree:
+
+
+
+In Licklider's vision, many of the pure artificial intelligence systems envisioned at the time by over-optimistic researchers would prove unnecessary. (This paper is also seen by some historians as marking the genesis of ideas about computer networks which later blossomed into the Internet).
+

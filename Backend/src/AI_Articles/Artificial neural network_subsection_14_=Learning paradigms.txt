@@ -1,0 +1,3 @@
+No footnotes|date=August 2019|section}}
+Machine learning is commonly separated into three main learning paradigms, supervised learning, unsupervised learning and reinforcement learning. Each corresponds to a particular learning task.
+

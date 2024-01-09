@@ -1,0 +1,8 @@
+Main|Natural language processing}}
+
+Natural language processing focuses on treating language as data to perform tasks such as identifying topics without necessarily understanding the intended meaning. Natural language understanding, in contrast, constructs a meaning representation and uses that for further processing, such as answering questions.
+
+Parsing, tokenizing, spell checker|spelling correction, part-of-speech tagging, shallow parsing|noun and verb phrase chunking are all aspects of natural language processing long handled by symbolic AI, but since improved by deep learning approaches. In symbolic AI, discourse representation theory and first-order logic have been used to represent sentence meanings. Latent semantic analysis (LSA) and explicit semantic analysis also provided vector representations of documents. In the latter case, vector components are interpretable as concepts named by Wikipedia articles.
+
+New deep learning approaches based on Transformer (machine learning model)|Transformer models have now eclipsed these earlier symbolic AI approaches and attained state-of-the-art performance in natural language ''processing''. However, Transformer models are opaque and do not yet produce human-interpretable semantic representations for sentences and documents. Instead, they produce task-specific vectors where the meaning of the vector components is opaque.
+

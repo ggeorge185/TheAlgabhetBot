@@ -1,0 +1,4 @@
+With the intelligence gathered in the ''reason'' stage, one can then ''act''. In the context of marketing, an act would be an attempt to influence a prospect or customer purchase decision using an incentive driven message.
+
+In an Unsupervised learning|unsupervised model, the machine in question would take the decision and act according to the information it received in the ''collect'' stage.
+

@@ -1,0 +1,8 @@
+Although MAS is still strictly a research topic, many graphic computer games today are developed using MAS algorithms and MAS frameworks. -->
+MAS have not only been applied in academic research, but also in industry. MAS are applied in the real world to graphical applications such as computer games. Agent systems have been used in films. It is widely advocated for use in networking and mobile technologies, to achieve automatic and dynamic load balancing, high scalability and self-healing networks. They are being used for coordinated defence systems.
+
+Other applications include transportation, logistics, graphics, manufacturing, power system, smartgrids, and the Geographic information system|GIS.
+
+Also, Distributed artificial intelligence#Agents and Multi-agent systems|Multi-agent Systems Artificial Intelligence (MAAI) are used for simulating societies, the purpose thereof being helpful in the fields of climate, energy, epidemiology, conflict management, child abuse, .... Some organisations working on using multi-agent system models include Center for Modelling Social Systems, Centre for Research in Social Simulation, Centre for Policy Modelling, Society for Modelling and Simulation International.
+Hallerbach et al. discussed the application of agent-based approaches for the development and validation of automated driving systems via a digital twin of the vehicle-under-test and microscopic traffic simulation based on independent agents. Waymo has created a multi-agent simulation environment Carcraft to test algorithms for self-driving cars. It simulates traffic interactions between human drivers, pedestrians and automated vehicles. People's behavior is imitated by artificial agents based on data of real human behavior.
+

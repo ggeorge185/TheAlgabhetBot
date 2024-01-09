@@ -1,0 +1,6 @@
+Main|AI winter}}
+
+Many AI researchers find that they can get more funding and sell more software if they avoid the bad name of "artificial intelligence" and instead pretend their work has nothing to do with intelligence at all. This was especially true in the early 1990s, during the second "AI winter".
+
+Patty Tascarella writes: "Some believe the word 'robotics' actually carries a stigma that hurts a company's chances at funding."
+

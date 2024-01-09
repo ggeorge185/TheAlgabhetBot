@@ -1,0 +1,2 @@
+The number of approved medical devices using artificial intelligence or machine learning (AI/ML) is increasing. As of 2020, there were several hundred AI/ML medical devices approved by the US FDA or CE-marked devices in Europe.  Most AI/ML devices focus upon radiology.  As of 2020, there was no specific regulatory pathway for AI/ML-based medical devices in the US or Europe. and the EU medical device regulation which replaces the EU Medical Device Directive in May 2021, defines regulatory requirements for medical devices, including AI/ML software.
+

@@ -1,0 +1,23 @@
+Another special operator, , is used to bind variables to values which are then evaluated within an expression. This operator is also used to create functions: the arguments to  are a list of arguments, and the expression or expressions to which the function evaluates (the returned value is the value of the last expression that is evaluated). The expression
+<syntaxhighlight lang="Lisp">
+ (lambda (arg) (+ arg 1))
+</syntaxhighlight>
+evaluates to a function that, when applied, takes one argument, binds it to  and returns the number one greater than that argument. Lambda expressions are treated no differently from named functions; they are invoked the same way. Therefore, the expression
+<syntaxhighlight lang="Lisp">
+ ((lambda (arg) (+ arg 1)) 5)
+</syntaxhighlight>
+evaluates to . Here, we're doing a function application: we execute the anonymous function by passing to it the value 5.
+
+Named functions are created by storing a lambda expression in a symbol using the defun macro.
+<syntaxhighlight lang="Lisp">
+ (defun foo (a b c d) (+ a b c d))
+</syntaxhighlight>
+
+ defines a new function named  in the global environment. It is conceptually similar to the expression:
+
+<syntaxhighlight lang="Lisp">
+ (setf (fdefinition 'f) #'(lambda (a) (block f b...)))
+</syntaxhighlight>
+
+where  is a macro used to set the value of the first argument  to a new function object.  is a global function definition for the function named .  is an abbreviation for  special operator, returning a function object.
+

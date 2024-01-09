@@ -1,0 +1,13 @@
+Swarm intelligence|Swarm algorithms include:
+* Ant colony optimization is based on the ideas of ant foraging by pheromone communication to form paths. Primarily suited for combinatorial optimization and graph theory|graph problems.
+* The runner-root algorithm (RRA) is inspired by the function of runners and roots of plants in nature.
+* Artificial bee colony algorithm is based on the honeybee foraging behaviour. Primarily proposed for numerical optimization and extended to solve combinatorial, constrained and multi-objective optimization problems.
+* Bees algorithm is based on the foraging behaviour of honeybees. It has been applied in many applications such as routing and scheduling.
+* Cuckoo search is inspired by the brooding parasitism of the cuckoo species. It also uses Lévy flights, and thus it suits for global optimization problems.
+*Particle swarm optimization is based on the ideas of animal flocking behaviour. adapted as a combinatorial optimization method.
+*Adaptive dimensional search – Unlike nature-inspired metaheuristic techniques, an adaptive dimensional search algorithm does not implement any metaphor as an underlying principle. Rather it uses a simple performance-oriented method, based on the update of the search dimensionality ratio (SDR) parameter at each iteration.
+*Firefly algorithm is inspired by the behavior of fireflies, attracting each other by flashing light. This is especially useful for multimodal optimization.
+*Harmony search – Based on the ideas of musicians' behavior in searching for better harmonies. This algorithm is suitable for combinatorial optimization as well as parameter optimization.
+*Gaussian adaptation – Based on information theory. Used for maximization of manufacturing yield, mean fitness or average information. See for instance Entropy in thermodynamics and information theory.
+*Memetic algorithm – A hybrid method, inspired by Richard Dawkins's notion of a meme, it commonly takes the form of a population-based algorithm coupled with individual learning procedures capable of performing local refinements. Emphasizes the exploitation of problem-specific knowledge and tries to orchestrate local and global search in a synergistic way.
+

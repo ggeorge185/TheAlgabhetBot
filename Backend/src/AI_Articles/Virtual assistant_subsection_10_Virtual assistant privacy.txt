@@ -1,0 +1,3 @@
+Main|Virtual assistant privacy}}
+Virtual assistants have a Virtual assistant privacy|variety of privacy concerns associated with them. Features such as activation by voice pose a threat, as such features requires the device to always be listening. Modes of privacy such as the virtual security button have been proposed to create a multilayer authentication for virtual assistants.
+

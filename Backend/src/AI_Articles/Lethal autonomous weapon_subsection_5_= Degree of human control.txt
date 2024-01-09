@@ -1,0 +1,5 @@
+Three classifications of the degree of human control of autonomous weapon systems were laid out by Bonnie Docherty in a 2012 Human Rights Watch report.
+*human-in-the-loop: a human must instigate the action of the weapon (in other words not fully autonomous).
+*human-on-the-loop: a human may abort an action.
+*human-out-of-the-loop: no human action is involved.
+ 

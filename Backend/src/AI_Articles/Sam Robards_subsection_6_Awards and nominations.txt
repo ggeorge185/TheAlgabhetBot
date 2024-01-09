@@ -1,0 +1,29 @@
+class="wikitable sortable plainrowheaders"
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+|-
+| 1983
+| Young Artist Award|Young Artist Awards
+| Best Young Supporting Actor in a Motion Picture
+| ''Tempest (1982 film)|Tempest''
+| 
+|-
+| rowspan="3" | 2002
+| Drama Desk Award|Drama Desk Awards
+| Drama Desk Award for Outstanding Featured Actor in a Play|Outstanding Featured Actor in a Play
+| rowspan="3" | ''The Man Who Had All the Luck''
+| 
+|-
+| Clarence Derwent Awards
+| Most Promising Male
+| 
+|-
+| scope="row" | Tony Awards
+| Tony Award for Best Featured Actor in a Play|Best Featured Actor in a Play
+| 
+|-
+|}
+

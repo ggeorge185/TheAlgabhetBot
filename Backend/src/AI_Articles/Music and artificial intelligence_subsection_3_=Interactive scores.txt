@@ -1,0 +1,11 @@
+Multimedia Scenarios in interactive scores are represented by
+temporal objects,
+temporal relations, and
+interactive objects. Examples of temporal objects are sounds, videos and light controls.
+Temporal objects can be triggered by interactive objects (usually launched by the user) and
+several temporal objects can be executed simultaneously.  A temporal object may contain
+other temporal objects:  this hierarchy allows us to control the start or end of a temporal
+object by controlling the start or end of its parent.  Hierarchy is ever-present in all kinds
+of music:  Music pieces are often hierarchized by movements, parts, motives, measures,
+among other segmentations.
+

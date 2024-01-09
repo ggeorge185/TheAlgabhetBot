@@ -1,0 +1,5 @@
+In the late 1980s and mid-1990s, the statistical approach ended a period of AI winter, which was caused by the inefficiencies of the rule-based approaches.
+
+The earliest decision trees, producing systems of hard Conditional (computer programming)#If–then(–else)|if–then rules, were still very similar to the old rule-based approaches.
+Only the introduction of hidden Markov models, applied to part-of-speech tagging, announced the end of the old rule-based approach.
+

@@ -1,0 +1,14 @@
+main article|Computer Go}}
+
+Go is a complex board game that requires intuition, creative and strategic thinking. It has long been considered a difficult challenge in the field of artificial intelligence (AI) and is considerably more difficult to solve than chess. Many in the field of artificial intelligence consider Go to require more elements that mimic human thought than chess. Mathematician I. J. Good wrote in 1965:
+
+
+
+Prior to 2015, the best Go programs only managed to reach Go ranks and ratings#Kyu and dan ranks|amateur dan level. On the small 9×9 board, the computer fared better, and some programs managed to win a fraction of their 9×9 games against professional players. Prior to AlphaGo, some researchers had claimed that computers would never defeat top humans at Go. Elon Musk, an early investor of Deepmind, said in 2016 that experts in the field thought AI was 10 years away from achieving a victory against a top professional Go player.
+
+The match AlphaGo versus Lee Sedol is comparable to the 1997 chess match when Deep Blue versus Garry Kasparov|Garry Kasparov lost to IBM computer Deep Blue. Kasparov's loss to Deep Blue is considered the moment a computer became better than humans at chess.
+
+AlphaGo is significantly different from previous AI efforts. Instead of using probability algorithms hard-coded by human programmers, AlphaGo uses neural networks to estimate its probability of winning. AlphaGo accesses and analyses the entire online library of Go; including all matches, players, analytics, and literature; as well as games played by AlphaGo against itself and other players. Once setup, AlphaGo is independent of the developer team and evaluates the best pathway to solving Go (i.e. winning the game). By using neural networks and Monte Carlo tree search, AlphaGo calculates colossal numbers of likely and unlikely probabilities many moves into the future .
+
+Related research results are being applied to fields such as cognitive science, pattern recognition and machine learning.
+

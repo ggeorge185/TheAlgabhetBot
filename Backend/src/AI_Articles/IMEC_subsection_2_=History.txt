@@ -1,0 +1,6 @@
+In 1982, the Flemish Government set up a program to strengthen the microelectronics industry in Flanders. This program included setting up a laboratory for advanced research in microelectronics (IMEC), a semiconductor foundry (former Alcatel Microelectronics, now STMicroelectronics and ON Semiconductor|AMI Semiconductor,) and a training program for VLSI Technology|VLSI design engineers. The latter is now fully integrated in the IMEC activities.
+
+IMEC was founded in 1984 as a non-profit organization led by Roger Van Overstraeten|Prof. Roger Baron Van Overstraeten. The name IMEC is an acronym of the original full name: Interuniversitair Micro-Electronica Centrum VZW. It is supervised by a board of directors, which includes delegates from industry, Flemish universities and the Flemish Government. Since 1984, IMEC has been led by Roger Van Overstraeten, Gilbert Declerck (as of June 1999), and Luc Van den hove|Luc Van den Hove (as of July 2009). In 2015, The New York Times stated that IMEC had helped pioneer techniques to produce some of the world’s smallest and most sophisticated chips and the centre was considered to be a world-leader in nanoelectronics research.
+
+In December 2022, IMEC signed a cooperation agreement with the new Japanese venture Rapidus for the production of 2 nm process semiconductor chips.
+

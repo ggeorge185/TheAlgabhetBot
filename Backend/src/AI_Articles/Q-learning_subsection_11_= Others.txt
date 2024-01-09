@@ -1,0 +1,6 @@
+Delayed Q-learning is an alternative implementation of the online ''Q''-learning algorithm, with Probably approximately correct learning|probably approximately correct (PAC) learning.
+
+Greedy GQ is a variant of ''Q''-learning to use in combination with (linear) function approximation. The advantage of Greedy GQ is that convergence is guaranteed even when function approximation is used to estimate the action values.
+
+Distributional Q-learning is a variant of ''Q''-learning which seeks to model the distribution of returns rather than the expected return of each action. It has been observed to facilitate estimate by deep neural networks and can enable alternative control methods, such as risk-sensitive control.
+

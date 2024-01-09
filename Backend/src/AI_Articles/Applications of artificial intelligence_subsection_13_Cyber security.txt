@@ -1,0 +1,9 @@
+Computer security|Cyber security companies are adopting neural networks, machine learning, and natural language processing to improve their systems.
+
+Applications of AI in cyber security include:
+* Network protection: Machine learning improves intrusion detection systems by broadening the search beyond previously identified threats.
+* Endpoint protection: Attacks such as ransomware can be thwarted by learning typical malware behaviors.
+* Application security: can help counterattacks such as server-side request forgery, SQL injection, cross-site scripting, and Distributed-denial-of-service|distributed denial-of-service.
+* Suspect user behavior: Machine learning can identify fraud or compromised applications as they occur.
+Google fraud czar Shuman Ghosemajumder has said that AI will be used to completely automate most cyber security operations over time.
+

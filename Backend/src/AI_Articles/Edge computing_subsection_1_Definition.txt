@@ -1,0 +1,8 @@
+One definition of edge computing is the use of any type of computer program that delivers low latency Locality of reference|nearer to the requests. Karim Arabi, in an IEEE DAC 2014 Keynote  and subsequently in an invited talk at MIT's MTL Seminar in 2015, defined edge computing broadly as all computing outside the Cloud computing|cloud happening at the edge of the network, and more specifically in applications where real-time processing of data is required. Thus, edge computing does not have the climate-controlled advantages of data centers despite the large amount of processing power necessary.
+
+The term is often used as synonymous with fog computing. This especially is quite relevant for small deployments. However, when the deployment size is large, e.g., for Smart city|Smart Cities, fog computing can be a distinct layer between the Edge and the Cloud. Hence in such deployments, Edge layer is a distinct layer too which has specific responsibilities.
+
+According to ''The State of the Edge'' report, edge computing concentrates on servers "in proximity to the last mile network". Alex Reznik, Chair of the ETSI MEC ISG standards committee, loosely defines the term by essentially suggesting that anything that's not a traditional data center could be the 'edge' for somebody.
+
+Edge nodes used for game streaming are known as ''gamelets'', Per Anand and Edwin say "the edge node is mostly one or two hops away from the mobile client to meet the response time constraints for real-time games' in the cloud gaming context."
+

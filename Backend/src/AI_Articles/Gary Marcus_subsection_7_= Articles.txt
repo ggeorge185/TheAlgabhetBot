@@ -1,0 +1,10 @@
+Marcus, Gary, "Artificial Confidence: Even the newest, buzziest systems of artificial general intelligence are stymied by the same old problems", ''Scientific American'', vol. 327, no. 4 (October 2022), pp.&nbsp;42–45.
+* Marcus, Gary, "Am I Human?: Researchers need new ways to distinguish artificial intelligence from the natural kind", ''Scientific American'', vol. 316, no. 3 (March 2017), pp.&nbsp;58–63.
+*Marcus, G. F., & Davis, E. (2013). How robust are probabilistic models of higher-level cognition? ''Psychological Science'', ''24''(12), 2351–2360.
+*Marcus, G. F., Fernandes, K. J., & Johnson, S. P. (2007). Infant rule learning facilitated by speech. ''Psychological Science'', ''18''(5), 387–391.
+*Marcus, G. F. (2006). Cognitive architecture and descent with modification. ''Cognition'', ''101''(2), 443–465.
+*Marcus, G. F., & Fisher, S. E. (2003). FOXP2 in focus: what can genes tell us about speech and language? ''Trends in Cognitive Sciences'', ''7''(6), 257–262.
+*Marcus, G. F., Vijayan, S., Bandi Rao, S., & Vishton, P. M. (1999). Rule learning by seven-month-old infants. ''Science'', ''283''(5398), 77–80.
+*Marcus, G. F. (1998). Rethinking eliminative connectionism. ''Cognitive Psychology'', ''37''(3), 243–282.
+*Marcus, G. F., Brinkmann, U., Clahsen, H., Wiese, R., & Pinker, S. (1995). German inflection: The exception that proves the rule. ''Cognitive Psychology'', ''29''(3), 189–256.
+

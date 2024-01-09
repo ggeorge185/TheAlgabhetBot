@@ -1,0 +1,58 @@
+class="wikitable plainrowheaders sortable" style="margin-right: 0;"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" class="unsortable" | Notes
+|-
+! scope="row" | 1990
+| ''Families (TV series)|Families''
+| Nathan Thompson
+|
+|-
+! scope="row" | 1991
+| ''''
+| Joe Barnes
+| Episode: "The Adventure of Shoscombe Old Place|Shoscombe Old Place"
+|-
+! scope="row" | 2004, 2010
+| ''Saturday Night Live''
+| Himself/host
+| 2 episodes
+|-
+! scope="row" | 2015
+| ''Toast of London''
+| Himself
+| Episode: "Global Warming"
+|-
+! scope="row" | 2016
+| ''The Young Pope''
+| Lenny Belardo/Pope Pius XIII
+| 10 episodes;  Producer
+|-
+! scope="row" | 2017–2018
+| ''Neo Yokio''
+| Charles 
+| Voice role; 7 episodes
+|-
+! rowspan="2" scope="row" | 2020
+| ''The New Pope''
+| Lenny Belardo / Pope Pius XIII
+| 9 episodes
+|-
+| ''The Third Day (TV series)|The Third Day''
+| Sam
+| 5 episodes
+|-
+! scope="row" | 2023
+| ''What If...? (TV series)|What If...?''
+|Yon-Rogg (Marvel Cinematic Universe)|Yon-Rogg (voice)
+|Episode: "What If... Nebula Joined the Nova Corps?"
+|-
+! scope="row" | 2024
+| 
+|
+| Upcoming series
+|}
+
+

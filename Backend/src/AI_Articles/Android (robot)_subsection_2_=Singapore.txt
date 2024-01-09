@@ -1,0 +1,5 @@
+Prof Nadia Thalmann, a Nanyang Technological University scientist, directed efforts of the Institute for Media Innovation along with the School of Computer Engineering in the development of a social robot, Nadine. Nadine is powered by software similar to Apple's Siri or Microsoft's Cortana (software)|Cortana. Nadine may become a personal assistant in offices and homes in future, or she may become a companion for the young and the elderly.
+
+Assoc Prof Gerald Seet from the School of Mechanical & Aerospace Engineering and the BeingThere Centre led a three-year R&D development in tele-presence robotics, creating EDGAR. A remote user can control EDGAR with the user's face and expressions displayed on the robot's face in real time. The robot also mimics their upper body movements.
+
+

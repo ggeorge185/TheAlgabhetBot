@@ -1,0 +1,5 @@
+Main|Bioinformatics}}
+An autoencoder ANN was used in bioinformatics, to predict Gene Ontology|gene ontology annotations and gene-function relationships.
+
+In medical informatics, deep learning was used to predict sleep quality based on data from wearables and predictions of health complications from electronic health record data.
+

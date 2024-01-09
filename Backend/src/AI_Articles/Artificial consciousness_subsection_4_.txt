@@ -1,0 +1,10 @@
+One of the most explicit arguments for the plausibility of artificial sentience comes from David Chalmers. His proposal is roughly that the right kinds of computations are sufficient for the possession of a conscious mind. Chalmers proposes that a system implements a computation if "the causal structure of the system mirrors the formal structure of the computation", and that any system that implements certain computations is sentient.
+
+The most controversial part of Chalmers' proposal is that mental properties are "organizationally invariant". Mental properties are of two kinds, psychological and phenomenological. Psychological properties, such as belief and perception, are those that are "characterized by their causal role". Aided by previous work, he says that "[s]ystems with the same causal topology…will share their psychological properties".
+
+Phenomenological properties, unlike psychological properties, are not definable in terms of their causal roles. Establishing that phenomenological properties are a consequence of a causal topology, therefore, requires argument. Chalmers provides his Dancing Qualia argument for this purpose.
+
+Chalmers begins by assuming that his principle of organization invariance is false: that agents with identical causal organizations could have different experiences. He then asks us to conceive of changing one agent into the other by the replacement of parts (neural parts replaced by silicon, say) while preserving its causal organization. The experience of the agent under transformation would change (as the parts were replaced), but there would be no change in causal topology and therefore no means whereby the agent could "notice" the shift in experience; Chalmers considers this state of affairs an implausible ''reducto ad absurdum'' establishing that his principle of organizational invariance must almost certainly be true.
+
+Critics of artificial sentience object that Chalmers begs the question in assuming that all mental properties and external connections are sufficiently captured by abstract causal organization.
+

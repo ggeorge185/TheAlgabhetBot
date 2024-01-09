@@ -1,0 +1,9 @@
+Main|Computer Power and Human Reason}}
+Joseph Weizenbaum
+
+Pamela McCorduck counters that, speaking for women and minorities "I'd rather take my chances with an impartial computer", pointing out that there are conditions where we would prefer to have automated judges and police that have no personal agenda at all.
+
+Weizenbaum was also bothered that AI researchers (and some philosophers) were willing to view the human mind as nothing more than a computer program (a position now known as computationalism). To Weizenbaum, these points suggest that AI research devalues human life.
+
+AI founder John McCarthy (computer scientist)|John McCarthy objects to the moralizing tone of Weizenbaum's critique. "When moralizing is both vehement and vague, it invites authoritarian abuse," he writes. Bill Hibbard writes that "Human dignity requires that we strive to remove our ignorance of the nature of existence, and AI is necessary for that striving."
+

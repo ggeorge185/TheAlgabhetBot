@@ -1,0 +1,20 @@
+class="wikitable"
+|-
+! !! Hopfield !! Boltzmann !! RBM !! Stacked RBM || Helmholtz !! Autoencoder !! VAE 
+|-
+| '''Usage & notables''' || CAM, traveling salesman problem || CAM. The freedom of connections makes this network difficult to analyze. || pattern recognition. used in MNIST digits and speech. || recognition & imagination.   trained with unsupervised pre-training and/or supervised fine tuning. || imagination, mimicry || <!--AE--> language: creative writing, translation.  vision: enhancing blurry images || generate realistic data 
+|-
+| '''Neuron''' || deterministic binary state. Activation =  || stochastic binary Hopfield neuron || ← same. (extended to real-valued in mid 2000s) || ← same || ← same || <!--AE--> language: LSTM. vision: local receptive fields. usually real valued relu activation. || middle layer neurons encode means & variances for Gaussians.  In run mode (inference), the output of the middle layer are sampled values from the Gaussians. 
+|-
+| '''Connections''' || 1-layer with symmetric weights. No self-connections. || 2-layers. 1-hidden & 1-visible. symmetric weights. || ← same. <br>no lateral connections within a layer. || top layer is undirected, symmetric.  other layers are 2-way, asymmetric. || 3-layers: asymmetric weights. 2 networks combined into 1. || <!--AE--> 3-layers. The input is considered a layer even though it has no inbound weights. recurrent layers for NLP. feedforward convolutions for vision. input & output have the same neuron counts. || 3-layers: input, encoder, distribution sampler decoder. the sampler is not considered a layer
+|-
+| '''Inference & energy''' || Energy is given by Gibbs probability measure :<math>E = -\frac12\sum_}+\sum_i</math> || ← same || ← same || <!-- --> || minimize KL divergence || inference is only feed-forward. previous UL networks ran forwards AND backwards || minimize error = reconstruction error - KLD 
+|-
+| '''Training''' || Δw<sub>ij</sub> = s<sub>i</sub>*s<sub>j</sub>, for +1/-1 neuron || Δw<sub>ij</sub> = e*(p<sub>ij</sub> - p'<sub>ij</sub>). This is derived from minimizing KLD. e = learning rate, p' = predicted and p = actual distribution.
+|| Δw<sub>ij</sub> = e*( < v<sub>i</sub> h<sub>j</sub> ><sub>data</sub> - < v<sub>i</sub> h<sub>j</sub> ><sub>equilibrium</sub> ).  This is a form of contrastive divergence w/ Gibbs Sampling.  "<>" are expectations. || ← similar. train 1-layer at a time.  approximate equilibrium state with a 3-segment pass.  no back propagation. || wake-sleep 2 phase training || <!--AE--> back propagate the reconstruction error || reparameterize hidden state for backprop
+|-
+| '''Strength''' || resembles physical systems so it inherits their equations || ← same. hidden neurons act as internal representatation of the external world || faster more practical training scheme than Boltzmann machines || trains quickly.  gives hierarchical layer of features || mildly anatomical. analyzable w/ information theory & statistical mechanics || <!--AE--> || <!--VAE--> 
+|-
+| '''Weakness''' || <!--hopfield--> || hard to train due to lateral connections || <!--RBM--> equilibrium requires too many iterations || integer & real-valued neurons are more complicated. || <!--Helmholtz--> || <!--AE--> || <!--VAE--> 
+|}
+

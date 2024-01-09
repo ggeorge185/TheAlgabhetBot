@@ -1,0 +1,10 @@
+A pivotal part of the Zyro website builder is artificial intelligence (AI). While there are seven AI tools that visitors can use for free, the two flagship ones are AI Writer and AI Heatmap.
+
+AI Writer is an AI texter that's publicly available and which uses the language modeling technology of GPT-2, the precursor of GPT-3. It can generate text about a variety of pre-defined categories, such as food or small business.
+
+The AI Writer tool generated lyrics of three Glastonbury 2020 headline acts. Fans could create AI-driven lyrics written in the style of Taylor Swift, Kendrick Lamar, and Paul McCartney.
+
+The AI Writer tool also generated Shakespeare-inspired sonnets for the National Poetry Day in the United Kingdom.
+
+AI Heatmap predicts website visitor behavior by generating heatmaps, thus allowing website owners to optimize their websites for conversions.
+

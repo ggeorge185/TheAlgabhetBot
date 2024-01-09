@@ -1,0 +1,23 @@
+As an example, as of 2012 ConceptNet includes these 21 language-independent relations:
+
+* IsA (An "Recreational vehicle|RV" is a "vehicle")
+* UsedFor 
+* HasA (A "rabbit" has a "tail")
+* CapableOf
+* Desires
+* CreatedBy ("cake" can be created by "baking")
+* PartOf 
+* Causes
+* LocatedNear
+* AtLocation (Somewhere a "Cook (profession)|Cook" can be at a "restaurant")
+* DefinedAs
+* SymbolOf (''X'' represents ''Y'')
+* ReceivesAction ("cake" can be "Eating|eaten")
+* HasPrerequisite (''X'' cannot do ''Y'' unless ''A'' does ''B'')
+* MotivatedByGoal (You would "bake" because you want to "eat")
+* CausesDesire ("baking" makes you want to "follow recipe")
+* MadeOf
+* HasFirstSubevent (The first thing required when you're doing ''X'' is for entity ''Y'' to do ''Z'')
+* HasSubevent ("eat" has subevent "swallow")
+* HasLastSubevent
+

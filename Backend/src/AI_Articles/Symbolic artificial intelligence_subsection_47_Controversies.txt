@@ -1,0 +1,2 @@
+Controversies arose from early on in symbolic AI, both within the field—e.g., between logicists (the pro-logic Neats and scruffies|"neats") and non-logicists (the anti-logic Neats and scruffies|"scruffies")—and between those who embraced AI but rejected symbolic approaches—primarily Connectionism|connectionists—and those outside the field. Critiques from outside of the field were primarily from philosophers, on intellectual grounds, but also from funding agencies, especially during the two AI winters.
+

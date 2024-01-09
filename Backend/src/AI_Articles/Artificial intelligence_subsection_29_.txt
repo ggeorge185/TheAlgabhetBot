@@ -1,0 +1,15 @@
+Further|Information privacy|Artificial intelligence and copyright}}
+
+Machine learning algorithms require large amounts of data. The techniques used to acquire this data have raised concerns about privacy, surveillance and copyright.
+
+<!-- PRIVACY PROBLEM -->
+Technology companies collect a wide range of data from their users, including online activity, geolocation data, video and audio.
+For example, in order to build speech recognition algorithms, Amazon (company)|Amazon have recorded millions of private conversations and allowed temporary worker|temps to listen to and transcribe some of them.
+Opinions about this widespread surveillance range from those who see it as a necessary evil to those for whom it is clearly unethical and a violation of the right to privacy.
+
+<!-- PRIVACY SOLUTIONS -->
+AI developers argue that this is the only way to deliver valuable applications. and have developed several techniques that attempt to preserve privacy while still obtaining the data, such as data aggregation, de-identification and differential privacy. Since 2016, some privacy experts, such as Cynthia Dwork, began to view privacy in terms of fairness (machine learning)|fairness. Brian Christian wrote that experts have pivoted "from the question of 'what they know' to the question of 'what they're doing with it'.". 
+
+<!-- COPYRIGHT AND GENERATIVE AI -->
+Generative AI is often trained on unlicensed copyrighted works, including in domains such as images or computer code; the output is then used under a rationale of "fair use". Also website owners who do not wish to have their copyrighted content be AI indexed or ‘scraped’ can add code to their site, as you would, if you did not want your website to be indexed by a search engine which is currently available to certain services such as OpenAI. Experts disagree about how well, and under what circumstances, this rationale will hold up in courts of law; relevant factors may include "the purpose and character of the use of the copyrighted work" and "the effect upon the potential market for the copyrighted work". In 2023, leading authors (including John Grisham and Jonathan Franzen) sued AI companies for using their work to train generative AI.
+

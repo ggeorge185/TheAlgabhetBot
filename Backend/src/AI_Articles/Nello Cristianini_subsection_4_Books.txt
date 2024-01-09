@@ -1,0 +1,6 @@
+2000: ''An Introduction to Support Vector Machines and Other Kernel-based Learning Methods'', Nello Cristianini and John Shawe-Taylor
+*2004: ''Kernel Methods for Pattern Analysis'', Nello Cristianini and John Shawe-Taylor
+*2006: ''Intro Computational Genomics'', Matthew William Hahn and Nello Cristianini
+*2014: ''The Last Summer: Story of Lucy Christalnigg and the End of a World'', Nello Cristianini
+*2023: ''[https://www.routledge.com/The-Shortcut-Why-Intelligent-Machines-Do-Not-Think-Like-Us/Cristianini/p/book/9781032305097 The Shortcut: Why Intelligent Machines Do Not Think Like Us]'', Nello Cristianini
+

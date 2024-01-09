@@ -1,0 +1,4 @@
+IMEC performs research in smart energy, ranging from developing ways to actively and cost-effectively plan, deploy, and manage smart grid networks up to improving the efficiency, production and storage cost of (solar) energy.  Considerable advances have been made in solar cell and solid state battery technologies.
+
+Together with KU Leuven, VITO, and UHasselt, IMEC set up a separate R&D hub to perform research into sustainable energy and intelligent energy systems. The project is named EnergyVille and employs 400 researchers whose work centers around six interdisciplinary domains: photovoltaics, electrical and thermal storage, power control and conversion, electrical and thermal networks, buildings and districts, strategies and markets.
+

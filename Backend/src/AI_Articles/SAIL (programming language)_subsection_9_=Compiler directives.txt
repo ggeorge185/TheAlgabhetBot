@@ -1,0 +1,4 @@
+As a systems programming language, performance was important and to help with this, SAIL included a  which used string-replacement in a fashion similar to C's  macros. A difference was that the delimiters around the substitution had to be defined, for instance [100];}}. One common use of these macros was to define character constants like , as these were not part of the basic language. Another was to redefine the  statement to the shorter .
+
+The system also included a conditional compilation system using statements, as opposed to pre-processor directives as found in C.  would compile the blocks between the corresponding  and  or . The condition in the IFCR must be known at compile time, so, like C, was normally a d value.
+

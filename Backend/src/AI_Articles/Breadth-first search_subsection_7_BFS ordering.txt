@@ -1,0 +1,8 @@
+An enumeration of the vertices of a graph is said to be a BFS ordering if it is the possible output of the application of BFS to this graph.
+
+Let <math>G=(V,E)</math> be a graph  with <math>n</math> vertices.  Recall that <math>N(v)</math> is the set of neighbors of <math>v</math>.
+Let <math>\sigma=(v_1,\dots,v_m)</math> be a list of distinct elements of <math>V</math>, for <math>v\in V\setminus\</math>, let <math>\nu_(v)</math> be the least <math>i</math> such that <math>v_i</math> is a neighbor of <math>v</math>, if such a <math>i</math> exists, and be <math>\infty</math> otherwise.
+
+Let <math>\sigma=(v_1,\dots,v_n)</math> be an enumeration of the vertices of <math>V</math>.
+The enumeration <math>\sigma</math> is said to be a BFS ordering (with source <math>v_1</math>) if, for all <math>1<i\le n</math>, <math>v_i</math> is the vertex <math>w\in V\setminus\\}</math> such that <math>\nu_)}(w)</math> is minimal. Equivalently, <math>\sigma</math> is a BFS ordering if, for all <math>1\le i<j<k\le n</math> with <math>v_i\in N(v_k)\setminus N(v_j)</math>, there exists a neighbor  <math>v_m</math> of <math>v_j</math> such that <math>m<i</math>.
+

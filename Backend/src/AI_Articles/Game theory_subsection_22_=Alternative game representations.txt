@@ -1,0 +1,5 @@
+see also|Succinct game}}
+
+Alternative game representation forms are used for some subclasses of games or adjusted to the needs of interdisciplinary research. In addition to classical game representations, some of the alternative representations also encode time related aspects.
+
+

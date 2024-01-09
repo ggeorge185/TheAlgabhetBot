@@ -1,0 +1,26 @@
+Mihai Nadin – anticipation research
+* Makoto Nagao – machine translation, natural language processing, digital library
+* Frieder Nake – pioneered computer arts
+* Bonnie Nardi – human–computer interaction
+* Peter Naur (1928–2016) – Backus–Naur form (BNF), ALGOL 60, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Roger Needham – computer security
+* James G. Nell – Generalised Enterprise Reference Architecture and Methodology (GERAM)
+* Greg Nelson (computer scientist)|Greg Nelson (1953–2015) – satisfiability modulo theories, extended static checking, program verification, Modula-3 committee, ''Simplify'' theorem prover in ESC/Java
+* Bernard de Neumann – massively parallel autonomous cellular processor, software engineering research
+* Klara Dan von Neumann (1911–1963) – early computers, ENIAC programmer and control designer
+* John von Neumann (1903–1957) – early computers, Von Neumann architecture|von Neumann machine, set theory, functional analysis, mathematics pioneer, linear programming, quantum mechanics
+* Allen Newell – artificial intelligence, ''Computer Structures''
+* Max Newman – Colossus computer, MADM
+* Andrew Ng – artificial intelligence, machine learning, robotics
+* Nils John Nilsson (1933–2019) – artificial intelligence
+* G.M. Nijssen – Nijssen's Information Analysis Methodology (NIAM) object–role modeling
+* Tobias Nipkow – proof assistance
+* Maurice Nivat – theoretical computer science, ''Theoretical Computer Science (journal)|Theoretical Computer Science'' journal, ALGOL, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Phiwa Nkambule – Fintech, artificial intelligence, machine learning, robotics
+* Jerre Noe – computerized banking
+* Peter Nordin – artificial intelligence, genetic programming, evolutionary robotics
+* Donald Norman – user interfaces, usability
+* Peter Norvig – artificial intelligence, Director of Research at Google
+* George Novacky – University of Pittsburgh: assistant department chair, senior lecturer in computer science, assistant dean of CAS for undergraduate studies
+* Kristen Nygaard – Simula, object-oriented programming
+

@@ -1,0 +1,2 @@
+Scholars manipulate public opinion, or automate cyber attacks. These worries are a practical concern for companies like OpenAI which host powerful AI tools online. In order to prevent misuse, OpenAI has built detection systems that flag or restrict users based on their activity.
+

@@ -1,0 +1,8 @@
+AIS emerged in the mid-1980s with articles authored by Farmer, Packard and Perelson (1986) and Bersini and Varela (1990) on immune networks. However, it was only in the mid-1990s that AIS became a field in its own right. Forrest ''et al.'' (on negative selection (immunology)|negative selection) and Kephart ''et al.'' published their first papers on AIS in 1994, and Dasgupta conducted extensive studies on Negative Selection Algorithms. Hunt and Cooke started the works on Immune Network models in 1995; Timmis and Neal continued this work and made some improvements. De Castro & Von Zuben's and Nicosia & Cutello's work (on clonal selection) became notable in 2002. The first book on Artificial Immune Systems was edited by Dasgupta in 1999.
+
+Currently, new ideas along AIS lines, such as danger theory and algorithms inspired by the innate immune system, are also being explored. Although some believe that these new ideas do not yet offer any truly 'new' abstract, over and above existing AIS algorithms. This, however, is hotly debated, and the debate provides one of the main driving forces for AIS development at the moment. Other recent developments involve the exploration of degeneracy (biology)|degeneracy in AIS models, which is motivated by its hypothesized role in open ended learning and evolution.
+
+Originally AIS set out to find efficient abstractions of processes found in the immune system but, more recently, it is becoming interested in modelling the biological processes and in applying immune algorithms to bioinformatics problems.
+
+In 2008, Dasgupta and Nino  published a textbook on immunological computation which presents a compendium of up-to-date work related to immunity-based techniques and describes a wide variety of applications.
+

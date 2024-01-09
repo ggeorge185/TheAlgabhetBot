@@ -1,0 +1,11 @@
+Programmer|Programmer (Software developer)
+* Teacher/Professor
+* Software engineer
+* Software architect
+* Software tester
+* Hardware engineer
+* Data analyst
+* Interaction designer
+* Network administrator
+* Data scientist
+

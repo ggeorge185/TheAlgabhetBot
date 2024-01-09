@@ -1,0 +1,2 @@
+The Journal of Artificial Intelligence Research (JAIR) is dedicated to the rapid dissemination of important research results to the global artificial intelligence (AI) community. The journal's scope encompasses all areas of AI, including Intelligent agent|agents and multi-agent systems, automated reasoning, Constraint programming|constraint processing and search, knowledge representation, machine learning, natural language, automated planning and scheduling|planning and scheduling, robotics and vision, and uncertainty in AI.
+

@@ -1,0 +1,2 @@
+Based on statistical models, the Wiener filter minimizes the mean square error between the original image and the filtered image. It is particularly useful for Denoise|reducing noise and enhancing blurred images.
+

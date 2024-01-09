@@ -1,0 +1,5 @@
+File:Automated online assistant.png|thumb|170px|An [[automated online assistant providing customer service on a web page]]
+AI underlies Avatar (computing)#Artificial intelligence|avatars (automated online assistants) on web pages. It can reduce operation and training costs.
+
+A Google app analyzes language and converts speech into text. The platform can identify angry customers through their language and respond appropriately. Amazon uses a chatbot for customer service that can perform tasks like checking the status of an order, cancelling orders, offering refunds and connecting the customer with a human representative.
+

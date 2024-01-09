@@ -1,0 +1,2 @@
+Taking advantage of Large language model|Large Language Models, in 2023 the research company AI21 Labs created an online social experiment titled "Human or Not?".  It was played more than 10 million times by more than 2 million people. It is the biggest Turing-style experiment to that date. The results showed that 32% of people couldn't distinguish between humans and machines.
+

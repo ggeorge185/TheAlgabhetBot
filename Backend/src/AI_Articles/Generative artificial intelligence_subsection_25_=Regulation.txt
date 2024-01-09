@@ -1,0 +1,7 @@
+Main article|Regulation of artificial intelligence}}
+In the European Union, the proposed Artificial Intelligence Act includes requirements to disclose copyrighted material used to train generative AI systems, and to label any AI-generated output as such.
+
+In the United States, a group of companies including OpenAI, Alphabet, and Meta signed a voluntary agreement with the White House in July 2023 to watermark AI-generated content.
+
+In China, the Interim Measures for the Management of Generative AI Services introduced by the Cyberspace Administration of China regulates any public-facing generative AI. It includes requirements to watermark generated images or videos, regulations on training data and label quality, restrictions on personal data collection, and a guideline that generative AI must "adhere to socialist core values".
+

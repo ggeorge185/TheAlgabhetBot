@@ -1,0 +1,9 @@
+Lawyers for the company claim that student work is covered under the theory of implied license to evaluate, since it would be pointless to write the essays if they were not meant to be graded. That implied license, the lawyers argue, thus grants Turnitin permission to copy, reproduce and preserve the works. The company's lawyers further claim that dissertations and thesis|theses also carry with them an implied permission to archive in a publicly accessible collection such as a university library.
+
+University of Minnesota Law School professor Dan Burk countered that the company's use of the papers may not meet the fair-use test for several reasons:
+*The company copies the entire paper, not just a portion
+*Students' work is often original, interpretive and creative rather than just a compilation of established facts
+*Turnitin is a commercial enterprise
+
+When a group of students filed suit against Turnitin on that basis, in ''Vanderhye et al. v. iParadigms LLC'', the district court found the practice fell within fair use; on appeal, the United States Court of Appeals for the Fourth Circuit affirmed.
+

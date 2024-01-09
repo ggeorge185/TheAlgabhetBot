@@ -1,0 +1,6 @@
+CS50 offers several follow-up courses, including:
+
+* CS50 Computer Science for Web Programming - a more in-depth look at HTML, CSS, and JavaScript, as well as frameworks including Django (web framework)|Django and React (software)|React.
+* CS50's Introduction to Artificial Intelligence with Python (programming language)|Python - covers search algorithms, machine learning, and artificial intelligence.
+* CS50's Introduction to Game Development - teaches the Unity (game engine)|Unity and Löve (game engine)|Löve 2D game engines, as well as 2-dimensions|2D and 3D computer graphics|3D game principles.
+

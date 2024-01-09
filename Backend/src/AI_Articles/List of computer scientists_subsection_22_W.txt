@@ -1,0 +1,41 @@
+Eiiti Wada – ALGOL N, IFIP Working Group 2.1|IFIP WG 2.1 member, Japanese Industrial Standards (JIS) X 0208, 0212, Happy Hacking Keyboard
+* David A. Wagner|David Wagner – security, cryptography
+* David Waltz
+* James Z. Wang
+* Steve Ward (computer scientist)|Steve Ward
+* Manfred K. Warmuth – computational learning theory
+* David H. D. Warren – artificial intelligence|AI, logic programming, Prolog, Warren Abstract Machine (WAM)
+* Kevin Warwick – artificial intelligence
+* Jan Weglarz
+* Philip Wadler – functional programming, Haskell, Monad (functional programming)|Monad, Java (programming language)|Java, logic
+* Peter Wegner – object-oriented programming, interaction (computer science)
+* Joseph Henry Wegstein – ALGOL 58, ALGOL 60, IFIP Working Group 2.1|IFIP WG 2.1 member, data processing technical standards, fingerprint analysis
+* Peter J. Weinberger – programming language design, the 'w' in AWK
+* Mark Weiser – ubiquitous computing
+* Joseph Weizenbaum – artificial intelligence, ELIZA
+* David Wheeler (computer scientist)|David Wheeler – EDSAC, subroutines
+* Franklin H. Westervelt – use of computers in engineering education, conversational use of computers, Michigan Terminal System (MTS), ARPANET, distance learning
+* Steve Whittaker – human computer interaction, computer support for cooperative work, social media
+* Jennifer Widom – nontraditional data management
+* Gio Wiederhold – database management systems
+* Norbert Wiener – Cybernetics
+* Adriaan van Wijngaarden – Dutch pioneer; ARRA, ALGOL, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Mary Allen Wilkes – LINC developer, assembler-linker designer
+* Maurice Vincent Wilkes – microprogramming, EDSAC
+* Yorick Wilks – computational linguistics, artificial intelligence
+* James H. Wilkinson – numerical analysis
+* Sophie Wilson – ARM architecture family|ARM architecture
+* Shmuel Winograd – Coppersmith–Winograd algorithm
+* Terry Winograd – artificial intelligence, SHRDLU
+* Patrick Winston – artificial intelligence
+* Niklaus Wirth – ALGOL W, IFIP Working Group 2.1|IFIP WG 2.1 member, Pascal (programming language)|Pascal, Modula, Oberon (programming language)|Oberon
+* Neil Wiseman – computer graphics
+* Dennis E. Wisnosky – Integrated Computer-Aided Manufacturing (ICAM), IDEF
+* Stephen Wolfram – Mathematica
+* Mike Woodger – Pilot ACE, ALGOL 60, Ada (programming language)
+* Philip Woodward – ambiguity function, sinc function, Dirac comb|comb operator, rep operator, ALGOL 68-R
+* Beatrice Helen Worsley – wrote the first PhD dissertation involving modern computers; was one of the people who wrote Transcode
+* Steve Wozniak – engineered first generation personal computers at Apple Computer
+* Jie Wu – computer networks
+* William Wulf – BLISS system programming language + optimizing compiler, Hydra (operating system)|Hydra operating system, Tartan Laboratories
+

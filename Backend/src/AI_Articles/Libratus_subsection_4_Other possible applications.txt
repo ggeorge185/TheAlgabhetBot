@@ -1,0 +1,2 @@
+While Libratus' first application was to play poker, its designers have a much broader mission in mind for the AI. The investigators designed the AI to be able to learn any game or situation in which incomplete information is available and "opponents" may be hiding information or even engaging in deception. Because of this Sandholm and his colleagues are proposing to apply the system to other, real-world problems as well, including cybersecurity, business negotiations, or medical planning.
+

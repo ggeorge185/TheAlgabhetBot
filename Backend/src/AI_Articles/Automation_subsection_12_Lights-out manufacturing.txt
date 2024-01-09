@@ -1,0 +1,11 @@
+Main|Lights out (manufacturing)}}
+Lights-out manufacturing is a production system with no human workers, to eliminate labor costs.
+
+Lights out manufacturing grew in popularity in the U.S. when General Motors in 1982 implemented humans "hands-off" manufacturing to "replace risk-averse bureaucracy with automation and robots". However, the factory never reached full "lights out" status.
+
+The expansion of lights out manufacturing requires:
+* Reliability of equipment
+* Long-term mechanic capabilities
+* Planned preventive maintenance
+* Commitment from the staff
+

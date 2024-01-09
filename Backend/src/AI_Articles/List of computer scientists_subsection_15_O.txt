@@ -1,0 +1,10 @@
+Martin Odersky – Scala (programming language)|Scala programming language
+* Peter O'Hearn – separation logic, bunched logic, Infer Static Analyzer
+* T. William Olle – Ferranti Mercury
+* Steve Omohundro
+* Severo Ornstein
+* John O'Sullivan (engineer)|John O'Sullivan – Wi-Fi
+* John Ousterhout – Tcl programming language
+* Mark Overmars – video game programming
+* Susan Owicki – interference freedom
+

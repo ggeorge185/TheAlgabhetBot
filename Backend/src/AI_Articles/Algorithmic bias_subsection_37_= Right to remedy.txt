@@ -1,0 +1,2 @@
+From a regulatory perspective, the Toronto Declaration calls for applying a human rights framework to harms caused by algorithmic bias. This includes legislating expectations of due diligence on behalf of designers of these algorithms, and creating accountability when private actors fail to protect the public interest, noting that such rights may be obscured by the complexity of determining responsibility within a web of complex, intertwining processes. Others propose the need for clear liability insurance mechanisms.
+

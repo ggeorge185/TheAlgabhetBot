@@ -1,0 +1,9 @@
+The agencies which funded AI research (such as the British government, DARPA and United States National Research Council|NRC) became frustrated with the lack of progress and eventually cut off almost all funding for undirected research into AI. The pattern began as early as 1966 when the ALPAC report appeared criticizing machine translation efforts. After spending 20 million dollars, the United States National Research Council|NRC ended all support.
+In 1973, the Lighthill report on the state of AI research in the UK criticized the utter failure of AI to achieve its "grandiose objectives" and led to the dismantling of AI research in that country.
+(The report specifically mentioned the combinatorial explosion problem as a reason for AI's failings.)
+DARPA was deeply disappointed with researchers working on the speech recognition|Speech Understanding Research program at Carnegie Mellon University|CMU and canceled an annual grant of three million dollars.
+By 1974, funding for AI projects was hard to find.
+
+The end of funding occurred even earlier for neural network research, partly due to lack of results and partly due to competition from symbolic AI research. The MINOS project ran out of funding in 1966. Rosenblatt failed to secure continued funding in the 1960s.
+However, there was another issue: since the passage of the Mansfield Amendment in 1969, DARPA had been under increasing pressure to fund "mission-oriented direct research, rather than basic undirected research". Funding for the creative, freewheeling exploration that had gone on in the 60s would not come from DARPA. Instead, the money was directed at specific projects with clear objectives, such as autonomous tanks and battle management systems.
+

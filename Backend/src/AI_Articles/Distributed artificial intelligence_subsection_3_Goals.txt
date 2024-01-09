@@ -1,0 +1,10 @@
+The objectives of Distributed Artificial Intelligence are to solve the automated reasoning|reasoning, planning, learning and perception problems of artificial intelligence, especially if they require large data, by distributing the problem to autonomous processing nodes (agents). To reach the objective, DAI requires:
+* A Distributed computing|distributed system with robust and elastic computation on unreliable and failing resources that are loosely coupled
+* Coordination of the actions and communication of the nodes
+* Subsamples of large data sets and online machine learning
+
+There are many reasons for wanting to distribute intelligence or cope with multi-agent systems. Mainstream problems in DAI research include the following:
+* Parallel problem solving: mainly deals with how classic artificial intelligence concepts can be modified, so that multiprocessor systems and clusters of computers can be used to speed up calculation.
+* Distributed problem solving (DPS): the concept of Intelligent agent|agent, autonomous entities that can communicate with each other, was developed to serve as an abstraction for developing DPS systems. See below for further details.
+* Multi-Agent Based Simulation (MABS): a branch of DAI that builds the foundation for simulations that need to analyze not only phenomena at macroscopic|macro level but also at microscopic scale|micro level, as it is in many social simulation scenarios.
+

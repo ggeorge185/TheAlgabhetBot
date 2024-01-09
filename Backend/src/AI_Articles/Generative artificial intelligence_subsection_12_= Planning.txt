@@ -1,0 +1,4 @@
+The terms '''generative AI planning''' or '''generative planning''' were used in the 1980s and 1990s to refer to AI planning systems, especially computer-aided process planning, used to generate sequences of actions to reach a specified goal.
+
+Generative AI planning systems used symbolic AI methods such as state space search and constraint satisfaction and were a "relatively mature" technology by the early 1990s. They were used to generate crisis action plans for military use, process plans for manufacturing
+

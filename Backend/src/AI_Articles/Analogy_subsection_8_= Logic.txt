@@ -1,0 +1,8 @@
+Logicians analyze how analogical reasoning is used in Argument from analogy|arguments from analogy.
+
+<!--Redirect target-->
+An analogy can be stated using ''is to'' and ''as'' when representing the analogous relationship between two pairs of expressions, for example, "Smile is to mouth, as wink is to eye."  In the field of mathematics and logic, this can be formalized with Colon (punctuation)#Mathematics and logic|colon notation to represent the relationships, using single colon for ratio, and double colon for equality.
+
+In the field of testing, the colon notation of ratios and equality is often borrowed, so that the example above might be rendered,  "Smile : mouth :: wink : eye" and pronounced the same way.
+
+

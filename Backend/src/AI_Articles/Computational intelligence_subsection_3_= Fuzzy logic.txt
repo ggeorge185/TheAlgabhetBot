@@ -1,0 +1,2 @@
+As explained before, fuzzy logic, one of CI's main principles, consists in measurements and process modelling made for real life's complex processes. enabling the process and the learning from experiential data. Working like human beings, fault tolerance is also one of the main assets of this principle. Furthermore, neural networks techniques share with the fuzzy logic ones the advantage of enabling data clustering.
+

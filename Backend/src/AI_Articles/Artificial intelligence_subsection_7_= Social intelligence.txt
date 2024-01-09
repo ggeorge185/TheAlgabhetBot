@@ -1,0 +1,6 @@
+File:Kismet-IMG 6007-gradient.jpg|thumb|[[Kismet (robot)|Kismet, a robot head which was made in the 1990s; a machine that can recognize and simulate emotions.]]
+
+Affective computing is an interdisciplinary umbrella that comprises systems that recognize, interpret, process or simulate human Affect (psychology)|feeling, emotion and mood. For example, some virtual assistants are programmed to speak conversationally or even to banter humorously; it makes them appear more sensitive to the emotional dynamics of human interaction, or to otherwise facilitate human–computer interaction.
+
+However, this tends to give naïve users an unrealistic conception of the intelligence of existing computer agents. Moderate successes related to affective computing include textual sentiment analysis and, more recently, multimodal sentiment analysis, wherein AI classifies the affects displayed by a videotaped subject.
+

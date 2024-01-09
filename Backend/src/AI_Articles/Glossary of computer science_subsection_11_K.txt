@@ -1,0 +1,5 @@
+glossary}}
+
+ to load into . As the center of the operating system, the kernel needs to be small, efficient, and loaded into a protected area in the memory so that it cannot be overwritten. It may be responsible for such essential tasks as disk drive management, file management, memory management, process management, etc.}}
+
+

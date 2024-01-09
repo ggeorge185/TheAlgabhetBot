@@ -1,0 +1,6 @@
+Unreferenced section|date=May 2019}}
+* Current technology is unable to automate all the desired tasks.
+* Many operations using automation have large amounts of invested capital and produce high volumes of products, making malfunctions extremely costly and potentially hazardous. Therefore, some personnel is needed to ensure that the entire system functions properly and that safety and product quality are maintained.
+* As a process becomes increasingly automated, there is less and less labor to be saved or quality improvement to be gained. This is an example of both diminishing returns and the logistic function.
+* As more and more processes become automated, there are fewer remaining non-automated processes. This is an example of the exhaustion of opportunities. New technological paradigms may, however, set new limits that surpass the previous limits.
+

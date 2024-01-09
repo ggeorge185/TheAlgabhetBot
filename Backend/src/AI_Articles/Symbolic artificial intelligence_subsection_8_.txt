@@ -1,0 +1,2 @@
+Early work covered both applications of formal reasoning emphasizing first-order logic, along with attempts to handle Commonsense reasoning|common-sense reasoning in a less formal manner.
+

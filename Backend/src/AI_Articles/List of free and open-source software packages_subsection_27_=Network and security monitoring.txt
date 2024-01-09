@@ -1,0 +1,4 @@
+Main category|Free network management software}}
+*Snort (software)|Snort – Network intrusion detection system (IDS) and intrusion prevention system (IPS)
+*OpenVAS – software framework of several services and tools offering Vulnerability (computing)|vulnerability scanning and vulnerability management
+

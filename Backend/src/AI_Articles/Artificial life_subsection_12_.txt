@@ -1,0 +1,2 @@
+These simulations have creatures that learn and grow using neural nets or a close derivative.  Emphasis is often, although not always, on learning rather than on natural selection.
+

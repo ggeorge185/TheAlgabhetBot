@@ -1,0 +1,16 @@
+main|Video game console emulator}}
+*MAME – Multi-platform emulator designed to recreate the hardware of arcade game systems 
+*Multi Emulator Super System|MESS – Multi-platform emulator designed to recreate the hardware of video game consoles 
+*RetroArch – Cross-platform front-end for emulators, game engines and video games
+*Snes9x – A Super Nintendo Entertainment System|Super Nintendo emulator 
+*Stella (emulator)|Stella – Atari 2600 emulator 
+*PCSX-Reloaded|PCSX – A PlayStation emulator designed to recreate the hardware of the original PlayStation (console)|PlayStation system
+*PCSX2 - A PlayStation 2 emulator designed to recreate the hardware of PlayStation 2 system
+*PPSSPP - A PlayStation Portable emulator designed to recreate the hardware of PlayStation Portable system
+*Project64 – A Nintendo 64 emulator 
+*RPCS3 - A PlayStation 3 emulator designed to recreate the hardware of PlayStation 3 system
+*Dolphin (emulator) - A GameCube and Wii emulator designed to recreate the hardware of GameCube and Wii systems
+*Citra (emulator) - A Nintendo 3DS and Wii emulator designed to recreate the hardware of Nintendo 3DS systems
+*Cemu - A Wii U emulator designed to recreate the hardware of Wii U systems
+*Yuzu (emulator) - a Nintendo Switch emulator
+

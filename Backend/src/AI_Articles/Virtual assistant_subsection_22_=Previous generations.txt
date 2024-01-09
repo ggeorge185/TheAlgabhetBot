@@ -1,0 +1,2 @@
+In previous generations of text chat-based virtual assistants, the assistant was often represented by an avatar (computing)|avatar (a.k.a. ''interactive online character'' or ''automated character'') — this was known as an embodied agent.
+

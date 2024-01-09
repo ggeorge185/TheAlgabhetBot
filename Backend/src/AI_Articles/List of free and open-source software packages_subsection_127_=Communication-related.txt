@@ -1,0 +1,14 @@
+Asterisk PBX|Asterisk – Telephony and Voice over IP|VoIP server
+*Ekiga – Video conferencing application for GNOME and Microsoft Windows
+*Conference XP|ConferenceXP – video conferencing application for Windows XP or later
+*FreePBX – Front-end and advanced PBX configuration for Asterisk PBX|Asterisk
+*FreeSWITCH – Telephony platform
+*Jami (software)|Jami – Cross-platform, peer to peer instant-messaging and video-calling protocol that offers end-to-end encryption and SIP client
+*Jitsi – Java (programming language)|Java VoIP and Instant Messaging client
+*QuteCom – Voice, video, and IM client application
+*Enterprise Communications System sipXecs – SIP Communications Server
+*Slrn – News client|Newsreader
+*Telegram (software)|Telegram
+*Twinkle (software)|Twinkle – VoIP softphone
+*Tox (protocol)|Tox – Cross-platform, peer-to-peer instant-messaging and video-calling protocol that offers end-to-end encryption
+

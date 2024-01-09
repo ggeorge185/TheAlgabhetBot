@@ -1,0 +1,6 @@
+The field of artificial immune systems (AIS) is concerned with abstracting the structure and function of the immune system to computational systems, and investigating the application of these systems towards solving computational problems from mathematics, engineering, and information technology. AIS is a sub-field of Bio-inspired computing|biologically inspired computing, and Natural computing|natural computation, with interests in machine learning and belonging to the broader field of artificial intelligence.
+
+
+
+AIS is distinct from computational immunology and theoretical biology that are concerned with simulating immunology using computational and mathematical models towards better understanding the immune system, although such models initiated the field of AIS and continue to provide a fertile ground for inspiration. Finally, the field of AIS is not concerned with the investigation of the immune system as a substrate for computation, unlike other fields such as DNA computing.
+

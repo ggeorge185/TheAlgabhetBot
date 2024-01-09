@@ -1,0 +1,45 @@
+Track listing
+| extra_column = Singer(s)
+| title1 = Sheeshe Ki Gudiya
+| length1 = 4:25
+| lyrics1 = Kausar Munir
+| extra1 = Hesham Abdul Wahab
+| title2 = Saaya Tera
+| length2 = 3:24
+| lyrics2 = Kausar Munir
+| extra2 = Chinmayi Sripaada, Anurag Kulkarni
+| title3 = Sun Liya
+| length3 = 1:04
+| lyrics3 = Kausar Munir
+| extra3 = Chinmayi Sripaada, Anurag Kulkarni
+| title4 = Pyara Laage
+| length4 = 3:39
+| lyrics4 = Krishna Kanth
+| extra4 = Hesham Abdul Wahab, Shakthisree Gopalan
+| title5 = Itni Itni
+| length5 = 1:06
+| lyrics5 = Kausar Munir
+| extra5 = Bhavana Isvi
+| title6 = Aye Khuda
+| length6 = 3:30
+| lyrics6 = Kausar Munir
+| extra6 = Karthik
+| title7 = Pehla Pehla
+| length7 = 3:35
+| lyrics7 = Kausar Munir
+| extra7 = Hesham Abdul Wahab
+| title8 = Odiyamma
+| length8 = 3:15
+| lyrics8 = Raqueeb Alam
+| extra8 = Nakash Aziz, Vishnupriya Ravi, Chinmayi Sripaada
+| title9 = Na Bhoola Tujhe
+| length9 = 4:17
+| lyrics9 = Kausar Munir
+| extra9 = Geetha Madhuri, Vineeth Srinivasan
+| title10 = Needhe Needhe
+| length10 = 3:15
+| lyrics10 = Kausar Munir
+| extra10 = Aavani Malhar
+| total_length = 31:32
+}}
+

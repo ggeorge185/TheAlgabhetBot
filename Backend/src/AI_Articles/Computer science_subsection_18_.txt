@@ -1,0 +1,6 @@
+main|Computational science|Computational finance|Computational engineering}}
+
+Scientific computing (or computational science) is the field of study concerned with constructing scientific modelling|mathematical models and numerical analysis|quantitative analysis techniques and using computers to analyze and solve Science|scientific problems. A major usage of scientific computing is simulation of various processes, including computational fluid dynamics, physical, electrical, and electronic systems and circuits, as well as societies and social situations (notably war games) along with their habitats, among many others. Modern computers enable optimization of such designs as complete aircraft. Notable in electrical and electronic circuit design are SPICE, as well as software for physical realization of new (or modified) designs. The latter includes essential design software for integrated circuits.
+
+
+

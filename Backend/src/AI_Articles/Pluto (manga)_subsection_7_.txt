@@ -1,0 +1,44 @@
+Episode table 
+|background= 
+|overall= 
+|title= 
+|titleR=
+|writer=
+|writerR= 
+|director= 
+|directorR= 
+|aux2=
+|aux2T=Storyboarded by
+|aux2R=
+|aux3=
+|aux3T=Assistant studio
+|aux3R=
+|airdate= 
+|airdateR=
+|episodes=
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+
+| ShortSummary        =
+}}
+}}
+

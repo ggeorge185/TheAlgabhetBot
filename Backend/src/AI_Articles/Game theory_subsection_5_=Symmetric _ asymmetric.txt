@@ -1,0 +1,6 @@
+Payoff matrix |Name=An asymmetric game |2L=E |2R=F |1U=E |UL=1, 2 |UR=0, 0 |1D=F |DL=0, 0 |DR=1, 2}}
+
+A symmetric game is a game where each player earns the same payoff when making the same choice. In other words, the identity of the player does not change the resulting game facing the other player. Many of the commonly studied 2×2 games are symmetric. The standard representations of game of chicken|chicken, the prisoner's dilemma, and the stag hunt are all symmetric games. Some scholars would consider certain asymmetric games as examples of these games as well. However, the most common payoffs for each of these games are symmetric.
+
+The most commonly studied asymmetric games are games where there are not identical strategy sets for both players. For instance, the ultimatum game and similarly the dictator game have different strategies for each player. It is possible, however, for a game to have identical strategies for both players, yet be asymmetric. For example, the game pictured in this section's graphic is asymmetric despite having identical strategy sets for both players.
+

@@ -1,0 +1,8 @@
+AlphaGo (white) won the fifth game.
+
+Lee, playing black, opened in a similar fashion to the first game and then began to stake out territory in the right and top left corners – a similar strategy to the one he employed successfully in game 4 – while AlphaGo gained influence in the centre of the board. The game remained even until white moves 48 to 58, which AlphaGo played in the bottom right. These moves unnecessarily lost ko threats and aji, allowing Lee to take the lead.
+
+
+
+
+

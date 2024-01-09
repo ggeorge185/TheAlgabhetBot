@@ -1,0 +1,2 @@
+Any study or modelling when combined with experimentation needs to be able to address the questions being asked. Computational social science deals with large scale data and the challenge becomes much more evident as the scale grows. How would one design informative simulations on a large scale? And even if a large scale simulation is brought up, how is the evaluation supposed to be performed?
+

@@ -1,0 +1,13 @@
+Symbolic representations of knowledge
+* Ontology (information science)
+** Upper ontology
+** Domain ontology
+* Frame (artificial intelligence)
+* Semantic net
+** Conceptual Dependency Theory
+Unsolved problems in knowledge representation
+* Default reasoning
+** Frame problem
+** Qualification problem
+* Commonsense knowledge
+

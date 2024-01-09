@@ -1,0 +1,3 @@
+Main|Competitions and prizes in artificial intelligence}}
+Many competitions and prizes, such as the ImageNet|Imagenet Challenge, promote research in artificial intelligence. The most common areas of competition include general machine intelligence, conversational behavior, data-mining, Autonomous car|robotic cars, and robot soccer as well as conventional games.
+

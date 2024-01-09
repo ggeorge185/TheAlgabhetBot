@@ -1,0 +1,14 @@
+Night-vision devices with extraordinary performance characteristics (high Gain (electronics)|gain, specific spectral sensitivity, fine Optical resolution|resolution, low Noise (electronics)|noise) are heavily export-restricted by the few states capable of producing them, mainly to limit their Small arms proliferation issues|proliferation to enemy combatants, but also to slow the inevitable reverse-engineering undertaken by other world powers.
+
+These precision components, such as the image intensifiers used in night vision goggles and the focal plane arrays found in surveillance satellites and thermal cameras, have numerous civil applications which include nature photography, medical imaging, firefighting, and population control of predator species.
+
+Night scenes of wild elephants and rhinos in the BBC nature documentary series Africa (BBC documentary series)|Africa were shot on a Lunax Starlight HD camera (a custom-built digital cinema rig encompassing a Generation 3 image intensifier), and recolored digitally.
+
+In the United States, civilians are free to buy and sell American-made night vision and thermal systems, such as those manufactured by defense contractors Harris Corporation|Harris, L3 Technologies|L3 Insight, and FLIR Systems, with very few restrictions. However, American night vision owners may not bring the equipment out of the country, sell it internationally, or even invite non-citizens to examine the technology, per International Traffic in Arms Regulations.
+
+Export of American image intensifiers is selectively permitted under license by the United States Department of Commerce and the Department of State|State Department. Contributing factors in acquiring a license include diplomatic relations with the destination country, number of pieces to be sold, and the relative quality of the equipment itself, expressed using a Night vision device#Figure of merit|Figure Of Merit (FOM) score calculated from several key performance characteristics.
+
+Competing international manufacturers (European defense contractor Photonis Group, Japanese scientific instrument giant Hamamatsu Photonics, and Russian state-financed laboratory JSC Katod) have entered the American market through licensed importers. In spite of their foreign origin, re-export of these components outside of the United States is restricted similarly to domestic components.
+
+A 2012 assessment of the sector by the Department of Commerce and Bureau of Industry and Security made the case for relaxing export controls in light of the narrowing performance gap and increased competition internationally, and a review period undertaken by the Directorate of Defense Trade Controls in 2015 introduced much more granular performance definitions.
+

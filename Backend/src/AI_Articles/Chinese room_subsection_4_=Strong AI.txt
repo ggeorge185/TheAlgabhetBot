@@ -1,0 +1,13 @@
+This section title is linked to from several places -->
+John Searle|Searle identified a philosophical position he calls "strong AI":
+}} and is also quoted in Daniel Dennett's ''Consciousness Explained''. Searle's original formulation was "The appropriately programmed computer really is a mind, in the sense that computers given the right programs can be literally said to understand and have other cognitive states." Strong AI is defined similarly by Stuart J. Russell|Stuart Russell and Peter Norvig: "weak AI -- the idea machines could act a ''as if'' they were intelligent -- and strong AI -- the assertions that do so are ''actually'' consciously thinking (not just ''simulating'' thinking)."}}
+}}
+The definition depends on the distinction between ''simulating'' a mind and ''actually having'' a mind. Searle writes that "according to Strong AI, the correct simulation really is a mind. According to Weak AI, the correct simulation is a model of the mind."
+
+The claim is implicit in some of the statements of early AI researchers and analysts. For example, in 1955, AI founder Herbert A. Simon declared that "there are now in the world machines that think, that learn and create". Simon, together with Allen Newell and Cliff Shaw, after having completed the first "AI" program, the Logic Theorist, claimed that they had "solved the venerable mind–body problem, explaining how a system composed of matter can have the properties of mind." John Haugeland wrote that "AI wants only the genuine article: ''machines with minds'', in the full and literal sense. This is not science fiction, but real science, based on a theoretical conception as deep as it is daring: namely, we are, at root, ''computers ourselves''."
+
+Searle also ascribes the following claims to advocates of strong AI:
+* AI systems can be used to explain the mind;
+* The study of the brain is irrelevant to the study of the mind; He writes elsewhere, "I thought the whole idea of strong AI was that we don't need to know how the brain works to know how the mind works."  This position owes its phrasing to Stevan Harnad.}} and
+* The Turing test is adequate for establishing the existence of mental states.}}
+

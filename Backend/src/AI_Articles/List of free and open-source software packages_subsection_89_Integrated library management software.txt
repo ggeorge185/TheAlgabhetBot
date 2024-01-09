@@ -1,0 +1,7 @@
+Evergreen (software)|Evergreen – Integrated Library System initially developed for the Georgia (U.S. state)|Georgia Public Library Service's PINES catalog
+* Koha (software)|Koha – SQL-based library management
+* NewGenLib
+* OpenBiblio
+* PhpMyBibli|PMB
+* refbase – Web-based institutional repository and reference management software
+

@@ -1,0 +1,11 @@
+Worth noticing here is the easy analogical reasoning (comparison) that can be done between a boy and a monkey just by having similarly named slots.
+
+Also notice that Alex, an instance of a boy, inherits default values like "Sex" from the more general parent object Boy,
+but the boy may also have different instance values in the form of exceptions such as the number of legs.
+
+
+
+
+
+
+

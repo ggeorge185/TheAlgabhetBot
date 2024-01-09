@@ -1,0 +1,8 @@
+class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (1994)
+! scope="col"| Peak<br>position
+|-
+
+|}
+

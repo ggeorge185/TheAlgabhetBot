@@ -1,0 +1,5 @@
+Intelligent control
+* Self-management (computer science) –
+** Autonomic Computing –
+** Autonomic Networking –
+

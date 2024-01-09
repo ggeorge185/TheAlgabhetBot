@@ -1,0 +1,6 @@
+Main|Big Data}}
+
+Big data refers to a collection of data that cannot be captured, managed, and processed by conventional software tools within a certain time frame. It is a massive amount of decision-making, insight, and process optimization capabilities that require new processing models. In the Big Data Era written by Victor Meyer Schonberg and Kenneth L. Cooke|Kenneth Cooke, big data means that instead of random analysis (sample survey), all data is used for analysis. The 5V characteristics of big data (proposed by IBM): ''Volume'', ''Velocity'', ''Variety'', ''Value'', ''Veracity''.
+
+The strategic significance of big data technology is not to master huge data information, but to specialize in these meaningful data. In other words, if big data is likened to an industry, the key to realizing profitability in this industry is to increase the "process capability" of the data and realize the "value added" of the data through "processing power|processing".
+

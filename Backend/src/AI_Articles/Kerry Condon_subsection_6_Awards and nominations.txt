@@ -1,0 +1,322 @@
+class="wikitable sortable plainrowheaders" style="width:89%;"
+|-
+! scope="col" style="width:19%;"| Award
+! scope="col" style="width:4%;"| Year
+! scope="col" style="width:34%;"| Category
+! scope="col" style="width:28%;"| Nominated work
+! scope="col" style="width:8%;"| Result
+! scope="col" style="width:4%;" class="unsortable"| 
+|-
+! scope="row"| AACTA International Awards
+| 12th AACTA International Awards|2023
+| AACTA International Award for Best Supporting Actress|Best Supporting Actress
+| rowspan="14"| 
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Academy Awards
+| 95th Academy Awards|2023
+| Academy Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Austin Film Critics Association|Austin Film Critics Association Awards
+| rowspan="2"| Austin Film Critics Association Awards 2022|2023
+| Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row"| British Academy Film Awards|BAFTA Awards
+| 76th British Academy Film Awards|2023
+| BAFTA Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Boston Online Film Critics Association Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Boston Society of Film Critics|Boston Society of Film Critics Awards
+| Boston Society of Film Critics Awards 2022|2022
+| Boston Society of Film Critics Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Chicago Film Critics Association|Chicago Film Critics Association Awards
+| Chicago Film Critics Association Awards 2022|2022
+| Chicago Film Critics Association Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Chlotrudis Society for Independent Films|Chlotrudis Awards
+| 2023
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Columbus Film Critics Association Awards
+| rowspan="2"| 2023
+| Best Supporting Performance
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row" rowspan="2"| Critics' Choice Movie Awards
+| rowspan="2"| 28th Critics' Choice Awards|2023
+| Critics' Choice Movie Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Critics' Choice Movie Award for Best Acting Ensemble|Best Acting Ensemble
+| 
+|-
+! scope="row"| Dallas–Fort Worth Film Critics Association|Dallas–Fort Worth Film Critics Association Awards
+| Dallas–Fort Worth Film Critics Association Awards 2022|2022
+| Dallas–Fort Worth Film Critics Association Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Drama Desk Awards
+| 2009
+| Outstanding Ensemble Performance
+| 
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Dublin Film Critics' Circle|Dublin Film Critics' Circle Awards
+| 2022
+| Best Actress
+| rowspan="11"| 
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Alliance of Women Film Journalists|EDA Awards
+| 2023
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Florida Film Critics Circle|Florida Film Critics Circle Awards
+| rowspan="2"| Florida Film Critics Circle Awards 2022|2022
+| Florida Film Critics Circle Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Florida Film Critics Circle Award for Best Cast|Best Ensemble
+| 
+|-
+! scope="row" rowspan="2"| Georgia Film Critics Association|Georgia Film Critics Association Awards
+| rowspan="2"| 2023
+| Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row"| Golden Globe Awards
+| 80th Golden Globe Awards|2023
+| Golden Globe Award for Best Supporting Actress – Motion Picture|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Greater Western New York Film Critics Association Awards
+| 2022
+| rowspan="2" | Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Hollywood Critics Association|Hollywood Critics Association Awards
+| 6th Hollywood Critics Association Film Awards|2023
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Houston Film Critics Society|Houston Film Critics Society Awards
+| rowspan="2"| Houston Film Critics Society Awards 2022|2023
+| Houston Film Critics Society Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| <br />
+|-
+| Best Ensemble Cast
+| 
+|-
+! scope="row" rowspan="3"| IFTA Film & Drama Awards
+| 8th Irish Film & Television Awards|2011
+| rowspan="3" | Irish Film and Television Award for Best Actress in a Supporting Role – Film|Best Actress in a Supporting Role in a Film
+| 
+| 
+| style="text-align:center;"| 
+|-
+| 12th Irish Film & Television Awards|2015
+| ''Gold (2014 film)|Gold''
+| 
+| style="text-align:center;"| 
+|-
+| 19th Irish Film & Television Awards|2023
+| rowspan="5"| 
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| International Cinephile Society|International Cinephile Society Awards
+| rowspan="2"| 2023
+| Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row"| Las Vegas Film Critics Society Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| London Film Critics' Circle|London Film Critics' Circle Awards
+| London Film Critics Circle Awards 2022|2023
+| London Film Critics' Circle Award for Supporting Actress of the Year|Supporting Actress of the Year
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Lucille Lortel Awards
+| 2009
+| Outstanding Featured Actress in a Play
+| 
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Minnesota Film Critics Alliance
+| rowspan="2"| 2023
+| Best Supporting Actress
+| rowspan="24" | 
+| 
+| rowspan="2" style="text-align:center;"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row"| National Society of Film Critics|National Society of Film Critics Awards
+| 2022 National Society of Film Critics Awards|2023
+| National Society of Film Critics Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| North Carolina Film Critics Association
+| rowspan="2"| 2023
+| Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2" | 
+|-
+| Best Acting Ensemble
+| 
+|-
+! scope="row"| North Texas Film Critics Association Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Online Film Critics Society|Online Film Critics Society Awards
+| Online Film Critics Society Awards 2022|2023
+| Online Film Critics Society Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Phoenix Critics Circle Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| San Diego Film Critics Society|San Diego Film Critics Society Awards
+| rowspan="2"| San Diego Film Critics Society Awards 2022|2023
+| San Diego Film Critics Society Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| San Diego Film Critics Society Award for Best Performance by an Ensemble|Best Ensemble
+| 
+|-
+! scope="row"| San Francisco Bay Area Film Critics Circle|San Francisco Bay Area Film Critics Circle Awards
+| San Francisco Bay Area Film Critics Circle Awards 2022|2023
+| San Francisco Bay Area Film Critics Circle Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Santa Barbara International Film Festival|Santa Barbara International Film Festival Awards
+| 2022
+| Virtuoso Award
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Satellite Awards
+| 27th Satellite Awards|2023
+| Satellite Award for Best Supporting Actress – Motion Picture|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Screen Actors Guild Awards
+| rowspan="2"| 29th Screen Actors Guild Awards|2023
+| Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role|Outstanding Performance by a Female Actor in a Supporting Role
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture|Outstanding Performance by a Cast in a Motion Picture
+| 
+|-
+! scope="row"| Seattle Film Critics Society|Seattle Film Critics Society Awards
+| 2022 Seattle Film Critics Society Awards|2023
+| Best Actress in a Supporting Role
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Southeastern Film Critics Association Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| St. Louis Film Critics Association|St. Louis Film Critics Association Awards
+| rowspan="2"| St. Louis Gateway Film Critics Association Awards 2022|2022
+| St. Louis Gateway Film Critics Association Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Best Ensemble
+| 
+|-
+! scope="row"| UK Film Critics Association Awards
+| 2022
+| Supporting Actress of the Year
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Utah Film Critics Association Awards
+| 2022
+| Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row"| Vancouver Film Critics Circle|Vancouver Film Critics Circle Awards
+| Vancouver Film Critics Circle Awards 2022|2023
+| Vancouver Film Critics Circle Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;"| 
+|-
+! scope="row" rowspan="2"| Washington D.C. Area Film Critics Association|Washington D.C. Area Film Critics Association Awards
+| rowspan="2"| Washington D.C. Area Film Critics Association Awards 2022|2022
+| Washington D.C. Area Film Critics Association Award for Best Supporting Actress|Best Supporting Actress
+| 
+| style="text-align:center;" rowspan="2"| 
+|-
+| Washington D.C. Area Film Critics Association Award for Best Ensemble|Best Acting Ensemble
+| 
+|}
+

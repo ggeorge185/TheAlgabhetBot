@@ -1,0 +1,10 @@
+A behavior based control structure has been initially proposed by Rodney Brooks in his paper titled 'A robust layered control system for a mobile robot'. In the initial proposal a list of behaviors could work as alternative one another, later the approach has been extended and generalized in a tree-like organization of behaviors, with extensive application in the game industry as a powerful tool to Behavior model|model the behavior of non-player characters (NPCs).
+They have been extensively used in high-profile video games such as Halo (series)|Halo, BioShock (series)|Bioshock, and Spore (2008 video game)|Spore. Recent works propose behavior trees as a multi-mission control framework for Unmanned aerial vehicle|UAV, complex robots, robotic manipulation, and multi-robot systems.
+Behavior trees have now reached the maturity to be treated in Game AI textbooks, as well as generic game environments such as Unity (game engine) and Unreal Engine (see links below).
+
+Behavior trees became popular for their development paradigm: being able to create a complex behavior by only programming the NPC's actions and then designing a tree structure (usually through drag and drop) whose leaf nodes are actions and whose inner nodes determine the NPC's decision making. Behavior trees are visually intuitive and easy to design, test, and debug, and provide more modularity, scalability, and reusability than other behavior creation methods.
+
+Over the years, the diverse implementations of behavior trees kept improving both in efficiency and capabilities to satisfy the demands of the industry, until they evolved into '''event-driven''' behavior trees.
+
+The execution of a behavior tree starts from the root which sends ticks with a certain frequency to its child. A tick is an enabling signal that allows the execution of a child. When the execution of a node in the behavior tree is allowed, it returns to the parent a status '''running''' if its execution has not finished yet, '''success''' if it has achieved its goal, or '''failure''' otherwise.
+

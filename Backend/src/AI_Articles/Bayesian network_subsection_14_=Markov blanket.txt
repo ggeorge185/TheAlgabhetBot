@@ -1,0 +1,2 @@
+The Markov blanket of a node is the set of nodes consisting of its parents, its children, and any other parents of its children. The Markov blanket renders the node independent of the rest of the network; the joint distribution of the variables in the Markov blanket of a node is sufficient knowledge for calculating the distribution of the node. ''X'' is a Bayesian network with respect to ''G'' if every node is conditionally independent of all other nodes in the network, given its Markov blanket.
+

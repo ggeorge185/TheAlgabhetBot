@@ -1,0 +1,2 @@
+Success at early attempts in AI occurred in three main areas: artificial neural networks, knowledge representation, and heuristic search, contributing to high expectations. This section summarizes Kautz's reprise of early AI history.
+

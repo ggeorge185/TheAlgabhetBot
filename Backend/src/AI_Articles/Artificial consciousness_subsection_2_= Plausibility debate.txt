@@ -1,0 +1,6 @@
+Type physicalism|Type-identity theorists and other skeptics hold the view that consciousness can only be realized in particular physical systems because consciousness has properties that necessarily depend on physical constitution.
+
+In his article "Artificial Consciousness: Utopia or Real Possibility," Giorgio Buttazzo says that a common objection to artificial consciousness is that "Working in a fully automated mode, they [the computers] cannot exhibit creativity, unreprogrammation (which means can no longer be reprogrammed, from rethinking), emotions, or free will. A computer, like a washing machine, is a slave operated by its components."
+
+For other theorists (e.g., Functionalism (philosophy of mind)|functionalists), who define mental states in terms of causal roles, any system that can instantiate the same pattern of causal roles, regardless of physical constitution, will instantiate the same mental states, including consciousness.
+

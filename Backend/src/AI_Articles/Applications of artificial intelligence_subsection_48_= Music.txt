@@ -1,0 +1,17 @@
+main|Music and artificial intelligence}}
+AI has been used to compose music of various genres.
+
+David Cope created an AI called Emily Howell that managed to become well known in the field of algorithmic computer music. The algorithm behind Emily Howell is registered as a US patent.
+
+In 2012, AI Iamus (computer)|Iamus created the first complete classical album.
+
+AIVA (Artificial Intelligence Virtual Artist), composes symphonic music, mainly classical music for film scores. It achieved a world first by becoming the first virtual composer to be recognized by a musical Société des auteurs, compositeurs et éditeurs de musique|professional association.
+
+Melomics creates computer-generated music for stress and pain relief.
+
+At Sony CSL Research Laboratory, the Flow Machines software creates pop songs by learning music styles from a huge database of songs. It can compose in multiple styles.
+
+The Watson Beat uses reinforcement learning and deep belief networks to compose music on a simple seed input melody and a select style. The software was open sourced and musicians such as Taryn Southern collaborated with the project to create music.
+
+South Korean singer Hayeon's debut song, "Eyes on You" was composed using AI which was supervised by real composers, including NUVO.
+

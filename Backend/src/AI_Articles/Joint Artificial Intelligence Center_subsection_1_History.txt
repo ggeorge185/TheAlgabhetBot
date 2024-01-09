@@ -1,0 +1,8 @@
+JAIC was originally proposed to United States Congress|Congress on June 27, 2018; that same month, it was established under the United States Department of Defense|Defense Department's Chief Information Officer (CIO), itself subordinate to the Office of the Secretary of Defense (OSD), to coordinate Department-wide AI efforts.
+
+Current proposals for JAIC include giving it the authority as a financial entity to acquire its own technology, and elevating its position to be under the Deputy Secretary of Defense.
+
+On 24 June 2021 the United States Department of Defense|Department of Defense gathered reporters for an AI symposium in which it announced the launch of an "AI and data accelerator (ADA) initiative" in which, over the month of July, data teams would work directly with military personnel to provide a proof of concept in data-driven warfare and to observe the possible obstacles for such implementation.
+
+On 1 June 2022 JAIC, the Defense Digital Service, and the Office of Advancing Analytics were fully merged into a unified organization, the Chief Digital and Artificial Intelligence Officer (CDAO). JAIC, DDS, and the other groups within CDAO will cease to be recognized as entities.
+

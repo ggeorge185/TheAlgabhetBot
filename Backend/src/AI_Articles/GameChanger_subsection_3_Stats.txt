@@ -1,0 +1,2 @@
+GameChanger automatically calculates over 150 stats for baseball and softball teams. GameChanger is the first company to attempt to quantify the Quality At-Bat when it created its QAB stat. The QAB stat is a developmental stat that attempts to minimize the effect of luck while valuing the batting process over the results of the at-bat.
+

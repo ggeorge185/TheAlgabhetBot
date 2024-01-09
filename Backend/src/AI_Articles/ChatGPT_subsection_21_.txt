@@ -1,0 +1,8 @@
+Criticism of LLMs have been raised for several years; in 2020, some criticism was made by Timnit Gebru, Emily M. Bender|Emily Bender, Angelina McMillan-Major, and Margaret Mitchell (scientist)|Margaret Mitchell. ChatGPT can write introductions and abstract sections of scientific articles. Several papers have listed ChatGPT as a co-author.
+
+Scientific journals have different reactions to ChatGPT. Some, including ''Nature (journal)|Nature'' and JAMA Network, "require that authors disclose the use of text-generating tools and ban listing a large language model (LLM) such as ChatGPT as a co-author". ''Science (journal)|Science'' "completely banned" usage of LLM-generated text in all its journals.
+
+Spanish chemist Rafael Luque published a plethora of research papers in 2023 that he later admitted were written by ChatGPT. The papers have a large number of unusual phrases characteristic of LLMs.
+
+Many authors argue that the use of ChatGPT in academia for teaching and review is problematic due to its tendency to hallucinate. Robin Bauwens, an assistant professor at Tilburg University, found that a ChatGPT-generated peer review report on his article mentioned fake studies. According to librarian Chris Granatino from Lemieux Library and McGoldrick Learning Commons|Lemieux Library at Seattle University, although ChatGPT itself can generate content that seemingly includes legitimate citations, in most cases those citations are not real, or are at least largely incorrect.
+

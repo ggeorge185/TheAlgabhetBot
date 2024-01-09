@@ -1,0 +1,7 @@
+Main|Existential risk from artificial general intelligence}}
+Some hypothetical intelligence technologies, like Technological singularity#Intelligence_explosion|"seed AI", are postulated to be able to make themselves faster and more intelligent by modifying their source code. These improvements would make further improvements possible, which would in turn make further iterative improvements possible, and so on, leading to a sudden intelligence explosion.
+
+An unconfined superintelligent AI could, if its goals differed from humanity's, take actions resulting in human extinction. For example, an extremely advanced system of this sort, given the sole purpose of solving the Riemann hypothesis, an innocuous mathematical conjecture, could decide to try to convert the planet into a giant supercomputer whose sole purpose is to make additional mathematical calculations (see also Instrumental convergence#Paperclip maximizer|paperclip maximizer). 
+
+One strong challenge for control is that neural networks are by default highly uninterpretable. This makes it more difficult to detect deception or other undesired behavior as the model self-trains iteratively. Advances in interpretable artificial intelligence could mitigate this difficulty. 
+

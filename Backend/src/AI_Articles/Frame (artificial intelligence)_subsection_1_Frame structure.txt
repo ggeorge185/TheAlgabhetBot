@@ -1,0 +1,14 @@
+The frame contains information on how to use the frame, what to expect next, and what to do when these expectations are not met. Some information in the frame is generally unchanged while other information, stored in "terminals", usually change. Terminals can be considered as variables. Top-level frames carry information, that is always true about the problem in hand, however, terminals do not have to be true. Their value might change with the new information encountered. Different frames may share the same terminals.
+
+Each piece of information about a particular frame is held in a slot. The information can contain:
+
+* Facts or Data
+** Values (called facets)
+* Procedures (also called procedural attachments)
+** IF-NEEDED: deferred evaluation
+** IF-ADDED: updates linked information
+* Default Values
+** For Data
+** For Procedures
+* Other Frames or Subframes
+

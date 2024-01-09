@@ -1,0 +1,12 @@
+Precision medicine helps health care providers better understand the many things—including environment, lifestyle, and heredity—that play a role in a patient's health, disease, or condition. This information lets them more accurately predict which treatments will be most effective and safe, or possibly how to prevent the illness from starting in the first place. In addition, benefits are to:
+
+* shift the emphasis in medicine from reaction to prevention
+* predict susceptibility to disease
+* improve disease detection
+* preempt disease progression
+* customize disease-prevention strategies
+* prescribe more effective drugs
+* avoid prescribing drugs with predictable negative side effects
+* reduce the time, cost, and failure rate of pharmaceutical clinical trials
+* eliminate trial-and-error inefficiencies that inflate health care costs and undermine patient care
+

@@ -1,0 +1,11 @@
+CellProfiler – Automatic microscopic analysis, aimed at individuals lacking training in computer vision
+* Endrov – Java-based plugin architecture designed to analyse complex spatio-temporal image data
+* Fiji (software)|Fiji – ImageJ-based image processing
+* Ilastik – Image-classification and segmentation software
+* ImageJ – Image processing application developed at the National Institutes of Health
+* IMOD (software)|IMOD – 2D and 3D analysis of electron microscopy data
+* Insight Segmentation and Registration Toolkit|ITK – Development framework used for creation of image segmentation and registration programs
+* KNIME – Data analytics, reporting, and integration platform
+* VTK – C++ toolkit for 3D computer graphics, image processing, and visualisation
+* 3DSlicer – Medical image analysis and visualisation
+

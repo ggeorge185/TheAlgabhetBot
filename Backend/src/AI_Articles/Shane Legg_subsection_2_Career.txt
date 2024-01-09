@@ -1,0 +1,6 @@
+Before his PhD and before cofounding DeepMind, Shane Legg worked at "a number of software development positions at private companies", including the "big data firm Adaptive Intelligence" and the startup WebMind founded by Ben Goertzel. He worked on theoretical models of super intelligent machines (AIXI) with Marcus Hutter, and completed in 2008 his doctoral thesis entitled "Machine Super Intelligence". He then went on to complete a postdoctoral fellowship in finance at USI,
+
+In 2010, Legg cofounded the Startup company|start-up DeepMind Technologies along with Demis Hassabis and Mustafa Suleyman. DeepMind Technologies was bought in 2014 by Google. After the merge with Google Brain in 2023, the company is now known as Google DeepMind.
+
+According to a 2017 article, a significant part of his job as the chief scientist was to supervise recruitment, decide where DeepMind should focus its efforts, and to lead DeepMind's AI safety work.
+

@@ -1,0 +1,11 @@
+Apache Axis2 – Web service framework (implementations are available in both Java (programming language)|Java & C (programming language)|C)
+*Apache Geronimo – Application server
+*Bonita Open Solution – a J2EE web application and java BPMN2 compliant engine
+*GlassFish – Application server
+*Jakarta Tomcat – Servlet container and standalone webserver
+*JBoss – Application server
+*ObjectWeb JOnAS – Java Open Application Server, a J2EE application server
+*OpenRemote – IoT Middleware
+*TAO (software) – C++ implementation of the OMG's CORBA standard
+*Enduro/X – C/C++ middleware platform based on X/Open group's XATMI and XA standards
+

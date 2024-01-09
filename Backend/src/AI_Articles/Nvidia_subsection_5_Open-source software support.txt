@@ -1,0 +1,15 @@
+Original research section|date=July 2022}}
+Until September 23, 2013, Nvidia had not published any documentation for its advanced hardware, meaning that programmers could not write free and open-source device driver for its products without resorting to (Clean room design|clean room) reverse engineering.
+
+Instead, Nvidia provides its own binary file|binary GeForce graphics drivers for X.Org Server|X.Org and an open-source library that interfaces with the Linux kernel|Linux, FreeBSD or Solaris (operating system)|Solaris kernels and the proprietary software|proprietary graphics software. Nvidia also provided but stopped supporting an obfuscated open-source driver that only supports two-dimensional hardware acceleration and ships with the X.Org distribution.
+
+The proprietary nature of Nvidia's drivers has generated dissatisfaction within Free software community|free-software communities. Some Linux and BSD users insist on using only open-source drivers and regard Nvidia's insistence on providing nothing more than a binary-only driver as inadequate, given that competing manufacturers such as Intel offer support and documentation for open-source model|open-source developers and that others (like Advanced Micro Devices|AMD) release partial documentation and provide some active development.
+
+Because of the closed nature of the drivers, Nvidia video cards cannot deliver adequate features on some platforms and architectures, given that the company only provides x86/x64 and ARMv7-A driver builds. As a result, support for 3D graphics acceleration in Linux on PowerPC does not exist, nor does support for Linux on the hypervisor-restricted PlayStation 3 console.
+
+Some users claim that Nvidia's Linux drivers impose artificial restrictions, like limiting the number of monitors that can be used at the same time, but the company has not commented on these accusations.
+
+In 2014, with Maxwell GPUs, Nvidia started to require firmware by them to unlock all features of its graphics cards. Up to now, this state has not changed and makes writing open-source drivers difficult.
+
+On 12 May 2022, Nvidia announced that they are opensourcing their GPU kernel drivers. They are still maintaining closed source userland utilities, hence making users still dependent on their proprietary software.
+

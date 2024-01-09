@@ -1,0 +1,27 @@
+Main|Collaborative filtering}}
+File: Collaborative filtering.gif|thumb|An example of collaborative filtering based on a rating system
+One approach to the design of recommender systems that has wide use is collaborative filtering. Collaborative filtering is based on the assumption that people who agreed in the past will agree in the future, and that they will like similar kinds of items as they liked in the past. The system generates recommendations using only information about rating profiles for different users or items. By locating peer users/items with a rating history similar to the current user or item, they generate recommendations using this neighborhood. Collaborative filtering methods are classified as memory-based and model-based. A well-known example of memory-based approaches is the user-based algorithm, while that of model-based approaches is matrix factorization (recommender systems).
+
+A key advantage of the collaborative filtering approach is that it does not rely on machine analyzable content and therefore it is capable of accurately recommending complex items such as movies without requiring an "understanding" of the item itself. Many algorithms have been used in measuring user similarity or item similarity in recommender systems. For example, the k-nearest neighbors algorithm|k-nearest neighbor (k-NN) approach and the Pearson correlation|Pearson Correlation as first implemented by Allen.
+
+When building a model from a user's behavior, a distinction is often made between explicit and implicit data collection|implicit forms of data collection.
+
+Examples of explicit data collection include the following:
+* Asking a user to rate an item on a sliding scale.
+* Asking a user to search.
+* Asking a user to rank a collection of items from favorite to least favorite.
+* Presenting two items to a user and asking him/her to choose the better one of them.
+* Asking a user to create a list of items that he/she likes (see ''Rocchio algorithm|Rocchio classification'' or other similar techniques).
+
+Examples of implicit data collection include the following:
+* Observing the items that a user views in an online store.
+* Analyzing item/user viewing times.
+* Keeping a record of the items that a user purchases online.
+* Obtaining a list of items that a user has listened to or watched on his/her computer.
+* Analyzing the user's social network and discovering similar likes and dislikes.
+
+Collaborative filtering approaches often suffer from three problems: Cold start (computing)|cold start, scalability, and sparsity.
+* '''Cold start''': For a new user or item, there is not enough data to make accurate recommendations. Note: one commonly implemented solution to this problem is the Multi-armed bandit|multi-armed bandit algorithm.
+
+Many social networks originally used collaborative filtering to recommend new friends, groups, and other social connections by examining the network of connections between a user and their friends. Collaborative filtering is still used as part of hybrid systems.
+

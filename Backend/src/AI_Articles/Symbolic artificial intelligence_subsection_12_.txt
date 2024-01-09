@@ -1,0 +1,5 @@
+Main|neats vs. scruffies}}
+
+Researchers at MIT (such as Marvin Minsky and Seymour Papert) found that solving difficult problems in computer vision|vision and natural language processing required ad hoc solutions—they argued that no simple and general principle (like logic) would capture all the aspects of intelligent behavior. Roger Schank described their "anti-logic" approaches as "Neats vs. scruffies|scruffy" (as opposed to the "neats vs. scruffies|neat" paradigms at Carnegie Mellon University|CMU and Stanford).
+Commonsense knowledge bases (such as Doug Lenat's Cyc) are an example of "scruffy" AI, since they must be built by hand, one complicated concept at a time.
+

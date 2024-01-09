@@ -1,0 +1,10 @@
+Around 2013, MIT researchers developed BullySpace, an extension of the commonsense knowledgebase ConceptNet, to catch taunting social media comments. BullySpace included over 200 semantic assertions based around stereotypes, to help the system infer that comments like "Put on a wig and lipstick and be who you really are" are more likely to be an insult if directed at a boy than a girl.
+
+ConceptNet has also been used by chatbots and by computers that compose original fiction.  At Lawrence Livermore National Laboratory, common sense knowledge was used in an Software agent|intelligent software agent to detect violations of a Comprehensive Nuclear-Test-Ban Treaty|comprehensive nuclear test ban treaty.
+
+
+
+
+
+
+

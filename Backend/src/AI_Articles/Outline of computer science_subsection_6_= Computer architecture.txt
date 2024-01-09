@@ -1,0 +1,3 @@
+Computer architecture – The design, organization, optimization and verification of a computer system, mostly about CPUs and Memory (computers)|Memory subsystem (and the bus connecting them).
+*  Operating systems – Systems for managing computer programs and providing the basis of a usable system.
+

@@ -1,0 +1,7 @@
+Split section|Artificial intelligence in finance|date=April 2022}}
+Financial institutions have long used artificial neural network systems to detect charges or claims outside of the norm, flagging these for human investigation. The use of AI in banking began in 1987 when Security Pacific National Bank launched a fraud prevention taskforce to counter the unauthorized use of debit cards. Kasisto and Moneystream use AI.
+
+Banks use AI to organize operations, for bookkeeping, investing in stocks, and managing properties. AI can react to changes when business is not taking place. Artificial intelligence in fraud detection|AI is used to combat fraud and financial crimes by monitoring behavioral patterns for any anomaly detection|abnormal changes or anomalies.
+
+The use of AI in applications such as online trading and decision making has changed major economic theories. For example, AI-based buying and selling platforms estimate individualized demand and supply curves and thus enable individualized pricing. AI machines reduce information asymmetry in the market and thus efficient market hypothesis|make markets more efficient. The application of artificial intelligence in the financial industry can alleviate the financing constraints of non-state-owned enterprises. Especially for smaller and more innovative enterprises.
+

@@ -1,0 +1,11 @@
+Main|Artificial intelligence in fiction}}
+File:Capek play.jpg|thumb|upright=1.2|The word "robot" itself was coined by [[Karel Čapek in his 1921 play ''R.U.R.'', the title standing for "Rossum's Universal Robots".]]
+
+Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have been a persistent theme in science fiction.
+
+A common Trope (literature)|trope in these works began with Mary Shelley's ''Frankenstein'', where a human creation becomes a threat to its masters. This includes such works as 2001: A Space Odyssey (novel)|Arthur C. Clarke's and 2001: A Space Odyssey (film)|Stanley Kubrick's ''2001: A Space Odyssey'' (both 1968), with HAL 9000, the murderous computer in charge of the ''Discovery One'' spaceship, as well as ''The Terminator'' (1984) and ''The Matrix'' (1999). In contrast, the rare loyal robots such as Gort from ''The Day the Earth Stood Still'' (1951) and Bishop from ''Aliens (film)|Aliens'' (1986) are less prominent in popular culture.
+
+Isaac Asimov introduced the Three Laws of Robotics in many books and stories, most notably the "Multivac" series about a super-intelligent computer of the same name. Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+
+Several works use AI to force us to confront the fundamental question of what makes us human, showing us artificial beings that have sentience|the ability to feel, and thus to suffer. This appears in Karel Čapek's ''R.U.R.'', the films ''A.I. Artificial Intelligence'' and ''Ex Machina (film)|Ex Machina'', as well as the novel ''Do Androids Dream of Electric Sheep?'', by Philip K. Dick. Dick considers the idea that our understanding of human subjectivity is altered by technology created with artificial intelligence.
+

@@ -1,0 +1,6 @@
+Apache OpenOffice - The cross platform office productivity suite from Apache Software Foundation (ASF) consists of programs for word processing, spreadsheets, presentation, diagrams and drawings, databases, etc.
+*Calligra Suite – The office productivity suite from KDE consists of programs for word processing, spreadsheets, presentation, databases, vector graphics, and digital painting
+*Collabora Online - Enterprise-ready edition of LibreOffice, web application, mobile phone, tablet, Chromebook and desktop (Windows, macOS, Linux)
+*LibreOffice – The cross platform office productivity suite from The Document Foundation (TDF) consists of programs for word processing, spreadsheets, presentation, diagrams and drawings, databases, etc.
+*OnlyOffice#Desktop editors|OnlyOffice Desktop Editors – An open-source offline edition of the Cloud
+

@@ -1,0 +1,15 @@
+List of important publications in computer science
+* ''Adaptive Behavior (journal)'' –
+* ''AI Memo'' –
+* ''Artificial Intelligence: A Modern Approach'' –
+* ''Artificial Minds'' –
+* ''Computational Intelligence (journal)|Computational Intelligence'' –
+* ''Computing Machinery and Intelligence'' –
+* ''Electronic Transactions on Artificial Intelligence'' –
+* ''IEEE Intelligent Systems'' –
+* ''IEEE Transactions on Pattern Analysis and Machine Intelligence'' –
+* ''Neural Networks (journal)'' –
+* ''On Intelligence'' –
+* ''Paradigms of AI Programming: Case Studies in Common Lisp'' –
+* ''What Computers Can't Do''
+

@@ -1,0 +1,14 @@
+One possible explanation of the paradox, offered by Moravec, is based on evolution. All human skills are implemented biologically, using machinery designed by the process of natural selection. In the course of their evolution, natural selection has tended to preserve design improvements and optimizations. The older a skill is, the more time natural selection has had to improve the design. Abstract thought developed only very recently, and consequently, we should not expect its implementation to be particularly efficient.
+
+As Moravec writes:
+}}
+
+A compact way to express this argument would be:
+* We should expect the difficulty of reverse-engineering any human skill to be roughly proportional to the amount of time that skill has been evolving in animals.
+* The oldest human skills are largely unconscious and so appear to us to be effortless.
+* Therefore, we should expect skills that appear effortless to be difficult to reverse-engineer, but skills that require effort may not necessarily be difficult to engineer at all.
+
+Some examples of skills that have been evolving for millions of years: recognizing a face, moving around in space, judging people's motivations, catching a ball, recognizing a voice, setting appropriate goals, paying attention to things that are interesting; anything to do with perception, attention, visualization, motor skills, social skills and so on.
+
+Some examples of skills that have appeared more recently: mathematics, engineering, games, logic and scientific reasoning. These are hard for us because they are not what our bodies and brains were primarily evolved to do. These are skills and techniques that were acquired recently, in historical time, and have had at most a few thousand years to be refined, mostly by cultural evolution.
+

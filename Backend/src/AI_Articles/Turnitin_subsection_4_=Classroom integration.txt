@@ -1,0 +1,4 @@
+If requested by teachers, students can upload their papers directly to the service, for teachers to access them there. Teachers may also submit student papers to Turnitin.com as individual files, by bulk upload, or as a ZIP (file format)|ZIP file. Teachers can further set assignment-analysis options so that students can review the system's "originality reports" before they finalize their submission. A peer-review option is also available.
+
+Some virtual learning environments can be configured to support Turnitin, so that student assignments can be automatically submitted for analysis. Blackboard Inc.|Blackboard, Moodle, ANGEL Learning|ANGEL, Instructure, Desire2Learn, Pearson Education|Pearson Learning Studio, Sakai (software)|Sakai, and Studywiz integrate in some way with the software.
+

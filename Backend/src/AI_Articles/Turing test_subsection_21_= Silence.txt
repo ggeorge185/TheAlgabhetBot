@@ -1,0 +1,3 @@
+A critical aspect of the Turing test is that a machine must give itself away as being a machine by its utterances. An interrogator must then make the "right identification" by correctly identifying the machine as being just that. If however a machine remains silent during a conversation, then it is not possible for an interrogator to accurately identify the machine other than by means of a calculated guess.
+Even taking into account a parallel/hidden human as part of the test may not help the situation as humans can often be misidentified as being a machine.
+

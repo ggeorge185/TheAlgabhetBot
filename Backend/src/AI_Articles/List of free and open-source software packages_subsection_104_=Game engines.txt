@@ -1,0 +1,7 @@
+Main|List of game engines}}
+*Blender Game Engine – Discontinued 2019
+*Godot (game engine)|Godot – Application for the design of cross-platform video games
+*MonoGame – C Sharp (programming language)|C# framework 
+*Open 3D Engine|Open3DEngine – Based on Amazon Lumberyard
+*Stride (game engine)|Stride – (prev. Xenko) 2D and 3D cross-platform game engine originally developed by Silicon Studio
+

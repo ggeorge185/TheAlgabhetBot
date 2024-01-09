@@ -1,0 +1,33 @@
+class="wikitable floatright" style="text-align: center"
+|-
+!width=70| Game
+!width=30| Champion year
+!align=center width=30| Legal states (log<sub>10</sub>)
+!align=center width=30| Game tree complexity (log<sub>10</sub>)
+|-
+| Reversi|Othello (reversi) || 1997 || 28 ||  58 || Perfect ||
+|-
+| Chess                     || 1997 ||  46 || 123 || Perfect ||
+|-
+| Scrabble                  || 2006 ||     ||     ||                     || 
+|-
+| Go (game)|Go                || 2016 || 172 || 360 || Perfect ||
+|-
+| Heads up poker|2p betting in poker#No limit|no-limit || 2017 ||     ||     || Imperfect || 
+|-
+| ''StarCraft II'' ||style="background:#e5d1cb"|2019 ||     ||     || Imperfect || 
+|}
+
+There are many useful abilities that can be described as showing some form of intelligence. This gives better insight into the comparative success of artificial intelligence in different areas.
+
+AI, like electricity or the steam engine, is a general-purpose technology. There is no consensus on how to characterize which tasks AI tends to excel at. Some versions of Moravec's paradox observe that humans are more likely to outperform machines in areas such as physical dexterity that have been the direct target of natural selection. While projects such as AlphaZero have succeeded in generating their own knowledge from scratch, many other machine learning projects require large training datasets. Researcher Andrew Ng has suggested, as a "highly imperfect rule of thumb", that "almost anything a typical human can do with less than one second of mental thought, we can probably now or in the near future automate using AI."
+
+Games provide a high-profile benchmark for assessing rates of progress; many games have a large professional player base and a well-established competitive rating system. AlphaGo brought the era of classical board-game benchmarks to a close when Artificial Intelligence proved their competitive edge over humans in 2016. DeepMind|Deep Mind's AlphaGo AI software program defeated the world's best professional Go Player Lee Sedol. Games of perfect knowledge|imperfect knowledge provide new challenges to AI in the area of game theory; the most prominent milestone in this area was brought to a close by Libratus' poker victory in 2017. E-sports continue to provide additional benchmarks; Facebook AI, Deepmind, and others have engaged with the popular ''StarCraft (video game)|StarCraft'' franchise of videogames.
+
+Broad classes of outcome for an AI test may be given as:
+* '''optimal''': it is not possible to perform better (note: some of these entries were solved by humans)
+* '''super-human''': performs better than all humans
+* '''high-human''': performs better than most humans
+* '''par-human''': performs similarly to most humans
+* '''sub-human''': performs worse than most humans
+

@@ -1,0 +1,7 @@
+Though fake photos have long been plentiful, faking motion pictures has been more difficult, and the presence of deepfakes increases the difficulty of classifying videos as genuine or not.
+
+A primary pitfall is that humanity could fall into an age in which it can no longer be determined whether a medium's content corresponds to the truth.
+Deepfakes are one of a number of tools for disinformation attack, creating doubt, and undermining trust. They have a potential to interfere with democratic functions in societies, such as identifying collective agendas, debating issues, informing decisions, and solving problems though the exercise of political will. Li predicted that genuine videos and deepfakes would become indistinguishable in as soon as half a year, as of October 2019, due to rapid advancement in artificial intelligence and computer graphics.
+
+Deepfakes possess the ability to damage individual entities tremendously. This is because deepfakes are often targeted at one individual, and/or their relations to others in hopes to create a narrative powerful enough to influence public opinion or beliefs. This can be done through deepfake voice phishing, which manipulates audio to create fake phone calls or conversations.
+

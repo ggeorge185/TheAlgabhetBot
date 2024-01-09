@@ -1,0 +1,4 @@
+Main category|Free statistical software}}
+* R (programming language)|R – Statistics software
+* LimeSurvey – Online survey system
+

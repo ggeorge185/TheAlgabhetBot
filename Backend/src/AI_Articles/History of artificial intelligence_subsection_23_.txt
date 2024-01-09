@@ -1,0 +1,2 @@
+In Japan, Waseda University initiated the WABOT project in 1967, and in 1972 completed the WABOT-1, the world's first full-scale "intelligent" humanoid robot, or Android (robot)|android. Its limb control system allowed it to walk with the lower limbs, and to grip and transport objects with hands, using tactile sensors. Its vision system allowed it to measure distances and directions to objects using external receptors, artificial eyes and ears. And its conversation system allowed it to communicate with a person in Japanese, with an artificial mouth.
+

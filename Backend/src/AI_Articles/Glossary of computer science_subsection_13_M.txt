@@ -1,0 +1,32 @@
+glossary}}
+
+ and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.}}}}
+
+
+. It attempts to integrate existing technologies in new ways and apply them to solve real world problems. The term is the prevalent one for these functions in industrial automation environments but is also used for these functions in other environments such as security and vehicle guidance.}}
+
+
+
+
+
+
+
+
+}}
+
+
+
+
+
+
+
+ (OOP), a  associated with a Message passing|message and an . An object consists of data and behavior. The data and behavior comprise an interface, which specifies how the object may be utilized by any of various consumers of the object.}}
+
+
+
+
+
+
+
+
+

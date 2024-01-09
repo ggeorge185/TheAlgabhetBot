@@ -1,0 +1,4 @@
+Main|Artificial intelligence}}
+
+Various criteria for intelligence have been proposed (most famously the Turing test) but no definition is broadly accepted.
+

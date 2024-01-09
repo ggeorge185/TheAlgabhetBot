@@ -1,0 +1,9 @@
+AI-complete problems are hypothesized to include:
+
+* [https://www.wired.com/2017/02/ai-can-solve-peer-review-ai-can-solve-anything/ AI peer review] (composite natural-language understanding|natural language understanding, automated reasoning, automated theorem proving, Formalism (philosophy of mathematics)|formalized logic expert system)
+* Bongard problems
+* Computer vision (and subproblems such as object recognition)
+* Natural-language understanding|Natural language understanding (and subproblems such as text mining, machine translation, and word-sense disambiguation)
+* Autonomous driving
+* Dealing with unexpected circumstances while solving any real world problem, whether it's robotic mapping|navigation or automated planning and scheduling|planning or even the kind of reasoning done by expert systems.
+

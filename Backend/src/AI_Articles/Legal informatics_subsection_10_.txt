@@ -1,0 +1,6 @@
+Both academic and proprietary quantitative legal prediction models exist. One of the earliest examples of a working quantitative legal prediction model occurred in the form of the Supreme Court of the United States|Supreme Court forecasting project. The Supreme Court forecasting model attempted to predict the results of all the cases on the 2002 term of the Supreme Court. The model predicted 75% of cases correctly compared to experts who only predicted 59.1% of cases.
+Another example of an academic quantitative legal prediction models is a 2012 model that predicted the result of Federal Securities class action lawsuits.
+Some academics and legal technology startups are attempting to create algorithmic models to predict case outcomes. Part of this overall effort involves improved case assessment for litigation funding.
+
+In order to better evaluate the quality of case outcome prediction systems, a proposal has been made to create a standardised dataset that would allow comparisons between systems.
+

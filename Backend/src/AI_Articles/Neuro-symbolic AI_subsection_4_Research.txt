@@ -1,0 +1,6 @@
+Many key research questions remain, such as:
+* What is the best way to integrate neural and symbolic architectures?
+* How should symbolic structures be represented within neural networks and extracted from them?
+* How should common-sense knowledge be learned and reasoned about?
+* How can abstract knowledge that is hard to encode logically be handled?
+

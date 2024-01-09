@@ -1,0 +1,6 @@
+The agent's action selection is modeled as a map called ''policy'':
+:<math>\pi: \mathcal \times \mathcal \rightarrow [0,1]</math>
+:<math>\pi(a,s) = \Pr(A_t = a \mid S_t = s)</math>
+
+The policy map gives the probability of taking action <math>a</math> when in state <math>s</math>. There are also deterministic policies.
+

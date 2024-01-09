@@ -1,0 +1,8 @@
+In 2019 Antonio Casilli|Antonio A. Casilli, a French sociologist, criticized artificial intelligence and virtual assistants in particular in the following way:
+
+At a first level the fact that the consumer provides free data for the training and improvement of the virtual assistant, often without knowing it, is ethically disturbing.
+
+But at a second level, it might be even more ethically disturbing to know how these Artificial intelligence|AIs are trained with this data.
+
+This artificial intelligence is trained via Artificial neural networks|neural networks, which require a huge amount of Labeled data|labelled data. However, this data needs to be labelled through a human process, which explains the rise of microwork in the last decade. That is, remotely using some people worldwide doing some repetitive and very simple tasks for a few cents, such as listening to virtual assistant speech data, and writing down what was said. Microwork has been criticized for the job insecurity it causes, and for the total lack of regulation: The average salary was 1,38 <abbr>dollar/hour</abbr> in 2010, and it provides neither healthcare nor retirement benefits, sick pay, minimum wage. Hence, virtual assistants and their designers are controversial for spurring job insecurity, and the AIs they propose are still human in the way that they would be impossible without the microwork of millions of human workers. Additionally to the linguistic content of recorded speech, a user's manner of expression and voice characteristics can implicitly contain information about his or her biometric identity, personality traits, body shape, physical and mental health condition, sex, gender, moods and emotions, socioeconomic status and geographical origin.
+

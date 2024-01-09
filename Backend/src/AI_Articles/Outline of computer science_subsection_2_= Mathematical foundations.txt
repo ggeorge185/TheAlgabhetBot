@@ -1,0 +1,7 @@
+Coding theory – Useful in networking, programming, system development, and other areas where computers communicate with each other.
+* Game theory – Useful in artificial intelligence and cybernetics.
+*Discrete Mathematics
+* Graph theory – Foundations for data structures and searching algorithms.
+* Mathematical logic – Boolean logic and other ways of mathematical model|modeling logical queries; the uses and limitations of formal proof methods
+* Number theory – Theory of the integers.  Used in cryptography as well as a test domain in artificial intelligence.
+

@@ -1,0 +1,7 @@
+Mihalis Yannakakis 
+* Andrew Chi-Chih Yao
+* John Yen
+* Nobuo Yoneda – Yoneda lemma, Yoneda product, ALGOL, IFIP Working Group 2.1|IFIP WG 2.1 member
+* Edward Yourdon – Structured Systems Analysis and Design Method
+* Moti Yung
+

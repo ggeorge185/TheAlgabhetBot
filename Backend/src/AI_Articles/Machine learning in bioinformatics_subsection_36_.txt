@@ -1,0 +1,6 @@
+Greengenes is a full-length 16S rRNA gene database that provides chimera screening, standard alignment and a curated taxonomy based on de novo tree inference. Overview: 
+* 1,012,863 RNA sequences from 92,684 organisms contributed to RNAcentral.
+* The shortest sequence has 1,253 nucleotides, the longest 2,368.
+* The average length is 1,402 nucleotides.
+* Database version: 13.5.
+

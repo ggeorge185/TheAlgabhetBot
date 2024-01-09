@@ -1,0 +1,3 @@
+Algorithms – Sequential and parallel computational procedures for solving a wide range of problems.
+* Data structures – The organization and manipulation of data.
+

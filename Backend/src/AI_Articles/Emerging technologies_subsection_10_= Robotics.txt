@@ -1,0 +1,5 @@
+Main|Robotics|Outline of robotics}}
+
+''Robotics'' is the branch of technology that deals with the design, construction, operation, and application of robots, as well as computer systems for their control, sensory feedback, and information processing. These technologies deal with automated machines that can take the place of humans in dangerous environments or manufacturing processes, or resemble humans in appearance, behavior, and/or cognition. A good example of a robot that resembles humans is Sophia (robot)|Sophia, a social humanoid robot developed by Hong Kong-based company Hanson Robotics Limited|Hanson Robotics which was activated on April 19, 2015. Many of today's robots are inspired by nature contributing to the field of bio-inspired robotics.
+File:RepRap (1029947513).jpg|thumb|Self-replicating 3D printer
+

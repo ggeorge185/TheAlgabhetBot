@@ -1,0 +1,14 @@
+Including members and alumni of CSAIL's predecessor laboratories)
+* MacArthur Fellows Program|MacArthur Fellows Tim Berners-Lee, Erik Demaine, Dina Katabi, Daniela L. Rus, Regina Barzilay, Peter Shor, Richard Stallman, and Joshua Tenenbaum
+* Turing Award recipients Leonard Adleman|Leonard M. Adleman, Fernando J. Corbató, Shafi Goldwasser, Butler Lampson|Butler W. Lampson, John McCarthy (computer scientist)|John McCarthy, Silvio Micali, Marvin Minsky, Ron Rivest|Ronald L. Rivest, Adi Shamir, Barbara Liskov, Michael Stonebraker, and Tim Berners-Lee
+* IJCAI Computers and Thought Award recipients Terry Winograd, Patrick Winston, David Marr (neuroscientist)|David Marr, Gerald Jay Sussman, Rodney Brooks
+* Nevanlinna Prize|Rolf Nevanlinna Prize recipients Madhu Sudan, Peter Shor, Constantinos Daskalakis
+* Gödel Prize recipients Shafi Goldwasser (two-time recipient), Silvio Micali, Maurice Herlihy, Charles Rackoff, Johan Håstad, Peter Shor, and Madhu Sudan
+* Grace Murray Hopper Award recipients Robert Metcalfe, Shafi Goldwasser, Guy L. Steele, Jr., Richard Stallman, and Danny Hillis|W. Daniel Hillis
+* Textbook authors Hal Abelson|Harold Abelson and Gerald Jay Sussman, Richard Stallman, Thomas H. Cormen, Charles E. Leiserson, Patrick Winston, Ronald L. Rivest, Barbara Liskov, John Guttag, Jerry Saltzer|Jerome H. Saltzer, Frans Kaashoek, Clifford Stein, and Nancy Lynch
+* David D. Clark, former chief protocol architect for the Internet; co-author with Jerome H. Saltzer (also a CSAIL member) and David P. Reed of the influential paper "end-to-end principle|End-to-End Arguments in Systems Design"
+* Eric Grimson, expert on computer vision and its applications to medicine, appointed Chancellor of MIT March 2011
+* Bob Frankston, co-developer of VisiCalc, the first computer spreadsheet
+* Seymour Papert, inventor of the Logo (programming language)|Logo programming language
+* Joseph Weizenbaum, creator of the ELIZA computer-simulated therapist
+

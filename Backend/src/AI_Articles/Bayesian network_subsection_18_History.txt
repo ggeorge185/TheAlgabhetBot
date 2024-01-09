@@ -1,0 +1,8 @@
+The term Bayesian network was coined by Judea Pearl in 1985 to emphasize:
+
+*the often subjective nature of the input information
+*the reliance on Bayes' conditioning as the basis for updating information
+*the distinction between causal and evidential modes of reasoning
+
+In the late 1980s Pearl's ''Probabilistic Reasoning in Intelligent Systems'' and Richard E. Neapolitan|Neapolitan's ''Probabilistic Reasoning in Expert Systems'' summarized their properties and established them as a field of study.
+

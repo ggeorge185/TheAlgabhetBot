@@ -1,0 +1,14 @@
+In order to apply control theory tools to the analysis of behavior trees, they can be defined as three-tuple.
+
+<math>
+ T_i=\, 
+</math>
+
+where <math> i\in \mathbb</math> is the index of the tree, <math>f_i: \mathbb^n \rightarrow  \mathbb^n</math> is a vector field representing the right hand side of an ordinary difference equation, <math>\Delta t</math> is a time step and 
+<math>r_i: \mathbb^n \rightarrow  \</math> is the return status, that can be equal to either 
+Running <math>R_i</math>,
+Success <math>S_i</math>, or
+Failure <math>F_i</math>.
+
+'''Note''': A task is a degenerate behavior tree with no parent and no child.
+

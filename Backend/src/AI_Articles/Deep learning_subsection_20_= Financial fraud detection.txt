@@ -1,0 +1,2 @@
+Deep learning is being successfully applied to financial fraud detection, tax evasion detection, and anti-money laundering.
+

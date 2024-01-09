@@ -1,0 +1,8 @@
+The following technologies are related to APC and in some contexts can be considered part of APC, but are generally separate technologies having their own (or in need of their own) Wiki articles.
+
+* Statistical process control (SPC), despite its name, is much more common in discrete parts manufacturing and batch process control than in continuous process control.  In SPC, “process” refers to the work and quality control process, rather than continuous process control.
+*Batch process control (see ANSI/ISA-88) is employed in non-continuous batch processes, such as many pharmaceuticals, chemicals, and foods.
+*Simulation-based optimization incorporates dynamic or steady-state computer-based process simulation models to determine more optimal operating targets in real-time, i.e. on a periodic basis, ranging from hourly to daily.  This is sometimes considered a part of APC, but in practice it is still an emerging technology and is more often part of MPO.
+*Manufacturing planning and optimization (MPO) refers to ongoing business activity to arrive at optimal operating targets that are then implemented in the operating organization, either manually or in some cases automatically communicated to the process control system.
+*Safety instrumented system refers to a system that is independent of the process control system, both physically and administratively, whose purpose is to assure basic safety of the process.
+

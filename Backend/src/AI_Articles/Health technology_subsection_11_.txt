@@ -1,0 +1,4 @@
+Modern robotics have made huge progress and contribution to healthcare. Robots can help doctors in performing  variety tasks. Robotics adoption is increasing tremendously in hospitals . The following are different ways to improve healthcare by using robots:
+File:Robotic Spinal Surgery.jpg|alt=Robotic Spinal Surgery|thumb|229x229px|Robotic Spinal Surgery
+Robot-assisted surgery|Surgical robots are one of the robotic systems, which allows a surgeon to bend and rotate tissues in a  more flexible and efficient way. The system is equipped with a [https://3drobots.org 3D magnification vision] system that can translate the hand movements of the surgeon to be precise in-order to perform a surgery with minimal incisions. Other robotics systems include the ability to diagnose and treat cancers. Many scientists began working on creating a next-generation robot system to assist the surgeon in performing knee and other bone replacement surgeries.
+

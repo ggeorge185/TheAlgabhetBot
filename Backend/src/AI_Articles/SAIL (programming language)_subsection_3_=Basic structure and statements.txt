@@ -1,0 +1,17 @@
+Like many ALGOL systems, and the later Pascal (programming language)|Pascal, the basic structure of SAIL is based on the ''block'', which is denoted by the code between the keywords  and . Within a block there is further structure, with the ''declarations'' of local variables at the top, if any, and the code, or ''statements'', following. In contrast to most dialects, SAIL allowed one to place a string after the , like , and then end the block with . The compiler would use these, if entered, to check for proper bracketing. SAIL did not include the equivalent of a  block as in Pascal, nor a  as in C, execution started with the first line of code in the outermost block.
+
+Standard statements included , ,  for top-tested loops,  for bottom-tested, and  which used a label. The  was similar to  in C, but normally used a somewhat different syntax, like , which returns the appropriate string based on the value of i. If one wanted to test explicit values in the CASE, the values had to be in square brackets:
+
+<syntaxhighlight lang=Pascal>
+CASE I OF
+  BEGIN
+    [0] 10;
+    [4] 25;
+    [6][7] 50
+  END;
+</syntaxhighlight>
+
+This code will ignore values like 1 to 3, and only return a value for the listed values. Note that the last item cannot have a semicolon following.
+
+ exited from a block, typically used in loops, and  returned to the top of the block. An infinite loop was typically implemented with .
+

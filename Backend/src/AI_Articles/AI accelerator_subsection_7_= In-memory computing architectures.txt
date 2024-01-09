@@ -1,0 +1,3 @@
+Expand section |date=October 2018}}
+In June 2017, IBM researchers announced an architecture in contrast to the Von Neumann architecture based on in-memory processing|in-memory computing and phase-change memory arrays applied to temporal Correlation (statistics)|correlation detection, intending to generalize the approach to heterogeneous computing and massively parallel systems. In October 2018, IBM researchers announced an architecture based on in-memory processing and neuromorphic engineering|modeled on the human brain's synaptic network to accelerate deep neural networks. The system is based on phase-change memory arrays.
+

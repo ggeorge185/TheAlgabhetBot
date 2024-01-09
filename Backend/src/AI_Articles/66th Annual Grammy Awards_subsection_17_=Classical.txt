@@ -1,0 +1,81 @@
+class="wikitable"
+|+
+|-
+| style="vertical-align:top;" width="50%" | 
+* "Thomas Adès|Adès: Dante"
+** Gustavo Dudamel, conductor (Los Angeles Philharmonic)
+* "Béla Bartók|Bartók: Concerto for Orchestra (Bartók)|Concerto for Orchestra; Four Pieces"
+** Karina Canellakis, conductor (Radio Filharmonisch Orkest|Netherlands Radio Philharmonic Orchestra)
+* "Florence Price|Price: Symphony No. 4 (Price)|Symphony No. 4; William L. Dawson (composer)|Dawson: Negro Folk Symphony"
+** Yannick Nézet-Séguin, conductor (The Philadelphia Orchestra)
+* "Alexander Scriabin|Scriabin: Symphony No. 2 (Scriabin)|Symphony No. 2; The Poem of Ecstasy"
+** JoAnn Falletta, conductor (Buffalo Philharmonic Orchestra)
+* "Igor Stravinsky|Stravinsky: The Rite of Spring"
+** Esa-Pekka Salonen, conductor (San Francisco Symphony)
+| style="vertical-align:top;" width="50%" | 
+* Terence Blanchard|Blanchard: Champion (opera)|Champion
+** Yannick Nézet-Séguin, conductor; Ryan Speedo Green, Latonia Moore & Eric Owens (bass-baritone)|Eric Owens; David Frost (producer)|David Frost, producer (The Metropolitan Opera Orchestra; The Metropolitan Opera Chorus)
+* John Corigliano|Corigliano: The Lord of Cries
+** Gil Rose, conductor; Anthony Roth Costanzo, Kathryn Henry, Jarrett Ott & David Portillo; Gil Rose, producer (Boston Modern Orchestra Project & Odyssey Opera Chorus)
+* David T. Little|Little: Black Lodge
+** Timur; Andrew McKenna Lee & David T. Little, producers (The Dime Museum; Isaura String Quartet)
+|-
+| style="vertical-align:top;" width="50%" | 
+* Carols After a Plague
+** Donald Nally, conductor (The Crossing (choral ensemble)|The Crossing)
+* The House of Belonging
+** Craig Hella Johnson, conductor (Miró Quartet; Conspirare)
+* György Ligeti|Ligeti: Lux Aeterna (Ligeti)|Lux Aeterna
+** Esa-Pekka Salonen, conductor (San Francisco Symphony Chorus)
+* Sergei Rachmaninoff|Rachmaninoff: All-Night Vigil (Rachmaninoff)|All-Night Vigil
+** Steven Fox, conductor (The Clarion Choir)
+* Kaija Saariaho|Saariaho: Reconnaissance
+** Nils Schweckendiek, conductor (Uusinta Ensemble; Helsinki Chamber Choir)
+| style="vertical-align:top;" width="50%" | 
+* American Stories – Anthony McGill (musician)|Anthony McGill & Pacifica Quartet
+* Beethoven for Three: Symphony No. 6 (Beethoven)|Symphony No. 6, Pastorale and Piano Trios, Op. 1 (Beethoven)|Op. 1, No. 3 – Yo-Yo Ma, Emanuel Ax & Leonidas Kavakos
+* Between Breaths – Third Coast Percussion
+* Rough Magic – Roomful of Teeth
+* Uncovered, Vol. 3: Coleridge-Taylor Perkinson, William Grant Still & George Walker (composer)|George Walker – Catalyst Quartet
+|-
+| style="vertical-align:top;" width="50%" | 
+* John Luther Adams: Darkness and Scattered Light – Robert Black (bassist)|Robert Black
+* Andy Akiho|Akiho: Cylinders – Andy Akiho
+* The American Project – Yuja Wang; Teddy Abrams, conductor (Louisville Orchestra)
+* Difficult Grace – Seth Parker Woods
+* Of Love – Curtis Stewart (violinist)|Curtis Stewart
+| style="vertical-align:top;" width="50%" | 
+* ''Because''
+** Reginald Mobley, soloist; Baptiste Trotignon, pianist
+* ''Broken Branches''
+** Karim Sulayman, soloist; Sean Shibe, accompanist
+* ''40@40''
+** Laura Strickling, soloist; Daniel Schlosberg, pianist
+* ''Rising''
+** Lawrence Brownlee, soloist; Kevin J. Miller, pianist
+* ''Walking in the Dark''
+** Julia Bullock, soloist; Christian Reif, conductor (Philharmonia Orchestra)
+|-
+| style="vertical-align:top;" width="50%" | 
+* ''Fandango''
+** Anne Akiko Meyers; Gustavo Dudamel, conductor; Dmitriy Lipay, producer
+* ''Julius Eastman, Vol. 3: If You're So Smart, Why Aren't You Rich?''
+** Christopher Rountree, conductor; Lewis Pesacov, producer
+* ''Missy Mazzoli|Mazzoli: Dark with Excessive Bright''
+** Peter Herresthal; Tim Weiss, conductor; Hans Kipfer, producer
+* ''Passion for Bach and Coltrane''
+** Alex Brown, Harlem Quartet, Imani Winds, Edward Perez, Neal Smith (drummer)|Neal Smith & A.B. Spellman; Silas Brown & Mark Dover, producers
+* ''Sardinia''
+** Chick Corea; Chick Corea & Bernie Kirsh, producers
+* ''Sculptures''
+** Andy Akiho; Andy Akiho & Sean Dixon, producers
+* ''Zodiac Suite''
+** Aaron Diehl Trio & The Knights; Eric Jacobsen (conductor)|Eric Jacobsen, conductor; Aaron Diehl & Eric Jacobsen, producers
+| style="vertical-align:top;" width="50%" | 
+* Thomas Adès|Adès: Dante – Thomas Adès, composer (Gustavo Dudamel & Los Angeles Philharmonic)
+* Andy Akiho|Akiho: In That Space, At That Time – Andy Akiho, composer (Andy Akiho, Ankush Kumar Bahl & Omaha Symphony Orchestra|Omaha Symphony)
+* William Brittelle|Brittelle: Psychedelics – William Brittelle, composer (Roomful of Teeth)
+* Missy Mazzoli|Mazzoli: Dark with Excessive Bright – Missy Mazzoli, composer (Peter Herresthal, James Gaffigan (conductor)|James Gaffigan & Bergen Philharmonic)
+* Jessie Montgomery|Montgomery: Rounds – Jessie Montgomery, composer (Awadagin Pratt, A Far Cry & Roomful of Teeth)
+|}
+

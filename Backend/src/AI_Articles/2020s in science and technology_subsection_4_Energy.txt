@@ -1,0 +1,4 @@
+QuantumScape revealed that it had created the first functioning prototype of a  solid-state battery, promising to massively increase battery capacity.
+* The Chinese Experimental Advanced Superconducting Tokamak was turned on for the first time. The China Fusion Engineering Test Reactor is being planned for commissioning later in the decade.
+* Group14 Technologies has patented SCC55, a silicon-carbon composite, leading to 50% more in fully lithiated volumetric energy density than graphite used in conventional lithium-ion battery anodes.
+

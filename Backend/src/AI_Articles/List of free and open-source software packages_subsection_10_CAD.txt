@@ -1,0 +1,8 @@
+Main category|Free computer-aided design software}}
+* FreeCAD – Parametric 3D CAD modeler with a focus on mechanical engineering, BIM, and product design.
+* LibreCAD – 2D CAD software using AutoCAD-like interface and file format.
+* SolveSpace - 2D and 3D CAD, constraint-based parametric modeler with simple mechanical simulation abilities.
+* BRL-CAD - a constructive solid geometry (CSG) solid modeling computer-aided design (CAD) system.
+* OpenSCAD – A scripting based 3D CAD software.
+* Open Cascade Technology (OCCT) - a CAD kernel for 3D CAD, Computer-aided manufacturing|CAM, CAE, etc.
+

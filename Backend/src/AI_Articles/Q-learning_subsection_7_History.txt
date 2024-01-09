@@ -1,0 +1,13 @@
+Q''-learning was introduced by Chris Watkins in 1989. A convergence proof was presented by Watkins and Peter Dayan in 1992.
+
+Watkins was addressing “Learning from delayed rewards”, the title of his PhD thesis. Eight years earlier in 1981 the same problem, under the name of “Delayed reinforcement learning”, was solved by Bozinovski's Crossbar Adaptive Array (CAA). The memory matrix <math>W = \|w(a,s)\|</math> was the same as the eight years later Q-table of Q-learning. The architecture introduced the term “state evaluation” in reinforcement learning. The crossbar learning algorithm, written in mathematical pseudocode in the paper, in each iteration performs the following computation:
+
+* In state  perform action ;
+* Receive consequence state ; 
+* Compute state evaluation ; 
+* Update crossbar value <math>w'(a,s) = w(a,s) + v(s')</math>.
+
+The term “secondary reinforcement” is borrowed from animal learning theory, to model state values via backpropagation: the state value  of the consequence situation is backpropagated to the previously encountered situations. CAA computes state values vertically and actions horizontally (the "crossbar"). Demonstration graphs showing delayed reinforcement learning contained states (desirable, undesirable, and neutral states), which were computed by the state evaluation function. This learning system was a forerunner of the Q-learning algorithm.
+
+In 2014, Google DeepMind patented an application of Q-learning to deep learning, titled "deep reinforcement learning" or "deep Q-learning" that can play Atari 2600 games at expert human levels.
+

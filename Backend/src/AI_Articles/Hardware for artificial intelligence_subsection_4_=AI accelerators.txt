@@ -1,0 +1,4 @@
+Main|AI accelerator}}
+
+Since the 2010s, advances in computer hardware have led to more efficient methods for training deep neural networks that contain many layers of non-linear hidden units and a very large output layer. By 2019, graphics processing units (GPUs), often with AI-specific enhancements, had displaced central processing units (CPUs) as the dominant means to train large-scale commercial cloud AI. OpenAI estimated the hardware compute used in the largest deep learning projects from Alex Net (2012) to Alpha Zero (2017), and found a 300,000-fold increase in the amount of compute needed, with a doubling-time trend of 3.4 months.
+

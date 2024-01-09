@@ -1,0 +1,16 @@
+One of the earliest authors to express serious concern that highly advanced machines might pose existential risks to humanity was the novelist Samuel Butler (novelist)|Samuel Butler, who wrote in his 1863 essay ''Darwin among the Machines'':
+
+In 1951, foundational computer scientist Alan Turing wrote the article "Intelligent Machinery, A Heretical Theory", in which he proposed that artificial general intelligences would likely "take control" of the world as they became more intelligent than human beings:
+
+
+
+In 1965, I. J. Good originated the concept now known as an "intelligence explosion" and said the risks were underappreciated:
+
+
+
+Scholars such as Marvin Minsky and I. J. Good himself occasionally expressed concern that a superintelligence could seize control, but issued no call to action. In 2000, computer scientist and Sun microsystems|Sun co-founder Bill Joy penned an influential essay, "Why The Future Doesn't Need Us", identifying superintelligent robots as a high-tech danger to human survival, alongside nanotechnology and engineered bioplagues.
+
+Nick Bostrom published ''Superintelligence: Paths, Dangers, Strategies|Superintelligence'' in 2014, which presented his arguments that superintelligence poses an existential threat. By 2015, public figures such as physicists Stephen Hawking and Nobel laureate Frank Wilczek, computer scientists Stuart J. Russell and Roman Yampolskiy, and entrepreneurs Elon Musk and Bill Gates were expressing concern about the risks of superintelligence. Also in 2015, the Open Letter on Artificial Intelligence highlighted the "great potential of AI" and encouraged more research on how to make it robust and beneficial. In April 2016, ''Nature (journal)|Nature'' warned: "Machines and robots that outperform humans across the board could self-improve beyond our control—and their interests might not align with ours." In 2020, Brian Christian published ''The Alignment Problem'', which details the history of progress on AI alignment up to that time.
+
+In March 2023, key figures in AI, such as Musk, signed a letter from the Future of Life Institute calling a halt to advanced AI training until it could be properly regulated. In May 2023, the Center for AI Safety released a statement signed by numerous experts in AI safety and the AI existential risk which stated: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
+

@@ -1,0 +1,6 @@
+Facebook has also been working on its own Go-playing system ''darkforest'', also based on combining machine learning and Monte Carlo tree search. Although a strong player against other computer Go programs, as of early 2016, it had not yet defeated a professional human player. Darkforest has lost to CrazyStone and Zen and is estimated to be of similar strength to CrazyStone and Zen.
+
+Zen (software)|DeepZenGo, a system developed with support from video-sharing website Dwango (company)|Dwango and the University of Tokyo, lost 2–1 in November 2016 to Go master Cho Chikun, who holds the record for the largest number of Go title wins in Japan.
+
+A 2018 paper in Nature (journal)|Nature cited AlphaGo's approach as the basis for a new means of computing potential pharmaceutical drug molecules.
+

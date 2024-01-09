@@ -1,0 +1,4 @@
+According to OpenAI, in 2023 ChatGPT GPT-4 scored the 90th percentile on the Uniform Bar Exam. On the SATs, GPT-4 scored the 89th percentile on math, and the 93rd percentile in Reading & Writing. On the GREs, it scored on the 54th percentile on the writing test, 88th percentile on the quantitative section, and 99th percentile on the verbal section. It scored in the 99th to 100th percentile on the 2020 USA Biology Olympiad semifinal exam. It scored a perfect "5" on several AP exams.
+
+Independent researchers found in 2023 that ChatGPT GPT-3.5 "performed at or near the passing threshold" for the three parts of the United States Medical Licensing Examination. GPT-3.5 was also assessed to attain a low, but passing, grade from exams for four law school courses at the University of Minnesota.
+

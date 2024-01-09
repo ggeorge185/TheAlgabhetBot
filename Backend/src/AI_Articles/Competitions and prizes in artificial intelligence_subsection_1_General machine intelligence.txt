@@ -1,0 +1,14 @@
+The Rumelhart Prize|David E. Rumelhart prize is an annual award for making a "significant contemporary contribution to the theoretical foundations of human cognition".  The prize is $100,000.
+
+The Human-Competitive Award is an annual challenge started in 2004 to reward results "competitive with the work of creative and inventive humans". The prize is $10,000.  Entries are required to use evolutionary computing.
+
+The Intel AI Global Impact Festival is an international annual competition held by Intel Corporation  for school, and college students with prizes upwards of $15,000. It is about artificial intelligence technology. There are two age brackets in this competition, 13-18 Age Group, and 18 and Above Age Group.
+
+The IJCAI Award for Research Excellence is a biannual award given at the IJCAI conference to researcher in artificial intelligence as a recognition of excellence of their career.
+
+The 2011 Federal Virtual World Challenge, advertised by The White House and sponsored by the U.S. Army Research Laboratory's Simulation and Training Technology Center, held a competition offering a total of US$52,000 in cash prize awards for general artificial intelligence applications, including "adaptive learning systems, intelligent conversational bots, adaptive behavior (objects or processes)" and more.
+
+The Machine Intelligence Prize is awarded annually by the British Computer Society for progress towards machine intelligence.
+
+The Kaggle – "the world's largest community of data scientists compete to solve most valuable problems".
+

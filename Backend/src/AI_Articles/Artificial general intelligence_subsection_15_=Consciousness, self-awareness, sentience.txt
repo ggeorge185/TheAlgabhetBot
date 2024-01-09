@@ -1,0 +1,11 @@
+Other aspects of the human mind besides intelligence are relevant to the concept of AGI or "strong AI", and these play a major role in science fiction and the ethics of artificial intelligence:
+* consciousness: To have qualia|subjective experience. Thomas Nagel explains that it "feels like" something to be conscious. If we are not conscious, then it doesn't feel like anything. Nagel uses the example of a bat: we can sensibly ask "what does it feel like to be a bat?" However, we are unlikely to ask "what does it feel like to be a toaster?" Nagel concludes that a bat appears to be conscious (i.e. has consciousness) but a toaster does not.
+* self-awareness: To have conscious awareness of oneself as a separate individual, especially to be consciously aware of one's own thoughts. This is opposed to simply being the "subject of one's thought" – an operating system or debugger is able to be "aware of itself" (that is, to represent itself in the same way it represents everything else) but this is not what people typically mean when they use the term "self-awareness".}}
+* sentience: The ability to "feel" perceptions or emotions subjectively, as opposed to the ability to ''reason'' about perceptions or, in regard to emotions, to be aware that the situation requires urgency, kindness or aggression. For example, we can build a machine that knows which objects in its field of view are red, but this machine will not necessarily know ''what red looks like''.
+
+These traits have a moral dimension, because a machine with this form of "strong AI" may have rights, analogous to the animal rights|rights of non-human animals. Preliminary work has been conducted on integrating strong AI with existing legal and social frameworks, focusing on the legal position and rights of 'strong' AI.
+
+It remains to be shown whether "artificial consciousness" is Necessary and sufficient condition|necessary for AGI. However, many AGI researchers regard research that investigates possibilities for implementing consciousness as vital.
+
+Bill Joy, among others, argues a machine with these traits may be a threat to human life or dignity.
+

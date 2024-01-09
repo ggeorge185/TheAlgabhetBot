@@ -1,0 +1,5 @@
+In 2001, the ''International Conference on Computational Science (ICCS)'' was first organized. Since then, it has been organized yearly. ICCS is an A-rank conference in the CORE ranking.
+
+The ''Journal of Computational Science'' published its first issue in May 2010. The ''Journal of Open Research Software'' was launched in 2012''.''
+The ReScience C initiative, which is dedicated to replicating computational results, was started on GitHub in 2015.
+

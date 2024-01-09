@@ -1,0 +1,28 @@
+Further|Artificial intelligence arms race|Lethal autonomous weapon|Unmanned combat aerial vehicle}}
+Various countries are deploying AI military applications. The main applications enhance command and control, communications, sensors, integration and interoperability. Research is targeting intelligence collection and analysis, logistics, cyber operations, information operations, and semiautonomous and Vehicular automation|autonomous vehicles.
+
+Worldwide annual military spending on robotics rose from US$5.1 billion in 2010 to US$7.5 billion in 2015. Military drones capable of autonomous action are in wide use. Many researchers avoid military applications. Current research has indicated that non-cardiac vascular illnesses are also being treated with artificial intelligence (AI). For certain disorders, AI algorithms can assist with diagnosis, recommended treatments, outcome prediction, and patient progress tracking. As AI technology advances, it is anticipated that it will become more significant in the healthcare industry.
+
+Microsoft's AI project Hanover helps doctors choose Treatment of cancer|cancer treatments from among the more than 800 medicines and vaccines. Its goal is to memorize all the relevant papers to predict which (combinations of) drugs will be most effective for each patient. Acute myeloid leukemia|Myeloid leukemia is one target. Another study reported on an AI that was as good as doctors in identifying skin cancers. Another project monitors multiple high-risk patients by asking each patient questions based on data acquired from doctor/patient interactions. In one study done with transfer learning, an AI diagnosed eye conditions similar to an ophthalmologist and recommended treatment referrals.
+
+Another study demonstrated surgery with an autonomous robot. The team supervised the robot while it performed soft-tissue surgery, stitching together a pig's bowel judged better than a surgeon.
+
+Artificial neural networks are used as clinical decision support systems for medical diagnosis, such as in concept processing technology in electronic medical record|EMR software.
+
+Other healthcare tasks thought suitable for an AI that are in development include:
+* Screening (medicine)|Screening
+* Heart sound analysis
+* Companion robots for elderly care|elder care
+* Electronic health record#Usefulness for research|Medical record analysis
+* Treatment plan design
+* Medication management
+* Assisting blind people
+* Consultations
+* Drug creation (e.g. by identifying candidate drugs and by using existing drug screening data such as in life extension research)
+* Clinical training
+* Outcome prediction for surgical procedures
+* HIV prognosis
+* Identifying genomic pathogen signatures of novel pathogens or identifying pathogens via physics-based fingerprints (including pandemic pathogens)
+* Helping link genes to their functions, otherwise analyzing genes and identification of novel biological targets
+* Help development of biomarker (medicine)|biomarkers
+

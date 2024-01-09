@@ -1,0 +1,6 @@
+US politicians and European industry players have invoked the looming AI Cold War as a reason to ban procurement by public authorities in Europe of Huawei 5G technology due to concerns over the Mass surveillance in China|Chinese state-sponsored surveillance industry.
+
+In 2019, the Presidency of Donald Trump | Trump administration successfully lobbied the Dutch government into stopping the Netherlands-based company ASML Holding| ASML  from exporting equipment to China.
+ASML manufactures a machine called an extreme ultraviolet lithography system used by semiconductor producers, including TSMC and Intel to produce state-of the-art microchips.
+The Biden administration adopted the same course of action as the Trump administration and requested the Netherlands to restrict sales by ASML to China, invoking national-security concerns. and raised concerns by the US industry that supply chains will be disrupted in case of an AI Cold War. This prompted US technology companies to develop mitigation strategies including hoarding semiconductors and trying to set up local semiconductor production facilities, with the support of government subsidies.
+

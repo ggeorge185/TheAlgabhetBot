@@ -1,0 +1,7 @@
+His research contributions encompass the fields of machine learning, artificial intelligence and bioinformatics.  Particularly, his work has focused on statistical analysis of learning algorithms, to its application to support vector machines, kernel methods and other algorithms.  Cristianini is the co-author of two widely known books in machine learning, ''An Introduction to Support Vector Machines'' and ''Kernel Methods for Pattern Analysis'' and a book
+in bioinformatics, "Introduction to Computational Genomics".
+
+Recent research has focused on the philosophical challenges posed by modern artificial intelligence, big-data analysis of newspapers content, the analysis of social media content. Previous research had focused on statistical pattern analysis; machine learning and artificial intelligence; machine translation; bioinformatics.
+
+As a practitioner of data-driven AI and Machine Learning, Cristianini frequently gives public talks about the need for a deeper ethical understanding of the effects of modern data-science on society. His book "The Shortcut" is devoted to the philosophical foundations of Artificial Intelligence and its potential risks for individuals and society.
+

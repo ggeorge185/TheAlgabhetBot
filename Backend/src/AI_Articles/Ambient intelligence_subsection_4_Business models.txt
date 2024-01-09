@@ -1,0 +1,9 @@
+The ISTAG group concluded that ambient intelligence technologies can contribute to profitable businesses in a number of ways. The methods identified were:
+
+* Initial premium value niche markets in industrial, commercial, or public applications. The group predicted a particular value where enhanced interfaces are needed to support human performance in fast-moving or delicate situations.
+* Startup and spinoff opportunities from filling gaps in existing markets.
+* High access-low entry cost to create economies of scale &ndash; possibly using a loss leader|loss leadership pricing structure.
+* 'Free' services at the point of delivery, paid by advertising or complementary services or goods; this ties AmI to the nascent attention economy.
+* Self-provision—based upon the network economies of huge user communities providing information as a gift or at near-zero cost (e.g. social networking applications).
+* Combining multiple and diverse datasets in one platform to understand consumer behaviour.
+

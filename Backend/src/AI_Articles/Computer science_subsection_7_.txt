@@ -1,0 +1,8 @@
+main|Information theory|Coding theory}}
+
+Information theory, closely related to probability and statistics, is related to the quantification of information. This was developed by Claude Shannon to find fundamental limits on signal processing operations such as compressing data and on reliably storing and communicating data.
+Coding theory is the study of the properties of codes (systems for converting information from one form to another) and their fitness for a specific application. Codes are used for data compression, cryptography, error detection and correction, and more recently also for Linear network coding|network coding. Codes are studied for the purpose of designing efficient and reliable data transmission methods.
+
+
+
+

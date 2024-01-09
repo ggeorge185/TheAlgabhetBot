@@ -1,0 +1,3 @@
+further|Technological unemployment}}
+Researchers from OpenAI estimated that "80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of LLMs, while around 19% of workers may see at least 50% of their tasks impacted". They consider office workers to be the most exposed, for example mathematicians, accountants or web designers.
+

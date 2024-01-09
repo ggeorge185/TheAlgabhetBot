@@ -1,0 +1,2 @@
+The Hubble Space Telescope uses a short-term system called [https://archive.today/20121212180252/http://www.pst.stsci.edu/spss/doc/spss-abs.html SPSS] and a long-term planning system called [http://www.stsci.edu/resources/software_hardware/spike/ Spike] .
+

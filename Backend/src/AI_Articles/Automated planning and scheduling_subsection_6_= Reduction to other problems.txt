@@ -1,0 +1,3 @@
+reduction to the propositional satisfiability problem (satplan).
+* reduction to Model checking - both are essentially problems of traversing state spaces, and the classical planning problem corresponds to a subclass of model checking problems.
+

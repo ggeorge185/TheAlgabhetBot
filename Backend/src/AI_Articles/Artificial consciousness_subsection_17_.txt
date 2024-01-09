@@ -1,0 +1,2 @@
+Ben Goertzel made an embodied AI through the open-source OpenCog project. The code includes embodied virtual pets capable of learning simple English-language commands, as well as integration with real-world robotics, done at the Hong Kong Polytechnic University.
+

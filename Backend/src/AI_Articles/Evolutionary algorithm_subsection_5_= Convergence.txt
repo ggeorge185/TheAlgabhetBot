@@ -1,0 +1,9 @@
+further|Convergence (evolutionary computing)}}
+For EAs in which, in addition to the offspring, at least the best individual of the parent generation is used to form the subsequent generation (so-called elitist EAs), there is a general proof of Convergence (logic)|convergence under the condition that an optimum exists. Without loss of generality, a maximum search is assumed for the proof:
+
+From the property of elitist offspring acceptance and the existence of the optimum it follows that per generation <math>k</math> an improvement of the fitness <math>F</math> of the respective best individual <math>x'</math> will occur with a probability <math>P > 0</math>. Thus:
+:<math>F(x'_1) \leq F(x'_2) \leq F(x'_3) \leq \cdots \leq F(x'_k) \leq \cdots</math>
+I.e., the fitness values represent a Monotonic function|monotonically non-decreasing sequence, which is bounded set|bounded due to the existence of the optimum. From this follows the convergence of the sequence against the optimum.
+
+Since the proof makes no statement about the speed of convergence, it is of little help in practical applications of EAs. But it does justify the recommendation to use elitist EAs. However, when using the usual Panmixia|panmictic Population model (evolutionary algorithm)|population model, elitist EAs tend to Premature convergence|converge prematurely more than non-elitist ones. In a panmictic population model, mate selection (step 2 of the section about implementation) is such that every individual in the entire population is eligible as a mate. In Population model (evolutionary algorithm)|non-panmictic populations, selection is suitably restricted, so that the dispersal speed of better individuals is reduced compared to panmictic ones. Thus, the general risk of premature convergence of elitist EAs can be significantly reduced by suitable population models that restrict mate selection.
+

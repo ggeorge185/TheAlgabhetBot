@@ -1,0 +1,33 @@
+In the early 1950s, there were various names for the field of "thinking machines": cybernetics, automata theory, and complex information processing. The variety of names suggests the variety of conceptual orientations.
+
+In 1955, John McCarthy (computer scientist)|John McCarthy, then a young Assistant Professor of Mathematics at Dartmouth College, decided to organize a group to clarify and develop ideas about thinking machines. He picked the name 'Artificial Intelligence' for the new field. He chose the name partly for its neutrality; avoiding a focus on narrow automata theory, and avoiding cybernetics which was heavily focused on analog feedback, as well as him potentially having to accept the assertive Norbert Wiener as guru or having to argue with him.
+
+In early 1955, McCarthy approached the Rockefeller Foundation to request funding for a summer seminar at Dartmouth for about 10 participants. In June, he and Claude Shannon, a founder of information theory then at Bell Labs, met with Robert Morison, Director of Biological and Medical Research to discuss the idea and possible funding, though Morison was unsure whether money would be made available for such a visionary project.
+
+On September 2, 1955, the project was formally proposed by John McCarthy (computer scientist)|McCarthy, Marvin Minsky, Nathaniel Rochester (computer scientist)|Nathaniel Rochester and Claude Shannon. The proposal is credited with introducing the term 'artificial intelligence'.
+
+The Proposal states:
+
+The proposal goes on to discuss computers, natural language processing, neural networks, theory of computation, abstraction and creativity (these areas within the field of artificial intelligence are considered still relevant to the work of the field).
+
+On May 26, 1956, McCarthy notified Robert Morison of the planned 11 attendees:
+
+For the full period:
+: 1) Marvin Minsky|Dr. Marvin Minsky 
+: 2) Julian Bigelow|Dr. Julian Bigelow
+: 3) Donald MacCrimmon MacKay|Professor D.M. Mackay
+: 4) Ray Solomonoff|Mr. Ray Solomonoff
+: 5) John Henry Holland|Mr. John Holland
+: 6) John McCarthy (computer scientist)|Dr. John McCarthy
+
+For four weeks:
+: 7) Claude Shannon|Dr. Claude Shannon
+: 8) Nathaniel Rochester (computer scientist)|Mr. Nathaniel Rochester
+: 9) Oliver Selfridge|Mr. Oliver Selfridge
+
+For the first two weeks:
+: 10) Allen Newell|Dr. Allen Newell
+: 11) Herbert A. Simon|Professor Herbert Simon
+
+He noted, "we will concentrate on a problem of devising a way of Computer programming|programming a calculator to form concepts and to form generalizations. This of course is subject to change when the group gets together." Ray Solomonoff's notes written during the Workshop, however, say it ran for roughly eight weeks, from about June 18 to August 17. Solomonoff's Dartmouth notes start on June 22; June 28 mentions Minsky, June 30 mentions Hanover, N.H., July 1 mentions Tom Etter. On August 17, Solomonoff gave a final talk.
+

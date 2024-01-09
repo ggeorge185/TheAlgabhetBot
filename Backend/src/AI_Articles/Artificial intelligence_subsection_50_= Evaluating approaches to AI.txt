@@ -1,0 +1,2 @@
+No established unifying theory or paradigm has guided AI research for most of its history.}} The unprecedented success of statistical machine learning in the 2010s eclipsed all other approaches (so much so that some sources, especially in the business world, use the term "artificial intelligence" to mean "machine learning with neural networks"). This approach is mostly sub-symbolic, soft computing|soft and artificial general intelligence|narrow (see below). Critics argue that these questions may have to be revisited by future generations of AI researchers.
+

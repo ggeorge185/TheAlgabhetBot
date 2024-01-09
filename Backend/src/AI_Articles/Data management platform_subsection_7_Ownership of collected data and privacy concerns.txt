@@ -1,0 +1,14 @@
+There are three main types of data in general:
+
+* '''1st party data''' – data collected and owned by the company itself. For example, website data, mobile application data, and CRM data.
+* '''2nd party data''' – data collected as a result of corporate cooperation. This includes online campaign data and customer journey data. 
+* '''3rd party data''' – data delivered by data providers, which is available on the market for purchase.<ref name="Foote 2018" />
+
+There are also three main types of data collected by DMPs:
+
+* '''Observed data''' – the digital footprint of internet users, i.e. search history or type of web browser used.
+* '''Inferred data''' – conclusions based on a user's internet behavior.
+* '''Declared data''' – data explicitly provided from users such as online forms or application sign ups.<ref name="Levy 2015" />
+
+DMPs are beneficial in helping digital marketers discover new audiences based on third-party data. Although this is the case, the General Data Protection Regulation (GDPR) makes it harder for DMPs to obtain third-party data. Previously, DMPs processed third-party data through internet cookies|cookies and existing laws did not require user consent for such data collection. However, the GDPR now demands that personal data - which includes data collected through the use of cookies - can only be used with user consent. Going forward, this means that collecting third-party data will become harder for companies, and DMPs will have greater legal obligations. As a result, future DMPs may rely more heavily on first-party and second-party data.<ref name="Foote 2018" />
+

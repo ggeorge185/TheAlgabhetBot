@@ -1,0 +1,2 @@
+Generative AI systems are often used to develop synthetic data as an alternative to data produced by real-world events. Such data can be deployed to validate mathematical models and to train machine learning models while preserving user privacy, including for structured data. The approach is not limited to text generation; image generation has been employed to train computer vision models.
+

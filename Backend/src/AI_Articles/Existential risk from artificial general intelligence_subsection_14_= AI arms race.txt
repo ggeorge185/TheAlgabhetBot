@@ -1,0 +1,3 @@
+Main|Artificial intelligence arms race}}
+Companies, state actors, and other organizations competing to develop AI technologies could lead to a race to the bottom of safety standards. As rigorous safety procedures take time and resources, projects that proceed more carefully risk being out-competed by less scrupulous developers. AI could be used to gain an edge in decision-making by quickly analyzing large amounts of data and making decisions more quickly and effectively than humans. This could increase the speed and unpredictability of war, especially when accounting for automated retaliation systems.
+

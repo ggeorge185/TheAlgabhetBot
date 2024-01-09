@@ -1,0 +1,4 @@
+Those responsible for the design, implementation and maintenance of APC applications are often referred to as APC Engineers or Control Application Engineers. Usually their education is dependent upon the field of specialization. For example, in the process industries many APC Engineers have a chemical engineering background, combining process control and chemical processing expertise.
+
+Most large operating facilities, such as oil refineries, employ a number of control system specialists and professionals, ranging from field instrumentation, regulatory control system (DCS and PLC), advanced process control, and control system network and security.  Depending on facility size and circumstances, these personnel may have responsibilities across multiple areas, or be dedicated to each area.  There are also many process control service companies that can be hired for support and services in each area.
+

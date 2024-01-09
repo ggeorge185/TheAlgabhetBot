@@ -1,0 +1,8 @@
+Self-learning in neural networks was introduced in 1982 along with a neural network capable of self-learning named ''crossbar adaptive array'' (CAA). It is a system with only one input, situation s, and only one output, action (or behavior) a. It has neither external advice input nor external reinforcement input from the environment. The CAA computes, in a crossbar fashion, both decisions about actions and emotions (feelings) about encountered situations. The system is driven by the interaction between cognition and emotion. Given the memory matrix, W =||w(a,s)||, the crossbar self-learning algorithm in each iteration performs the following computation:
+   In situation s perform action a;
+   Receive consequence situation s';
+   Compute emotion of being in consequence situation v(s');
+   Update crossbar memory w'(a,s) = w(a,s) + v(s').
+
+The backpropagated value (secondary reinforcement) is the emotion toward the consequence situation. The CAA exists in two environments, one is behavioral environment where it behaves, and the other is genetic environment, where from it initially and only once receives initial emotions about to be encountered situations in the behavioral environment. Having received the genome vector (species vector) from the genetic environment, the CAA will learn a goal-seeking behavior, in the behavioral environment that contains both desirable and undesirable situations.
+

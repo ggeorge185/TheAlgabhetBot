@@ -1,0 +1,6 @@
+Machine learning methods for the analysis of neuroimaging data are used to help diagnose stroke. Historically multiple approaches to this problem involved neural networks.
+
+Multiple approaches to detect strokes used machine learning. As proposed by Mirtskhulava, feed-forward networks were tested to detect strokes using neural imaging. As proposed by Titano 3D-CNN techniques were tested in supervised classification to screen head CT images for acute neurologic events. Three-dimensional Convolutional neural network|CNN and Support-vector machine|SVM methods are often used. Machine learning can be used for this knowledge extraction task using techniques such as natural language processing to extract the useful information from human-generated reports in a database. Text Nailing, an alternative approach to machine learning, capable of extracting features from clinical narrative notes was introduced in 2017.
+
+This technique has been applied to the search for novel drug targets, as this task requires the examination of information stored in biological databases and journals.
+

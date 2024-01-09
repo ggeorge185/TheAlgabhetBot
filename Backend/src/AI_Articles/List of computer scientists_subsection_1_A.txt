@@ -1,0 +1,25 @@
+Please keep entries in alphabetical order -->
+* Atta ur Rehman Khan – Mobile Cloud Computing, Cybersecurity, IoT
+* Wil van der Aalst – business process management, process mining, Petri nets
+* Scott Aaronson – quantum computing and Computational complexity theory|complexity theory
+* Rediet Abebe – algorithms, artificial intelligence
+* Hal Abelson – intersection of computing and teaching
+* Serge Abiteboul – database theory
+* Samson Abramsky – game semantics
+* Leonard Adleman – RSA (cryptosystem)|RSA, DNA computing
+* Manindra Agrawal – polynomial-time primality testing
+* Luis von Ahn – human-based computation
+* Alfred Aho – compilers book, the 'a' in AWK
+* Frances E. Allen – compiler optimization
+* Gene Amdahl – supercomputer developer, Amdahl Corporation founder
+* David P. Anderson – volunteer computing
+* Lisa Anthony – natural user interfaces
+* Andrew Appel – compiler of text books
+* Cecilia R. Aragon – invented treap, human-centered data science
+* Bruce Arden – programming language compilers (GAT, Michigan Algorithm Decoder (MAD)), virtual memory architecture, Michigan Terminal System (MTS)
+* Angie Jones - software engineer and automation architect. Holds 26 patented inventions in the United States of America and Japan
+* Sanjeev Arora – PCP theorem
+* Winifred Asprey|Winifred "Tim" Alice Asprey – established the computer science curriculum at Vassar College
+* John Vincent Atanasoff – computer pioneer, creator of Atanasoff Berry Computer (ABC)
+* Shakuntala Atre – database theory
+

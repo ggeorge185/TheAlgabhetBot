@@ -1,0 +1,6 @@
+Natural Language Processing|Natural language processing algorithms personalized medicine for patients who suffer genetic diseases, by combining the extraction of clinical information and genomic data available from the patients. Institutes such as Health-funded Pharmacogenomics Research Network focus on finding breast cancer treatments.
+
+Precision medicine considers individual genomic variability, enabled by large-scale biological databases. Machine learning can be applied to perform the matching function between (groups of patients) and specific treatment modalities.
+
+Computational techniques are used to solve other problems, such as efficient primer design for Polymerase chain reaction|PCR, biological-image analysis and back translation of proteins (which is, given the degeneration of the genetic code, a complex combinatorial problem).  However, while raw data was becoming increasingly available and accessible, , biological interpretation of this data was occurring at a much slower pace. This made for an increasing need for developing computational genomics tools, including machine learning systems, that can automatically determine the location of protein-encoding genes within a given DNA sequence (i.e. gene prediction).
+

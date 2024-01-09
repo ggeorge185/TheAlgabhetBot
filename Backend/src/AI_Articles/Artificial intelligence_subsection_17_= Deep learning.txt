@@ -1,0 +1,27 @@
+File:AI_hierarchy.svg|thumb|upright
+Deep learning
+uses several layers of neurons between the network's inputs and outputs. The multiple layers can progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
+
+Deep learning has drastically improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification
+and others. The reason that deep learning performs so well in so many applications is not known as of 2023.
+The sudden success of deep learning in 2012–2015 did not occur because of some new discovery or theoretical breakthrough (deep neural networks and backpropagation had been described by many people, as far back as the 1950s)
+Frank Rosenblatt(1957);
+Karl Steinbuch and Roger David Joseph (1961).
+Deep or recurrent networks that learned (or used gradient descent) were developed by:
+Ernst Ising and Wilhelm Lenz (1925);
+Oliver Selfridge (1959);
+Alexey Ivakhnenko and Valentin Lapa (1965);
+Kaoru Nakano (1977);
+Shun-Ichi Amari (1972);
+John Joseph Hopfield (1982).
+Backpropagation was independently discovered by:
+Henry J. Kelley (1960);
+Arthur E. Bryson (1962);
+Stuart Dreyfus (1962);
+Arthur E. Bryson and Yu-Chi Ho (1969);
+Seppo Linnainmaa (1970);
+Paul Werbos (1974).
+In fact, backpropagation and gradient descent are straight forward applications of Gottfried Leibniz' chain rule in calculus (1676), and is essentially identical (for one layer) to the method of least squares, developed independently by Johann Carl Friedrich Gauss (1795) and Adrien-Marie Legendre (1805). There are probably many others, yet to be discovered by historians of science.
+}}
+but because of two factors: the incredible increase in computer power (including the hundred-fold increase in speed by switching to Graphics processing units|GPUs) and the availability of vast amounts of training data, especially the giant List of datasets for machine-learning research|curated datasets used for benchmark testing, such as ImageNet.
+

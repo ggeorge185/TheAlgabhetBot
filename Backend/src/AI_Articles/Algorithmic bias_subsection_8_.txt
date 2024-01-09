@@ -1,0 +1,2 @@
+Beyond gender and race, these models can reinforce a wide range of stereotypes, including those based on age, nationality, religion, or occupation. This can lead to outputs that unfairly generalize or caricature groups of people, sometimes in harmful or derogatory ways.
+

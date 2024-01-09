@@ -1,0 +1,4 @@
+He has addressed technical and societal challenges and opportunities with the fielding of AI technologies in the open world, AI safety and robustness, and where AI systems and capabilities can have inadvertent effects, pose dangers, or be misused. He has presented on caveats with applications of AI in military settings. He and Thomas G. Dietterich called for work on AI alignment, saying that AI systems "must reason about what people intend rather than carrying out commands literally." He and privacy scholar Deirdre Mulligan stated that society must balance privacy concerns with benefits of data for social benefit.
+
+He has presented on the risks of AI-enabled deepfakes and contributed to media provenance technologies that cryptographically certify the source and history of edits of digital content.
+

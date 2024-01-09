@@ -1,0 +1,27 @@
+A very important use of AIOps platforms is related to the analysis of large and unconnected datasets, such as the Johns Hopkins Covid-19's data published through GitHub. The data in this example is pulled from a large number of unnormalized form|un-normalized databases  - aggregated data (10 sources), US regional data (113 sources) and Non-US data (37 sources), which are unuseable considering the needed emergency response time by the traditional analysis models.
+
+Generally, the main areas of use for AIOps platforms and principles are
+* Automation of tasks (DevOps)
+* Machine learning platforms
+* Augmented reality
+* Agent-based model|Agent-based simulations
+* Internet of things (IoT)
+* AI Optimized Hardware
+* Natural language generation
+* Streaming data platforms
+* Conversational business intelligence|BI and analytics
+
+* Deployment and integration testing
+* System configuration<ref name=":0" />
+* Service quality monitoring and anomaly detection<ref name=":0" />
+* Resource scheduling and optimization<ref name=":0" />
+* Capacity/workload management and prediction<ref name=":0" />
+* Hardware/software failure prediction<ref name=":0" />
+* Auto-diagnosis and problem localization<ref name=":0" />
+* Incident management<ref name=":0" />
+* Auto service healing<ref name=":0" />
+* Data center management<ref name=":0" />
+* Customer support<ref name=":0" />
+* Security information and event management|Security<ref name=":0" />
+* Privacy policy|Privacy<ref name=":0" />
+

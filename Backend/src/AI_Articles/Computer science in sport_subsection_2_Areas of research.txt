@@ -1,0 +1,19 @@
+The importance and strong influence of computer science as an interdisciplinary partner for sport and sport science is mainly proven by the research activities in computer science in sport. The following IT concepts are thereby of particular interest:
+
+* Data acquisition and data processing
+* Databases and expert systems
+* Modelling (mathematical, IT based, biomechanical, physiological)
+* Simulation (interactive, animation etc.)
+* Presentation
+
+Based on the fields from above, the main areas of research in computer science in sport include amongst others:
+
+* Training and coaching
+* Biomechanics
+* Sports equipment and technology
+* Computer-aided applications (software, hardware) in sports
+* Ubiquitous computing in sports
+* Multimedia and Internet
+* Documentation
+* Education
+

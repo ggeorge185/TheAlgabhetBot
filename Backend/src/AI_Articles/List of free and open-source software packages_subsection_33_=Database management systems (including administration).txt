@@ -1,0 +1,7 @@
+Main category|Free database management systems}}
+* Apache Cassandra - A NoSQL database from Apache Software Foundation offers support for clusters spanning multiple datacenter
+* Apache CouchDB - A NoSQL database from Apache Software Foundation with multi-master replication
+* MariaDB - A community-developed relational database management system with pluggable storage engines and commercial support
+* PostGIS - Adds support for geographic objects to the :Category:PostgreSQL|PostgreSQL as per Open Geospatial Consortium (OGC)
+* :Category:PostgreSQL|PostgreSQL - A relational database management system emphasizes on extensibility and SQL compliance and available for Microsoft Windows|Windows, Linux, FreeBSD, and OpenBSD
+

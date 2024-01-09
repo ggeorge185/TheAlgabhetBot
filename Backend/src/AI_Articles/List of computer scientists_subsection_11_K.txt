@@ -1,0 +1,36 @@
+William Kahan – numerical analysis
+* Robert E. Kahn – TCP/IP
+* Avinash Kak – digital image processing
+* Poul-Henning Kamp – invented GBDE, FreeBSD Jails, Varnish cache
+* David Karger
+* Richard Karp – NP-completeness
+* Narendra Karmarkar – Karmarkar's algorithm
+* Marek Karpinski – NP optimization problems
+* Ted Kaehler – Smalltalk, Squeak, HyperCard
+* Alan Kay – Dynabook, Smalltalk, overlapping window (computing)|windows
+* Neeraj Kayal – AKS primality test
+* Manolis Kellis – computational biology
+* John George Kemeny – the language BASIC
+* Ken Kennedy (computer scientist)|Ken Kennedy – compiling for parallel and vector machines
+* Brian Kernighan (born 1942) – Unix, the 'k' in AWK
+* Carl Kesselman – grid computing
+* Gregor Kiczales – CLOS, reflection (computer science)|reflection, aspect-oriented programming
+* Peter T. Kirstein – Internet
+* Stephen Cole Kleene – Kleene closure, recursion theory
+* Dan Klein – Natural language processing, Machine translation
+* Leonard Kleinrock – ARPANET, queueing theory, packet switching, hierarchical routing
+* Donald Knuth – ''The Art of Computer Programming'', MIX (abstract machine)|MIX/MMIX, TeX, literate programming
+* Andrew Koenig (programmer)|Andrew Koenig – C++
+* Daphne Koller – Artificial intelligence, bayesian network
+* Michael Kölling – BlueJ
+* Andrey Nikolaevich Kolmogorov – algorithmic complexity theory
+* Janet L. Kolodner – case-based reasoning
+* David Korn (computer scientist)|David Korn – KornShell
+* Cornelis H. A. Koster|Kees Koster – ALGOL 68
+* Robert Kowalski – logic programming
+* John Koza – genetic programming
+* John Krogstie – SEQUAL framework
+* Joseph Kruskal – Kruskal's algorithm
+* Maarja Kruusmaa – underwater roboticist
+* Thomas E. Kurtz (born 1928) – BASIC programming language; Dartmouth College computer professor
+

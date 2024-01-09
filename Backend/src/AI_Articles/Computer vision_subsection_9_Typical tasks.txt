@@ -1,0 +1,13 @@
+Each of the application areas described above employ a range of computer vision tasks; more or less well-defined measurement problems or processing problems, which can be solved using a variety of methods. Some examples of typical computer vision tasks are presented below.
+
+Computer vision tasks include methods for image sensor|acquiring, Image processing|processing, Image analysis|analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, ''e.g.'', in the forms of decisions.
+
+* '''Object recognition''' (also called '''object classification''')one or several pre-specified or learned objects or object classes can be recognized, usually together with their 2D positions in the image or 3D poses in the scene. Blippar, Google Goggles, and LikeThat provide stand-alone programs that illustrate this functionality.
+* '''Identification'''an individual instance of an object is recognized. Examples include identification of a specific person's face or fingerprint, handwriting recognition|identification of handwritten digits, or identification of a specific vehicle.
+* '''Object detection|Detection'''the image data are scanned for a specific objects along with their locations. Examples include the detection of an obstacle in the car's field of view and possible abnormal cells or tissues in medical images or the detection of a vehicle in an automatic road toll system. Detection based on relatively simple and fast computations is sometimes used for finding smaller regions of interesting image data which can be further analyzed by more computationally demanding techniques to produce a correct interpretation.
+
+Currently, the best algorithms for such tasks are based on convolutional neural networks. An illustration of their capabilities is given by the ImageNet#ImageNet Challenge|ImageNet Large Scale Visual Recognition Challenge; this is a benchmark in object classification and detection, with millions of images and 1000 object classes used in the competition. Performance of convolutional neural networks on the ImageNet tests is now close to that of humans.
+* Emotion recognition''''''a subset of facial recognition, emotion recognition refers to the process of classifying human Emotion|emotions. Psychologists caution, however, that internal emotions cannot be reliably detected from faces.
+* '''Pattern recognition|Shape Recognition Technology''' (SRT) in people counter systems differentiating human beings (head and shoulder patterns) from objects.
+* '''Activity recognition|Human activity recognition''' - deals with recognizing the activity from a series of video frames, such as, if the person is picking up an object or walking.
+

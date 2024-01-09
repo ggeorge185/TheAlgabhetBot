@@ -1,0 +1,23 @@
+Multiple image |direction=vertical |image1=John McCarthy Stanford.jpg |image2=Steve Russell.jpg |footer=John McCarthy (computer scientist)|John McCarthy (top) and Steve Russell (computer scientist)|Steve Russell}}
+
+John McCarthy (computer scientist)|John McCarthy began developing Lisp in 1958 while he was at the Massachusetts Institute of Technology (MIT). McCarthy published its design in a paper in ''Communications of the ACM'' in April 1960, entitled "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I". He showed that with a few simple operators and a notation for anonymous functions borrowed from Church, one can build a Turing completeness|Turing-complete language for algorithms.
+
+Information Processing Language was the first Artificial intelligence|AI language, from 1955 or 1956, and already included many of the concepts, such as list-processing and recursion, which came to be used in Lisp.
+
+McCarthy's original notation used bracketed "M-expressions" that would be translated into S-expressions. As an example, the M-expression  is equivalent to the S-expression . Once Lisp was implemented, programmers rapidly chose to use S-expressions, and M-expressions were abandoned. M-expressions surfaced again with short-lived attempts of MLisp by Horace Enea and CGOL by Vaughan Pratt.
+
+Lisp was first implemented by Steve Russell (computer scientist)|Steve Russell on an IBM 704 computer using punched cards. Russell had read McCarthy's paper and realized (to McCarthy's surprise) that the Lisp ''eval'' function could be implemented in machine code.
+
+According to McCarthy:
+
+
+The result was a working Lisp Interpreter (computing)|interpreter which could be used to run Lisp programs, or more properly, "evaluate Lisp expressions".
+
+Two assembly language macros for the IBM 704 became the primitive operations for decomposing lists: car and cdr|car (''Contents of the Address part of Register'' number) and car and cdr|cdr (''Contents of the Decrement part of Register'' number), where "register" refers to Processor register|registers of the computer's central processing unit (CPU). Lisp dialects still use  and  ( and ) for the operations that return the first item in a list and the rest of the list, respectively.
+
+The first complete Lisp compiler, written in Lisp, was implemented in 1962 by Tim Hart and Mike Levin at MIT, and could be compiled by simply having an existing LISP interpreter interpret the compiler code, producing machine code output able to be executed at a 40-fold improvement in speed over that of the interpreter. This compiler introduced the Lisp model of incremental compiler|incremental compilation, in which compiled and interpreted functions can intermix freely. The language used in Hart and Levin's memo is much closer to modern Lisp style than McCarthy's earlier code.
+
+Garbage collection (computer science)|Garbage collection routines were developed by MIT graduate student Daniel Edwards (programmer)|Daniel Edwards, prior to 1962.
+
+During the 1980s and 1990s, a great effort was made to unify the work on new Lisp dialects (mostly successors to Maclisp such as ZetaLisp and NIL (New Implementation of Lisp) into a single language. The new language, Common Lisp, was somewhat compatible with the dialects it replaced (the book ''Common Lisp the Language'' notes the compatibility of various constructs). In 1994, ANSI published the Common Lisp standard, "ANSI X3.226-1994 Information Technology Programming Language Common Lisp".
+

@@ -1,0 +1,31 @@
+On February 28, 2011, Watson played an untelevised exhibition match of ''Jeopardy!'' against members of the United States House of Representatives. In the first round, Rush D. Holt, Jr. (D-NJ, a former ''Jeopardy!'' contestant), who was challenging the computer with Bill Cassidy (R-LA, later Senator from Louisiana), led with Watson in second place. However, combining the scores between all matches, the final score was $40,300 for Watson and $30,000 for the congressional players combined.
+
+IBM's Christopher Padilla said of the match, "The technology behind Watson represents a major advancement in computing. In the data-intensive environment of government, this type of technology can help organizations make better decisions and improve how government helps its citizens." The company also intends to use Watson in other information-intensive fields, such as telecommunications, financial services, and government.
+
+Watson is based on commercially available IBM Power 750 servers that have been marketed since February 2010.
+
+In 2013, it was reported that three companies were working with IBM to create apps embedded with Watson technology. Fluid is developing an app for retailers, one called "The North Face", which is designed to provide advice to online shoppers. Welltok is developing an app designed to give people advice on ways to engage in activities to improve their health. MD Buyline is developing an app for the purpose of advising medical institutions on equipment procurement decisions.
+
+In November 2013, IBM announced it would make Watson's API available to software application providers, enabling them to build apps and services that are embedded in Watson's capabilities. To build out its base of partners who create applications on the Watson platform, IBM consults with a network of venture capital firms, which advise IBM on which of their portfolio companies may be a logical fit for what IBM calls the Watson Ecosystem. Thus far, roughly 800 organizations and individuals have signed up with IBM, with interest in creating applications that could use the Watson platform.
+
+On January 30, 2013, it was announced that Rensselaer Polytechnic Institute would receive a successor version of Watson, which would be housed at the Institute's technology park and be available to researchers and students. By summer 2013, Rensselaer had become the first university to receive a Watson computer.
+
+On February 6, 2014, it was reported that IBM plans to invest $100 million in a 10-year initiative to use Watson and other IBM technologies to help countries in Africa address development problems, beginning with healthcare and education.
+
+On June 3, 2014, three new Watson Ecosystem partners were chosen from more than 400 business concepts submitted by teams spanning 18 industries from 43 countries. "These bright and enterprising organizations have discovered innovative ways to apply Watson that can deliver demonstrable business benefits", said Steve Gold, vice president, IBM Watson Group. The winners were Majestyk Apps with their adaptive educational platform, FANG (Friendly Anthropomorphic Networked Genome); Red Ant with their retail sales trainer; and GenieMD with their medical recommendation service.
+
+On July 9, 2014, Genesys Telecommunications Laboratories announced plans to integrate Watson to improve their customer experience platform, citing the sheer volume of customer data to analyze.
+
+Watson has been integrated with databases including ''Bon Appétit'' magazine to perform a recipe generating platform.
+
+Watson is being used by Decibel, a music discovery startup, in its app MusicGeek which uses the supercomputer to provide music recommendations to its users. The use of Watson has also been found in the hospitality industry. Go Moment uses Watson for its Rev1 app, which gives hotel staff a way to quickly respond to questions from guests. Arria NLG has built an app that helps energy companies stay within regulatory guidelines, making it easier for managers to make sense of thousands of pages of legal and technical jargon.
+
+OmniEarth, Inc. uses Watson computer vision services to analyze satellite and aerial imagery, along with other municipal data, to infer water usage on a property-by-property basis, helping districts in California improve water conservation efforts.
+
+In September 2016, Condé Nast started using Watson to help build and strategize social influencer campaigns for brands. Using software built by IBM and Influential, Condé Nast's clients will be able to know which influencer's demographics, personality traits and more best align with a marketer and the audience it is targeting.
+
+In February 2017, Rare Carat, a New York City-based Startup company|startup and e-commerce platform for buying diamonds and diamond rings, introduced an IBM Watson-powered chatbot called "Rocky" to assist novice diamond buyers through the daunting process of purchasing a diamond. As part of the IBM Global Entrepreneur Program, Rare Carat received the assistance of IBM in the development of the Rocky Chat Bot.
+In May 2017, IBM partnered with the Pebble Beach Company to use Watson as a concierge.  Watson technology was added to an app developed by Pebble Beach and was used to guide visitors around the resort.  The mobile app was designed by IBM iX and hosted on the IBM Cloud.  It uses Watson's Conversation applications programming interface.
+
+In November 2017, in Mexico City, the Experience Voices of Another Time was opened at the National Museum of Anthropology using IBM Watson as an alternative to visiting a museum.
+

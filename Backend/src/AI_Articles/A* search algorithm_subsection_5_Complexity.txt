@@ -1,0 +1,15 @@
+The computational complexity theory|time complexity of A* depends on the heuristic. In the worst case of an unbounded search space, the number of nodes expanded is exponential time|exponential in the depth of the solution (the shortest path) : , where  is the branching factor (the average number of successors per state).
+
+:<math>N + 1 = 1 + b^* + (b^*)^2 + \dots + (b^*)^d.</math>
+
+Good heuristics are those with low effective branching factor (the optimal being  1}}).
+
+The time complexity is polynomial time|polynomial when the search space is a tree, there is a single goal state, and the heuristic function ''h'' meets the following condition:
+
+:<math>|h(x) - h^*(x)| = O(\log h^*(x))</math>
+
+where  is the optimal heuristic, the exact cost to get from  to the goal. In other words, the error of  will not grow faster than the logarithm of the "perfect heuristic"  that returns the true distance from  to the goal.
+
+The space complexity of A* is roughly the same as that of all other graph search algorithms, as it keeps all generated nodes in memory.
+Other cases include an Informational search with online learning.
+

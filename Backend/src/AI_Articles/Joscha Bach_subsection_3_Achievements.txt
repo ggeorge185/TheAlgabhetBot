@@ -1,0 +1,6 @@
+Bach built MicroPsi, a cognitive architecture extending representations of the Psi-theory with taxonomies, inheritance and linguistic labeling; MicroPsi's spreading activation networks allow for neural learning, planning and associative retrieval.
+
+Bach is the author around 25 academic publications, and has written a book on cognitive science called ''Principles of Synthetic Intelligence''. 
+
+He has also worked extensively on  novel data compression algorithm using concurrent entropy models.
+

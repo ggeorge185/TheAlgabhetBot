@@ -1,0 +1,14 @@
+File:Sequence composition in behaviour trees.png|thumb|right|Figure II. Graphical representation of a sequence composition of N tasks.
+Sequence nodes are used to find and execute the first child that has not yet succeeded. A sequence node will return with a status code of failure or running immediately when one of its children returns failure or running (see Figure II and the pseudocode below). The children are ticked in order, from left to right.
+
+In pseudocode, the algorithm for a sequence composition is:
+
+ 1 '''for''' i from 1 to n '''do'''
+ 2     childstatus ← Tick(child(i))
+ 3     '''if''' childstatus = running
+ 4         '''return''' running
+ 5     '''else if''' childstatus = failure
+ 6         '''return''' failure
+ 7 '''end'''
+ 8 '''return''' success
+

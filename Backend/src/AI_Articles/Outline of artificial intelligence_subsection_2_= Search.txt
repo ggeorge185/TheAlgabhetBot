@@ -1,0 +1,23 @@
+Discrete search algorithms 
+** Uninformed search 
+*** Brute force search
+*** Search tree
+**** Breadth-first search
+**** Depth-first search 
+*** State space search
+** Informed search
+*** Best-first search 
+*** A* search algorithm
+*** Heuristics
+*** Pruning (algorithm)
+** Adversarial search
+*** Minmax algorithm
+** Logic as search 
+*** Production system (computer science), Rule based system
+*** Production system (computer science)|Production rule, Inference rule, Horn clause
+*** Forward chaining
+*** Backward chaining
+** Planning as search
+*** State space search
+*** Means–ends analysis
+

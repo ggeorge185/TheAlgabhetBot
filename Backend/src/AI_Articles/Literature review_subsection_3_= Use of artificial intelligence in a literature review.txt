@@ -1,0 +1,4 @@
+Artificial intelligence (AI) is reshaping traditional literature review across various disciplines. Generative pre-trained transformers, such as ChatGPT, are often used by students and academics for review purposes. 
+
+Nevertheless, the employment of ChatGPT in academic reviews is problematic due to ChatGPT's propensity to "Hallucination (artificial intelligence)|hallucinate". In response, efforts are being made to mitigate these hallucinations through the integration of plugins. For instance, Rad et al. (2023) used ScholarAI for review in cardiothoracic surgery.
+

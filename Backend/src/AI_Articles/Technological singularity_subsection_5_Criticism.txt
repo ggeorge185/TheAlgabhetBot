@@ -1,0 +1,16 @@
+Some critics, like philosopher Hubert Dreyfus assert that computers or machines cannot achieve human intelligence. Others, like physicist Stephen Hawking, He claims the "technological singularity" and especially Kurzweil lack scientific rigor; Kurzweil is alleged to mistake the logistic function (S-function) for an exponential function, and to see a "knee" in an exponential function where there can in fact be no such thing.
+
+AI researcher Jürgen Schmidhuber stated that the frequency of subjectively "notable events" appears to be approaching a 21st-century singularity, but cautioned readers to take such plots of subjective events with a grain of salt: perhaps differences in memory of recent and distant events could create an illusion of accelerating change where none exists.
+
+Microsoft co-founder Paul Allen argued the opposite of accelerating returns, the complexity brake; Nonetheless, he did not rule out the singularity in principle in the distant future
+
+Jaron Lanier denies that the singularity is inevitable: "I do not think the technology is creating itself. It's not an autonomous process." Furthermore: "The reason to believe in human agency over technological determinism is that you can then have an economy where people earn their own way and invent their own lives. If you structure a society on ''not'' emphasizing individual human agency, it's the same thing operationally as denying people clout, dignity, and self-determination ... to embrace [the idea of the Singularity] would be a celebration of bad data and bad politics."
+
+Philosopher and cognitive scientist Daniel Dennett said in 2017: "The whole singularity stuff, that's preposterous. It distracts us from much more pressing problems", adding "AI tools that we become hyper-dependent on, that is going to happen. And one of the dangers is that we will give them more authority than they warrant."
+
+In addition to general criticisms of the singularity concept, several critics have raised issues with Kurzweil's iconic chart. One line of criticism is that a Log-log plot|log-log chart of this nature is inherently biased toward a straight-line result. Others identify selection bias in the points that Kurzweil chooses to use. For example, biologist PZ Myers points out that many of the early evolutionary "events" were picked arbitrarily.
+
+<!-- religious semblance: -->Some critics suggest religious motivations or implications of singularity, especially Kurzweil's version of it. The buildup towards the Singularity is compared with Judeo-Christian end-of-time scenarios. Beam calls it "a Buck Rogers vision of the hypothetical Christian Rapture". John N. Gray|John Gray says "the Singularity echoes apocalyptic myths in which history is about to be interrupted by a world-transforming event".
+
+David Streitfeld in ''The New York Times'' questioned whether "it might manifest first and foremost—thanks, in part, to the bottom-line obsession of today’s Silicon Valley—as a tool to slash corporate America’s head count."
+

@@ -1,0 +1,8 @@
+File:Stretchers at the York Region EMS logistics headquarters.jpg|thumb|[[Spinal boards wait to be used at the York Region EMS logistics headquarters in Ontario]]
+The Medical Devices Bureau of Health Canada recognizes four classes of medical devices based on the level of control necessary to assure the safety and effectiveness of the device. Class I devices present the lowest potential risk and do not require a licence. Class II devices require the manufacturer's declaration of device safety and effectiveness, whereas Class III and IV devices present a greater potential risk and are subject to in-depth scrutiny.
+* Class I (Canada) generally corresponds to Class I (ECD)
+* Class II (Canada) generally corresponds to Class IIa (ECD)
+* Class III (Canada) generally corresponds to Class IIb (ECD)
+* Class IV (Canada) generally corresponds to Class III (ECD)
+Examples include surgical instruments (Class I), contact lenses and ultrasound scanners (Class II), orthopedic implants and hemodialysis machines (Class III), and cardiac pacemakers (Class IV).
+

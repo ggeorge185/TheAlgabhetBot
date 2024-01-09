@@ -1,0 +1,11 @@
+However, researchers generally hold that intelligence is required to do all of the following:
+* automated reasoning|reason, use strategy, solve puzzles, and make judgments under uncertainty
+* knowledge representation|represent knowledge, including commonsense knowledge (artificial intelligence)|common sense knowledge
+* automated planning and scheduling|plan
+* machine learning|learn
+* communicate in natural language processing|natural language
+* if necessary, Artificial intelligence systems integration|integrate these skills in completion of any given goal
+Many Interdisciplinarity|interdisciplinary approaches (e.g. cognitive science, computational intelligence, and decision making) consider additional traits such as imagination (the ability to form novel mental images and concepts) and Self-determination theory|autonomy.
+
+Computer-based systems that exhibit many of these capabilities exist (e.g. see computational creativity, automated reasoning, decision support system, robot, evolutionary computation, intelligent agent). However, no consensus holds that modern AI systems possess them to an adequate degree.
+

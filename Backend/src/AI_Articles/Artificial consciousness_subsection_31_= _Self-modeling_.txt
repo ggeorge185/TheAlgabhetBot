@@ -1,0 +1,2 @@
+Hod Lipson defines "self-modeling" as a necessary component of self-awareness or consciousness in robots. "Self-modeling" consists of a robot running an internal model or Robotics simulator|simulation of itself.
+

@@ -1,0 +1,2 @@
+Machine learning is a way for a computer to learn from large datasets presented to it, with few assumptions to begin with. It requires structured databases, unlike scientific research which begins with a hypothesis, ML begins by looking at the data and finding its own hypothesis based on the patterns it detects.
+

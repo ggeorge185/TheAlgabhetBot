@@ -1,0 +1,162 @@
+class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1982
+| ''Tempest (1982 film)|Tempest''
+| Teddy
+|
+|-
+| 1985
+| ''Fandango (1985 film)|Fandango''
+| Kenneth Waggener
+|
+|-
+| 1985
+| ''Not Quite Paradise''
+| Mike
+|
+|-
+| 1988
+| ''Bright Lights, Big City (film)|Bright Lights, Big City''
+| Rich Vanier
+|
+|-
+| 1988
+| ''Bird (1988 film)|Bird''
+| Moscowitz
+|
+|-
+| 1989
+| ''Casualties of War''
+| Chaplain Kirk
+|
+|-
+| 1993
+| ''The Ballad of Little Jo''
+| Jasper Hill
+|
+|-
+| 1994
+| ''Mrs. Parker and the Vicious Circle''
+| Harold Ross
+|
+|-
+| 1994
+| ''Prêt-à-Porter (film)|Prêt-à-Porter''
+| Regina's Assistant
+|
+|-
+| 1996
+| ''Beautiful Girls (film)|Beautiful Girls''
+| Steve Rossmore
+|
+|-
+| 1997
+| ''Dinner and Driving''
+| Frank
+|
+|-
+| 1998
+| ''Love from Ground Zero''
+| Henry (voice)
+|
+|-
+| 1999
+| ''American Beauty (1999 film)|American Beauty''
+| Jim Berkley
+|
+|-
+| 2000
+| ''Bounce (film)|Bounce''
+| Todd Exner
+|
+|-
+| 2001
+| ''A.I. Artificial Intelligence''
+| Henry Swinton
+|
+|-
+| 2001
+| ''Life as a House''
+| David Dokos
+|
+|-
+| 2004
+| ''Catch That Kid''
+| Tom
+|
+|-
+| 2004
+| ''Surviving Eden''
+| Gary Gold
+|
+|-
+| 2004
+| ''Marmalade''
+| Roger
+|
+|-
+| 2007
+| ''Awake (2007 film)|Awake''
+| Clayton Beresford Sr.
+|
+|-
+| 2008
+| ''The Other Side of the Tracks''
+| David
+|
+|-
+| 2008
+| ''Che: Part One''
+| Tad Szulc
+|
+|-
+| 2009
+| ''Perestroika (film)|Perestroika''
+| Sasha
+|
+|-
+| 2009
+| ''The Rebound''
+| Frank
+|
+|-
+| 2009
+| ''Company Retreat''
+| Ron Gable
+|
+|-
+| 2011
+| ''The Art of Getting By''
+| Jack Sargent
+|
+|-
+| 2014
+| ''Grand Street''
+| Gary
+|
+|-
+| 2016
+| ''The Late Bloomer''
+| Dr. Lawson
+|
+|-
+| 2016
+| ''Broken Links''
+| Jack
+|
+|-
+| 2017
+| ''Where Is Kyra?''
+| Carl
+|
+|-
+| 2022
+| ''Isle of Hope''
+| William
+|
+|}
+

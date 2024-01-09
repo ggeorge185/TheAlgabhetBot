@@ -1,0 +1,6 @@
+The journal is abstracted and indexed by Inspec, Science Citation Index, and Mathematical Reviews|MathSciNet. According to the ''Journal Citation Reports'', the journal has a 2019 impact factor of 2.441.
+
+According to the SCImago Journal Rank|SciMago Journal and Country Rank, the journal is ranked 8th among all open access computer science journals with an H-index of 112.
+
+However, according to Google Scholar in 2021 it only has an h5-index of 38, which suggests some potential issues in measuring its impact.
+

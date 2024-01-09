@@ -1,0 +1,2 @@
+A human's trust in an AI agent is an important factor in human-AI collaboration, dictating whether the human should follow or override the AI's input. Various factors impact a person's trust in an AI system, including its accuracy and reliability
+

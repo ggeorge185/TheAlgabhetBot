@@ -1,0 +1,2 @@
+Researchers decided to make an AI model that played a "simplified", single-player variant of mahjong; this model was intended to provide a framework for other models to use. They considered their model "greedy" because it only focused on winning itself. The researchers later added a second player, but ended the game after one hand; to maximize its expected score, the AI would have to consider the speed and value of the hand it would like to achieve.
+

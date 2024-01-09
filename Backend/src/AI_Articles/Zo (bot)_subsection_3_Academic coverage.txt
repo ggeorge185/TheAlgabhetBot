@@ -1,0 +1,3 @@
+Schlesinger, A., O'Hara, K.P. and Taylor, A.S., 2018, April. Let's talk about race: Identity, chatbots, and AI. In Proceedings of the 2018 chi conference on human factors in computing systems (pp. 1-14).  
+* Medhi Thies, I., Menon, N., Magapu, S., Subramony, M. and O’neill, J., 2017. How do you want your chatbot? An exploratory Wizard-of-Oz study with young, urban Indians. In Human-Computer Interaction-INTERACT 2017: 16th IFIP TC 13 International Conference, Mumbai, India, September 25–29, 2017, Proceedings, Part I 16 (pp. 441-459). 
+

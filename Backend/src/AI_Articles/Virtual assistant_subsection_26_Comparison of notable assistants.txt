@@ -1,0 +1,275 @@
+class="wikitable sortable" style="font-size: 85%; text-align: center; width: auto;"
+|-
+! Intelligent personal assistant
+! Developer
+! Free software
+! Open-source hardware|Free and open-source hardware
+! HDMI out
+! External I/O
+! Internet of things|IOT
+! Chromecast integration
+! Smart phone app
+! Always on
+! Unit to unit voice channel
+! Skill language
+|-
+! style="text-align:left;" scope="col"| Sydney
+| Bing.com
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Amazon Alexa|Alexa (a.k.a. Amazon Echo|Echo)
+| Amazon.com
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+| JavaScript
+|-
+! style="text-align:left;" scope="col"| Alisa (virtual assistant)|Alice
+| Yandex
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| AliGenie
+|Alibaba Group
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Assistant (by Speaktoit)|Assistant
+| Speaktoit
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Bixby (voice assistant)|Bixby
+| Samsung Electronics
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| JavaScript
+|-
+! style="text-align:left;" scope="col"| BlackBerry 10#Miscellaneous|BlackBerry Assistant
+| BlackBerry Limited
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Braina
+| Brainasoft
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Clova (virtual assistant)|Clova
+|Naver (corporation)|Naver Corporation
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Cortana (software)|Cortana
+| Microsoft
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Baidu|Duer
+| Baidu
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! style="text-align:left;" scope="col"| Evi (software)|Evi
+| Amazon.com and True Knowledge
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Google Assistant
+| Google
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| C++
+|-
+! style="text-align:left;" scope="col"| Google Now
+| Google
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Mycroft (software)|Mycroft
+| Mycroft AI
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| Python
+|-
+! style="text-align:left;" scope="col"| SILVIA
+| Cognitive Code
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Siri
+| Apple Inc.
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+|-
+! style="text-align:left;" scope="col"| Viv (software)|Viv
+| Samsung Electronics
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| ?
+
+|-
+! style="text-align:left;" scope="col"| Xiaowei
+|Tencent
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| ?
+|-
+! style="text-align:left;" scope="col"|Celia (Virtual assistant)|Celia
+|Huawei
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|?
+|}
+

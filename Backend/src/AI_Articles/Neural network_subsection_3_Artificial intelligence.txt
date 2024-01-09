@@ -1,0 +1,13 @@
+Main|Artificial neural network}}
+A ''neural network'' (NN), in the case of artificial neurons called ''artificial neural network'' (ANN) or ''simulated neural network'' (SNN), is an interconnected group of natural or artificial neurons that uses a mathematical model|mathematical or computational model for information processing based on a connectionism|connectionistic approach to computation. In most cases, an ANN is an adaptive system that changes its structure based on external or internal information that flows through the network.
+
+In more practical terms, neural networks are non-linear statistical data modeling or decision making tools. They can be used to model complex relationships between inputs and outputs or to Pattern recognition|find patterns in data.
+
+An artificial neural network involves a network of processing elements (artificial neurons) which can exhibit complex global behavior, determined by the connections between the processing elements and element parameters. Artificial neurons were first proposed in 1943 by Warren Sturgis McCulloch|Warren McCulloch, a neurophysiologist, and Walter Pitts, a logician, who first collaborated at the University of Chicago.
+
+One classical type of artificial neural network is the recurrent neural network|recurrent Hopfield network.
+
+The concept of a neural network appears to have first been proposed by Alan Turing in his 1948 paper ''Intelligent Machinery'' in which he called them "B-type unorganised machines".
+
+The utility of artificial neural network models lies in the fact that they can be used to infer a function from observations and also to use it. Unsupervised neural networks can also be used to learn representations of the input that capture the salient characteristics of the input distribution, e.g., see the Boltzmann machine (1983), and more recently, deep learning algorithms, which can implicitly learn the distribution function of the observed data. Learning in neural networks is particularly useful in applications where the complexity of the data or task makes the design of such functions by hand impractical.
+

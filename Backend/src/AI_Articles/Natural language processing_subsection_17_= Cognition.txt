@@ -1,0 +1,26 @@
+Most higher-level NLP applications involve aspects that emulate intelligent behaviour and apparent comprehension of natural language. More broadly speaking, the technical operationalization of increasingly advanced aspects of cognitive behaviour represents one of the developmental trajectories of NLP (see trends among CoNLL shared tasks above).
+
+Cognition refers to "the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses." Cognitive science is the interdisciplinary, scientific study of the mind and its processes. Cognitive linguistics is an interdisciplinary branch of linguistics, combining knowledge and research from both psychology and linguistics. Especially during the age of #Symbolic NLP (1950s – early 1990s)|symbolic NLP, the area of computational linguistics maintained strong ties with cognitive studies.
+
+As an example, George Lakoff offers a methodology to build natural language processing (NLP) algorithms through the perspective of cognitive science, along with the findings of cognitive linguistics, with two defining aspects:
+
+# Apply the theory of conceptual metaphor, explained by Lakoff as "the understanding of one idea, in terms of another" which provides an idea of the intent of the author. For example, consider the English word ''big''. When used in a comparison ("That is a big tree"), the author's intent is to imply that the tree is ''physically large'' relative to other trees or the authors experience.  When used metaphorically ("Tomorrow is a big day"), the author's intent to imply ''importance''.  The intent behind other usages, like in "She is a big person", will remain somewhat ambiguous to a person and a cognitive NLP algorithm alike without additional information.
+# Assign relative measures of meaning to a word, phrase, sentence or piece of text based on the information presented before and after the piece of text being analyzed, e.g., by means of a probabilistic context-free grammar (PCFG). The mathematical equation for such algorithms is presented in US patent 9269353:
+::<math> 
+=
+ 
+\times  
+\frac
+\left (\sum_^d )} \times ))_i}\right )
+</math>
+
+::''Where''
+:::'''RMM''' is the relative measure of meaning
+:::'''token''' is any block of text, sentence, phrase or word
+:::'''N''' is the number of tokens being analyzed
+:::'''PMM''' is the probable measure of meaning based on a corpora
+:::'''d''' is the location of the token along the sequence of '''N-1''' tokens
+:::'''PF''' is the probability function specific to a language
+
+Ties with cognitive linguistics are part of the historical heritage of NLP, but they have been less frequently addressed since the statistical turn during the 1990s. Nevertheless, approaches to develop cognitive models towards technically operationalizable frameworks have been pursued in the context of various frameworks, e.g., of cognitive grammar, functional grammar, construction grammar, computational psycholinguistics and cognitive neuroscience (e.g., ACT-R), however, with limited uptake in mainstream NLP (as measured by presence on major conferences of the Association for Computational Linguistics|ACL). More recently, ideas of cognitive NLP have been revived as an approach to achieve Explainable artificial intelligence|explainability, e.g., under the notion of "cognitive AI". Likewise, ideas of cognitive NLP are inherent to neural models multimodal interaction|multimodal NLP (although rarely made explicit) and developments in artificial intelligence, specifically tools and technologies using large language model approaches and new directions in artificial general intelligence based on the free energy principle by British neuroscientist and theoretician at University College London Karl J. Friston.
+

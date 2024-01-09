@@ -1,0 +1,6 @@
+Main|Laboratory automation}}
+
+File:GammaGIF.gif|alt=Automated laboratory instrument|thumb|Automated laboratory instrument
+
+Automation is essential for many scientific and clinical applications. Therefore, automation has been extensively employed in laboratories. From as early as 1980 fully automated laboratories have already been working. However, automation has not become widespread in laboratories due to its high cost. This may change with the ability of integrating low-cost devices with standard laboratory equipment. Autosamplers are common devices used in laboratory automation.
+

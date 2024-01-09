@@ -1,0 +1,8 @@
+Roger Schank, Robert P. Abelson and their research group, extended Tomkins' scripts and used them in early artificial intelligence work as a method of representing procedural knowledge. In their work, scripts are very much like frame (artificial intelligence)|frames, except the values that fill the slots must be ordered. A script is a structured representation describing a stereotyped sequence of events in a particular context. Scripts are used in natural-language understanding systems to organize a knowledge base in terms of the situations that the system should understand.
+
+The classic example of a script involves the typical sequence of events that occur when a person drinks in a restaurant:  ''finding a seat, reading the menu, ordering drinks from the waitstaff...''  In the script form, these would be decomposed into conceptual dependency theory|conceptual transitions, such as '''MTRANS''' and '''PTRANS''', which refer to ''mental transitions [of information]'' and ''physical transitions [of things]''.
+
+Schank, Abelson and their colleagues tackled some of the most difficult problems in artificial intelligence (i.e., story understanding), but ultimately their line of work ended without tangible success. This type of work received little attention after the 1980s, but it is very influential in later knowledge representation techniques, such as case-based reasoning.
+
+Scripts can be inflexible. To deal with inflexibility, smaller modules called memory organization packets (MOP) can be combined in a way that is appropriate for the situation.
+

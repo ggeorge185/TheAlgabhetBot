@@ -1,0 +1,8 @@
+Machine learning – 
+** Constrained Conditional Models –  
+** Deep learning –  
+** Neural modeling fields –
+** Supervised learning –
+** Weak supervision (semi-supervised learning) –
+** Unsupervised learning –
+

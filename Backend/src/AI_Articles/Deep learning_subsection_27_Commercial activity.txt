@@ -1,0 +1,8 @@
+Facebook's AI lab performs tasks such as Automatic image annotation|automatically tagging uploaded pictures with the names of the people in them.
+
+Google's DeepMind Technologies developed a system capable of learning how to play Atari video games using only pixels as data input. In 2015 they demonstrated their AlphaGo system, which learned the game of Go (game)|Go well enough to beat a professional Go player. Google Translate uses a neural network to translate between more than 100 languages.
+
+In 2017, Covariant.ai was launched, which focuses on integrating deep learning into factories.
+
+As of 2008, researchers at University of Texas at Austin|The University of Texas at Austin (UT) developed a machine learning framework called Training an Agent Manually via Evaluative Reinforcement, or TAMER, which proposed new methods for robots or computer programs to learn how to perform tasks by interacting with a human instructor.
+

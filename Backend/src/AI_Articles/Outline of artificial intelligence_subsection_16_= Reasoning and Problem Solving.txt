@@ -1,0 +1,10 @@
+Automated reasoning
+* Mathematics
+** Automated theorem prover
+** Computer-assisted proof –
+** Computer algebra
+* General Problem Solver
+* Expert system –  
+** Decision support system –  
+*** Clinical decision support system –
+

@@ -1,0 +1,14 @@
+The development of formal logic played a big role in the field of automated reasoning, which itself led to the development of artificial intelligence. A formal proof is a proof in which every logical inference has been checked back to the fundamental axioms of mathematics. All the intermediate logical steps are supplied, without exception. No appeal is made to intuition, even if the translation from intuition to logic is routine. Thus, a formal proof is less intuitive and less susceptible to logical errors.
+
+Some consider the Cornell Summer meeting of 1957, which brought together many logicians and computer scientists, as the origin of automated reasoning, or automated deduction. Others say that it began before that with the 1955 Logic Theorist program of Newell, Shaw and Simon, or with Martin Davis’ 1954 implementation of Presburger arithmetic|Presburger's decision procedure (which proved that the sum of two even numbers is even).
+
+Automated reasoning, although a significant and popular area of research, went through an "AI winter" in the eighties and early nineties. The field subsequently revived, however. For example, in 2005, Microsoft started using Software verification|verification technology in many of their internal projects and is planning to include a logical specification and checking language in their 2012 version of Visual C.
+
+'''Logic Theorist''' (LT) was the first ever program developed in 1956 by Allen Newell, Cliff Shaw and Herbert A. Simon to "mimic human reasoning" in proving theorems and was demonstrated on fifty-two theorems from chapter two of Principia Mathematica, proving thirty-eight of them. In addition to proving the theorems, the program found a proof for one of the theorems that was more elegant than the one provided by Whitehead and Russell. After an unsuccessful attempt at publishing their results, Newell, Shaw, and Herbert reported in their publication in 1958, ''The Next Advance in Operation Research'':
+
+::''"There are now in the world machines that think, that learn and that create. Moreover, their ability to do these things is going to increase rapidly until (in a visible future) the range of problems they can handle will be co- extensive with the range to which the human mind has been applied." ''
+
+'''Examples of Formal Proofs'''
+
+:
+

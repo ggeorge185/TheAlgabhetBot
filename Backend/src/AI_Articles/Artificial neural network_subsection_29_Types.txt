@@ -1,0 +1,11 @@
+Split to Types of artificial neural networks -->
+
+
+ANNs have evolved into a broad family of techniques that have advanced the state of the art across multiple domains.  The simplest types have one or more static components, including number of units, number of layers, unit weights and topology. Dynamic types allow one or more of these to evolve via learning. The latter is much more complicated but can shorten learning periods and produce better results. Some types allow/require learning to be "supervised" by the operator, while others operate independently. Some types operate purely in hardware, while others are purely software and run on general purpose computers.
+
+Some of the main breakthroughs include: convolutional neural networks that have proven particularly successful in processing visual and other two-dimensional data; long short-term memory avoid the vanishing gradient problem and can handle signals that have a mix of low and high frequency components aiding large-vocabulary speech recognition, text-to-speech synthesis, and photo-real talking heads; competitive networks such as generative adversarial networks in which multiple networks (of varying structure) compete with each other, on tasks such as winning a game or on deceiving the opponent about the authenticity of an input. Available systems include Automated machine learning|AutoML and AutoKeras. Scikit-learn|scikit-learn library provides functions to help with building a deep network from scratch. We can then implement a deep network with TensorFlow or Keras.
+
+Design issues include deciding the number, type, and connectedness of network layers, as well as the size of each and the connection type (full, pooling, etc. ).
+
+Hyperparameters must also be defined as part of the design (they are not learned), governing matters such as how many neurons are in each layer, learning rate, step, stride, depth, receptive field and padding (for CNNs), etc. 
+

@@ -1,0 +1,74 @@
+class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+|2001
+|''A.I. Artificial Intelligence''
+|Gigolo Jane
+|
+|-
+|2003
+|''S.W.A.T. (film)|S.W.A.T.''
+|Lara
+|
+|-
+|rowspan=3|2004
+|''Walking Tall (2004 film)|Walking Tall''
+|Deni
+|
+|-
+|''Evil Remains''
+|Sharon
+|
+|-
+|''Lost (2004 film)|Lost''
+|Judy
+|
+|-
+|rowspan=2|2005
+|''Into the Blue (2005 film)|Into the Blue''
+|Amanda
+|
+|-
+|''Just Friends (2005 film)|Just Friends''
+|Janice
+|
+|-
+|2006
+|''Puff, Puff, Pass''
+|Elise
+|direct-to-video
+|-
+|2007
+|''''
+|Janine Ripon
+|
+|-
+|2008
+|''Strange Wilderness''
+|Cheryl
+|
+|-
+|2009
+|''12 Rounds (film)|12 Rounds''
+|Molly Porter
+|
+|-
+|2010
+|''Christmas Mail''
+|Kristi North
+|
+|-
+|rowspan=2|2019
+|''Secret Obsession''
+|Nurse Masters
+|
+|-
+|''Jumanji: The Next Level''
+|Ashley
+|deleted scenes
+|}
+

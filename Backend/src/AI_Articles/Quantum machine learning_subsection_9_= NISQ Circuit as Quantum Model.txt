@@ -1,0 +1,4 @@
+As the depth of the quantum circuit advances on Noisy intermediate-scale quantum era|NISQ devices, the noise level rises, posing a significant challenge to accurately computing costs and gradients on training models. The noise tolerance will be improved by using the quantum perceptron and the quantum algorithm on the currently accessible quantum hardware.
+
+A regular connection of similar components known as neurons forms the basis of even the most complex brain networks. Typically, a neuron has two operations: the inner product and an activation function. As opposed to the activation function, which is typically Nonlinear system|nonlinear, the inner product is a linear process. With quantum computing, linear processes may be easily accomplished additionally,  due to the simplicity of implementation, the threshold function is preferred by the majority of quantum neurons for activation functions.
+

@@ -1,0 +1,6 @@
+The main conference series on the issue is [https://www.pt-ai.org "Philosophy and Theory of AI"] (PT-AI), run by Vincent C. Müller.
+
+The main bibliography on the subject, with several sub-sections, is on [https://philpapers.org/browse/philosophy-of-artificial-intelligence/ PhilPapers]. 
+
+A recent survey for ''Philosophy of AI'' is Müller (2023).<ref name=":0" />
+

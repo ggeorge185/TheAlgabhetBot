@@ -1,0 +1,2 @@
+Amazon Mechanical Turk provides a platform for processing images, a task well-suited to human intelligence. Requesters have created tasks that ask workers to label objects found in an image, select the most relevant picture in a group of pictures, screen inappropriate content, classify objects in satellite images, or digitize text from images such as scanned forms filled out by hand.
+

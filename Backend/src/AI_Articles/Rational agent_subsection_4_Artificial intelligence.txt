@@ -1,0 +1,2 @@
+Artificial intelligence has borrowed the term "rational agents" from economics to describe autonomous programs that are capable of goal directed behavior. Today there is a considerable overlap between AI research, game theory and decision theory. Rational agents in AI are closely related to ''intelligent agents'', autonomous software programs that display intelligence.
+

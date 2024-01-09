@@ -1,0 +1,11 @@
+Main|Existential risk from artificial general intelligence|AI alignment|AI safety}}
+
+It has been suggested that if AI systems rapidly become superintelligent, they may take unforeseen actions or out-compete humanity. Researchers have argued that, by way of an "intelligence explosion," a self-improving AI could become so powerful as to be unstoppable by humans.
+
+Concerning human extinction scenarios,  identifies superintelligence as a possible cause:
+
+
+In theory, since a superintelligent AI would be able to bring about almost any possible outcome and to thwart any attempt to prevent the implementation of its goals, many uncontrolled, unintended consequences could arise. It could kill off all other agents, persuade them to change their behavior, or block their attempts at interference. Eliezer Yudkowsky illustrates such instrumental convergence as follows: "The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else."
+
+This presents the AI control problem: how to build an intelligent agent that will aid its creators, while avoiding inadvertently building a superintelligence that will harm its creators. The danger of not designing control right "the first time" is that a superintelligence may be able to seize power over its environment and prevent humans from shutting it down, in order to accomplish its goals. Potential AI control strategies include "capability control" (limiting an AI's ability to influence the world) and "motivational control" (building an AI whose goals are aligned with human values).
+

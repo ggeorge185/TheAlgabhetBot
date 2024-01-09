@@ -1,0 +1,8 @@
+IBM Watson is being used for several projects relating to education, and has entered partnerships with Pearson Education, Blackboard, Sesame Workshop and Apple.
+
+In its partnership with Pearson, Watson is being made available inside electronic text books to provide natural language, one-on-one tutoring to students on the reading material.
+
+As an individual using the free Watson APIs available to the public, Ashok Goel, a professor at Georgia Tech, used Watson to create a Virtual assistant|virtual teaching assistant to assist students in his class. Initially, Goel did not reveal the nature of "Jill", which was created with the help of a few students and IBM.  Jill answered questions where it had a 97% certainty of an accurate answer, with the remainder being answered by human assistants.
+
+The research group of Sabri Pllana developed an assistant for learning parallel programming using the IBM Watson. A survey with a number of novice parallel programmers at the Linnaeus University indicated that such assistants will be welcomed by students that learn parallel programming.
+

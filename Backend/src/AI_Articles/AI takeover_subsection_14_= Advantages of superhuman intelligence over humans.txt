@@ -1,0 +1,8 @@
+Nick Bostrom and others have expressed concern that an AI with the abilities of a competent artificial intelligence researcher would be able to modify its own source code and increase its own intelligence. If its self-reprogramming leads to its getting even better at being able to reprogram itself, the result could be a recursive intelligence explosion in which it would rapidly leave human intelligence far behind. Bostrom defines a superintelligence as "any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest", and enumerates some advantages a superintelligence would have if it chose to compete against humans:
+
+* Technology research: A machine with superhuman scientific research abilities would be able to beat the human research community to milestones such as nanotechnology or advanced biotechnology 
+* Strategy|Strategizing: A superintelligence might be able to simply outwit human opposition
+* Social manipulation: A superintelligence might be able to recruit human support,
+* Economic productivity: As long as a copy of the AI could produce more economic wealth than the cost of its hardware, individual humans would have an incentive to voluntarily allow the Artificial General Intelligence (AGI) to run a copy of itself on their systems
+* Hacking: A superintelligence could find new exploits in computers connected to the Internet, and spread copies of itself onto those systems, or might steal money to finance its plans
+

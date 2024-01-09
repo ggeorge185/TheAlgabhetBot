@@ -1,0 +1,8 @@
+In September 2023, the United States Copyright Office review board found that ''Théâtre D'Opéra Spatial'' was not eligible for copyright protection as the rules "exclude works produced by non-humans". This decision reaffirms previous guidance given in respect of AI by the Office and a recent court case, ''Thaler v Comptroller-General of Patents, Designs and Trademarks'' which found against Thaler on the basis of a principle of human authorship that, though not enshrined in copyright law, is a working principle used by the Office.
+
+File:Théâtre D’opéra Spatial – earlier revision.jpg|thumb|An earlier, less-detailed revision of the work
+Allen insists he will continue to try to gain copyright registration:
+<blockquote>Allen was dogged in his attempt to register his work. He sent a written explanation to the Copyright Office detailing how much he'd done to manipulate what Midjourney conjured, as well as how much he fiddled with the raw image, using Adobe Photoshop to fix flaws and Gigapixel AI to increase the size and resolution. He specified that creating the painting had required at least 624 text prompts and input revisions.</blockquote>
+
+Some legal writers support his claim and consider it to be form of technological discrimination comparing it with the treatment of photographs and the modern use of electronic cameras.
+

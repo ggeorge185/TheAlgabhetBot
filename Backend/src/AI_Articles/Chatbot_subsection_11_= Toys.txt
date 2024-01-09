@@ -1,0 +1,8 @@
+Chatbots have also been incorporated into devices not primarily meant for computing, such as toys.
+
+''Hello Barbie'' is an Internet-connected version of the doll that uses a chatbot provided by the company ToyTalk, which previously used the chatbot for a range of smartphone-based characters for children. These characters' behaviors are constrained by a set of rules that in effect emulate a particular character and produce a storyline.
+
+The My Friend Cayla doll was marketed as a line of  dolls which uses speech recognition technology in conjunction with an Android (operating system)|Android or iOS mobile app to recognize the child's speech and have a conversation. It, like the Hello Barbie doll, attracted controversy due to vulnerabilities with the doll's Bluetooth stack and its use of data collected from the child's speech.
+
+IBM's Watson (computer)|Watson computer has been used as the basis for chatbot-based educational toys for companies such as ''CogniToys''
+

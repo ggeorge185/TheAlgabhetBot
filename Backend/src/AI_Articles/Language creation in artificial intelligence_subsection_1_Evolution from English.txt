@@ -1,0 +1,7 @@
+In 2017 Facebook Artificial Intelligence Research (FAIR) trained chatbots on a corpus of English text conversations between humans playing a simple trading game involving balls, hats, and books. When programmed to experiment with English and tasked with optimizing trades, the chatbots seemed to evolve a reworked version of English to better solve their task. In some cases the exchanges seemed nonsensical:
+
+<blockquote>Bob: "I can can I I everything else"<br/>
+Alice: "Balls have zero to me to me to me to me to me to me to me to me to"</blockquote>
+
+Facebook's Dhruv Batra said: "There was no reward to sticking to English language. Agents will drift off understandable language and invent codewords for themselves. Like if I say 'the' five times, you interpret that to mean I want five copies of this item."
+

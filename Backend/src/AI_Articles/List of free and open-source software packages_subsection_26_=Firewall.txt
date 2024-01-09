@@ -1,0 +1,15 @@
+Uncomplicated Firewall (ufw)
+*Firestarter (firewall)|Firestarter
+*IPFilter
+*ipfirewall|ipfw
+*iptables
+*M0n0wall
+*PeerGuardian
+*PF (firewall)|PF
+*pfSense
+*IpTables Rope|Rope
+*Shorewall
+*SmoothWall
+*Vyatta
+*VyOS
+

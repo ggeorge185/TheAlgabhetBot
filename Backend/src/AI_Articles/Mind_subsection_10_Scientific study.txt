@@ -1,0 +1,3 @@
+More citations needed|section|date=December 2021}}
+Image:Architecture of Spaun.jpeg|thumb|upright=1.4|Simplified diagram of ''Spaun'', a 2.5-million-neuron computational model of the brain. '''(A)''' The corresponding physical regions and connections of the human brain. '''(B)''' The mental architecture of Spaun.
+

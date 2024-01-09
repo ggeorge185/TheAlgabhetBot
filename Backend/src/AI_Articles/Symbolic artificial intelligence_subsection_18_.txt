@@ -1,0 +1,4 @@
+Main|Expert systems}}
+
+This "knowledge revolution" led to the development and deployment of expert systems (introduced by Edward Feigenbaum), the first commercially successful form of AI software.
+

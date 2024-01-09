@@ -1,0 +1,2 @@
+The next evolution reduced false alerts to a degree but at the cost of complicated and time-consuming manual calibration. Here, changes of a target such as a person or vehicle relative to a fixed background are detected. Where the background changes seasonally or due to other changes, the reliability deteriorates over time. The economics of responding to too many false alerts again proved to be an obstacle and this solution was not sufficient.
+

@@ -1,0 +1,7 @@
+Note: as more information becomes available, this section may be split off''
+
+The '''Chief Digital and Artificial Intelligence Office''' (CDAO) or Chief Digital and Artificial Intelligence Officer  USAF secretary Frank Kendall has signalled that the CDAO will have an approach to solving the DoD-wide United States Army Futures Command#mdoJadc2|Joint All-domain command and control (JADC2) problem: "Deputy Defense Secretary Kathleen Hicks has already asked Martell to take a leading role in the discussions about JADC2". Martell's approach is bottom-up starting with each agency, working one-by-one, preserving what is important for each agency. However connectivity between Nodes is currently the critical resource for JADC2.
+
+On 30 January 2023 the CDAO announced a series of global information dominance experiments (GIDEs). 
+GIDE 5 is being held 30 January — 3 February 2023 (Monday—Thursday) at the Pentagon, and at multiple combatant commands (and therefore across the Global Information Grid|global information grid for Joint All-Domain Command and Control|JADC2). The experiment is twofold: 1) "to identify where we may have barriers in policy, security, connectivity, user-interface, or other areas that prohibit data sharing across the Joint force"; and 2) "to show how data, analytics, and AI can improve Joint workflows in a variety of missions from global integrated deterrence through targeting and fires".
+

@@ -1,0 +1,2 @@
+The Objective Revision Evaluation Service (ORES) project is an artificial intelligence service for grading the quality of Wikipedia edits. The Wikimedia Foundation presented the ORES project in November 2015.
+

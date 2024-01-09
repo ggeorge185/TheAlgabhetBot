@@ -1,0 +1,2 @@
+Artificial life studies the fundamental processes of living systems in artificial environments in order to gain a deeper understanding of the complex information processing that define such systems.  These topics are broad, but often include Evolutionary algorithm|evolutionary dynamics, Emergence|emergent properties of collective systems, Biomimetics|biomimicry, as well as related issues about the Philosophy of biology|philosophy of the nature of life and the use of lifelike properties in artistic works.
+

@@ -1,0 +1,108 @@
+class="wikitable"
+! Year !! Title !! Role !! Notes
+|-
+| 1999
+| ''Angela's Ashes (film)|Angela's Ashes''
+| Theresa Carmody
+|
+|-
+| 2000
+| ''Rat (film)|Rat''
+| Marietta
+|
+|-
+| 2001
+| ''How Harry Became a Tree''
+| Eileen
+|
+|-
+| rowspan="2"| 2003
+| ''Ned Kelly (2003 film)|Ned Kelly''
+| Kate Kelly (Kelly Gang sympathiser)|Kate Kelly
+|
+|-
+| ''Intermission (film)|Intermission''
+| Café Waitress
+|
+|-
+| 2005
+| ''Unleashed (2005 film)|Unleashed''
+| Victoria
+|
+|-
+| 2009
+| ''The Last Station''
+| Masha
+|
+|-
+| rowspan="2"| 2011
+| ''This Must Be the Place (film)|This Must Be the Place''
+| Rachel
+|
+|-
+| ''The Shore (2011 film)|The Shore''
+| Pat
+| Short film
+|-
+| 2013
+| ''Dom Hemingway''
+| Melody
+|
+|-
+| 2014
+| ''Gold (2014 film)|Gold''
+| Alice
+|
+|-
+| 2015
+| ''Avengers: Age of Ultron''
+| rowspan="3"| F.R.I.D.A.Y.
+| rowspan="3"| Voice role
+|-
+| 2016
+| ''Captain America: Civil War''
+|-
+| rowspan="2"| 2017
+| ''Spider-Man: Homecoming''
+|-
+| ''Three Billboards Outside Ebbing, Missouri''
+| Pamela
+|
+|-
+| rowspan="2"| 2018
+| ''Bad Samaritan (film)|Bad Samaritan''
+| Katie Hopgood
+|
+|-
+| ''Avengers: Infinity War''
+| rowspan="2"| F.R.I.D.A.Y.
+| rowspan="2"| Voice role
+|-
+| rowspan="2"| 2019
+| ''Avengers: Endgame''
+|-
+| ''Dreamland (2019 American film)|Dreamland''
+| Olivia Evans
+|
+|-
+| 2022
+| ''The Banshees of Inisherin''
+| Siobhán Súilleabháin
+|
+|-
+| 2023
+| ''In the Land of Saints and Sinners''
+| Doireann McCann
+|
+|-
+| 2024
+| ''Night Swim (film)|Night Swim''
+| Eve Waller
+| 
+|-
+| 
+| Untitled Joseph Kosinski film
+|
+| Filming
+|}
+

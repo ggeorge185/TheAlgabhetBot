@@ -1,0 +1,6 @@
+Main category|Free video conversion software}}
+*Dr. DivX
+*FFmpeg
+*MEncoder
+*OggConvert
+

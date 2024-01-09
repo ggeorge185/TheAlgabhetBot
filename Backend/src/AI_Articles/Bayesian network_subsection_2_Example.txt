@@ -1,0 +1,54 @@
+Image:SimpleBayesNet.svg|400px|thumb|right|A simple Bayesian network with [[conditional probability tables ]]
+
+Let us use an illustration to enforce the concepts of a Bayesian network. Suppose we want to model the dependencies between three variables: the sprinkler (or more appropriately, its state - whether it is on or not), the presence or absence of rain and whether the grass is wet or not. Observe that two events can cause the grass to become wet: an active sprinkler or rain. Rain has a direct effect on the use of the sprinkler (namely that when it rains, the sprinkler usually is not active). This situation can be modeled with a Bayesian network (shown to the right). Each variable has two possible values, T (for true) and F (for false).
+
+The Joint probability distribution|joint probability function is, by the chain rule of probability,
+
+: <math>\Pr(G,S,R)=\Pr(G\mid S,R) \Pr(S\mid R)\Pr(R)</math>
+
+where ''G'' = "Grass wet (true/false)", ''S'' = "Sprinkler turned on (true/false)", and ''R'' = "Raining (true/false)".
+
+The model can answer questions about the presence of a cause given the presence of an effect (so-called inverse probability) like "What is the probability that it is raining, given the grass is wet?" by using the conditional probability formula and summing over all nuisance variables:
+
+: <math>\Pr(R=T\mid G=T) =\frac = \frac}\Pr(G=T, S=x,R=T)}} \Pr(G=T,S=x,R=y)}</math>
+
+Using the expansion for the joint probability function <math>\Pr(G,S,R)</math> and the conditional probabilities from the Conditional probability table|conditional probability tables (CPTs) stated in the diagram, one can evaluate each term in the sums in the numerator and denominator. For example,
+
+: <math>\begin
+\Pr(G=T, S=T,R=T) & = \Pr(G=T\mid S=T,R=T)\Pr(S=T\mid R=T)\Pr(R=T) \\
+   & = 0.99 \times 0.01 \times 0.2 \\
+   & = 0.00198.
+\end
+</math>
+
+Then the numerical results (subscripted by the associated variable values) are
+
+: <math>\Pr(R=T\mid G=T) = \frac + 0.1584_ } + 0.288_ + 0.1584_ + 0.0_ } = \frac\approx 35.77 \%.</math>
+
+To answer an interventional question, such as "What is the probability that it would rain, given that we wet the grass?" the answer is governed by the post-intervention joint distribution function
+
+: <math>\Pr(S,R\mid\text(G=T)) = \Pr(S\mid R) \Pr(R)</math>
+
+obtained by removing the factor <math>\Pr(G\mid S,R)</math> from the pre-intervention distribution. The do operator forces the value of G to be true. The probability of rain is unaffected by the action:
+
+: <math>\Pr(R\mid\text(G=T)) = \Pr(R).</math>
+
+To predict the impact of turning the sprinkler on:
+
+: <math>\Pr(R,G\mid\text(S=T)) = \Pr(R)\Pr(G\mid R,S=T)</math>
+
+with the term <math>\Pr(S=T\mid R)</math> removed, showing that the action affects the grass but not the rain.
+
+These predictions may not be feasible given unobserved variables, as in most policy evaluation problems. The effect of the action <math>\text(x)</math> can still be predicted, however, whenever the back-door criterion is satisfied. It states that, if a set ''Z'' of nodes can be observed that #d-separation|''d''-separates (or blocks) all back-door paths from ''X'' to ''Y'' then
+
+: <math>\Pr(Y,Z\mid\text(x)) = \frac.</math>
+
+A back-door path is one that ends with an arrow into ''X''. Sets that satisfy the back-door criterion are called "sufficient" or "admissible." For example, the set ''Z''&nbsp;=&nbsp;''R'' is admissible for predicting the effect of ''S''&nbsp;=&nbsp;''T'' on ''G'', because ''R'' ''d''-separates the (only) back-door path ''S''&nbsp;←&nbsp;''R''&nbsp;→&nbsp;''G''. However, if ''S'' is not observed, no other set ''d''-separates this path and the effect of turning the sprinkler on (''S''&nbsp;=&nbsp;''T'') on the grass (''G'') cannot be predicted from passive observations. In that case ''P''(''G''&nbsp;|&nbsp;do(''S''&nbsp;=&nbsp;''T'')) is not "identified". This reflects the fact that, lacking interventional data, the observed dependence between ''S'' and ''G'' is due to a causal connection or is spurious
+(apparent dependence arising from a common cause, ''R''). (see Simpson's paradox)
+
+To determine whether a causal relation is identified from an arbitrary Bayesian network with unobserved variables, one can use the three rules of "''do''-calculus" and test whether all ''do'' terms can be removed from the expression of that relation, thus confirming that the desired quantity is estimable from frequency data.
+
+Using a Bayesian network can save considerable amounts of memory over exhaustive probability tables, if the dependencies in the joint distribution are sparse. For example, a naive way of storing the conditional probabilities of 10 two-valued variables as a table requires storage space for <math>2^ = 1024</math> values. If no variable's local distribution depends on more than three parent variables, the Bayesian network representation stores at most <math>10\cdot2^3 = 80</math> values.
+
+One advantage of Bayesian networks is that it is intuitively easier for a human to understand (a sparse set of) direct dependencies and local distributions than complete joint distributions.
+

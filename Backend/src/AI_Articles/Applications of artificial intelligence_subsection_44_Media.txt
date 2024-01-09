@@ -1,0 +1,19 @@
+File:Restoration using Artificial intelligence.jpg|thumb|Image restoration
+AI applications analyze media content such as movies, TV programs, advertisement videos or user-generated content. The solutions often involve computer vision.
+
+Typical scenarios include the analysis of images using object recognition or face recognition techniques, or the video content analysis|analysis of video for scene recognizing scenes, objects or faces. AI-based media analysis can facilitate media search, the creation of descriptive keywords for content, content policy monitoring (such as verifying the suitability of content for a particular TV viewing time), speech recognition|speech to text for archival or other purposes, and the detection of logos, products or celebrity faces for ad placement.
+* Motion interpolation
+* Pixel-art scaling algorithms
+* Image scaling
+* Image restoration
+* Hand-colouring of photographs|Photo colorization
+* Film restoration and video upscaling
+* Photo tagging
+* Automated species identification (such as identifying plants, fungi and animals with an app)<!--not media-->
+* Text-to-image models such as DALL-E, Midjourney and Stable Diffusion
+* Image to video
+* Text to video such as Make-A-Video from Meta, Imagen video and Phenaki from Google
+* Text to music with AI models such as MusicLM
+* Text to speech such as ElevenLabs and 15.ai
+* Motion capture
+

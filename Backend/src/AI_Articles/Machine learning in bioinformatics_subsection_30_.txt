@@ -1,0 +1,2 @@
+gutSMASH is a tool that systematically evaluates bacterial metabolic potential by predicting both known and novel anaerobic organism|anaerobic metabolic gene clusters (MGCs) from the gut microbiome.
+

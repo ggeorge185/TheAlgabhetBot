@@ -1,0 +1,2 @@
+The Computer Music Project at CMU develops computer music and interactive performance technology to enhance human musical experience and creativity. This interdisciplinary effort draws on music theory, cognitive science, artificial intelligence and machine learning, human computer interaction, real-time systems, computer graphics and animation, multimedia, programming languages, and signal processing.
+

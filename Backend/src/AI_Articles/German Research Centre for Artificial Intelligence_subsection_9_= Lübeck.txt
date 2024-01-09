@@ -1,0 +1,4 @@
+AI in Biomedical Signal Processing (Alfred Mertins)
+* AI in Medical Imaging (Heinz Handels)
+* Stochastic Relational AI in Healthcare (Ralf Möller)
+

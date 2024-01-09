@@ -1,0 +1,10 @@
+Outline of artificial intelligence
+* Artificial intelligence – The implementation and study of systems that exhibit an autonomous intelligence or behavior of their own.
+*  Automated reasoning – Solving engines, such as used in Prolog, which produce steps to a result given a query on a fact and rule database, and Automated theorem proving|automated theorem provers that aim to prove mathematical theorems with some assistance from a programmer.
+*  Computer vision – Algorithms for identifying three-dimensional objects from a two-dimensional picture.
+* Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
+** Machine learning - Development of models that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyse and draw inferences from patterns in data.
+** Evolutionary computing - Biologically inspired algorithms.
+*  Natural language processing - Building systems and algorithms that analyze, understand, and generate natural (human) languages.
+*  Robotics – Algorithms for controlling the behaviour of robots.
+

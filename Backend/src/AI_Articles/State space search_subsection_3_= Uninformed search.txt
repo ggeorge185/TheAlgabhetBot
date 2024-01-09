@@ -1,0 +1,6 @@
+According to Poole and Mackworth, the following are ''uninformed'' state-space search methods, meaning that they do not have any prior information about the goal's location.
+* Depth-first search|Traditional depth-first search
+* Breadth-first search
+* Iterative deepening depth-first search|Iterative deepening
+* Dijkstra's algorithm#Practical_optimizations_and_infinite_graphs|Lowest-cost-first search / Uniform-cost search (UCS)
+

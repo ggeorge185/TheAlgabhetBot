@@ -1,0 +1,10 @@
+Steve Omohundro has proposed a "scaffolding" approach to AI safety, in which one provably safe AI generation helps build the next provably safe generation.
+
+Seth Baum argues that the development of safe, socially beneficial artificial intelligence or artificial general intelligence is a function of the social psychology of AI research communities, and so can be constrained by extrinsic measures and motivated by intrinsic measures. Intrinsic motivations can be strengthened when messages resonate with AI developers; Baum argues that, in contrast, "existing messages about beneficial AI are not always framed well". Baum advocates for "cooperative relationships, and positive framing of AI researchers" and cautions against characterizing AI researchers as "not want(ing) to pursue beneficial designs".
+
+In his book ''Human Compatible'', AI researcher Stuart J. Russell lists three principles to guide the development of beneficial machines.  He emphasizes that these principles are not meant to be explicitly coded into the machines; rather, they are intended for the human developers.  The principles are as follows:
+
+
+
+The "preferences" Russell refers to "are all-encompassing; they cover everything you might care about, arbitrarily far into the future."
+

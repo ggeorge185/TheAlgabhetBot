@@ -1,0 +1,2 @@
+Researchers took note of the complexity involved in mahjong's scoring system and attempted to make an AI that could recognize the components of a winning hand and calculate the score with the goal of helping people restrained by their old age. Because this AI model attempted to recognize tiles in real life instead of on a computer, some tiles were misidentified.
+

@@ -1,0 +1,19 @@
+further|List of cognitive architectures}}
+* 4CAPS, developed at Carnegie Mellon University under Marcel Just|Marcel A. Just
+* ACT-R, developed at Carnegie Mellon University under John Robert Anderson (psychologist)|John R. Anderson.
+* AIXI, Universal Artificial Intelligence developed by Marcus Hutter at IDSIA and Australian National University|ANU.
+* CALO, a DARPA-funded, 25-institution effort to integrate many artificial intelligence approaches (natural language processing, speech recognition, machine vision, probabilistic logic, planning, reasoning, many forms of machine learning) into an AI assistant that learns to help manage your office environment.
+* CHREST, developed under Fernand Gobet at Brunel University and Peter C. Lane at the University of Hertfordshire.
+* CLARION (cognitive architecture)|CLARION, developed under Ron Sun at Rensselaer Polytechnic Institute and University of Missouri.
+* JACK Intelligent Agents|CoJACK, an ACT-R inspired extension to the JACK multi-agent system that adds a cognitive architecture to the agents for eliciting more realistic (human-like) behaviors in virtual environments.
+* Copycat (software)|Copycat, by Douglas Hofstadter and Melanie Mitchell at the Indiana University (Bloomington)|Indiana University.
+* DUAL (cognitive architecture)|DUAL, developed at the New Bulgarian University under Boicho Kokinov.
+* FORR developed by Susan L. Epstein at The City University of New York.
+* LIDA (cognitive architecture)|IDA and LIDA, implementing Global Workspace Theory, developed under Stan Franklin at the University of Memphis.
+* OpenCog Prime, developed using the OpenCog Framework.
+* Procedural Reasoning System (PRS), developed by Michael Georgeff and Amy L. Lansky at SRI International.
+* Psi-Theory developed under Dietrich Dörner at the Otto-Friedrich University in Bamberg, Germany.
+* Soar (cognitive architecture)|Soar, developed under Allen Newell and John E. Laird|John Laird at Carnegie Mellon University and the University of Michigan.
+* ''Society of Mind'' and its successor ''The Emotion Machine'' proposed by Marvin Minsky.
+* Subsumption architectures, developed e.g. by Rodney Brooks (though it could be argued whether they are ''cognitive'').
+

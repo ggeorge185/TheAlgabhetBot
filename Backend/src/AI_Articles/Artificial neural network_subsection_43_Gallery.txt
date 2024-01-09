@@ -1,0 +1,10 @@
+gallery widths="220">
+File:Single layer ann.svg|A single-layer feedforward artificial neural network. Arrows originating from <math>\scriptstyle x_2</math> are omitted for clarity. There are p inputs to this network and q outputs. In this system, the value of the qth output, <math>y_q</math>, is calculated as <math>\scriptstyle y_q = K*(\sum_i(x_i*w_)-b_q).</math>
+File:Two layer ann.svg|A two-layer feedforward artificial neural network
+File:Artificial neural network.svg|An artificial neural network
+File:Ann dependency (graph).svg|An ANN dependency graph
+File:Single-layer feedforward artificial neural network.png|A single-layer feedforward artificial neural network with 4 inputs, 6 hidden nodes and 2 outputs. Given position state and direction, it outputs wheel based control values.
+File:Two-layer feedforward artificial neural network.png|A two-layer feedforward artificial neural network with 8 inputs, 2x8 hidden nodes and 2 outputs. Given position state, direction and other environment values, it outputs thruster based control values.
+File:Cmac.jpg|Parallel pipeline structure of CMAC neural network. This learning algorithm can converge in one step. 
+</gallery>
+

@@ -1,0 +1,4 @@
+The AAAI provides many services to the Artificial Intelligence community.  The AAAI sponsors many conferences and symposia each year as well as providing support to 14 journals in the field of artificial intelligence.  AAAI produces a quarterly publication, '''''AI Magazine''''', which seeks to publish significant new research and literature across the entire field of artificial intelligence and to help members to keep abreast of research outside their immediate specialties. The magazine has been published continuously since 1980.
+
+AAAI organises the "AAAI Conference on Artificial Intelligence", which is considered to be one of the top conferences in the field of artificial intelligence.
+

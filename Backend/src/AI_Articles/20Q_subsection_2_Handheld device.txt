@@ -1,0 +1,4 @@
+The built Artificial Neural Network is not resource intensive either to store or to compute, thus it could be embedded in small, less powerful devices. Currently, there is a handheld console|handheld version of the AI. The device contains a small portion of the original 20Q website knowledge base; unlike the online versions of the game, the handheld version does not have the ability to learn.
+
+The 20Q artificial intelligence is different from less flexible, and extremely large, expert systems. Its modularity, adaptability, and scalability means that it can be applied to other, more complex devices, for more complex uses.
+

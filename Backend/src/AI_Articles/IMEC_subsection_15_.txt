@@ -1,0 +1,2 @@
+In 2020, IMEC started a large research project on the development of a breathalyzer to detect COVID-19|covid-19 in exhaled breath. The basic idea was to use a silicon-based sieve to catch extremely small exhaled air particles from the deep lungs and by doing so, already detect the virus in an early stage of the infection.
+

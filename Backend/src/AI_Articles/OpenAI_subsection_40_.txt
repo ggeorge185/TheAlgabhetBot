@@ -1,0 +1,2 @@
+In September 2023, OpenAI announced DALL-E 3, a more powerful model better able to generate images from complex descriptions without manual prompt engineering and render complex details like hands and text. It was released to the public as a ChatGPT Plus feature in October.
+

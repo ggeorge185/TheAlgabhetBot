@@ -1,0 +1,47 @@
+glossary}}
+
+
+
+
+
+
+
+
+
+
+
+ that interacts with the environment through a physical body within that environment. Agents that are represented graphically with a body, for example a human or a cartoon animal, are also called embodied agents, although they have only virtual, not physical, embodiment.}}
+
+
+
+
+
+ concerned with how an  ought to take actions in an Environment (systems)|environment so as to minimize some error feedback. It is a type of .}}
+
+
+, particularly in the creation of , ensemble averaging is the process of creating multiple models and combining them to produce a desired output, as opposed to creating just one model.}}
+
+
+, particularly in the creation of , an epoch is training the model for one cycle through the full training dataset. Small models are typically trained for as many epochs as it takes to reach the best performance on the validation dataset. The largest models may train for only one epoch.}}
+
+
+
+
+
+, a generic population-based metaheuristic optimization (mathematics)|optimization . An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, genetic recombination|recombination, and natural selection|selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators.}}
+
+
+ for global optimization inspired by biological evolution, and the subfield of  and soft computing studying these algorithms. In technical terms, they are a family of population-based trial and error problem solvers with a metaheuristic or stochastic optimization character.}}
+
+
+ and , typically employed for data stream mining tasks in dynamic and changing environments.}}
+
+
+ (AGI) could someday result in human extinction or some other unrecoverable global catastrophic risk|global catastrophe.}}
+
+
+
+
+
+
+

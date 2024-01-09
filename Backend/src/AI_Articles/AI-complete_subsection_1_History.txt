@@ -1,0 +1,2 @@
+The term was coined by Fanya Montalvo by analogy with NP-complete and NP-hard in Computational complexity theory|complexity theory, which formally describes the most famous class of difficult problems. Early uses of the term are in Erik Mueller's 1987 PhD dissertation and in Eric S. Raymond|Eric Raymond's 1991 Jargon File.
+

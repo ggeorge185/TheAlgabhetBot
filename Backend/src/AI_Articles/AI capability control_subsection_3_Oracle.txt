@@ -1,0 +1,2 @@
+An oracle is a hypothetical AI designed to answer questions and prevented from gaining any goals or subgoals that involve modifying the world beyond its limited environment. A successfully controlled oracle would have considerably less immediate benefit than a successfully controlled general purpose superintelligence, though an oracle could still create trillions of dollars worth of value.
+

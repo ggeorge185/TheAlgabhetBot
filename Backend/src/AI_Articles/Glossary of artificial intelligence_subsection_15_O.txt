@@ -1,0 +1,28 @@
+glossary}}
+
+
+ 1287–1347), a Scholasticism|scholastic philosopher and Catholic theology|theologian.}}
+
+
+
+
+
+ in which data becomes available in a sequential order and is used to update the best predictor for future data at each step, as opposed to batch learning techniques which generate the best predictor by learning on the entire training data set at once. Online learning is a common technique used in areas of machine learning where it is computationally infeasible to train over the entire dataset, requiring the need of out-of-core algorithms. It is also used in situations where it is necessary for the algorithm to dynamically adapt to new patterns in the data, or when the data itself is generated as a function of time.}}
+
+
+
+
+
+
+ (AI) with the stated aim to promote and develop  in such a way as to benefit humanity as a whole.}}
+
+
+ artificial intelligence framework. OpenCog Prime is an architecture for robot and virtual embodied cognition that defines a set of interacting components designed to give rise to human-equivalent  (AGI) as an emergent phenomenon of the whole system.}}
+
+
+
+
+
+
+
+

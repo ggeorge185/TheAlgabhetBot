@@ -1,0 +1,10 @@
+Shield AI employs machine learning and artificial intelligence to develop defense software and tools. It developed Nova, an autonomous quadcopter drone, and Hivemind, its autonomy and artificial intelligence stack in 2015. This  software helps drones and aircraft maneuver autonomously in GPS- and communication-degraded environments. Its products are used for reconnaissance in close-quarters combat and solving problems like room-clearing and fatal funnel.
+
+File:VBAT taking off from USV.png|thumb|V-BAT Landing on a USV during US Navy Exercise
+
+Shield AI develops AI-powered vertical take-off and landing (VTOL) aircraft called V-BAT through its acquisition of Martin UAV. In 2022, Brazil ordered a batch of V-BATs for its defense unit. The company has also developed a drone swarming capability called V-BAT Teams, which enables a single human operator to command a minimum of four V-BAT drones. The same year, co-founders Brandon and Ryan Tseng were featured on WIRED25, the WIRED|magazine’s annual list of “people who made things better”.
+
+In 2021, ''Forbes'' added it to its list of America’s Most Promising Artificial Intelligence Companies. The company was ranked 287th in the Inc. 5000 2021. ''The Wall Street Journal'' featured the company’s Nova drone in its “100 Years of Robots” list.
+
+In 2022, ''Forbes'' ranked Shield AI 97th in its list of America’s Best Startup Employers.
+

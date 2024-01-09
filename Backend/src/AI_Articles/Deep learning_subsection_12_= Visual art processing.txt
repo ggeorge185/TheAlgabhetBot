@@ -1,0 +1,4 @@
+File:Jimmy Wales in France, with the style of Munch's "The Scream" applied using neural style transfer.jpg|thumb|164x164px|Visual art processing of Jimmy Wales in France, with the style of Munch's "[[The Scream" applied using neural style transfer]]
+Closely related to the progress that has been made in image recognition is the increasing application of deep learning techniques to various visual art tasks. DNNs have proven themselves capable, for example, of
+*identifying the style period of a given painting
+

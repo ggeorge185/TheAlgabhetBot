@@ -1,0 +1,12 @@
+multiple image
+   | direction = horizontal
+   | total_width = 400
+   | footer    = 
+   | image1    = Simplified neural network training example.svg
+   | alt1      = 
+   | caption1  = These two images demonstrate an example of how an artificial neural network might make a false positive result in object detection. This left image is a simplified example of the training phase, using multiple images that are known to depict starfish and sea urchins, respectively. The starfish match with a ringed texture and a star outline, whereas most sea urchins match with a striped texture and oval shape. However, the instance of a ring textured sea urchin creates a weakly weighted association between them.
+   | image2    = Simplified neural network example.svg
+   | alt2      = 
+   | caption2  = Subsequent run of the network on an input image (left): The network correctly detects the starfish. However, the weakly weighted association between ringed texture and sea urchin also confers a weak signal to the latter from one of two intermediate nodes. In addition, a shell that was not included in the training gives a weak signal for the oval shape, also resulting in a weak signal for the sea urchin output. These weak signals may result in a false positive result for the presence of a sea urchin although there was none in the input image.<br>In reality, textures and outlines would not be represented by single nodes, but rather by associated weight patterns of multiple nodes.}}
+The concept of "hallucination" is applied more broadly than just natural language processing. A confident response from any AI that seems unjustified by the training data can be labeled a hallucination.
+

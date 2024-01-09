@@ -1,0 +1,4 @@
+At Carnegie Mellon, Lee worked on topics in machine learning and pattern recognition. In 1986, he and Sanjoy Mahajan developed ''Bill'', a Bayesian learning-based system for playing the board game Reversi|Othello that won the US national tournament of computer players in 1989. In 1988, he completed his doctoral dissertation on CMU Sphinx|Sphinx, which he claims is the first large-vocabulary, speaker-independent, continuous speech recognition system.
+
+Lee has written two books on speech recognition and more than 60 papers in computer science. His doctoral dissertation was published in 1988 as a Kluwer monograph, ''Automatic Speech Recognition: The Development of the Sphinx Recognition System'' (). Together with Alex Waibel, another Carnegie Mellon researcher, Lee edited ''Readings in Speech Recognition'' (1990, ).
+

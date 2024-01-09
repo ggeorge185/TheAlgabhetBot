@@ -1,0 +1,6 @@
+Artificial intelligence (AI) has been used in recent years by public administrators to deliver services and for the general improvement of government operations. In the realm of policy making in the public sector, AI will also be used to optimize outcome forecasting, pattern perception, and most importantly for the development of Evidence-based policy|evidence-based programs to generate sound policy.
+
+Using Artificial intelligence in government|AI in government will continue to be used as an e-governance tool through virtual assistance on government websites and the automation of public online services. This will free public employees of answering frequently asked questions about government services or querying databases for information.
+
+A drawback of using AI in public policy making and implementation is the concept of "algorithmic bias". Algorithmic bias can cause the government use of AI to have errors in decision making and create distrust in government entities.
+

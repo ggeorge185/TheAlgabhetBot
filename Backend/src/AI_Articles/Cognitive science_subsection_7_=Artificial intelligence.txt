@@ -1,0 +1,6 @@
+Main|Artificial intelligence|Outline of artificial intelligence}}
+
+Artificial intelligence (AI) involves the study of cognitive phenomena in machines. One of the practical goals of AI is to implement aspects of human intelligence in computers. Computers are also widely used as a tool with which to study cognitive phenomena. computer model|Computational modeling uses simulations to study how human intelligence may be structured. (See .)
+
+There is some debate in the field as to whether the mind is best viewed as a huge array of small but individually feeble elements (i.e. neurons), or as a collection of higher-level structures such as symbols, schemes, plans, and rules. The former view uses connectionism to study the mind, whereas the latter emphasizes symbolic artificial intelligence. One way to view the issue is whether it is possible to accurately simulate a human brain on a computer without accurately simulating the neurons that make up the human brain.
+

@@ -1,0 +1,4 @@
+In 2020, Google stated that their AutoML-Zero can successfully rediscover classic algorithms such as the concept of neural networks.
+
+The computer simulations ''Tierra (computer simulation)|Tierra'' and ''Avida (software)|Avida'' attempt to model macroevolutionary dynamics.
+

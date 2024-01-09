@@ -1,0 +1,8 @@
+Most of the academic research surrounding deepfakes focuses on the detection of deepfake videos. One approach to deepfake detection is to use algorithms to recognize patterns and pick up subtle inconsistencies that arise in deepfake videos. The winning model of the Deepfake Detection Challenge was 65% accurate on the holdout set of 4,000 videos. A team at Massachusetts Institute of Technology published a paper in December 2021 demonstrating that ordinary humans are 69-72% accurate at identifying a random sample of 50 of these videos.
+
+A team at the University of Buffalo published a paper in October 2020 outlining their technique of using reflections of light in the eyes of those depicted to spot deepfakes with a high rate of success, even without the use of an AI detection tool, at least for the time being.
+
+In the case of well-documented individuals such as political leaders, algorithms have been developed to distinguish identity-based features such as patterns of facial, gestural, and vocal mannerisms and detect deep-fake impersonators.
+
+Another team led by Wael AbdAlmageed with Visual Intelligence and Multimedia Analytics Laboratory (VIMAL) of the Information Sciences Institute at the University of Southern California|University Of Southern California developed two generations  of deepfake detectors based on convolutional neural networks. The first generation  For instance, a video might have to be verified through the ledger before it is shown on social media platforms. That allows tracing every photograph or video back to its original owner that can be used to pursue dissidents.
+

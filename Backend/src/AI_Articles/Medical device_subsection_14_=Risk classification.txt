@@ -1,0 +1,5 @@
+File:Stetoskop.jpg|thumb|A [[stethoscope (U.S. FDA product code BZS), a popular Class I medical device as determined by the U.S. FDA, ubiquitous in hospitals.]]
+The regulatory authorities recognize different classes of medical devices based on their potential for harm if misused, design complexity, and their use characteristics. Each country or region defines these categories in different ways. The authorities also recognize that some devices are provided in combination with drugs, and regulation of these combination products takes this factor into consideration.
+
+Classifying medical devices based on their risk is essential for maintaining patient and staff safety while simultaneously facilitating the marketing of medical products. By establishing different risk classifications, lower risk devices, for example, a stethoscope or tongue depressor, are not required to undergo the same level of testing that higher risk devices such as artificial pacemakers undergo. Establishing a hierarchy of risk classification allows regulatory bodies to provide flexibility when reviewing medical devices.
+

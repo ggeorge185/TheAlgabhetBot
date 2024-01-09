@@ -1,0 +1,13 @@
+In addition to the international associations from above, currently the following national associations on computer science in sport exist (if available, the web addresses are also given):
+
+* Austrian Association of Computer Science in Sport - http://www.sportinformatik.at
+* British Association of Computer Science in Sport and Exercise
+* Chinese Association of Computer Science in Sport
+* Croatian Association of Computer Science in Sport
+* Section Computer Science in Sport of the German Association of Sport Science - http://www.dvs-sportinformatik.de (in German)
+* Swiss Association of Computer Science in Sport SACSS - http://sacss.org
+* Indian Federation of Computer Science in Sport - http://www.ifcss.in
+* Portuguese Association of Computer Science in Sport
+* Turkish Association of Computer Science in Sport
+* Russian Association of Computer Science in Sport - https://www.racss.ru/
+

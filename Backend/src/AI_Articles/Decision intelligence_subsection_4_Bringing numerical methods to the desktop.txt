@@ -1,0 +1,8 @@
+Although many elements of decision intelligence, such as sensitivity analysis and analytics, are mature disciplines, they are not in wide use by decision makers. Decision intelligence seeks to create a visual language that serves to facilitate communication between them and quantitative experts, allowing broader utilization of these and other numerical and technical approaches.
+
+In particular, dependency links in a decision model represent cause-and-effect (as in a causal loop diagram), data flow (as in a data flow diagram), or other relationships. As an example, one link might represent the connection between "mean time to repair a problem with telephone service" and "customer satisfaction", where a short repair time would presumably raise customer satisfaction. The functional form of these dependencies can be determined by a number of approaches. Numerical approaches, which analyze data to determine these functions, include machine learning and analytics algorithms (including artificial neural networks), as well as more traditional regression analysis. Results from operations research and many other quantitative approaches have a similar role to play.
+
+When data is not available (or is too Statistical noise|noisy, uncertain, or incomplete), these dependency links can take on the form of rules as might be found in an expert system or rule-based system, and so can be obtained through knowledge engineering.
+
+In this way, a decision model represents a mechanism for combining multiple relationships, as well as symbolic and subsymbolic reasoning, into a complete solution to determining the outcome of a practical decision.
+

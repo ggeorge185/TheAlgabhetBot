@@ -1,0 +1,4 @@
+The idea that the simplest, most easily verifiable solution should be preferred over its more complicated counterparts is a very old one. To this point, George Pólya, in his treatise on problem-solving, makes reference to the following Latin truism: ''simplex sigillum veri'' (simplicity is the seal of truth).
+
+
+

@@ -1,0 +1,6 @@
+Participation in programming contests may increase student enthusiasm for computer science studies. The skills acquired in ICPC-like programming contests also improve career prospects, as they help to pass the "technical interviews", which often require candidates to solve complex programming and algorithmic problems on the spot.
+
+There has also been criticism of competitive programming, particularly from professional Software development|software developers. Peter Norvig stated that based on the available data, being a winner of programming contests correlated negatively with a programmer's performance at their job at Google (even though contest winners had higher chances of getting hired). Norvig later stated that this correlation was observed on a small data set, but that it could not be confirmed after examining a larger data set 
+
+Yet another sentiment is that rather than "wasting" their time on excessive competing by solving problems with known solutions, high-profile programmers should rather invest their time in solving real-world problems.<ref name="rg15"/>
+
