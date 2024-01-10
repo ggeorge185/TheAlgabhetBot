@@ -58,7 +58,7 @@
         
         #landing-logo img {
             max-width: 50%; 
-            height: auto; /* Maintain the image's aspect ratio */
+            height: auto; 
             margin-bottom: 10px; 
         }
         
@@ -170,11 +170,9 @@
             if (userMessage.trim() !== "") {
                 addMessage('You', userMessage);
         
-                // Send the user message to the server using AJAX
+                
                 $.post('/send_message', { user_message: userMessage }, function(data) {
                     console.log('Response from server:', data);
-                    
-                    // Check if the response has the expected properties
                     if (data && data.sender && data.message) {
                         addMessage(data.sender, data.message, data.hints);
                         $('#user-message').val(''); // Clear the input field
@@ -200,9 +198,9 @@
                 hints.forEach(function(hint) {
                     var hintButton = $('<button>').addClass('hint-button').text(hint);
                     hintButton.click(function() {
-                        // Handle the click on the hint (you can modify this based on your needs)
+                        // Handle the click on the hint 
                         var selectedHint = $(this).text();
-                        // Perform an action with the selected hint (e.g., send it as a new message)
+                        // Perform an action with the selected hint *NEEDS IMPLEMENTATION*
                         sendMessage(selectedHint);
                     });
                     hintContainer.append(hintButton);
